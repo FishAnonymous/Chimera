@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and discuss the feedback on wireframes with @lpro-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make revisions to the wireframes based on feedback from yesterday."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin developing interactive prototypes for the main screens based on the updated wireframes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue building interactive prototypes with user flows for the main menu and character selection."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from @cdev-1 and @cdev-2 on the prototypes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document changes to be made in the prototypes based on feedback."
+    }
+]

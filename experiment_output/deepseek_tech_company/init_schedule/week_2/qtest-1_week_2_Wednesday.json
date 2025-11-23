@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any fixes or updates from the development team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Re-run smoke tests on updated builds to verify fixes and check for regression issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @3dmod-1 and @3dmod-2 to test character animations and model interactions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Expand test cases to include multiplayer functionality and network stability."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss multiplayer test plans with @sdev-1 and @cdev-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up and document any new test cases or findings."
+    }
+]

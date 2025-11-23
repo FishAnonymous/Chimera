@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review EHR system documentation to understand current capabilities for influenza data collection."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Draft a list of specific requirements for influenza data collection based on hospital needs. Cross-reference with clinical workflows."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to discuss technical feasibility of requirements. Include @clinlead-1 for clinical perspective."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with EHR vendor for mid-week. Prepare agenda focusing on capabilities and customization options."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Follow up with @itpm-1 on project timeline adjustments based on vendor communication needs."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Browse industry news on EHR updates and influenza tracking trends."
+    }
+]

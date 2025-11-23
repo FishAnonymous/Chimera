@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final review of all documentation and feedback collected throughout the week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule time with @qatest-1 and @qatest-2 for testing the EHR system after improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings and recommendations on EHR usage in documenting influenza cases to the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week's activities and plan for the next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and send final summaries of the week\u2019s work to team members."
+    }
+]

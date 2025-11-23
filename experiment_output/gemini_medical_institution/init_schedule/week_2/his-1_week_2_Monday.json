@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and hospital announcements. Mentally prepare for the week ahead."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin researching common data quality issues in EHR systems. Focus on issues related to data entry errors, system integration problems, and data migration challenges. Spend time on academic databases and reputable informatics blogs. Might also skim through some HL7 documentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an email to @da-1, @da-2, @dba-1, and @ehrdev-1 outlining the goal for the week (analyzing root causes of data quality issues) and scheduling a brief meeting to discuss potential problem areas they've already encountered. @PEOPLE Data Quality Root Cause Analysis Kickoff"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meeting with @da-1, @da-2, @dba-1 and @ehrdev-1 to discuss known data quality issues and their potential root causes. Collect preliminary insights and observations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Probably scroll through Reddit or Hacker News."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the notes from the meeting. Categorize the identified data quality issues based on the potential root causes (e.g., data entry errors, system integration problems, data migration challenges). Start a spreadsheet to track the issues, their potential causes, and possible solutions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Dive deeper into the EHR system documentation to understand the data flow and validation rules for the specific fields identified as problematic during the meeting with @da-1, @da-2, @dba-1 and @ehrdev-1. Check the data dictionary."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document findings and observations from the EHR system analysis. Refine the spreadsheet with more detailed information about the identified data quality issues and their potential root causes. Plan for tomorrow's activities: Focus on identifying specific examples of data quality issues."
+    }
+]

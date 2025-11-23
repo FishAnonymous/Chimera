@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight updates. Prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Facilitate sync meeting with @qtest-1 @beng-1 @tdev-1 to discuss QA, build, and tools progress."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document meeting outcomes and action items. Share minutes with attendees."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Check in with @cart-1 on concept art progress and alignment with 3D models."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review overall project status and prepare a mid-week report for stakeholders."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @prod-1 with the mid-week report and any critical updates."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @aud-1 on audio integration progress and any dependencies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update project dashboard and prepare for Thursday's tasks."
+    }
+]

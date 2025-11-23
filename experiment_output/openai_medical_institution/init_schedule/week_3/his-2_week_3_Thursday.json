@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review responses received from @itpm-1 on the EHR recommendations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Compile the final updates on proposed EHR functionalities based on reviews."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Plan a training schedule with @trainer-1 focusing on new EHR features and data documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a user guide for effective data documentation to distribute in the training sessions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct additional hands-on training with selected nursing staff (@rn-3)."
+    }
+]

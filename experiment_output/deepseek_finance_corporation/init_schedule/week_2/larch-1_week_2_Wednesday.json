@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight updates or issues from the development team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue development on the client portal, focusing on integrating initial data feeds from @dsde-1 and @dsde-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @devops-1 to discuss deployment pipeline setup for the client portal."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement authentication and authorization features for the client portal."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the implemented features and document any bugs or issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project documentation and prepare for the next day's tasks."
+    }
+]

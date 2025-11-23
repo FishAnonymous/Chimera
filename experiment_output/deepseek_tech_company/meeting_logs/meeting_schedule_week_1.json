@@ -1,0 +1,182 @@
+[
+    {
+        "week": 1,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Create initial concept art for characters (soldier, sniper, medic).",
+            "Develop rough sketches for key environments (urban, forest, industrial).",
+            "Define visual direction with suggested color palettes for characters and settings."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Implement foundational systems (e.g., input handling, basic physics).",
+            "Set up the project structure and version control.",
+            "Integrate placeholder assets for testing."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Implement foundational systems (e.g., input handling, basic physics).",
+            "Set up the project structure and version control.",
+            "Integrate placeholder assets for testing."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Draft design documents for core systems (e.g., combat mechanics, progression).",
+            "Review and refine documents with the team.",
+            "Gather initial feedback from the team."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Assess the current state of the build pipeline.",
+            "Identify pain points and define CI/CD goals.",
+            "Plan for continuous integration and deployment strategies."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Define testing criteria for the game.",
+            "Establish initial test cases for core systems.",
+            "Set up testing environments and tools."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Create rough blockouts for key characters.",
+            "Align with concept art from the Concept Artist.",
+            "Review initial models with the team."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Complete the core mechanics outline.",
+            "Schedule the first project meeting to review designs and mechanics.",
+            "Establish project management tools and workflows."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Draft design documents for core systems (e.g., combat mechanics, progression).",
+            "Review and refine documents with the team.",
+            "Gather initial feedback from the team."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Implement foundational systems (e.g., input handling, basic physics).",
+            "Set up the project structure and version control.",
+            "Integrate placeholder assets for testing."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Create low-fidelity wireframes for core UI screens (e.g., main menu, HUD).",
+            "Review wireframes with the team.",
+            "Gather feedback on initial designs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Create rough blockouts for key characters.",
+            "Align with concept art from the Concept Artist.",
+            "Review initial models with the team."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Review and refine core gameplay mechanics.",
+            "Ensure mechanics are fun, balanced, and technically feasible.",
+            "Collaborate with Client Developers for implementation viability."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Define the desired art style (e.g., stylized, realistic).",
+            "Gather references and mood boards for inspiration.",
+            "Identify technical constraints (e.g., polygon count, texture resolution)."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Research and plan tools needed for art and code integration.",
+            "Identify pain points in current workflows.",
+            "Define goals for tool development."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Draft core sections of the Game Design Document (Gameplay, Narrative, Level Design).",
+            "Review and refine with the team.",
+            "Ensure alignment with gameplay mechanics."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Research and plan sound requirements for the game.",
+            "Define key sound effects and background music themes.",
+            "Align with the game's vision and art style."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Outline server requirements and architecture.",
+            "Draft server architecture document.",
+            "Review and refine the document with stakeholders."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Create rough blockouts for 2-3 key levels.",
+            "Review blockouts with the team.",
+            "Gather initial feedback on level designs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Finalize story and character outlines.",
+            "Draft key story beats and character bios.",
+            "Review with the team and gather feedback."
+        ]
+    }
+]

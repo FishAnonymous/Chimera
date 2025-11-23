@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and respond to urgent requests. Treat myself to a fancy latte."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Incorporate feedback from @dba-1 (Database Administrator) regarding potential database impacts into the implementation plan. Adjust the plan as needed to minimize risks and ensure data integrity."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Finalize the implementation plan for EHR system updates/modifications. Ensure that the plan includes all necessary details for configuring the EHR system, testing the changes, and deploying them to production."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare a presentation summarizing the planned EHR system updates and the implementation plan. Present the information to the IT team and key stakeholders."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Present the EHR system update plan to @itpm-1, @clinlead-1, @da-1, @da-2, @qatest-1 and @qatest-2 for final approval. Address any remaining questions or concerns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Celebrate the end of the week with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin preparing the test environment with @qatest-1 and @qatest-2, ensuring all necessary data is available."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write up a brief summary of the week's accomplishments. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Catch up on industry news and articles related to EHR integration and influenza data collection."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of all documentation and plans. Ensure that everything is organized and ready for the next phase of the project."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the week. Submit timesheet and respond to any outstanding emails. Wish everyone a good weekend!"
+    }
+]

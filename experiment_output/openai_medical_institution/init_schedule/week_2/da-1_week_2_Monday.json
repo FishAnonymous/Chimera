@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for this week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 and @ehrdev-1 to discuss the step-by-step plan for initiating data collection from EHR for influenza cases, ensuring standardized formats."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review previous influenza data reports and relevant documentation to identify necessary data fields for extraction."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an outline for the data collection process, including timelines and responsible parties."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @clinlead-1 and @mrs-1 to ensure data relevance and discuss collection methodology aligning with operational needs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send follow-up emails to @clinlead-1 and @mrs-1 summarizing key points discussed and agreed action items."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start preliminary data gathering based on the outlined process and check data integrity."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the work for the day and prepare for tomorrow's tasks."
+    }
+]

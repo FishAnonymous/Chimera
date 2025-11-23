@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Prepare the build for playtesting. Write a brief summary of the integrated systems and core gameplay features for the playtesters."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @QTest-1 @LDES-1 @CDEV-1, Subject: Playtesting Session - Feedback Requested. Schedule a playtesting session with the QA tester, lead game designer, and a client developer. Emphasize the importance of providing detailed and constructive feedback."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Distribute the playtesting build and summary to the playtesters."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Observe the playtesting session and take notes on the playtesters' feedback and reactions. Pay attention to any areas where the game feels unbalanced, confusing, or frustrating."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Relax and listen to a podcast."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather and analyze the feedback from the playtesting session. Identify the most critical issues and prioritize them for fixing."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the feedback and create a list of action items. Assign the action items to the appropriate team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with the team to discuss the playtesting feedback and the action items. Brainstorm solutions to the identified issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the integration plan and the development roadmap based on the playtesting feedback and the action items. Prepare for the next week's tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review budget feedback received."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Organize and categorize the feedback received for systematic review."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @comp-1 to finalize compliance aspects of the budget."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and submit the budget for internal approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan next week\u2019s objectives and review upcoming deadlines."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End of week wrap-up and leisure time."
+    }
+]

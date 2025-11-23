@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback from @facc-2 on the chart of accounts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start implementing transaction recording practices. Define the process for capturing trades, settlements, and corporate actions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @sdev-1 and @sdev-2 to discuss the integration of accounting software with trading platforms for real-time transaction recording."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop financial monitoring practices, including daily P&L calculations, NAV estimations, and risk metrics."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @pm-1 with a progress update and any blockers encountered."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize notes and prepare for tomorrow's tasks."
+    }
+]

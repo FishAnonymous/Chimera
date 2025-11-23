@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize identifying data sources for influenza trend reports."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 and @ehrdev-1 to discuss EHR data extraction capabilities and limitations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @mrs-1 and @mrs-2 to identify additional internal data sources like patient records and vaccination logs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Explore external data sources such as CDC or local health department reports. Email @helpdesk-1 for IT support if needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document all identified data sources, including access methods and update frequencies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's findings and prepare a summary for the team."
+    }
+]

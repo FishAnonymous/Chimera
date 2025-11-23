@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Usual morning routine: email, news. Scan for anything potentially disastrous happening in the legal/finance world."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare a detailed checklist of all required documents and filings for SEC registration of the fund. Assign responsibility for each item and set deadlines for completion."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Coordinate with @facc-1 and @facc-2 (Fund Accountants) to ensure the fund's financial statements comply with SEC requirements. Review the financial disclosures in the prospectus."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address compliance issues raised by @comp-1. Research and implement solutions to ensure the fund is fully compliant with all applicable regulations. Document all actions taken."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Maybe grab a sandwich and browse Reddit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the fund's marketing materials to ensure they are accurate and compliant with SEC rules regarding advertising and solicitation. Work with @mkt-1 (Marketing & Communications Specialist) to make any necessary revisions. Email to @mkt-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct a final review of the prospectus and subscription agreement. Ensure all changes have been incorporated and that the documents are consistent with each other."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Meet with @cio-1 (Chief Investment Officer) to discuss the fund's legal and compliance matters. Answer any questions and address any concerns. Follow up with an email to @cio-1 after the meeting with a summary."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Close for the day."
+    }
+]

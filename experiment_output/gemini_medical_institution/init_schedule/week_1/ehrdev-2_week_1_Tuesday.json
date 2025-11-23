@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check emails, and respond to any urgent requests. Review yesterday's notes on the EHR system assessment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @rn-1, @rn-2, @rn-3 to discuss the clinical perspective on influenza data collection. Present the identified data gaps and solicit their feedback on what data elements are most critical for analysis and patient care. Take detailed notes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the clinical team's feedback, refine the list of data gaps and prioritize them based on importance and feasibility of implementation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start planning EHR system updates/modifications for influenza data collection, which is the second goal of this week. Brainstorm different approaches for capturing the missing data elements. Consider custom forms, new data fields, and modifications to existing workflows."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab lunch and read some articles about the newest Javascript Framework."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Investigate the EHR vendor's customization options. Determine the available tools and technologies for creating new data fields, modifying workflows, and implementing validation rules. Contact @ehrv-1 if necessary."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop a preliminary plan to create new data fields within the EHR system. Define data types, field lengths, and validation rules for each new field. Document this plan meticulously. Goal 3 this week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Explore options for customizing existing workflows to capture influenza-related data more effectively. Consider adding prompts, alerts, or required fields to guide clinicians through the data collection process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Research best practices for data validation in healthcare settings. Identify appropriate validation rules to ensure data accuracy and completeness."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Draft a preliminary technical specification document outlining the proposed EHR system updates/modifications. Include details on new data fields, workflow customizations, and validation rules. This document will serve as the foundation for future development and testing efforts."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up and head home. "
+    }
+]

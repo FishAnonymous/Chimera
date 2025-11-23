@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review overnight RSVPs for the networking event."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize event logistics: confirm venue, catering, and audiovisual requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @comp-1 and @legal-1 to ensure all compliance and legal aspects of the event are covered."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare event materials: presentation slides, handouts, and name tags."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review digital campaign metrics and finalize weekly performance report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email final weekly report to @cio-1 and @pm-1. Summarize key takeaways and next steps."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Look at social media for some interesting posts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin rigging the main character model. Start with the spine and pelvis, ensuring proper joint placement for natural movement. Look at the rigging tutorials and keep the best practices in mind."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue rigging the character, focusing on the arms and legs. Pay close attention to joint placement at the elbows and knees to prevent clipping during animation. Maybe I should consult @tart-1 regarding the rigging best practices. Subject: Character Rigging - Arm and Leg Setup."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Set up inverse kinematics (IK) for the character's limbs, allowing for more natural and intuitive posing. Test the IK setup to ensure it's working correctly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time! Get some food and chat with colleagues. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create control curves for the character's rig, making it easier for animators to pose and manipulate the model. Organize the controls in a clear and logical manner."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the rig with basic poses and animations, checking for any deformation issues or limitations. Make adjustments to the rig as needed. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, make notes on areas for improvement, and back up all files to the server. "
+    }
+]

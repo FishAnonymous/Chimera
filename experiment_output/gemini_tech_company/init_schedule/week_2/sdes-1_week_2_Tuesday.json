@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review yesterday's progress and plan for today. Prioritize addressing critical bugs found during playtesting."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prioritize addressing the bugs that were identified yesterday. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Contact @CDEV-1, @CDEV-2 and @CDEV-3 to discuss the issues and how we can fix them."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin integrating the economy system's basic components (currency, item drops) into the combat system. Start with a simple currency drop on enemy defeat."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the economy integration with the combat system. Ensure that the currency is dropped correctly and that the amount is reasonable. Document feedback and issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start working on the progression system. Need to define the core progression loop (e.g., level up -> skill point -> upgrade) and how it ties into combat and economy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement a basic level-up system linked to experience gained from combat. Award a skill point on level up."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @LDES-1 and @NDES-1 to discuss the story background and how it affects the game progression."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Review progression system implementation, update documentation, and plan for tomorrow's focus on skill point usage."
+    }
+]

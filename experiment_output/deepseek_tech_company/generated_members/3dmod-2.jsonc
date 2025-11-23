@@ -1,0 +1,28 @@
+{
+    "name": "Fatima Al-Mansoori",
+    "id": "3dmod-2",
+    "ip": "10.0.0.23",
+    "age": 28,
+    "role": "3D Modeler/Animator",
+    "description": "Specializes in creating realistic character models and fluid animations with a focus on facial expressions and combat movements. Works closely with rigging artists to ensure models deform naturally during animation. Passionate about pushing the boundaries of real-time character fidelity.",
+    "tools": [
+        "Blender",
+        "Maya",
+        "Substance Painter",
+        "Marvelous Designer",
+        "Unreal Engine",
+        "Faceware"
+    ],
+    "mbti": "INFP",
+    "interests": "historical costume design, Middle Eastern mythology, parkour",
+    "personality": "Highly creative and introspective. Prefers working in quiet environments with instrumental music. Most productive during late evenings. Enjoys experimenting with unconventional modeling techniques. Dislikes rigid corporate structures.",
+    "application": {
+        "Zendo": {
+            "account_name": "mod-557788",
+            "password": "fatimaA@3dmodel",
+            "permissions": "artist"
+        }
+    },
+    "email": "mod-557788@corp.com",
+    "container_id": "9c8d7e6f5a2b"
+}

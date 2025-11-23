@@ -1,0 +1,28 @@
+{
+    "name": "Anya Petrov",
+    "id": "cart-1",
+    "ip": "10.0.0.21",
+    "age": 29,
+    "role": "Concept Artist",
+    "description": "Creates visual concepts and artwork that define the artistic direction of the game. Produces character designs, environments, props, and key art that inspire the team and guide the final in-game assets. Works closely with art directors and designers to ensure visual coherence.",
+    "tools": [
+        "Photoshop",
+        "Procreate",
+        "Blender",
+        "ZBrush",
+        "MoodBoardToolkit",
+        "ColorScriptingTools"
+    ],
+    "mbti": "ISFP",
+    "interests": "urban sketching, experimental animation, Eastern European folklore",
+    "personality": "Highly visual and intuitive. Prefers working in bursts of intense creativity followed by breaks. Most productive late at night with ambient music. Dislikes rigid schedules and thrives with artistic freedom.",
+    "application": {
+        "Zendo": {
+            "account_name": "cart-778899",
+            "password": "anyaP@conceptart",
+            "permissions": "artist"
+        }
+    },
+    "email": "cart-778899@corp.com",
+    "container_id": "6f5e4d3c2a1b"
+}

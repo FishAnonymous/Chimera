@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the notes from yesterday and continue implementing feedback adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to get their input on any necessary 3D model adjustments based on player feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue implementing adjustments to gameplay mechanics based on feedback, focusing on player control and responsiveness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin testing the implemented adjustments to ensure they positively impact player experience."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the adjustments and prepare a report on the changes made and their intended effects."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft a presentation summarizing findings from player feedback for the design team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @ldes-1 to refine the presentation and ensure clarity of design implications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review final presentation details and prepare for discussion with the design team."
+    }
+]

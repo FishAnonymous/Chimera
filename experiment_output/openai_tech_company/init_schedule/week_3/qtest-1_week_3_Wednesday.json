@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for any updates on bugs submitted previously."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue executing test cases on AI behaviors and interactions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document any AI-related bugs / issues encountered during testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @UI/UX Designer to evaluate UI functionality during gameplay."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Compile all bug findings and prepare a team meeting agenda."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and internal communication channels for any urgent updates or announcements. Briefly review the team roster and individual roles to re-familiarize myself with everyone's responsibilities."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Since the meeting minutes are unavailable, I need to proactively gather information. Draft an email to @PROD-1, @LDES-1 requesting the detailed goals and priorities for the development team for week 4. Specify the need for clarity to effectively schedule tasks and allocate resources."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "While awaiting a response, review the existing codebase and project documentation to refresh my memory on the current state of development. Focus on the core modules and systems related to the Third-Person Shooter mechanics."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Inspect the current build process and identify any potential bottlenecks or areas for optimization. Communicate with @BENG-1 to discuss build stability and efficiency improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue code review, focusing on areas identified as potentially problematic. Make notes of necessary refactoring or improvements to discuss with the relevant developers. In the case of a new Third-person shooter game, I will pay more attention on basic gameplay such as player movement, camera control, and shooting functions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working, review existing character controller scripts, and prototype potential improvements for movement fluidity and responsiveness. Consider incorporating features like vaulting, sliding, or cover mechanics common in TPS games."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @SDES-1 and @SDES-2 to discuss the integration of the proposed new movement mechanics and to review potential conflicts with the existing game systems. Gather more information on how player stat affects the movement speed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Based on information received in the afternoon, start outlining a development plan, anticipating receiving the goal and priorities from the producer. Draft code snippets for the new gameplay functions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document all the assumptions and risks to share with the Producer after receiving weekly schedule"
+    }
+]

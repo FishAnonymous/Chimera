@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize plans for the week's project wrap-up."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final meeting with @pchmp-1 and @da-2 to assess project progress and hold discussions about upcoming trends."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Compile feedback from all team members regarding their experiences with the updated EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft final report summarizing progress, achievements, and feedback on EHR data collection for the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the final report to all team members and prepare for project continuation next week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a reflection session to discuss what went well and what needed improvement on the EHR project this week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by ensuring all tasks are documented and check agenda for the following week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out and take some time to relax for the weekend."
+    }
+]

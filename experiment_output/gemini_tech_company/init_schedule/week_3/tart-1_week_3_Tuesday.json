@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, and look for responses from @3dmod-1 and @3dmod-2 regarding the technical art requirements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Browse through different rendering pipelines to look for inspiration."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 Ricardo and @3dmod-2 Fatima to discuss the technical art requirements document. Address any concerns or questions they have regarding polygon counts, texture sizes, and animation frame rates. @3dmod-1 @3dmod-2 [Subject: Tech Art Requirements - Follow Up]"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin prototyping a simple shader that aligns with the game's desired visual style. Experiment with different lighting models and material properties."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the shader prototype. Iterate on the shader code based on visual feedback and performance considerations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research and experiment with different texture creation techniques to enhance the visual quality of the game's assets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the shader creation process, including code snippets and visual examples. Prepare a presentation for the team on the shader's capabilities and limitations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities. Clear inbox."
+    }
+]

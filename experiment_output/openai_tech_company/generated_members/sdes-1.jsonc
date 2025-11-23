@@ -1,0 +1,27 @@
+{
+    "name": "Olivia Foster",
+    "id": "sdes-1",
+    "ip": "10.0.0.18",
+    "age": 31,
+    "role": "Systems Designer",
+    "description": "Focuses on defining and refining game systems and mechanics to create engaging player experiences. Works closely with designers and programmers to ensure systems are balanced and integrated smoothly into the game.",
+    "tools": [
+        "GameMaker",
+        "Excel",
+        "Notion",
+        "Confluence",
+        "Trello"
+    ],
+    "mbti": "INTP",
+    "interests": "puzzles, game theory",
+    "personality": "Analytical and logical, enjoys dissecting complex systems and understanding how they work. Prefers to work independently but appreciates collaboration on larger projects.",
+    "application": {
+        "SystemManager": {
+            "account_name": "sdes-294567",
+            "password": "oliviaF@systems",
+            "permissions": "systems_designer"
+        }
+    },
+    "email": "sdes-294567@corp.com",
+    "container_id": "c3d45aabe9f8"
+}

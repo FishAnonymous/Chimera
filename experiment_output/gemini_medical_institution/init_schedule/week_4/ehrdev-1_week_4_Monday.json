@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day by checking emails and prioritizing tasks related to the EHR collection and influenza trend analysis project. Review the weekly goal: Consult with the EHR vendor and obtain cost estimates and timelines. Have a cup of coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research EHR vendor contact information. Prepare a list of initial questions regarding the feasibility of implementing necessary updates for data collection and integration specific to influenza trend analysis. Include questions about API access, data formats, and security protocols."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Draft an email to @EHRV-1 introducing myself, outlining the project's goals, and requesting a meeting to discuss the required EHR updates and modifications. Include the prepared list of questions as an attachment. @ITPM-1 @CLINLEAD-1, include them in the email as well to provide project oversight and technical guidance."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Brainstorm potential challenges with the integration process. Consider data standardization issues, compatibility with existing hospital systems, and potential workflow disruptions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research potential solutions for addressing identified integration challenges. Look into data mapping tools and middleware options."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go to Cafe with @EHRDEV-2"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue researching data mapping and middleware options. Document the features and pricing models of different tools."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a preliminary implementation plan outlining the key steps involved in updating the EHR system. Include stages for testing, training, and deployment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss the preliminary implementation plan with @EHRDEV-2 to get his insights and feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the implementation plan based on the discussion with @EHRDEV-2. Document any changes made."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's progress, including the email sent to the EHR vendor and the preliminary implementation plan. Send to @ITPM-1."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Wrap up the day by organizing notes and documents related to the project. Prepare for tomorrow's tasks."
+    }
+]

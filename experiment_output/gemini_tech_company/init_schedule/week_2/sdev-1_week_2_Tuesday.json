@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review any feedback received from @cdev-1 and @cdev-2 regarding the API specifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start implementing the basic player authentication logic on the server. This includes creating user accounts, verifying credentials, and generating authentication tokens. Focus on a simplified implementation first, without advanced security features."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement password hashing using a secure algorithm (e.g., bcrypt) to protect user passwords. Research best practices for storing and managing user credentials securely."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue implementing the authentication logic, focusing on token generation and validation. Use JWT (JSON Web Tokens) for secure and stateless authentication."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up a basic database connection and create the necessary tables/collections for storing user accounts. Verify that the authentication logic can successfully create and retrieve user accounts from the database."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement API endpoints for user registration and login. Test these endpoints using a tool like Postman to ensure they are working correctly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin outlining the core logic for managing game sessions. This includes creating new game sessions, adding players to sessions, and tracking the state of each session. Consider different game session models (e.g., dedicated servers, peer-to-peer)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Investigate potential cheating methods in Third-person shooter games. Browse developer forums for information. Start planning how to prevent them, such as client-side validation."
+    }
+]

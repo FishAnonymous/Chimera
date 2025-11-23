@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Quick stand-up meeting with the team to discuss progress and roadblocks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Integrate the new animations from @3dmod-2 into the main menu UI. Add some visual flair."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the entire UI flow from the main menu to the in-game HUD, ensuring all elements are working correctly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any bugs or issues identified during testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax a bit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final polish on the UI elements. Adjust sizes, colors, and positions for optimal visual appeal."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a build of the game and send it to @QTEST-1 for testing. @QTEST-1 Topic: UI Testing Build"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a summary of the week's work, highlighting achievements and areas for improvement next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the summary to the project manager and sign off for the week. Time to go home!"
+    }
+]

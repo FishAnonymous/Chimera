@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize list of key audit considerations. Ensure all sections are clear, concise, and complete."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email the list of key audit considerations to Compliance Officer @comp-1 and Chief Operating Officer @coo-1 for review and feedback. The topic is 'Review of Key Audit Considerations for Statistical Arbitrage Fund'."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up on @cio-1 and @qres-1's email and get the information about detailed procedure of generating arbitrage."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "While waiting for feedback, browse some financial news to get updated with the market."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Reviewing the email communication."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback received from @comp-1 and @coo-1. Incorporate any necessary revisions into the list of key audit considerations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a final version of the list of key audit considerations for distribution. Include a cover memo summarizing the purpose and scope of the document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Distribute the final version of the list of key audit considerations to relevant stakeholders, including Compliance Officer @comp-1, Chief Operating Officer @coo-1, and Fund Accountant @facc-1."
+    }
+]

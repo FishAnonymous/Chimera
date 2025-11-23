@@ -1,0 +1,162 @@
+[
+    {
+        "week": 3,
+        "id": "da-2",
+        "detailed_goals": [
+            "Continue identifying specific EHR data elements required for seasonal influenza trend analysis.",
+            "Refine data collection workflow based on initial feedback and identified data gaps."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ehrv-1",
+        "detailed_goals": [
+            "Review EHR system capabilities for influenza data collection.",
+            "Communicate hospital's specific requirements to the EHR vendor."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Finalize modifications to clinical workflows for influenza data capture.",
+            "Collaborate with clinical staff to integrate new data collection steps."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Implement data quality checks for influenza-related data.",
+            "Conduct initial audits to identify and address data inaccuracies."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "rn-2",
+        "detailed_goals": [
+            "Accurately enter patient data into the EHR, including symptoms and vaccination status.",
+            "Participate in training on new EHR functionalities for influenza tracking."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ehrdev-1",
+        "detailed_goals": [
+            "Develop and configure necessary EHR system updates for influenza data collection.",
+            "Begin testing new EHR functionalities."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "itpm-1",
+        "detailed_goals": [
+            "Monitor project progress and address any emerging issues.",
+            "Communicate updates to all stakeholders."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "dba-1",
+        "detailed_goals": [
+            "Finalize database schema for seasonal influenza data.",
+            "Implement data type and constraint definitions to ensure data integrity."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "da-1",
+        "detailed_goals": [
+            "Define initial data quality metrics for EHR data related to influenza.",
+            "Set weekly targets for data quality improvement."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Develop training modules for new influenza data collection procedures.",
+            "Conduct initial training sessions for nursing staff."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qatest-2",
+        "detailed_goals": [
+            "Validate data consistency across different data sources.",
+            "Implement automated validation rules within the EHR system."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "rn-1",
+        "detailed_goals": [
+            "Administer influenza vaccinations and document details in the EHR.",
+            "Educate patients on influenza prevention and treatment."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ehrdev-2",
+        "detailed_goals": [
+            "Collaborate with the EHR vendor to implement system modifications.",
+            "Test new EHR functionalities for influenza data collection."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "rn-3",
+        "detailed_goals": [
+            "Monitor patients for adverse reactions to antiviral medications.",
+            "Document patient education in the EHR."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Address user concerns related to EHR system and data collection.",
+            "Document and escalate complex technical issues as needed."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "his-2",
+        "detailed_goals": [
+            "Develop a plan for resolving data quality issues related to influenza.",
+            "Conduct root cause analysis for identified data quality issues."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "mrs-2",
+        "detailed_goals": [
+            "Begin abstracting historical influenza data into the EHR system.",
+            "Follow standardized data abstraction protocols."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "pchmp-1",
+        "detailed_goals": [
+            "Gather feedback from clinical staff on EHR system and workflows.",
+            "Advocate for clinician needs in the EHR implementation project."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "mrs-1",
+        "detailed_goals": [
+            "Abstract data from the most recent influenza season.",
+            "Ensure accuracy and completeness of abstracted data."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "his-1",
+        "detailed_goals": [
+            "Collaborate on resolving data quality issues related to influenza.",
+            "Implement corrective actions based on root cause analysis."
+        ]
+    }
+]

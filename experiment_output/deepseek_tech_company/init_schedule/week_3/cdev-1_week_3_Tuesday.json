@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from QA. Review performance metrics from the latest build."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Identify performance bottlenecks in the game. Use profiling tools to analyze frame rates and memory usage."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Optimize code for critical areas identified, such as rendering and physics calculations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Fix critical bugs reported by QA. Prioritize crashes and game-breaking issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @beng-1 to discuss build optimizations and potential improvements for the next build."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test fixes in the development environment and verify that performance improvements are effective."
+    }
+]

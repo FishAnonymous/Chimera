@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Prioritize emails related to the risk management framework and statistical arbitrage research. Respond to urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Briefly browse arXiv.org's quant-ph section. Skim titles for anything interesting, but don't get too bogged down. (Loafing - potential idea stimulation)"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Deep dive into the risk management framework documentation. Identify areas where quantitative input is needed. Specifically, look for sections on model risk, market risk, and liquidity risk."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @qres-1, @qres-2, @pm-1. Subject: Risk Management Framework - Quant Input. Body: 'Hi team, reviewing the current risk management framework. I'll be focusing on model risk, market risk, and liquidity risk. Let's schedule a brief meeting tomorrow to discuss areas where we can contribute quantitatively. Let me know your availability. Best, Emily.'"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin initial research on statistical arbitrage strategies. Start with pairs trading, as it's a relatively simple and well-documented approach. Review academic literature and online resources."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab some food and read a non-finance related article."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue researching pairs trading. Focus on cointegration tests (e.g., Engle-Granger, Johansen) and backtesting methodologies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document preliminary findings on pairs trading in a shared document. Include key concepts, potential data sources, and backtesting challenges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review risk management framework documentation again, making notes on areas where quantitative analysis can add value. Focus on stress testing and scenario analysis."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails, respond to any urgent requests. Prepare for tomorrow's meeting."
+    }
+]

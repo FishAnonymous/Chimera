@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review any responses from @qres-1 and @qres-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin developing statistical models to evaluate risk-return profiles of potential investment strategies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Short break, browse research papers on statistical arbitrage strategies."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Continue model development, focusing on key variables and assumptions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume model development, test initial hypotheses."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qres-3 and @cio-1 to discuss model parameters and seek feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine models based on feedback, document progress."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up, save work, and plan for Wednesday."
+    }
+]

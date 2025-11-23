@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Relax, grab a cup of tea and biscuits."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the audio mix based on yesterday's testing. Use EQ, compression, and other audio effects to create a more polished and professional sound."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement basic occlusion and obstruction effects to simulate how sound changes when it travels through different materials and around obstacles. (If the engine supports it and the level design allows)"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the occlusion and obstruction effects in different areas of the level. Adjust the parameters to achieve a realistic and believable sound."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @QTEST-1 (QA Tester) @PEOPLE to get formal feedback on the overall audio experience. Provide a build with the latest audio implementations and ask for specific feedback on clarity, balance, and immersion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the audio implementation process, including details on the sound assets used, the parameters adjusted, and any challenges encountered. Update the sound effects list as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all tasks completed this week and plan for next week's audio goals. Consider the feedback received from the QA tester and prioritize addressing any major issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @PROD-1 (Producer) @PEOPLE outlining the audio progress made this week, the challenges encountered, and the plan for next week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the departure."
+    }
+]

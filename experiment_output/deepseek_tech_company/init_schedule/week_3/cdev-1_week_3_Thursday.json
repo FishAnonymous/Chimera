@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any art team queries. Review integrated assets for any issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue asset integration, focusing on weapon models and effects from @tart-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Test integrated assets in various game scenarios to ensure they function correctly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any issues found during testing. Coordinate with @3dmod-1 and @3dmod-2 for fixes or adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @aud-1 to discuss audio asset integration and synchronization with gameplay events."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a build for QA testing, including all integrated assets and recent fixes."
+    }
+]

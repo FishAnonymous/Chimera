@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for any urgent requests or updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check with @QATEST-1 and @QATEST-2 about the progress of the test. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a summary report outlining the progress made on the data abstraction protocol, standardized form, and training session. Highlight key achievements, challenges encountered, and future plans."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Check the schedule for the next week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Have lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue monitoring the progress of the EHR data collection process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Loaf around and browse some news websites."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Sign out of the system and prepare for the weekend."
+    }
+]

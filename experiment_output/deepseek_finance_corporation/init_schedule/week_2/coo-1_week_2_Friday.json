@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any last-minute updates or issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final operational readiness meeting with @pm-1, @larch-1, and @devops-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @cio-1 to present final operational and compliance status. Get final approval for fund launch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out final operational and compliance reports to all stakeholders (@cio-1, @ir-1, @legal-1, @comp-1)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a wrap-up meeting with the team to ensure everyone is aligned for the fund launch next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week's work and prepare a summary for the next week's goals. Send to @cio-1."
+    }
+]

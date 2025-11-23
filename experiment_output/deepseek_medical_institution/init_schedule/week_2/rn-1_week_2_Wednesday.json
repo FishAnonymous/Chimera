@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system. Review any new influenza trend reports from @da-1 and @da-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct patient assessments. Pay special attention to any emerging trends in symptoms."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Administer vaccinations. Ensure all documentation is complete and accurate."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @rn-1 and @rn-2 to discuss any patient concerns or EHR issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue patient assessments and vaccinations. Verify all EHR entries."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the day's vaccinations and assessments for @clinlead-1."
+    }
+]

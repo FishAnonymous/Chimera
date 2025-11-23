@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails, and assess progress on documentation improvements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend follow-up training session focusing on the integration of clinical feedback into EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with the @IT Project Manager to align on project status and integration updates."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the training received and document personal reflections for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails, conclude daily tasks, and prepare for Friday."
+    }
+]

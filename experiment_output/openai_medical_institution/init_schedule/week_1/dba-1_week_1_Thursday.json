@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for updates on EHR integration progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare for a training session by reviewing training materials with @trainer-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct a training session for staff on new EHR features and updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze participant feedback from the training session."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an email summarizing training outcomes and next steps to be sent to all participants."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research best practices for database management in EHR systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off."
+    }
+]

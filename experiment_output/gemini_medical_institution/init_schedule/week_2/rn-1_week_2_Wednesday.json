@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the computer, check emails, and spend some time searching for photography portfolios online."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review patient schedule and prepare for the day's assessments and vaccinations. Ensure all necessary supplies and equipment are readily available."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on patients who are at high risk for influenza complications, such as elderly patients or those with chronic conditions. Prioritize their assessments and vaccinations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Document assessment findings and vaccination details in the EHR, ensuring accuracy and completeness. Pay special attention to any adverse reactions or complications."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @rn-2 on a complex patient case involving multiple comorbidities. Discuss the optimal approach for assessment and vaccination. @PEOPLE [rn-2], Topic: Complex Patient Case Discussion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read a novel."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with patient assessments, influenza vaccinations, and meticulous EHR documentation. Address any patient questions or concerns with empathy and clarity."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @itpm-1 to report a minor technical issue I encountered while entering data into the EHR. @PEOPLE [itpm-1], Topic: EHR Technical Issue Report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare end-of-day report of the work progress and create a to-do list for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to the emails."
+    }
+]

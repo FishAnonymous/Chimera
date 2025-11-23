@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @pm-1 on documentation requirements. Make necessary adjustments."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Outline compliance and regulatory checks specific to UHNWIs. Start drafting a compliance checklist."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @legal-1 to discuss any legal nuances in the compliance checks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate legal feedback into the compliance checklist. Ensure all regulatory requirements are covered."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cio-1 to review the compliance checklist for investment-related regulations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the compliance checklist and save it in the shared drive."
+    }
+]

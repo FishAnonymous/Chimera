@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Follow up with team regarding input on suggested EHR improvements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize and submit the document on EHR improvements to @itpm-1 for review."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Attend a departmental meeting to advocate for EHR improvements and gather further input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a checklist for effective data documentation based on best practices."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a follow-up email to @his-1 and @his-2 to discuss ongoing training logistics."
+    }
+]

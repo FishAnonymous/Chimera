@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any additional feedback on the corrective action plan."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to gather feedback on the new data entry validation rules."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Adjust validation rules based on nurse feedback and retest with @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @ehrv-1 to discuss any necessary vendor-side updates to support the corrective actions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the corrective action plan and prepare a presentation for the team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the plan to the entire team in a meeting, including @itpm-1, @clinlead-1, and @pchmp-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any final concerns or questions from the team and make last-minute adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized plan to all stakeholders and schedule a follow-up meeting for next week."
+    }
+]

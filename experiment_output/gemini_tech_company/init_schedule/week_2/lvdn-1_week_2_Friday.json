@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Emails, coffee, and plan for the day. Address any final issues or tasks before the weekend. Check if @Qtest-1 gives the feedback."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement the formal feedback given by @Qtest-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Final playtest of the level. Ensure everything is working as intended and that the level is fun and engaging."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the level design. Create a document that outlines the level's layout, gameplay scenarios, visual elements, and technical details. This document will be used by other team members to understand the level and contribute to its development."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Eating with @uiux-1 to see the latest UI/UX progress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on integrating visual elements, like lighting and set dressing, to enhance the atmosphere and guide the player."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any final issues identified during the documentation process. Make sure the document is clear, concise, and accurate."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the level and documentation to the team. Celebrate a successful week of level design. Browsing the Internet, then go home!"
+    }
+]

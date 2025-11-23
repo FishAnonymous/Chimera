@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and browse the company's internal documentation for the project setup guidelines and coding conventions. Skim through relevant articles about Third-Person Shooter game development."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the basic project structure in the game engine (likely Unity or Unreal Engine). Create a new project with the appropriate settings for a third-person shooter. Import any necessary starter assets or plugins."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a basic player character model (a simple capsule or cube will suffice for prototyping). Attach a character controller component to the model."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement basic forward and backward movement using keyboard input (W/S keys). Focus on getting the character to move smoothly without any physics glitches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement basic left and right strafing movement using keyboard input (A/D keys). Ensure that the character moves sideways relative to its current facing direction."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement mouse-based camera control. Allow the player to rotate the camera around the character using the mouse. Prevent camera clipping through walls."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refactor the movement code to improve readability and maintainability. Add comments and organize the code into functions or classes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system (Git). Write a descriptive commit message explaining the changes made."
+    }
+]

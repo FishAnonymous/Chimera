@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "09:00",
+        "Activity": "Log in, check emails. Prepare a final presentation summarizing the work done this week on risk management, including the refined framework, the risk monitoring tool, and the stress testing results."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the presentation. Include actionable recommendations for improving the fund's risk profile. Prepare to present the details to @CIO-1. Make the presentation simple enough for @CIO-1 to understand. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @PM-1, @QRES-1, @QRES-2, @CIO-1 to present the work. Answer questions and address any concerns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from the presentation into the risk management framework document and the risk monitoring tool."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin planning for next week's tasks. Identify areas where further research and development are needed. Refine the plan with @PM-1. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Attend team meeting to discuss progress and address any challenges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize documentation and code. Ensure everything is properly organized and backed up. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the week."
+    }
+]

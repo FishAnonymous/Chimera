@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the data quality checks performed last week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 and @da-2 to discuss the current status of data quality checks and any outstanding issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Perform final validation of data quality checks for the first batch of EHR records."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue validating data quality checks for the remaining EHR records."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document any issues found during validation and potential resolutions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @itpm-1 and @clinlead-1 with the findings and next steps."
+    }
+]

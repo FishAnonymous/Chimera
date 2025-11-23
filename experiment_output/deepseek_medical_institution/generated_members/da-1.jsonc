@@ -1,0 +1,27 @@
+{
+    "name": "Carlos Ramirez",
+    "id": "da-1",
+    "ip": "10.0.0.15",
+    "age": 38,
+    "role": "Data Analyst",
+    "description": "Analyzes clinical and operational data to identify trends, patterns, and insights that can improve patient care and hospital efficiency. Develops statistical models and visualizations to communicate findings to stakeholders. Works closely with clinicians and administrators to define key performance indicators and monitor progress towards goals.",
+    "tools": [
+        "Python (Pandas, Scikit-learn)",
+        "SQL",
+        "Tableau",
+        "R",
+        "Statistical Analysis Software (SAS)"
+    ],
+    "mbti": "ESTP",
+    "interests": "competitive cycling, craft breweries, live music",
+    "personality": "Outgoing and results-oriented. Enjoys working with data to solve real-world problems. Thrives in a fast-paced environment and is comfortable presenting to large groups. Known for a practical approach and a talent for simplifying complex information.",
+    "application": {
+        "Zendo": {
+            "account_name": "da-345678",
+            "password": "carlosR@analysis",
+            "permissions": "data_analyst"
+        }
+    },
+    "email": "da-345678@hospital.org",
+    "container_id": "89a7b6c5d4e3"
+}

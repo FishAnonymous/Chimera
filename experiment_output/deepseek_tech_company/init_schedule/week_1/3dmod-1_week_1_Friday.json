@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any final feedback from @cart-1 or @3dmod-2. Make any last-minute adjustments to the blockouts."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, then review all blockouts to ensure they meet the project standards."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a final presentation of the blockouts for the team and document the progress."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @prod-1 to submit the finalized blockouts and provide a summary of the week's work."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's progress, note any lessons learned, and plan for next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week, organize files, and log out."
+    }
+]

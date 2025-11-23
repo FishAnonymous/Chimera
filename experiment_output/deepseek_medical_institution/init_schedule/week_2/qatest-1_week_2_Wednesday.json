@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Follow up with @rn-1, @rn-2, and @rn-3 if chart access hasn't been granted."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Perform initial random chart audits using the checklist, documenting any discrepancies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze audit results to identify common data quality issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @da-1 and @da-2 to discuss audit findings and potential adjustments to validation rules."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update validation rules based on audit findings and retest in sandbox."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @itpm-1 with a progress update and any blockers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue refining validation rules and testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse forums for EHR testing best practices and relax."
+    }
+]

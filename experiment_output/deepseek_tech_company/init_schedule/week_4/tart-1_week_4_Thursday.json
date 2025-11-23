@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final review of all assets and shaders before handoff. Ensure all documentation is up-to-date."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Handoff meeting with @cdev-1, @cdev-2, @cdev-3, and @lpro-1 to deliver finalized assets and discuss integration steps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any immediate questions or concerns from the development team regarding asset integration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assist development team with initial asset integration, troubleshooting any issues that arise."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow-up email to @prod-1 confirming successful asset handoff and next steps."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review responses from @ehrv-1 on the feedback document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work with @mrs-1 and @mrs-2 to gather additional data on influenza cases for documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @helpdesk-1 for any software issues encountered by the nursing staff regarding EHR entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a review session with @rn-1, @rn-2, and @rn-3 to understand their experiences with the EHR entries."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile information gathered during review sessions into a report for outlines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan the presentation for team meeting scheduled for Friday."
+    }
+]

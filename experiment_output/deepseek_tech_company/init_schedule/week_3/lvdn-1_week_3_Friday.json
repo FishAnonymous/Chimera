@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Verify all feedback has been addressed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Perform a final pass on the level. Polish any remaining rough edges."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ldes-1 to present the finalized level and get final approval."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare documentation for the level, including asset lists and performance metrics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit the finalized level to the build team. Coordinate with @beng-1 for integration."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Reflect on the week's work. Note down lessons learned for future levels."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Clean up the workspace and organize files for next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Leave early to enjoy the weekend, feeling accomplished."
+    }
+]

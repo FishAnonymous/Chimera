@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review all finalized shaders and assets for any last-minute adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 to run performance tests on finalized assets in various game scenarios."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any performance issues flagged during testing, making necessary optimizations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare final asset packages for handoff, including documentation and version control tags."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @cdev-1, @cdev-2, and @cdev-3 to schedule asset handoff meeting for Thursday."
+    }
+]

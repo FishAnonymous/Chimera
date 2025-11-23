@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check for any urgent patient updates or messages from colleagues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review standardized protocols for influenza symptom assessment to ensure accuracy in patient evaluations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient rounds, focusing on assessing for influenza symptoms using the standardized protocols."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document patient assessments in the EHR, ensuring all data is entered accurately and completely."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR documentation for the afternoon shift."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Cross-check entered data with @mrs-1 and @mrs-2 to ensure completeness and accuracy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review any discrepancies or missing data and update the EHR accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the EHR system and prepare handover notes for the next shift."
+    }
+]

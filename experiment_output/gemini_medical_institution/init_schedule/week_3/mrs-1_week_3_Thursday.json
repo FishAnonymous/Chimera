@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails. Briefly review the weekly goal and the progress made so far."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any urgent emails or follow-up tasks identified in the morning."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue EHR abstraction, focusing on the next batch of patient records. Aim to complete another 40 records today to reach 200 records."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue EHR abstraction, taking short breaks as needed to maintain concentration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume EHR abstraction, focusing on efficiency and accuracy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Since I am reaching the weekly target, I will loaf around by browsing medical articles about influenza."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Continue with EHR abstraction. If the electronic records is not avaliable, start extracting the data from paper records."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review today's progress. Verify that at least 40 records have been abstracted. Note any challenges encountered during the data abstraction process."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Organize the day's abstracted data and back up the spreadsheet to a secure server."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and leave for the day."
+    }
+]

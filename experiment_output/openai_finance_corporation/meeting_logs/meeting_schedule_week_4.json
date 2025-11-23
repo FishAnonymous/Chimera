@@ -1,0 +1,162 @@
+[
+    {
+        "week": 4,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Finalize the market research report on investment strategies targeting UHNWIs.",
+            "Prepare a presentation summarizing the findings and insights from the market research."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Complete the statistical model to evaluate risk-return profiles of market-neutral funds.",
+            "Present findings to the team along with recommendations for future investment strategies."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Finalize the onboarding checklist for UHNWIs.",
+            "Conduct a review session with the team to ensure compliance with all regulatory checks."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Launch the communication strategy targeting UHNWIs.",
+            "Measure engagement metrics from initial outreach efforts to gauge effectiveness."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Complete the review of compliance documentation related to the fund's registration.",
+            "Ensure all forms are prepared for submission to the SEC."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Finalize technical requirements for the fund management software.",
+            "Ensure integration of frontend and backend components for smooth operations."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Conduct the preliminary risk assessment of the fund setup.",
+            "Prepare the audit framework required for ongoing compliance checks."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Compile data from various statistical analyses to form insights into market-neutral strategies.",
+            "Present potential investment themes based on recent data trends."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Review the overall project progress and ensure all tasks from previous weeks are on track.",
+            "Schedule final meetings with stakeholders to present project outcomes and next steps."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Prepare an investor presentation summarizing fund strategies, expected returns, and market positioning.",
+            "Initiate outreach to current and prospective investors to discuss fund details."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Finalize analysis on the historical performance of market-neutral funds.",
+            "Provide recommendations based on past performance to enhance fund strategies."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Assess the operational readiness for the fund launch.",
+            "Confirm roles and responsibilities of team members in the fund management process."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Establish initial financial accounting processes for the fund.",
+            "Create a preliminary budget that aligns with fund operational needs."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Complete the development of the investor portal interface.",
+            "Conduct user testing to ensure functionality and user experience before launch."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Finalize compliance documentation for fund registration.",
+            "Coordinate with the compliance officer to ensure all regulatory requirements are met."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Confirm the investment strategy and asset manager selection criteria.",
+            "Prepare for the final approval of investment strategies by the management team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Focus on analysis of the competition within the market-neutral fund sector.",
+            "Draft a competitor analysis report highlighting opportunities and threats."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Finalize coding and integration of backend functions into the investor portal.",
+            "Begin stress testing the application to ensure it can handle anticipated user transactions."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Prepare for the financial audits by collecting necessary documentation.",
+            "Establish a financial tracking system for fund expenses and revenues."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Ensure cloud infrastructure is set up for operations and data analysis.",
+            "Conduct security assessments to validate compliance with data protection standards."
+        ]
+    }
+]

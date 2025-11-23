@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the finalized competitor analysis report."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Present findings to @cio-1 and @pm-1 in a brief meeting. Discuss implications for our fund."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Break for coffee. Reflect on feedback from the meeting."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Incorporate feedback into the report. Make necessary adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a summary of key takeaways for the team. Focus on actionable insights."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qres-3 and @dsde-1 to share the summary and discuss potential research directions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review additional data sources for any missed competitors or trends."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Save all work and plan for tomorrow."
+    }
+]

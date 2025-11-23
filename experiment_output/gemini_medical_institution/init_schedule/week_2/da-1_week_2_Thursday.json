@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, email. Check interesting posts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the baseline data quality measurements and the proposed improvement strategies to @itpm-1 and @clinlead-1. Get their feedback and buy-in. Discuss with them the possible target value that we can achieve."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the feedback from the presentation, revise the proposed improvement strategies and the associated timelines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Define weekly targets for improvement for each data quality metric. Ensure the targets are realistic, measurable, and aligned with the overall goals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Lunch time!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the final data quality metrics, baseline measurements, improvement strategies, and weekly targets in a comprehensive report."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @trainer-1 and @ehrdev-1 to set up the meeting. Make sure to arrange the time of the meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the report with relevant stakeholders, including IT, clinical staff, and management. Communicate the importance of data quality and the goals for the coming weeks. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow. Review the report."
+    }
+]

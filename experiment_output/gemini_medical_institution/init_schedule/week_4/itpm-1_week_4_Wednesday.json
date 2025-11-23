@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Review feedback from @clinlead-1 and @pchmp-1 on the project overview and FAQs."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Incorporate the final feedback from @clinlead-1 and @pchmp-1 into the project overview and FAQs. Prepare the final versions for distribution."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the communication plan, including specific communication channels (e.g., email, intranet, meetings), target audiences, and timelines for disseminating information."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Design email template for disseminating the project overview and FAQs. Ensure professional and visually appealing design."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the email template and content with a small group (e.g., @helpdesk-1, @trainer-1) to ensure it renders correctly and is easy to understand. Topic: Email Template Testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Distribute the project overview and FAQs via email to all relevant stakeholders. Include a brief introduction explaining the purpose of the project and encouraging feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Post the project overview and FAQs on the hospital intranet for easy access by all employees. Include a link to a feedback form."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up a system for tracking communication effectiveness. This may include tracking email open rates, intranet page views, and feedback form submissions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Monitor initial communication metrics and address any questions or concerns raised by stakeholders."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Leave the office."
+    }
+]

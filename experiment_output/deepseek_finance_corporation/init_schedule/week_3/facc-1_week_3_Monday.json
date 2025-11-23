@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review any pending tasks from last week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start finalizing the preliminary budget for fund operations by gathering data from @facc-2 and @coo-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, browse financial news websites for any market updates."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Continue working on the preliminary budget, ensuring all operational costs are accounted for."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Monitor daily cash flows by reviewing transactions and reconciling accounts."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @facc-2 to confirm any discrepancies in cash flow data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start preparing financial reports for internal review, focusing on key metrics."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by organizing files and updating task lists."
+    }
+]

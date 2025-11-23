@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the final investment strategy presentation materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with management team to present investment strategies for final approval."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collect feedback from management during the presentation and discuss necessary adjustments."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a final report incorporating management feedback and approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @facc-1 and @facc-2 to gather any necessary financial data related to the approved strategies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review emails and respond to any queries or updates regarding the investment strategies."
+    }
+]

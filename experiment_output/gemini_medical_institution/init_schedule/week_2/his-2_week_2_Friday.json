@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the computer, and check emails. Review any overnight communications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the data quality reporting from this week to check for any responses."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Summarize the completed goals for this week."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Plan goals for the next week."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Research on new technologies to implement in the company."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Browse online for health informatics conferences and webinars."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the proposed goals for the next week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the proposed technologies for the company and propose them to @itpm-1. @PEOPLE New Technology proposal."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all the work for the week and ensure all the items are completed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare the report for the summary of the week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any outstanding emails and complete administrative tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

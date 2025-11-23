@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log into the system, check emails, and compile results from the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the seasonal influenza trend report to the healthcare board with @clinlead-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 to review any feedback from testing activities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Plan for the next week, identify priorities, and distribute tasks among the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review system performance with @dba-1 and ensure everything is on track for EHR integration."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out weekly summary report to the team outlining achievements, challenges, and next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Loosen up by browsing relevant medical tech trends online."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up any loose ends and prepare for next week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

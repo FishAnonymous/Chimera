@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and prepare reports on seasonal influenza trends for analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Analyze collected influenza data with @da-1 and @da-2, preparing insights for clinical meetings."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @clinlead-1 and @pchmp-1 seeking input on the influenza data findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @ehrv-1 to troubleshoot and resolve integration issues identified in the system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Provide updates to @itpm-1 after addressing integration challenges."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up ongoing tasks and prepare for Friday's review session."
+    }
+]

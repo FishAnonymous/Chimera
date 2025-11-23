@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review regression testing plan for refined mechanics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up test environment for regression testing. Coordinate with @cdev-1, @cdev-2, @cdev-3 to ensure latest build is available."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin regression testing on refined mechanics. Document any issues found."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue regression testing. Focus on player movement and shooting mechanics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile findings from regression testing. Email report to @prod-1, @lpro-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review bug fixes from Week 2. Cross-check with bug tracker to ensure all fixes are implemented."
+    }
+]

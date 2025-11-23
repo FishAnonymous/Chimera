@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, grab coffee, check emails and personal art feeds."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @3dmod-1 (3D Modeler/Animator) to discuss the enemy design and provide reference images and sketches. Explain the design choices and functionality."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Since the 3D modeler has the enemy design in hand, I'll shift focus to potential weapon concepts. I will email @Ldes-1 and @Prod-1. Subject: 'Weapon Concept Direction Needed'. Body: 'Hi [Lead Game Designer and Producer],\n\nWith the enemy design in progress, I'd like to start exploring weapon concepts. Do you have any specific weapon types or styles in mind? Are we focusing on realistic weapons, futuristic energy weapons, or something else entirely?\n\nThanks,\nLeon.'"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "While waiting for a response, I'll begin brainstorming different weapon categories (assault rifles, shotguns, sniper rifles, etc.) and their potential visual styles. I will also explore various loading/reloading mechanism for the weapons."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab lunch with colleagues and discuss the game's development."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Got feedback from @Ldes-1. The plan is to make futuristic energy weapons. Begin gathering references for energy weapons from other games, movies, and science fiction artwork. Focus on visual language: shapes, lights, materials."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start sketching quick thumbnails for various energy weapon designs. Explore different forms, grips, and energy sources."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Select the most promising thumbnails and refine them, adding details and considering ergonomics."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Save work, shut down computer, and head home."
+    }
+]

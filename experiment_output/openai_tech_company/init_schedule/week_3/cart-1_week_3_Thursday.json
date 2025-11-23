@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review progress on textures."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Add color palettes and textures to the second character design."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Polish all refined concepts, focusing on detailing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare presentation materials for the design team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Practice the presentation of the refined concepts."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the work and log out."
+    }
+]

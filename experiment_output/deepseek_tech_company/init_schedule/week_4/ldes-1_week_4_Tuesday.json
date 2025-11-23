@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback from @prod-1 and @lpro-1 on the GDD."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the GDD based on feedback and prepare it for publishing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ALL to inform them that the GDD is ready and will be published by end of day."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Publish the GDD on the company\u2019s shared drive and ensure all teams have access."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Plan the final playtesting sessions, including objectives and participant roles."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qtest-1, @lvdn-1, and @sdes-1 to coordinate playtesting logistics."
+    }
+]

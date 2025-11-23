@@ -1,0 +1,202 @@
+[
+    {
+        "week": 4,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Complete the statistical analysis of the chosen datasets.",
+            "Refine data cleaning and preprocessing pipelines based on the initial analysis.",
+            "Develop and test initial statistical arbitrage trading strategies.",
+            "Present preliminary findings and strategies to the CIO and Quantitative Research team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Finalize the client onboarding process for UHNWIs, integrating KYC/AML checks.",
+            "Prepare client documentation and subscription agreements tailored to UHNWIs.",
+            "Develop a communication plan for engaging potential UHNWI investors.",
+            "Coordinate with legal and compliance teams to ensure adherence to regulations."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Develop marketing materials targeting UHNWIs, highlighting the fund's strategy and risk profile.",
+            "Refine the communication strategy based on feedback from potential investors.",
+            "Coordinate with Investor Relations on outreach efforts.",
+            "Ensure all marketing materials are compliant with SEC regulations."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Finalize the compliance manual for the statistical arbitrage fund.",
+            "Implement procedures for monitoring and reporting compliance with SEC regulations.",
+            "Conduct compliance training for all relevant personnel.",
+            "Work with Legal Counsel to address any remaining compliance issues."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Complete the statistical analysis of the chosen datasets.",
+            "Refine data cleaning and preprocessing pipelines based on the initial analysis.",
+            "Develop and test initial statistical arbitrage trading strategies.",
+            "Present preliminary findings and strategies to the CIO and Quantitative Research team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Finalize the architecture for the technology infrastructure.",
+            "Oversee the integration of software modules for trade execution, data analysis, and risk management.",
+            "Implement security measures to protect sensitive data and trading systems.",
+            "Coordinate with DevOps to deploy and maintain the infrastructure."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Complete a preliminary audit plan for the fund.",
+            "Identify key audit risks and procedures.",
+            "Coordinate with Fund Accountants to ensure proper financial record-keeping.",
+            "Provide recommendations for improving internal controls."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Refine the risk management framework for the fund based on initial strategy testing.",
+            "Develop models for managing volatility, liquidity, and correlation risks.",
+            "Conduct stress tests to assess the fund's resilience to adverse market conditions.",
+            "Present the risk management framework to the CIO and COO."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Monitor and report on project progress against milestones.",
+            "Coordinate communication between teams to ensure alignment.",
+            "Identify and resolve any project roadblocks.",
+            "Prepare a final project report summarizing accomplishments and lessons learned."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Develop a comprehensive investor relations strategy for targeting UHNWIs.",
+            "Prepare presentation materials for potential investors, highlighting the fund's strategy, risk profile, and team.",
+            "Coordinate with Marketing & Communications to ensure consistent messaging.",
+            "Begin outreach to potential UHNWI investors."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Refine the risk management framework for the fund based on initial strategy testing.",
+            "Develop models for managing volatility, liquidity, and correlation risks.",
+            "Conduct stress tests to assess the fund's resilience to adverse market conditions.",
+            "Present the risk management framework to the CIO and COO."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Review and approve the final project plan and budget.",
+            "Ensure all teams have the resources they need to complete their tasks.",
+            "Monitor project progress and address any issues that arise.",
+            "Prepare a final report for the CEO on the project's outcomes."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Finalize the accounting and reporting framework for the fund.",
+            "Establish procedures for tracking fund performance and expenses.",
+            "Prepare for the fund's first audit.",
+            "Coordinate with the External Auditor to ensure compliance with accounting standards."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Complete the development and testing of software modules.",
+            "Work with the Lead Software Architect to integrate the modules into the overall system.",
+            "Address any bugs or issues identified during testing.",
+            "Prepare documentation for the software modules."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Finalize all legal documents for the fund, including the prospectus and subscription agreement.",
+            "Ensure compliance with all applicable SEC regulations.",
+            "Provide legal advice to the fund's management team.",
+            "Coordinate with Compliance Officer to address any compliance issues."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Finalize the fund's investment strategy.",
+            "Approve the risk management framework.",
+            "Oversee the selection of trading platforms and data providers.",
+            "Provide guidance and direction to the Quantitative Research team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Refine the risk management framework for the fund based on initial strategy testing.",
+            "Develop models for managing volatility, liquidity, and correlation risks.",
+            "Conduct stress tests to assess the fund's resilience to adverse market conditions.",
+            "Present the risk management framework to the CIO and COO."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Complete the development and testing of software modules.",
+            "Work with the Lead Software Architect to integrate the modules into the overall system.",
+            "Address any bugs or issues identified during testing.",
+            "Prepare documentation for the software modules."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Finalize the accounting and reporting framework for the fund.",
+            "Establish procedures for tracking fund performance and expenses.",
+            "Prepare for the fund's first audit.",
+            "Coordinate with the External Auditor to ensure compliance with accounting standards."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Deploy the technology infrastructure to support the fund's operations.",
+            "Implement monitoring and alerting systems to ensure system stability.",
+            "Provide technical support to the trading and research teams.",
+            "Work with the Lead Software Architect to maintain and upgrade the infrastructure."
+        ]
+    }
+]

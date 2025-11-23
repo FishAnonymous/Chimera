@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, finalize presentation materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present concept art and color palettes to @prod-1, @ldes-1, and @3dmod-1 for final approval."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate any last-minute feedback into concepts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all concept art and environment sketches, prepare files for handoff to 3D modelers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email finalized concepts to @3dmod-1 and @3dmod-2, cc @prod-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize files, and plan for next week's tasks."
+    }
+]

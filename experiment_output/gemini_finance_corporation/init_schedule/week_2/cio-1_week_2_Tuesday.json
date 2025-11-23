@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review overnight market activity. Check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from Quantitative Researchers on the initial fund strategy document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 to discuss the risk management framework of the fund. Focus on key risk metrics and how they will be monitored and managed. @PEOPLE: comp-1 Topic: Risk Management Framework Discussion"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review existing risk management policies and procedures. Identify areas for improvement and update the framework to reflect current market conditions and regulatory requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review Wall Street Journal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Contact @audit-1 to discuss the regulatory requirements for the fund. @PEOPLE: audit-1 Topic: Regulatory Requirements for Fund."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @devops-1 for system support during the registration. @PEOPLE: devops-1 Topic: System support for registration"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Revise the risk management framework with inputs from compliance and audit, ensuring all regulatory requirements are addressed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final review of the risk management framework and send the updated version to the compliance officer and project manager for final approval. @PEOPLE: comp-1, pm-1 Topic: Final Risk Management Framework Review"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

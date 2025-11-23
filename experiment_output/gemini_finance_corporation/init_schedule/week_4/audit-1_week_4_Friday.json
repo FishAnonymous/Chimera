@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the documentation of the key audit risks and procedures."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare the final report about the recommendations for improving internal controls. Focus on practical and cost-effective solutions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Communicate the final reports to the leaders of each department, including @cio-1, @coo-1, @comp-1, @legal-1. Topic: Review and suggestions of the audit progress"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the suggestions and comments, summarize the audit progress and adjust the plan."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Double check if there are other pending issues for this week, and resolve these."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final Review the work progress for this week, and record the action steps for next week"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Leaving the office."
+    }
+]

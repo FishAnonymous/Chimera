@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Begin setting up the backtesting environment for market-neutral strategies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdev-1, @sdev-2 to align on the backtesting framework and data requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start backtesting the market-neutral strategies using historical data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue backtesting and analyze initial results. Identify any anomalies or areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @cio-1 with preliminary backtesting results and request feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the backtesting process and results for future reference."
+    }
+]

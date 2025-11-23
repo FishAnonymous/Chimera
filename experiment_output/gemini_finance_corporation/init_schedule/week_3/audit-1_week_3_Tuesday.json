@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar. Review yesterday's progress and today's agenda."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue identifying key risk areas. Focus on risks related to the fund's specific investment strategies, considering the use of statistical arbitrage."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop audit procedures to address the identified risks. Create detailed step-by-step instructions for each procedure, including specific tests and analyses."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and refine the audit procedures. Ensure they are clear, concise, and effective in detecting potential errors or irregularities."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research best practices for auditing statistical arbitrage funds. Consult industry guidance and relevant regulations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document the rationale behind the selected audit procedures. Explain how each procedure addresses a specific risk and what type of evidence it is intended to gather."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a draft of the audit procedures for review by the senior management or compliance officer. This will require double check for the SEC compliance"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize my workspace and prepare for tomorrow."
+    }
+]

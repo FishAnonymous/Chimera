@@ -1,0 +1,70 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, make tea (Lemon Balm today!). Review overnight tickets and emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up with @itpm-1 regarding the archived patient record access issue from yesterday. Confirm that the user's permissions have been updated."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address a new ticket from @da-2 reporting issues with connecting to the EHR database using a specific data analysis tool. Troubleshoot the issue by first verifying the database connection settings."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Discover that the database connection settings in the data analysis tool are incorrect. Provide the correct settings to the user and guide them through the configuration process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Confirm that the user can now successfully connect to the EHR database. Document the solution in the knowledge base. Update the ticketing system and close the ticket."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin working on another ticket from @qatest-1 reporting issues with testing a new EHR module. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @qatest-1 to understand the testing issues. Provide guidance and support to help them overcome the challenges. Discuss the specific issues and testing steps with the EHR developer and @ehrdev-2. @PEOPLE"
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Assist @qatest-1 in identifying the root cause of the testing issues. Brainstorm potential solutions and work together to implement them. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Write in my journal, just to reflect a bit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to support @qatest-1 in the testing process, answering questions and providing assistance as needed."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Monitor the ticketing system and address new incoming tickets."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "A user, @ehrdev-2, is reporting issues with integrating a new third-party application with the EHR. Research the integration process and common problems."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Discover that the integration issue is related to API incompatibility. Contact the third-party application vendor and the EHR vendor to resolve the incompatibility. @PEOPLE"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the integration issue and the steps taken to resolve it. Update the ticketing system and put on hold until API incompatibility is resolved."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on the knowledge base article, focusing on database connectivity issues and testing problems."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails one last time. Prepare for the next day's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

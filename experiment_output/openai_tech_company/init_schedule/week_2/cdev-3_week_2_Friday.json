@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review feedback from the previous day's testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @prod-1 and @qtest-1 to discuss progress and set goals for the next week."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct final testing on the implemented features to ensure stability for the next week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Wrap up outstanding bugs and issues that need to be addressed before moving on."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the week\u2019s achievements and prepare for next week\u2019s planning."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Loaf around and browse websites of interest as a reward for a productive week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of the OA system and wrap up the week."
+    }
+]

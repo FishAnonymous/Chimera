@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from the testing session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin refining animations, focusing on specific feedback regarding movement speed and fluidity."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on implementing feedback and optimizing animation transitions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check in with @3dmod-1 to review the changes made and confirm they align with the overall game design."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and prepare for final testing on Friday."
+    }
+]

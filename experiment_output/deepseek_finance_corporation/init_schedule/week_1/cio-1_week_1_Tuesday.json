@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from @legal-1 or @comp-1 regarding risk management."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the core investment philosophy and asset allocation framework document."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @ir-1 to discuss how the investment strategy aligns with UHNWI expectations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Detail selection criteria for asset managers, focusing on performance metrics and risk profiles."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review selection criteria with @qres-1, @qres-2, @qres-3 for technical validation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send draft selection criteria to @pm-1 for project integration."
+    }
+]

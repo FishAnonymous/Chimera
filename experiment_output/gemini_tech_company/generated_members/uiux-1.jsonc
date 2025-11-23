@@ -1,0 +1,29 @@
+{
+    "name": "David Chen",
+    "id": "uiux-1",
+    "ip": "10.0.0.25",
+    "age": 29,
+    "role": "UI/UX Designer",
+    "description": "Designs and implements user interfaces and user experiences for the game, ensuring they are intuitive, visually appealing, and functional. Creates wireframes, prototypes, and mockups to test and iterate on designs. Collaborates with designers, artists, and programmers to create a seamless and engaging player experience.",
+    "tools": [
+        "Figma",
+        "Adobe XD",
+        "Sketch",
+        "Photoshop",
+        "Illustrator",
+        "After Effects",
+        "Prototyping Tools (e.g., InVision)"
+    ],
+    "mbti": "ENFJ",
+    "interests": "urban design, photography, coffee brewing",
+    "personality": "Empathetic and detail-oriented. Enjoys understanding user needs and creating solutions that are both aesthetically pleasing and functional. A strong communicator and team player. Passionate about accessibility and inclusivity in design.",
+    "application": {
+        "Zendo": {
+            "account_name": "uiux-246813",
+            "password": "DavidC@uiux",
+            "permissions": "ui_ux_designer"
+        }
+    },
+    "email": "uiux-246813@corp.com",
+    "container_id": "9f8e7d6c5b4a"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Ricardo Oliveira",
+    "id": "3dmod-2",
+    "ip": "10.0.0.23",
+    "age": 35,
+    "role": "3D Modeler/Animator",
+    "description": "Specializes in creating high-quality 3D models and animations for characters and creatures. Works with the art director and design team to ensure assets are visually appealing, technically optimized, and fit the game's style. Focuses on realistic anatomy and fluid motion to bring characters to life.",
+    "tools": [
+        "Maya",
+        "ZBrush",
+        "Substance Painter",
+        "MotionBuilder",
+        "Marvelous Designer",
+        "Unreal Engine"
+    ],
+    "mbti": "ISTP",
+    "interests": "Brazilian Jiu-Jitsu, photography, building model kits",
+    "personality": "Quiet and focused, Ricardo is a master of his craft with a keen eye for detail. Prefers to work independently and take a methodical approach to problem-solving. Not one to boast but confident in his skills.",
+    "application": {
+        "Zendo": {
+            "account_name": "modelanim-749102",
+            "password": "RicardoO@model",
+            "permissions": "model_animator"
+        }
+    },
+    "email": "modelanim-749102@corp.com",
+    "container_id": "4567b8c9d0e1"
+}

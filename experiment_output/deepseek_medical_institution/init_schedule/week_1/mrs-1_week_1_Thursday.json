@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm attendance for the training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the training room with @helpdesk-1 (projector, laptops, handouts)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct the training session for data abstractors (@rn-2, @rn-3, @mrs-1, @mrs-2)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any follow-up questions from the training session and provide additional support."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collect feedback from attendees and document for future improvements."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send a summary of the training session to @clinlead-1 and @itpm-1."
+    }
+]

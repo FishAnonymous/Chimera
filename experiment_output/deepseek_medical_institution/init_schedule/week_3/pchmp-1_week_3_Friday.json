@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize presentation for weekly review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct weekly review meeting with @itpm-1, @ehrv-1, and @clinlead-1 to discuss progress and next steps."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 on testing results for EHR adjustments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @dba-1 to ensure data integrity for seasonal influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review training materials with @trainer-1 and @rn-1 for final approval."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @helpdesk-1 and @mrs-1 to ensure support readiness for upcoming training sessions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update project timeline and action items based on weekly review meeting outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send weekly summary email to all team members and prepare for next week's tasks."
+    }
+]

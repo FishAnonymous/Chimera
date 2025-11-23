@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and respond to any outstanding messages from the team or other stakeholders."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the list of clinical workflows to be modified for influenza data capture. Prioritize workflows based on impact and ease of implementation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to refine the design for implementing prompts for influenza diagnosis and testing. Consider user feedback and technical constraints."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work with @ehrdev-1 and @ehrdev-2 to begin implementing the prompts in a test environment. Focus on creating a user-friendly and efficient workflow."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the design and implementation details for the prompts. Include screenshots and detailed instructions for using the prompts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Consult with @trainer-1 to develop a training plan for physicians and other healthcare providers on how to use the new prompts and workflows. Emphasize the importance of accurate data capture for influenza trend analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review existing documentation and resources related to influenza diagnosis and treatment. Identify any gaps in knowledge or areas where additional training is needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address potential challenges in EHR integration with @ehrdev-1. Consider issues such as data mapping, interoperability, and system performance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's accomplishments and plan for tomorrow's activities. Prepare a brief progress report for the IT Project Manager."
+    }
+]

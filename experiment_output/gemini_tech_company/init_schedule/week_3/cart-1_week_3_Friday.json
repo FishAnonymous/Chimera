@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Review feedback from @aud-1 regarding the environment concept and sound design ideas."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Compile all the character, environment, and prop concepts into a presentation for review by the art director and lead designer. Ensure the presentation is well-organized and visually appealing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, maybe grab a coffee and chat with colleagues about the weekend plans."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Present the concept art to the art director and lead designer (@ldes-1), gathering feedback and incorporating their suggestions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a longer lunch break to unwind before the afternoon's tasks."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the feedback received, begin making final revisions to the concept art. Prioritize the most important changes and ensure they align with the overall vision for the game."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document all the design decisions and rationale behind the concept art. This documentation will be helpful for other team members who will be using the concepts as a reference."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Finalize all files and upload them to the project repository. Ensure all assets are properly labeled and organized for easy access by other team members."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week's tasks, clean up my workspace, and prepare for the weekend. Reflect on the progress made and identify areas for improvement in the coming weeks."
+    }
+]

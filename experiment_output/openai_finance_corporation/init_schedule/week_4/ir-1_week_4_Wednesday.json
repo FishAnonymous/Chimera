@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check feedback from @audit-1 and make necessary adjustments to the presentation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Finalize the investor outreach email and create a list of current and prospective investors to contact."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send out the outreach email to current investors, highlighting key details of the fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start drafting follow-up emails for prospective investors who will receive the presentation later."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @onbd-1 to understand current investor concerns and incorporate them into the outreach."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send outreach emails to prospective investors, including the presentation."
+    }
+]

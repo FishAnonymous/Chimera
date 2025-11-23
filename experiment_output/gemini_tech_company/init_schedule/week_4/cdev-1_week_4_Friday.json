@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, easy morning exercise."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare the weekly report for the tasks this week. Double check the tasks and progress that I have done."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Share and communicate with other teammates about the technology and skills that they have."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Try a new recipe at home."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Free time. Do whatever I want."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Pack up and get off work."
+    }
+]

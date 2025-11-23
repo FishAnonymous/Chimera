@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check responses from Data Analysts and verify the integrity of the influenza case data provided."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Proceed with QA testing processes using the EHR data collection for influenza cases."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any discrepancies or issues encountered during the testing phase."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to discuss findings on medical records relating to influenza data discrepancies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @Data Analysts to address any issues or discrepancies found during testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the resolution process for any identified discrepancies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the OA system."
+    }
+]

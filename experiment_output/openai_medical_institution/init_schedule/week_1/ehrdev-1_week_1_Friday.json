@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in for final checks; ensure all tasks for the week are on track for completion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on resolving any outstanding issues from the testing phase."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from the team on the overall progress for the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final testing and debugging session to ensure EHR is ready for launch."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare to present outcomes and solutions in a presentation to the team for review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up final tasks, send appreciation emails to team members for their support throughout the week."
+    }
+]

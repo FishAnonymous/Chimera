@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee and email check. Respond to any urgent requests. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @ehrv-1 to discuss the technical specification document and clarify any doubts regarding system updates and modifications. Discuss the possibility of sandbox environment access."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document the key takeaways from the meeting with @ehrv-1 and update the technical specification document accordingly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin working on configuring new data fields in the test environment (if available, otherwise continue research). Prioritize fields related to influenza vaccination status and history."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Watch some Youtube."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue configuring new data fields. Refer to the data dictionary provided by @da-1 and @da-2 to ensure data consistency."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start implementing validation rules for the newly configured data fields to ensure data quality. Use existing validation rules as examples."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Test the configured data fields and validation rules in the test environment. Document any issues or bugs encountered. If the test environment isn't available, just read documentation of similar kind of validation rule configuration."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and head home."
+    }
+]

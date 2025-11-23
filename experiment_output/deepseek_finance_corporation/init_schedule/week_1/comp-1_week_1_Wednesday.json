@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks. Review compliance outline for completeness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research recent regulatory developments affecting market-neutral funds, focusing on SEC announcements and enforcement actions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Organize notes on regulatory developments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue researching recent regulatory developments, paying attention to any new guidance or rule changes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Summarize recent regulatory developments, highlighting implications for our fund."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @legal-1 and @ir-1 to share findings and discuss potential impacts on investor communications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update compliance considerations document with new regulatory insights."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's progress and identify any gaps in research or documentation."
+    }
+]

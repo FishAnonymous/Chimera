@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the schedule for the week. Prepare for the final training sessions by organizing materials and confirming attendance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final training session for the morning group (including @rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2). Focus on new workflows and answer any questions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break and informal Q&A session with trainees to gather initial feedback on training effectiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct final training session for the afternoon group (including @clinlead-1, @pchmp-1, @his-1, @his-2). Emphasize workflow changes and address concerns."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out feedback forms to all participants (@rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2, @clinlead-1, @pchmp-1, @his-1, @his-2) via email. Request detailed responses by Wednesday."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review initial feedback and note common themes or issues. Begin drafting updates to training materials."
+    }
+]

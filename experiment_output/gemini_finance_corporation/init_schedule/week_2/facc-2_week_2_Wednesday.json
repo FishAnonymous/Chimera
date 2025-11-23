@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and address any urgent matters."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's work and address any outstanding items. Check for the reply from @FACC-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Analyze the feedback from @FACC-2 on the reconciliation checklist, and modify the items. Discuss if necessary by emails."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue researching SEC reporting requirements for UHNWI funds, focusing on specific forms and filing deadlines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a calendar outlining key reporting deadlines for SEC-registered funds targeting UHNWIs. Include reminders for data gathering and review processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin creating a detailed chart of accounts tailored to the fund's investment strategy. Consider the types of assets, liabilities, and equity accounts required."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the preliminary chart of accounts with @CIO-1 to ensure it aligns with the fund's investment activities. Email @CIO-1 for discussion if there are uncertainties. Topic: Review of Preliminary Chart of Accounts"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the chart of accounts based on @CIO-1's feedback. Ensure it provides sufficient granularity for accurate financial reporting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize all documentation related to SEC reporting requirements, transaction tracking processes, and the chart of accounts in a shared drive for easy access by other team members."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review progress and identify any remaining tasks for the week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day"
+    }
+]

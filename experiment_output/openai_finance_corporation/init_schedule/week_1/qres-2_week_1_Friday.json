@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review final checks for the presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct the presentation to the executive team about the identified investment themes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from the presentation and discuss next steps with @pm-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the investment themes report and create an action plan based on the feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send the final report to all stakeholders, including @ir-1 for investor communication."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and wrap up for the week."
+    }
+]

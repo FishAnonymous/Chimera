@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review technical documentation and requirements for the fund management software."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdev-1 and @sdev-2 to discuss and finalize technical requirements for the fund management software, focusing on UI and data integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a detailed technical specification document for the fund management software, outlining UI components and data integration points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft with @cio-1 and @coo-1 for alignment with business goals."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin initial setup for the client portal project, including repository creation and initial architecture design."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by documenting progress and preparing tasks for the next day."
+    }
+]

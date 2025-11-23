@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review all three training modules for consistency and completeness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to ensure the modules align with vendor specifications."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Finalize all training modules and prepare them for upload to the learning management system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Upload the finalized modules to the LMS and test functionality with @helpdesk-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send a notification email to all staff about the upcoming training sessions."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by updating project documentation and planning for next week's tasks."
+    }
+]

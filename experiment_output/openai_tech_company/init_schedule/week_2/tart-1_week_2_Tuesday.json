@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @3D Modeler/Animator and @Lead Game Designer on LOD proposals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement changes based on feedback and start preparing LOD models."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Determine the 2D assets that require texture atlasing and compile a list."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a texture atlas for selected 2D assets, optimizing for draw calls."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the texture atlasing process and prepare to test performance next."
+    }
+]

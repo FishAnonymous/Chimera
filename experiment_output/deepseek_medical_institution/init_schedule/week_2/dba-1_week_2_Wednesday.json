@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent feedback from the clinical or data analysis teams."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 to present the progress on table design and data mapping. Discuss any roadblocks or additional requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Refine the table design based on feedback from the IT Project Manager. Ensure all constraints and relationships are correctly defined."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Complete the mapping of all EHR data elements to the new tables. Validate the mappings with sample data provided by @mrs-1 and @mrs-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to schedule a preliminary review of the table design and data mappings for quality assurance."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare test scripts to verify the integrity of the new tables and data mappings."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the day's progress and plan for the remaining tasks."
+    }
+]

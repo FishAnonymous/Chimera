@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from @comp-1 and @legal-1 on Form N-1A and Form ADV drafts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback into the drafts, focusing on clarifying ambiguous sections and ensuring all disclosures are comprehensive."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 to discuss quantitative strategies and ensure they are accurately represented in the compliance documents."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the investment strategy section of Form N-1A based on input from the quantitative research team. Ensure all statistical arbitrage methodologies are clearly explained."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft additional compliance documents, such as the fund's code of ethics and anti-money laundering (AML) policies. Coordinate with @comp-1 for templates and best practices."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the compliance timeline and adjust deadlines as needed. Communicate any changes to @pm-1 and relevant team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a quick audit of all drafted documents to ensure consistency and completeness. Flag any outstanding items for follow-up."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a consolidated update email to @coo-1, @cio-1, and @pm-1 with the current status of all compliance documents and next steps."
+    }
+]

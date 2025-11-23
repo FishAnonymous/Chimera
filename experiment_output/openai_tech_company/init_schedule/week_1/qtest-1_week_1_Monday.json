@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review game design documents and identify key gameplay flows, features, and mechanics that require testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @ldes-1 (Lead Game Designer) to discuss the identified gameplay flows and clarify any questions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing game design documents."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @cdev-1, @cdev-2, and @cdev-3 (Client Developers) to understand anticipated changes and focus areas for testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document findings from meetings and reviews in the shared project folder."
+    }
+]

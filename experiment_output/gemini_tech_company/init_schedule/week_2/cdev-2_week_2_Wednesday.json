@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Nothing urgent. Browse gamedev subreddit for interesting articles."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start implementing player feedback systems. Begin with a basic tutorial system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a tutorial widget that displays text instructions. Trigger it based on player actions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement error message display. If the player tries to perform an invalid action, show a relevant error message."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Watch Youtube video."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Expand the tutorial system to include visual cues, like highlighting interactive objects."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Talk with @LDES-1 to identify key areas where tutorial prompts are needed. @LDES-1 Topic: Tutorial implementation and key areas."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the error message system to provide more context and helpful suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Code review and commit. Check out new GPUs from NVIDIA."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and address any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the wireframes for the inventory screen, taking into account the different item types and interaction methods."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a low-fidelity mockup of the inventory screen in Figma, focusing on usability and visual clarity."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss the inventory screen design with @LDes-1, @Prod-1 and @SDes-1 (Systems Designer) to ensure it meets the game's requirements and aligns with the inventory system design. Email: [Subject: Inventory Screen Mockup Review Request] - Hi [LDes-1, Prod-1, SDes-1], I've completed the initial mockup for the inventory screen and would like to get your feedback, especially regarding its integration with the game's inventory system. Please let me know when you're available for a quick review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @LDes-1, @Prod-1 and @SDes-1 into the inventory screen mockup. Pay close attention to the integration with the inventory system and make any necessary adjustments."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin working on wireframes for the HUD (Heads-Up Display). Consider the essential information that needs to be displayed to the player (e.g., health, ammo, score)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Experiment with different HUD layouts and visual styles. Gather inspiration from other third-person shooter games."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and prepare for tomorrow's tasks, focusing on the HUD design."
+    }
+]

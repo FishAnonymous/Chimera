@@ -1,0 +1,28 @@
+{
+    "name": "Carlos Mendez",
+    "id": "lvdn-1",
+    "ip": "10.0.0.19",
+    "age": 34,
+    "role": "Level Designer",
+    "description": "Creates immersive and engaging game levels, balancing gameplay flow, environmental storytelling, and technical constraints. Collaborates with artists, programmers, and narrative designers to bring game worlds to life while ensuring optimal player experience and pacing.",
+    "tools": [
+        "UnrealEditor",
+        "WorldMachine",
+        "SpeedTree",
+        "LevelDesignToolkit",
+        "LightingTools",
+        "NavigationMeshTools"
+    ],
+    "mbti": "ISFP",
+    "interests": "urban sketching, parkour, world history",
+    "personality": "Visually creative and hands-on. Prefers prototyping levels in 3D space rather than on paper. Most productive in late morning to early afternoon. Enjoys exploring real-world locations for level design inspiration.",
+    "application": {
+        "Zendo": {
+            "account_name": "ldes-446655",
+            "password": "carlosM@leveldesign",
+            "permissions": "designer"
+        }
+    },
+    "email": "ldes-446655@corp.com",
+    "container_id": "3a9b8c7d2e1f"
+}

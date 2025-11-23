@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Check and reply to emails from @qatest-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Share the final version of the report template with @itpm-1 and @his-2. @PEOPLE: itpm-1, his-2 Topic: Share Final Report Template"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Receive the feedback from @itpm-1 and @his-2."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make changes based on the feedback from @itpm-1 and @his-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a summary of the report development process, highlighting key achievements, challenges, and lessons learned. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Think about the weekly work and summarize the weekly work in order to gain improvements."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with team members to have a weekly summary. @PEOPLE: all Topic: Weekly Meeting"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Make a work plan for the next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Clean up the files and back up."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Leave office."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, do a quick review of the presentation slides."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Grab coffee and head to the office, feeling a mix of excitement and slight nervousness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final check of emails, ensure all materials are ready for the presentation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Rehearse the presentation one last time, focusing on clear communication and concise delivery."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the risk management framework, stress testing methodology, and mitigation strategies to @CIO and @COO."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Answer questions and address any concerns raised by @CIO and @COO."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Celebrate the successful presentation with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate any final feedback from @CIO and @COO into the risk management framework documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the finalized risk management framework documentation to @legal-1 and @comp-1 for review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin planning for the next week's goals, including further refinement of the risk models and exploring advanced risk management techniques."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, clear my desk, and head out to celebrate the weekend!"
+    }
+]

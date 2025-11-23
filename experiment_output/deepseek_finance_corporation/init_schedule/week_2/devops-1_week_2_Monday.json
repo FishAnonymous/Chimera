@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the cloud infrastructure requirements for data analysis and fund management platforms."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @larch-1 to discuss the architecture and technical specifications for the cloud infrastructure setup."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research and compare cloud service providers (AWS, GCP, Azure) for optimal performance and cost-efficiency."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a preliminary design for the cloud infrastructure setup, focusing on scalability and reliability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin setting up the initial cloud environment (e.g., VPC, subnets, security groups) on the chosen provider."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Configure IAM roles and policies for secure access control within the cloud infrastructure."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the basic connectivity and functionality of the cloud setup."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the setup process and any issues encountered for future reference."
+    }
+]

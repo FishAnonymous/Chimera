@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight feedback. Finalize any remaining asset integrations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @uiux-1 to discuss any UI/UX changes needed due to new assets."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start polishing integrated assets and mechanics. Ensure everything works smoothly together."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue polishing work. Test everything thoroughly to ensure a smooth player experience."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document final changes and prepare a weekly summary for the team. Send update email to @prod-1 and @lpro-1."
+    }
+]

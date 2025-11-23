@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for responses from @LDES-1, @NDES-1, and @UIUX-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback and notes from the previous day\u2019s email and analyze areas of improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Make necessary adjustments to layouts based on feedback focusing on gameplay aesthetics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a document outlining the concepts, layouts, and gameplay rationale for the proposed levels to share with stakeholders."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare for a team meeting where I will present the sketches and the associated documents."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a reminder email for the upcoming team meeting to all stakeholders."
+    }
+]

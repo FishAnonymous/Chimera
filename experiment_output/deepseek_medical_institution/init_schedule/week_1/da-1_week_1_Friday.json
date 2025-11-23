@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, finalize weekly report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Submit weekly report to @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qatest-1 @qatest-2 to plan testing of data quality improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review test plans and provide feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @mrs-1 @mrs-2 on medical records data accuracy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any outstanding issues from the week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan tasks for next week based on current progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize workspace."
+    }
+]

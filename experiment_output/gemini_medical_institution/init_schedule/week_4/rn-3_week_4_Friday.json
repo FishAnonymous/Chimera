@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to the system, and check emails. Prepare for a potentially busy Friday shift."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review weekly performance and assess what could be improved, and discuss with @rn-1"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assess patients and document in EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play mobile games."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Audit EHR Documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete weekly report and send to @clinlead-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign out and prepare for the weekend."
+    }
+]

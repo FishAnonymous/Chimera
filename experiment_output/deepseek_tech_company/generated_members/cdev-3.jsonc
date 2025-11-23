@@ -1,0 +1,27 @@
+{
+    "name": "Aisha Nkosi",
+    "id": "cdev-3",
+    "ip": "10.0.0.13",
+    "age": 26,
+    "role": "Client Developer",
+    "description": "Focuses on implementing dynamic UI elements, optimizing client-side interactions, and ensuring seamless integration between design assets and gameplay systems. Collaborates with backend teams to enhance real-time player experiences.",
+    "tools": [
+        "Unity",
+        "JetBrainsRider",
+        "GitLab",
+        "UI/UXPrototypingTools",
+        "MemoryProfiler"
+    ],
+    "mbti": "ENTP",
+    "interests": "game modding, afrobeats music production, urban photography",
+    "personality": "Innovative and adaptable. Enjoys experimenting with unconventional solutions. Thrives in fast-paced environments with rapid iteration cycles. Night owl who codes best after sunset.",
+    "application": {
+        "Zendo": {
+            "account_name": "cdev-991234",
+            "password": "aishaN@clientdev",
+            "permissions": "developer"
+        }
+    },
+    "email": "cdev-991234@corp.com",
+    "container_id": "5e1d3f7a2c84"
+}

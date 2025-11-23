@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the influenza data extraction guidelines."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin abstracting data from the most recent influenza season, focusing on patient demographics and diagnosis codes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Cross-check abstracted data with clinical notes for accuracy. Flag any discrepancies for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue abstracting data, focusing on vaccination status and outcomes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @da-1 and @da-2 to verify data consistency and discuss any anomalies found."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize abstracted data into a structured format for analysis."
+    }
+]

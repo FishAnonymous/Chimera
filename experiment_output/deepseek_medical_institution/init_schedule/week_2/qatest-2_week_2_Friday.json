@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails. Review the to-do list for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Compile a report on the week's activities, including the data quality checks, validation rules implementation, and audit findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Break. Browse the latest articles on EHR system improvements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the report with @qatest-2 and make any necessary adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the week's report to @itpm-1, @clinlead-1, and @ehrv-1 in a meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any feedback or questions from the meeting and update the report accordingly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the final report to all relevant stakeholders."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Reflect on the week's work and identify areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week's work and plan for the next week."
+    }
+]

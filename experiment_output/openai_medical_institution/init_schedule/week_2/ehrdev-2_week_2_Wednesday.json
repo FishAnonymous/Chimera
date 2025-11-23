@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails for updates on the integration project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Participate in a meeting with the full team to provide updates on EHR integration progress and seasonal influenza trends."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Focus on finalizing the integration code for retrieving influenza data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Testing the finalized integration code with @qatest-1 and @qatest-2, documenting results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from QA testing and adjust the code as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @dba-1 for database support if needed, outlining any data issues found."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and plan for Thursday."
+    }
+]

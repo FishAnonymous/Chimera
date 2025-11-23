@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review any outstanding emails from the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final review of the week\u2019s achievements and challenges with @Data Scientists."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Compile a summary of learnings and adjustments to be included in the final report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Share final project report with team and stakeholders for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Reflect on the weekly objectives and prepare goals for the next week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send a thank-you email to all team members for their hard work and contributions this week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Browse relevant industry news and updates to stay informed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up work and log off."
+    }
+]

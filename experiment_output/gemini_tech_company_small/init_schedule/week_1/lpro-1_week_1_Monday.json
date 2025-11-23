@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and company announcements. Briefly review the weekly goals: project setup, player character, game loop, collision detection, player movement, input handling, camera controls, and basic collision prevention. Mentally prioritize tasks - project setup and version control are critical first steps."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Create a new project in the designated game engine (Unreal Engine). Set up the basic folder structure: Source, Content, Config. Commit the initial, empty project to the company's Git repository. Configure .gitignore to exclude intermediate files and build artifacts."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Configure version control settings. Set up the project's Git repository. Ensure proper branching strategy is in place (develop, main). Create a new branch 'feature/player_character' for player-related development."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin creating the Player Character class. Define the base class 'AGameCharacter' in C++. Add basic properties: health, speed, isAlive. Implement getter and setter functions for these properties."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Implement basic player movement functions: MoveForward(), MoveRight(), Jump(). These functions will be the basis for input handling later. Leave them empty for now."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Investigate the engine's built-in Input System. Explore Input Mapping Contexts and Action/Axis Mappings. Consult the engine documentation and online resources for best practices."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a new Input Mapping Context named 'PlayerInputContext'. Define Action Mappings for 'MoveForward', 'MoveRight', 'Jump'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Bind keyboard inputs (W, A, S, D, Spacebar) to the corresponding Action Mappings in 'PlayerInputContext'."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Integrate the Input System into the 'AGameCharacter' class. Implement event handling for the 'MoveForward', 'MoveRight', 'Jump' actions. Call the corresponding movement functions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Test the initial input integration. Verify that pressing the assigned keys triggers the corresponding events in the Player Character class."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Commit changes to the 'feature/player_character' branch with a descriptive message: 'Initial player character class and input system integration.'"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off."
+    }
+]

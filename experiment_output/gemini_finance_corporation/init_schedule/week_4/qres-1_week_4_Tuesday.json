@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, revisit the documentation of the existing risk framework."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin developing the liquidity risk model. Research relevant metrics (e.g., bid-ask spread, volume) and their impact on trade execution costs and portfolio liquidation strategies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Code the liquidity risk model. Incorporate order book data and market impact estimates to assess the potential costs of unwinding positions under different market conditions. @dsde-1 Request market data for specific assets."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the liquidity risk model on historical data. Simulate portfolio liquidations under various stress scenarios (e.g., sudden market downturns, high volatility periods). Evaluate the model's ability to accurately estimate liquidation costs and timeframes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read a book."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the liquidity risk model's specifications, assumptions, and limitations. Prepare a short presentation summarizing the model's performance and potential areas for improvement. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start working on the correlation risk model. Research methods for estimating and managing correlation risk in a statistical arbitrage portfolio. Explore techniques like factor models and copulas."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Code the correlation risk model. Implement a factor model approach to estimate the correlations between different assets in the portfolio. Backtest the model's performance using historical data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Sync code changes. "
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, review the goals for the week, and gather materials related to level design."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin constructing 3D blockouts for the first promising level layout using the required tools."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, browse level design websites for inspiration and techniques."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on the 3D blockouts, refining layouts based on feedback from previous projects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the flow and pacing of the completed blockouts, walking through them to identify areas for improvement."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document findings from the testing phase, noting specific areas that require adjustments."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare to share blockouts with the development team by organizing files and feedback forms."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any messages before logging out."
+    }
+]

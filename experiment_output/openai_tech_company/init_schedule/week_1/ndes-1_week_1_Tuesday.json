@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize the outline of key themes for the narrative."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 (Lead Game Designer) and @sdes-1 (Systems Designer) to present the outline of narrative themes for feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate feedback from the meeting into the narrative outline and explore character connections."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a one-page synopsis capturing the essence of the story, integrating key themes and character arcs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and revise the one-page synopsis based on the initial draft. Check for clarity and engaging elements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email the latest one-page synopsis draft to @ldes-1 (Lead Game Designer) and @sdes-1 (Systems Designer) for their input."
+    }
+]

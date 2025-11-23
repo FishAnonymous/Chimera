@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, grab a coffee, and check emails. Prioritize emails based on urgency and relevance to the EHR integration project. Skim through industry news related to EHR systems and data collection."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the project goal for the week: 'Conduct a thorough assessment of the current EHR system to identify gaps in data collection capabilities related to influenza.' Break down this goal into smaller, actionable tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Initiate assessment of the current EHR system. Focus on modules related to patient intake, diagnosis, medication, and lab results. Document areas that seem relevant to influenza data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Consult the EHR system documentation (if any exists and is up-to-date...likely not) to understand the data structure and available APIs. If documentation is lacking, prepare to reverse engineer."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start mapping out the data flow for a hypothetical influenza case from patient registration to discharge. Identify potential points where relevant data might be captured or missed. Note the specific tables and fields involved in each step."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Head to the cafeteria for a quick bite and maybe catch up on some tech blogs."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume EHR system assessment. Begin to identify missing data elements that would be crucial for influenza trend analysis (e.g., specific flu strain, vaccination status, etc.)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an email to @clinlead-1 and @rn-1, @rn-2, @rn-3 to schedule a brief meeting tomorrow to discuss the clinical perspective on influenza data collection and validation of identified data gaps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue exploring the EHR system, focusing on reporting capabilities. See what pre-built reports are available related to respiratory illnesses or influenza. Evaluate their usefulness for trend analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize the findings from today's EHR assessment in a detailed document. Highlight potential data gaps, areas for improvement, and questions for the clinical team. Save this document in a secure location."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Start looking for existing data dictionaries or data models related to healthcare, especially influenza data. Download if available for future analysis."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Back up work and head home."
+    }
+]

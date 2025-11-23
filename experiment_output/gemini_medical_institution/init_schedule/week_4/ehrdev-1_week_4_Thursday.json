@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for a response from the EHR vendor. If the meeting is today, review the agenda and prepare for the discussion. Confirm with @ITPM-1, @CLINLEAD-1 attendance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final preparations for meeting with EHR vendor: rehearse key questions and anticipated responses, gather necessary documents for reference."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend meeting with @EHRV-1, @ITPM-1, @CLINLEAD-1. Discuss the feasibility of implementing the required EHR updates and modifications for influenza trend analysis. Cover API access, data formats, security protocols, and potential challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Discuss the meeting outcomes with @ITPM-1."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue meeting with @EHRV-1, @ITPM-1, @CLINLEAD-1. Discuss potential solutions and data migration options. Obtain cost estimates and timelines for development and implementation. Discuss service level agreements (SLAs)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the key discussion points, decisions, and action items from the meeting with the EHR vendor. Include cost estimates, timelines, and any potential risks or challenges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share the meeting summary with @ITPM-1, @CLINLEAD-1, @DA-1, @HIS-1. Request feedback and input on the proposed solutions and timelines."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Wrap up the day by organizing notes and documents related to the project. Prepare for tomorrow's tasks."
+    }
+]

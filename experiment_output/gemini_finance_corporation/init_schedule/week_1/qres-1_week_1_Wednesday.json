@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning Routine: Check emails, financial news, and internal communication channels."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Data Source Investigation: Research and identify potential data providers for the required data (market prices, trading volumes, etc.). Assess data quality, availability, and cost. Contact @dsde-1 and @dsde-2 to discuss the feasibility of obtaining and processing the data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Risk Metric Research: Research and identify appropriate risk metrics for quantifying volatility, liquidity, and correlation risks. Consider metrics such as VaR, Expected Shortfall, and liquidity ratios. Investigate their limitations and applicability to the chosen strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Relax and maybe take a short walk to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Backtesting Feasibility Assessment: Assess the feasibility of backtesting the selected strategies given the available data and computational resources. Identify potential challenges and limitations. Discuss with @sdev-1 and @sdev-2 regarding the development of backtesting tools."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email Communication: Email @sdev-1 and @sdev-2 to discuss the backtesting requirements and potential solutions. TOPIC: Backtesting Tool Development."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "SEC Regulations Review: Revisit relevant SEC regulations pertaining to statistical arbitrage funds and UHNWI investors. Ensure that the chosen strategies and risk management framework comply with all applicable regulations. Consult @legal-1 and @comp-1 for clarification."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up: Summarize findings, update notes, plan for tomorrow's tasks (refined strategy backtesting, risk model design)."
+    }
+]

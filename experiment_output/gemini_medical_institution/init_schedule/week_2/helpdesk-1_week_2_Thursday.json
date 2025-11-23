@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, enjoy a cup of herbal tea, and visualize a positive and productive day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check work email and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on improving the integration between the ticketing system and the phone support channel. Write code and test its proper operation. "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break to listen to a guided meditation or practice mindfulness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work on integrating the phone support system with the existing hospital phone system. @EHRV-1 @ITPM-1 Topic: Existing IT system compatibility check"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Explore a new restaurant or food truck near the hospital."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue improving the help desk portal, adding features such as personalized dashboards and ticket escalation options."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the phone channel, simulating different scenarios and ensuring that tickets are created correctly with relevant call information."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Address any bugs or issues that arise during testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and make a list of tasks for tomorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out and head home, feeling accomplished and ready for the weekend."
+    }
+]

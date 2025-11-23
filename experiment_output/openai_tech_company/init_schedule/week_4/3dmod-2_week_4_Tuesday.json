@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue polishing the environment assets and props, focusing on texture quality and proper lighting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the existing environment models and identify areas needing additional detail or rework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @Lead Game Designer to ensure the environment assets align with the game\u2019s vision."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement feedback received on the environment models and begin preparing them for presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and summarize the progress of the day."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the workday."
+    }
+]

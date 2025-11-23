@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Prepare for the meeting with the executive team by reviewing the presentation outline and any notes from the previous discussions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the investor presentation outline to the executive team @cio-1, @coo-1, and @legal-1 for feedback and approval."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate feedback from the executive team into the presentation outline."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Communicate with @audit-1 regarding any necessary auditing considerations for the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create more detailed slides based on the executive team\u2019s feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @onbd-1 to gather insights on UHNWIs' perspectives and preferences regarding investment presentations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine presentation slides based on insights obtained from @onbd-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Conduct a self-review of the updated presentation to ensure clarity and engagement."
+    }
+]

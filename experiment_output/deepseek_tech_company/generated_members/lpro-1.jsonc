@@ -1,0 +1,27 @@
+{
+    "name": "Raj Patel",
+    "id": "lpro-1",
+    "ip": "10.0.0.10",
+    "age": 35,
+    "role": "Lead Programmer",
+    "description": "Oversees the technical implementation of the game, including engine architecture, gameplay systems, and performance optimization. Leads the programming team, conducts code reviews, and ensures best practices are followed.",
+    "tools": [
+        "UnrealEngine",
+        "VisualStudio",
+        "Perforce",
+        "ProfilingTools",
+        "BlueprintVisualScripting"
+    ],
+    "mbti": "INTJ",
+    "interests": "chess, mechanical keyboards, sci-fi novels",
+    "personality": "Highly analytical and structured. Prefers early mornings for deep work. Enjoys mentoring junior developers.",
+    "application": {
+        "Zendo": {
+            "account_name": "prog-882736",
+            "password": "rajP@leadcode",
+            "permissions": "admin"
+        }
+    },
+    "email": "prog-882736@corp.com",
+    "container_id": "3a8f7b2c1d09"
+}

@@ -1,0 +1,147 @@
+[
+    {
+        "week": 1,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Conduct market research on investment strategies targeting Ultra High Net Worth Individuals (UHNWIs) with a focus on their unique financial goals, preferences, and expectations.",
+            "Analyze different categories of investment strategies suitable for UHNWIs, including alternative investments, customized asset allocations, philanthropy, and tax strategies."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Conduct analysis of historical performance trends in market-neutral funds to understand their resilience in various market conditions.",
+            "Assess average annualized returns and the risk-reward profile of market-neutral strategies."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Develop a checklist of onboarding requirements specifically for UHNWIs, including documentation, compliance, and initial strategy discussions."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Draft a comprehensive communication strategy to reach out effectively to UHNWIs, focusing on personalized communication and exclusive service offerings.",
+            "Identify target audiences including current clients, prospective UHNWIs, and family offices."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Research SEC regulations regarding market-neutral funds, ensuring a thorough understanding of compliance requirements for fund setup.",
+            "Outline key compliance checks and frameworks applicable to fund management."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Outline the technical requirements for fund management software focused on user experience, compliance, and real-time data access."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Assess potential risks in fund setup and outline auditing requirements covering regulatory compliance, operational risks, and financial monitoring."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Develop a statistical model to evaluate risk-return profiles of market-neutral funds, focusing on quantifying risk and assessing returns."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Organize an introductory team meeting to confirm roles and responsibilities for the fund setup task.",
+            "Compile data and insights from market research and statistical analysis for strategy discussions."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Prepare an investor presentation outline to effectively communicate the fund's investment strategies and expected returns tailored to UHNWIs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Conduct an analysis of competitors in the market-neutral fund space targeting UHNWIs to understand their strategies and performance metrics."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Identify potential investment themes based on current economic indicators and market trends relevant for UHNWIs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Define investment strategies focusing on market-neutral investments while establishing criteria for selecting asset managers."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Outline operational plans and resources needed for the fund launch, including key phases and team responsibilities."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Prepare a preliminary budget for fund operations in Week 1, accounting for personnel and operational costs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Develop a plan for the user interface of the investor portal focusing on client experience and secure access to investment data."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Review compliance documentation required for fund registration, focusing on SEC regulations and necessary disclosures."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Establish cloud infrastructure to support data analysis and fund management platforms, ensuring compliance with security standards."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Assist in preparing financial monitoring practices to ensure reliable tracking of fund performance and compliance."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Collaborate on backend development planning, ensuring alignment of technical requirements and integration with front-end functionalities."
+        ]
+    }
+]

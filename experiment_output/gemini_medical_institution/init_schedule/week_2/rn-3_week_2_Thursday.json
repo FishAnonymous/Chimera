@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any updates or notifications. Review previous day's notes and address any follow-up items."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review guidelines on patient privacy and data security within the EHR system. Reinforce the importance of maintaining confidentiality."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Patient Assessments: Patient 17 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Administer influenza vaccination to Patient 18 and document the information into the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Administer influenza vaccination to Patient 19 and document the information into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Patient Assessments: Patient 20 - Focused assessment based on presenting complaint, ensuring accurate and thorough documentation in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Contact @DA-1 and @DA-2 to request a preliminary report on the influenza vaccination data collected so far (Topic: Influenza Vaccination Data Report Request)."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Review the documentation process for reporting any adverse events following influenza vaccination. This includes understanding the appropriate forms and procedures."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Patient Assessments: Patient 21 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review patient assessment procedures, focusing on specific documentation requirements for patients with chronic conditions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries from the day to ensure accuracy and completeness. Address any identified issues promptly."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end work."
+    }
+]

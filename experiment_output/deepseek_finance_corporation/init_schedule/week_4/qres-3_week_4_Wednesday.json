@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review backtesting results and refine strategies based on feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2 to discuss strategy refinements and additional tests."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct additional backtesting with refined strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile performance metrics from backtesting results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ir-1 with performance metrics and request input for investor presentations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a draft of the investor presentation slides focusing on performance metrics."
+    }
+]

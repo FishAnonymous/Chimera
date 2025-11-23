@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, grab a cup of tea. Check emails and reflect on the week's progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on character customization. Design the basic character customization options, including appearance, skills, and attributes. Consult with @UIUX-1 on how to implement the customization interface."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement a simple character creation screen where players can customize their character's appearance. Use placeholder assets for now."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Have a lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a basic skill tree system where players can spend skill points to unlock new abilities. Design a few example skills for each class."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Integrate the character customization system with the combat and economy systems. Ensure that character choices have a meaningful impact on gameplay."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a build of the game with all the implemented systems and features. Schedule a playtesting session with the team for next week.  Provide the build to the QA Team @CTEST-1."
+    }
+]

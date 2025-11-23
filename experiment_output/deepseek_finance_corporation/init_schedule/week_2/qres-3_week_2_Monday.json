@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the goal for the week and prioritize tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start developing the statistical model framework. Outline key components: risk metrics, return metrics, and neutrality constraints."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss model assumptions and data requirements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining the statistical model, focusing on risk-return trade-offs and neutrality conditions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research and compile a list of financial databases for historical performance data (e.g., Bloomberg, CRSP)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @dsde-1, @dsde-2 to request access to internal data repositories and discuss data extraction methods."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin data collection from available sources, focusing on market-neutral fund performance metrics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review collected data for completeness and consistency. Document findings."
+    }
+]

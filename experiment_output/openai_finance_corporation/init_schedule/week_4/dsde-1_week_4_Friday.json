@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the company system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the week\u2019s progress and identify areas for further improvement."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare materials for any follow-up discussions regarding investment strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Engage with team members for any final feedback and discussion points."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conclude the week by documenting everything learned and progress made."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the week and log out."
+    }
+]

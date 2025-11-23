@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and prepare for the final review of the UI/UX improvements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final Presentation and Review with @LDES-1 and @PROD-1. Present the updated HUD and menu system designs. Address any remaining concerns and obtain final approval."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the final approval, prepare all design assets and documentation for handoff to the client developers (@CDEV-1, @CDEV-2, @CDEV-3). Organize files and create clear instructions for implementation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @CDEV-1, @CDEV-2, @CDEV-3 to officially hand off the UI/UX design assets and answer any questions they may have regarding implementation. Review the documentation and provide guidance as needed. @CDEV-1, @CDEV-2, @CDEV-3 Subject: UI/UX Design Asset Handoff"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin planning for the next iteration of UI/UX improvements. Review player feedback and identify areas where further enhancements are needed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Catch up on industry news and articles related to UI/UX design for games. Explore new tools and techniques that could be applied to future projects. Maybe browse Dribbble for cool inspirations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document all the learnings and challenges from the UI/UX enhancements this week. Write a short summary report for @LDES-1 and @PROD-1 outlining the progress made and the lessons learned. This also helps prepare for future sprints. @LDES-1, @PROD-1 Subject: UI/UX Enhancement Summary Report - Week 4"
+    }
+]

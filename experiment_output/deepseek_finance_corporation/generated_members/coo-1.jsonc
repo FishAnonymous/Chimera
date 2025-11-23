@@ -1,0 +1,27 @@
+{
+    "name": "Gabriel Martinez",
+    "id": "coo-1",
+    "ip": "10.0.0.20",
+    "age": 42,
+    "role": "Chief Operating Officer",
+    "description": "Oversees the daily operations of the firm, ensuring all departments work together effectively to achieve operational goals. Focuses on implementing efficient processes and optimizing resource management.",
+    "tools": [
+        "Microsoft Office",
+        "Asana",
+        "Trello",
+        "Salesforce",
+        "Tableau"
+    ],
+    "mbti": "ESTJ",
+    "interests": "golf, cooking, personal development",
+    "personality": "Decisive and structured, enjoys leading teams and values clear communication. Often takes initiative to improve processes and fosters a collaborative team environment.",
+    "application": {
+        "OperationsManager": {
+            "account_name": "coo-123456",
+            "password": "GabrielCOO@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "coo-123456@corp.com",
+    "container_id": "y67j9l2k0190"
+}

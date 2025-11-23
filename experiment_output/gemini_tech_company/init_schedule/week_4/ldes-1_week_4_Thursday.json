@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and calendar. Review feedback and prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on polishing the game's User Interface (UI) and User Experience (UX). Collaborate with @uiux-1 to ensure that the UI is intuitive, visually appealing, and functional."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with @uiux-1 to review the latest UI/UX designs and discuss any potential improvements or adjustments. @uiux-1 Email to schedule a meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @uiux-1, discussing the UI/UX. Offer feedback and help polish the designs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Reviewing and polishing the game's sound design, checking for any inconsistencies. Provide feedback to @aud-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document feedback to @aud-1 and deliver via email. @aud-1 Feedback delivered via email."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by reviewing completed tasks and preparing for tomorrow's activities. Ensure that all team members are aware of their responsibilities and deadlines."
+    }
+]

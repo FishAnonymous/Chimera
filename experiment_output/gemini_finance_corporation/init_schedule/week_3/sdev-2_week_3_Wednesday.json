@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and catch up on news and social media."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on the order cancellation service. Review the existing code for order placement and modification to ensure consistency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Design and implement the order cancellation service API endpoint. Ensure that it can handle different types of cancellation requests, such as immediate cancellation and cancellation on condition."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement logic to verify that the user is authorized to cancel the order. Integrate with the authentication and authorization system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play table tennis with colleagues in the break room."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the order cancellation service. Write unit tests to cover different cancellation scenarios, including successful and failed cancellations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start working on integrating the trade execution module with the risk management module. @sdev-1 @larch-1 discuss about Integration scheme. Prepare an email about this discussion with software architect and my colleague."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Design the interface between the trade execution module and the risk management module. Define the data that needs to be exchanged between the modules, such as order details, market data, and risk limits."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the integration interface and implementation details. Update the overall system documentation to reflect the integration."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and plan for tomorrow. Commit changes to the Git repository."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

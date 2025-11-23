@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Wake up, review yesterday's progress and today's schedule."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and team communication. Address any immediate issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Morning check-in. Briefly present the progress on the weapon system design and the plan for the day to @LDES-1, @LPRO-1, @PROD-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on the player movement system design. Define player movement states (walking, running, crouching, jumping, sliding) and their transitions. Consider animation requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Sketch out diagrams illustrating the player movement state machine and the input mapping. Document the intended behavior of each movement state."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @LVDN-1 to discuss potential level design constraints that could impact player movement. For example, cover placement and traversal opportunities. Topic: Player Movement and Level Design Constraints."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research and analyze player movement mechanics in popular Third-Person Shooters. Pay attention to responsiveness, fluidity, and tactical considerations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine the player movement system design based on research and feedback from @LVDN-1. Document specific values for movement speeds, jump heights, and slide distances."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation summarizing the weapon and player movement system designs for review by the team tomorrow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Work on presentation. Try to add detailed content to make it easier for the team members to understand and raise discussion."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off."
+    }
+]

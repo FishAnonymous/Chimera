@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review overnight emails and market news."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Schedule a call with @audit-1 to discuss the fund's audit plan and timeline. @PEOPLE; Topic: Fund Audit Plan"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Call with @audit-1 to discuss the fund's audit plan and timeline. @PEOPLE; Topic: Fund Audit Plan"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review daily tasks from other members of the company."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any roadblocks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Read WSJ."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Work on compiling the progress report for CIO"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Request update from @dsde-1 and @dsde-2 regarding data pipeline, ask if they require support @PEOPLE; Topic: Data Pipeline Checkup"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address emails and pending administrative tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Verify the progress report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow and leave the office."
+    }
+]

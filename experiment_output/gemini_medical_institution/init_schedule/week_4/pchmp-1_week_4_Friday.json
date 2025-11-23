@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check email and address any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the presentation for the project meeting. Include key findings from the clinical staff feedback, recommended changes to the EHR and training materials, and next steps."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Contact @qatest-1, @qatest-2 to discuss EHR testing and coordinate if there is a plan for User Acceptance Testing (UAT)"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the presentation to @itpm-1 and @clinlead-1 for review prior to the project meeting. Topic: Project Update: Clinical Feedback and EHR Improvements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare talking points for the presentation, focusing on the clinical benefits of the recommended changes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend the weekly project meeting and deliver the presentation on clinical feedback and EHR improvements. Facilitate discussion and answer questions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Following the meeting, document any new action items or decisions made."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for next week's activities, focusing on the implementation and testing of the recommended EHR changes. Follow up with @ehrdev-1, @ehrdev-2 and @qatest-1, @qatest-2"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review project documentation and update any relevant documents based on the week's activities."
+    }
+]

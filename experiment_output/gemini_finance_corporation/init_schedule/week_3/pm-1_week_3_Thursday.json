@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Prepare a cup of tea and catch up on industry news."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and project management system for updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @audit-1 to review the audit plan and address any questions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review the data security and privacy protocols and ensure that all team members are following the procedures. Work with @devops-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Call with @larch-1 and @sdev-1 and discuss the platform security and provide a solution together."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Eat lunch with colleagues in the canteen."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Revise the protocols regarding the platform security and privacy."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Arrange a meeting with the whole team to make sure they are familiar with the updated version of the protocols. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Reply emails to solve any questions of the team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check the progress of building the software, and offer help if necessary."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Monitor risk."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

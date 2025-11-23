@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from @pm-1 or other team members."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Outline compliance and regulatory considerations for accounting. Document SEC reporting requirements, audit trails, and internal controls."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @audit-1 to ensure all accounting practices align with external audit requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the compliance and regulatory documentation. Ensure all necessary controls and reporting mechanisms are in place."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @comp-1 and @legal-1 for a final review of the compliance documentation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a summary of the week's progress and any pending tasks."
+    }
+]

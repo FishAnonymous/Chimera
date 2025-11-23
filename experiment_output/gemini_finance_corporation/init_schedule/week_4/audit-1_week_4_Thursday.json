@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on specific audit procedures with respect to the data flow of the trading activity from different trading platforms and the internal data repositories. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Ensure there is an appropriate process in place to ensure data accuracy during the trade."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate a meeting with @larch-1, @sdev-1 and @sdev-2 to discuss more about the trading system. Topic: Discussion of the data accuracy during the trade"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the conversation in the morning, adjust the work progress."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Double check the recommendations for improving internal controls, focusing on areas that directly address the identified audit risks. Prioritize recommendations based on their impact and feasibility."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final Review the work progress for today, and record the action steps for tomorrow"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Leaving the office."
+    }
+]

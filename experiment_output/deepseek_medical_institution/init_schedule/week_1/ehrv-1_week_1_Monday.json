@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review EHR system documentation for influenza data collection capabilities."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @ehrdev-1 and @ehrdev-2 to discuss EHR system capabilities and initial findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft a list of hospital-specific requirements for influenza data collection based on discussions with clinical staff."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @clinlead-1 and @pchmp-1 to validate the drafted requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up on emails and incorporate feedback from clinical staff into the requirements document."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact EHR vendor to schedule a call for discussing requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare presentation slides summarizing EHR capabilities and hospital requirements for vendor call."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review slides with @itpm-1 for final approval before vendor call."
+    }
+]

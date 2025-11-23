@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and build status. Review feedback on character movement documentation. Check for bug reports related to movement."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine character movement system based on the feedback from yesterday. Fix any critical bugs reported by @qtest-1."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start implementing the combat system. Focus on basic melee attacks. Define damage calculations and hit detection logic."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement basic animation system for melee attacks. Work with @3dmod-1 to integrate character animations into the combat system. Send email to @3dmod-1 on requesting animation resources @PEOPLE"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing the combat system. Add ranged attack capabilities (basic projectile). Define projectile properties and collision detection."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write unit tests for the combat system. Test damage calculations, hit detection, and projectile behavior. Consult with @sdes-1 and @sdes-2 on design considerations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the combat system, including code structure, damage calculations, and animation integration. Check code in."
+    }
+]

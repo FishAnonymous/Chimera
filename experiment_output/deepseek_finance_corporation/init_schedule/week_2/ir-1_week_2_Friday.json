@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize any pending investor communications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the final investor meeting of the week, addressing any remaining questions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Debrief with the team on the week\u2019s investor meetings and feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the investor presentation based on the week\u2019s feedback and finalize for next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out thank-you emails to prospective investors and confirm next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize files, and plan for the following week."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check final emails regarding the week's tasks, and finalize the report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Compile and present performance optimizations discovered throughout the week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for the upcoming playtesting session, ensuring all features are optimally configured."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct final tests on gameplay responsiveness; gather data for any last-minute adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week\u2019s tasks, review the insights gathered, and send a weekly summary to @prod-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around, browse interesting websites related to game design and development."
+    }
+]

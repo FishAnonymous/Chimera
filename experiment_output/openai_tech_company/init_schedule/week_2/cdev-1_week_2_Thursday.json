@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the list of bugs and usability issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue resolving bugs in the backend functionalities noted from playtesting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refactor code and improve logic handling for seamless transitions between UI and backend."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @ldes-1 to check if the changes align with the overall game design vision."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on final integrations and prepare for another round of playtesting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check off tasks in project management tool and prepare reports for Friday's meeting."
+    }
+]

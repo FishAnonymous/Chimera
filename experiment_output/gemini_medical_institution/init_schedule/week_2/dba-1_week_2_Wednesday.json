@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to emails, prioritizing urgent database related requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue designing the influenza database schema, focusing on tables related to medication orders and administration records."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research best practices for storing medication data in healthcare databases. Consider how to represent medication names, dosages, and routes of administration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Define data types for each column in the medication orders and administration records tables. Select appropriate data types for storing medication codes and units of measure."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the data types chosen for each column, including explanations for the selections and any relevant coding schemes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the table designs and data type definitions for medication orders and administration records. Identify any potential issues or areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check the documentation from @ehrdev-1 @ehrdev-2. Topic: medication"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the overall database schema design document with the completed table definitions and data type specifications."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Backup the database schema design document and prepare for tomorrow's review meeting with the team."
+    }
+]

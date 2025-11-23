@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the status of the current build tools."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @tdev-1 and @lpro-1 to discuss CI tool requirements and the current setup for automated builds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin researching and configuring CI tools (e.g., Jenkins, CircleCI) for the project."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Configure CI tools to automatically run builds whenever changes are pushed to the repository."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Troubleshoot any issues that arise during the configuration process and document findings."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails, respond to outstanding queries, and prepare for next day's work."
+    }
+]

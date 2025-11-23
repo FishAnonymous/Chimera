@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day. Review any new feedback from @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to ensure medical records are aligned with updated clinical workflows."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @da-1 and @da-2 to ensure influenza data collection aligns with analysis needs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide additional training or clarification to nursing staff as needed (@rn-1, @rn-2, @rn-3)."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and finalize documentation for clinical workflows and submit to @his-1 and @his-2 for approval."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @helpdesk-1 to address any user issues related to the EHR system."
+    }
+]

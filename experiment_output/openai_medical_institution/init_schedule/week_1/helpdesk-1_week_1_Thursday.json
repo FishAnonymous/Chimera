@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the Help Desk system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the training plan and prepare materials for training sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email the finalized training plan to @trainer-1 and @clinlead-1 for approval."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Plan logistics for the training sessions (e.g., scheduling sessions, room arrangements)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day's tasks and log off."
+    }
+]

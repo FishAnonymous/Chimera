@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and summarize week's progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize and send weekly progress report to @EHR Vendor Liaison and @Clinical Lead."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @Help Desk Support to identify common issues reported by users."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Plan and prioritize action items for the following week based on user feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final round of testing for the week on high-priority items."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Wrap up documentation and ensure all findings are recorded."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week's tasks and set goals for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and make sure all communications are responded to before the weekend."
+    }
+]

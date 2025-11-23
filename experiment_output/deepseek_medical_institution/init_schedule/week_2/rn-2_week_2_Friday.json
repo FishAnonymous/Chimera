@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check for any weekend updates or messages. Prepare for the day's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final influenza symptom assessments for the week. Ensure all EHR entries are complete and accurate."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer any remaining vaccinations. Document all details in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile a weekly report on influenza symptom trends and vaccination rates. Share with @clinlead-1 and @itpm-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @rn-3 and @mrs-1 to discuss any outstanding EHR documentation issues."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review the week's work, ensuring all patient data is accurately recorded in the EHR. Prepare for the next week."
+    }
+]

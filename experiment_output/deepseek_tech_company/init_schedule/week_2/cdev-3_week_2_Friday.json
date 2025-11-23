@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review any remaining tasks for the week. Finalize character abilities and enemy AI features."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Test all core gameplay features together, ensuring they work harmoniously."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse for new tools or plugins that could aid development."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Polish UI elements based on final feedback from @uiux-1 and @prod-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qtest-1 to hand off the current build for QA testing. Discuss any known issues."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a detailed progress report for the week, highlighting achievements and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the progress report to @prod-1 and wrap up the week."
+    }
+]

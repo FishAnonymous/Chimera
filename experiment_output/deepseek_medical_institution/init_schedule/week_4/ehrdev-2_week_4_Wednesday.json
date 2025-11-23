@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Work on any pending EHR system configurations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test new data fields and workflows with @his-1 and @his-2 to ensure data integrity."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, browse tech forums."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Continue testing and validation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide technical support for any system issues, focusing on urgent requests."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @ehrv-1 to discuss any vendor-specific configurations or issues."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document all changes and updates made during the day."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day and plan for tomorrow."
+    }
+]

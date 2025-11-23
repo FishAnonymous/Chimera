@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and finalize demo for the prototype presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the prototype in the team meeting, collect feedback and suggestions for improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document feedback from the presentation and outline next steps for the upcoming week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Allocate time to respond to emails and finalize any loose ends related to the week\u2019s tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan tasks for the following week based on feedback received and key priorities."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up and log off for the week."
+    }
+]

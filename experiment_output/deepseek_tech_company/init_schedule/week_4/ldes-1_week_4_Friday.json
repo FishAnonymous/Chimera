@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any follow-up questions from the team regarding playtesting results."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the playtesting report and submit it to @prod-1 for review."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @lpro-1 and @sdes-2 to discuss implementation of final design changes based on playtesting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Wrap up the week by ensuring all documentation is updated and accessible to the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a weekly summary email to @ALL, highlighting achievements and next week\u2019s priorities."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Follow up on any pending issues from the week. Prepare for the weekly team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend weekly team meeting.  Present a summary of the testing progress for the week, highlighting any major successes or challenges faced. Reiterate the need for clear QA goals for future sprints."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any action items from the team meeting. Finalize documentation for all tests performed this week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Time for a longer break to recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Depending on the status of the project, begin testing the UI/UX elements. Ensure all buttons and menus are functioning correctly. Evaluate the user experience and identify any areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all bugs or issues found related to UI/UX elements in the bug tracking system. Provide detailed feedback to @uiux-1 (UI/UX Designer)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a final summary report of all testing activities for the week.  Submit the report to @prod-1 and @ldes-1. Cleanup workspace and prepare for the weekend."
+    }
+]

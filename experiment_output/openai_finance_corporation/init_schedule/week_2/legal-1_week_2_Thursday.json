@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Review the updated prospectus."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the prospectus draft and prepare it for internal review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Share the final draft of the prospectus with @pm-1 and @coo-1 for their approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare additional materials needed for SEC submission."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and make notes for tomorrow."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Look for any security-related articles related to game server development."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin designing the APIs for client-server communication. Consider using RESTful principles or other API design patterns (e.g., gRPC, GraphQL)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Define the API endpoints for key functionalities, such as player authentication, game session management, player data retrieval, and game state updates."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Specify the data formats for API requests and responses (e.g., JSON, Protocol Buffers). Design the data structures to be efficient and easy to use on both the client and server."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the API endpoints for player authentication using a framework like Express.js (Node.js), Spring Boot (Java), or similar for other languages."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement API middleware to handle request validation, authentication, and authorization. Ensure that the APIs are protected against common security vulnerabilities (e.g., SQL injection, cross-site scripting)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the API endpoints using tools like Postman or curl. Verify that the APIs return the correct data and handle errors gracefully."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Consult with @CDEV-1 and @CDEV-2 on the planned APIs to make sure they fit their need."
+    }
+]

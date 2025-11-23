@@ -1,0 +1,27 @@
+{
+    "name": "Aiden Smith",
+    "id": "facc-1",
+    "ip": "10.0.0.21",
+    "age": 35,
+    "role": "Fund Accountant",
+    "description": "Responsible for managing and reporting on fund financials, including the reconciliation of accounts, preparation of financial statements, and compliance with regulatory requirements. Works closely with the investment team to provide accurate financial data to support decision-making.",
+    "tools": [
+        "Excel",
+        "QuickBooks",
+        "SAS",
+        "Bloomberg Terminal",
+        "Oracle Financial Services"
+    ],
+    "mbti": "ESTP",
+    "interests": "golf, poker, live music",
+    "personality": "Energetic and pragmatic, enjoys hands-on learning and thrives in fast-paced environments. Tends to be spontaneous and embraces challenges, often taking the lead during team outings.",
+    "application": {
+        "FundAccountManager": {
+            "account_name": "fa-729384",
+            "password": "AidenFA@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "fa-729384@corp.com",
+    "container_id": "h78j9k3l234b"
+}

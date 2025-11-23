@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and prepare notes for the weekly progress meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in the weekly team meeting to discuss the progress of EHR integration projects."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with @mrs-1 and @mrs-2 about any challenges in managing medical records electronically."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Work on feedback implementation based on testing conducted by @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop and revise integration specifications with @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @helpdesk-1 to discuss user-reported issues related to the EHR system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document the hours worked and tasks completed in the project management tool."
+    }
+]

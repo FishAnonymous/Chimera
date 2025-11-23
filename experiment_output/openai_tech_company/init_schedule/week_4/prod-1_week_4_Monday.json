@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the objectives for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1, @sdes-1, @sdes-2 to discuss the overall project progress and finalize the presentation content for stakeholders."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @uiux-1 for updates on UI elements to ensure alignment with gameplay mechanics for the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Draft the outline for the stakeholder presentation and assign sections to relevant team members."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Review the presentation draft with @lpro-1 and give feedback on structure and clarity."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize presentation materials including slides, visuals from @cart-1, and gameplay footage."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an email to all team members with details about the presentation and assign remaining tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prepare for the playtesting session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct playtesting session with @qtest-1 and gather feedback on usability issues and bugs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the feedback collected during the playtesting session and prioritize bugs for fixes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on fixing high-priority bugs reported from the playtest, focusing on user interaction issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document changes made and inform @prod-1 about the status of the playtesting feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up daily work by reviewing tasks for the rest of the week."
+    }
+]

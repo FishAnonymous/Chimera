@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital's EHR system, check emails, and prioritize tasks for the week based on urgency and importance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the current EHR integration systems and gather insights on areas needing improvement or attention."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @EHR Vendor Liaison to discuss the latest software updates and patches related to EHR systems."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct an analysis session with @Data Analyst and @Health Informatics Specialist on current healthcare data trends and requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document findings from the morning sessions and draft development specifications for upcoming tasks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @Clinical Lead to align on EHR functionality expectations to ensure compliance with clinical standards."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up the development environment and test the integration points with the existing EHR systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email of the day's accomplishments to @IT Project Manager and relevant team members."
+    }
+]

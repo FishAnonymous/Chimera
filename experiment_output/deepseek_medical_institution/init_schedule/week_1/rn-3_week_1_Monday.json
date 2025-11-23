@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review standardized protocols for influenza symptom assessment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct patient assessments for influenza symptoms using standardized protocols. Document findings in EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @rn-1, @rn-2, @rn-3 to discuss any challenges in patient assessments and data entry."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue patient assessments and EHR data entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review entered patient data for accuracy and completeness. Cross-check with @mrs-1, @mrs-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Enter additional patient data into EHR as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @clinlead-1 with updates on patient assessments and data entry progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and file any paper documentation. Prepare for next day's assessments."
+    }
+]

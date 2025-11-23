@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prepare for the team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present findings on bug tracking tools to the team and lead a discussion on which tool best suits our needs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a follow-up meeting for the team to finalize the selection of the bug tracking tool."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting templates for bug reports to ensure consistency. Include fields for title, description, steps to reproduce, and expected vs actual results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a document outlining best practices for bug reporting to accompany the templates."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails for any feedback on the templates created."
+    }
+]

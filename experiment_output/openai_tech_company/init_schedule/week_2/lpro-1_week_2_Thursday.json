@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Verify any outstanding tasks with the team concerning the interaction system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing UI integration for interaction elements based on discussions with client developers."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop the user interface components for interaction feedback (e.g., prompts, highlights)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct integration tests on the NPC interaction UI components to ensure functionality."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize any outstanding issues with NPC interaction functionality and document solutions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @prod-1 regarding the progress of movement and interaction systems."
+    }
+]

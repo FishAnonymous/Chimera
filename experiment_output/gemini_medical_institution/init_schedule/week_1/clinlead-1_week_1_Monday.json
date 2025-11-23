@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, settle in, and review my emails and calendar. Make a cup of coffee \u2013 gotta have that morning boost!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prioritize tasks for the week based on the overall goal: EHR data collection and influenza trend analysis. Focus on the assigned goals for week 1. Draft a rough outline for how to achieve these goals, breaking them down into smaller, manageable steps."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @rn-1, @rn-2, @rn-3, @pchmp-1 to discuss current patient intake and registration workflows, focusing on identifying potential friction points and opportunities for incorporating influenza data collection. Make sure to actively listen to their concerns and suggestions \u2013 their practical experience is invaluable."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @his-1, @his-2 to schedule a meeting to discuss the types of influenza data that would be most valuable for trend analysis and reporting. Specify the need to understand what data points are currently being tracked and what needs to be newly collected."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review existing EHR documentation regarding patient registration and intake processes to familiarize myself with the current system setup. Check for existing data fields related to influenza."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Brainstorm potential questionnaire questions with an emphasis on clarity, conciseness, and sensitivity to patient privacy. Consider questions about influenza vaccination status, prior infections, and risk factors."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab lunch with @rn-2, @rn-3 in the cafeteria. Discuss the challenges they face in their daily roles and how the EHR changes can potentially address them."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft an initial version of the standardized influenza questionnaire. Ensure it aligns with the information needs identified in the meeting with the Health Informatics Specialists and consider input from the nursing staff."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @ehrdev-1, @ehrdev-2 to discuss the technical feasibility of implementing the questionnaire within the EHR system during patient registration/intake. Explore potential integration points and data storage options."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the identified integration points within the EHR system and potential data storage locations for the new influenza data. Start outlining the technical specifications for the EHR integration developers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, update my task list, and prepare for tomorrow. Respond to any urgent emails."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse a medical journal to stay current on influenza research and best practices."
+    }
+]

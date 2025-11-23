@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check responses to the needs assessment survey and compile initial data."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 and @da-2 to analyze the survey results and identify key training needs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin outlining the training modules for influenza data collection based on survey results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft the first module: Introduction to Influenza Data Collection."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send the draft module to @qatest-1 and @qatest-2 for review."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Incorporate feedback from QA testers and refine the module."
+    }
+]

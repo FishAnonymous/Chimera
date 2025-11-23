@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, prioritize tasks for the day. Grab a large coffee."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on implementing visual cues to guide the player and communicate game information. Identify key areas where visual cues are needed, such as objectives, pathways, and points of interest."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Design visual cues that are clear, intuitive, and visually consistent with the game's art style. Consider using colors, shapes, and animations to convey information effectively."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the visual cues into the game level. Ensure that they are easily visible and understandable to the player. Iterate based on team feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch, maybe some burgers at that joint down the street. Good team bonding time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the implemented visual cues and gather feedback from the team. Make adjustments to improve their effectiveness and clarity."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Final polish on all visual elements implemented this week, making sure everything is cohesive."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all the visual changes and implementation details for the week. Prepare a summary report for the team. Let @lpro-1 and @cdev-1 to check and make sure everything is good."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's accomplishments and plan for next week's tasks. Relax and browse some funny cat videos before heading home."
+    }
+]

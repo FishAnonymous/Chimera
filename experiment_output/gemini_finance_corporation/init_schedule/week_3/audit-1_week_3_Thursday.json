@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar. Continue with the accounting policy review"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue developing recommendations for improving the fund's accounting policies and procedures. Address specific areas such as valuation of investments, expense allocation, and revenue recognition."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @legal-1 (Legal Counsel) to discuss any legal or regulatory considerations related to the fund's accounting policies and procedures. Ensure compliance with applicable laws and regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the recommended changes to the accounting policies and procedures. Clearly explain the rationale behind each change and its potential impact on the fund's financial reporting."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the preliminary audit plan with @coo-1 (Chief Operating Officer) and @comp-1 (Compliance Officer). Discuss any concerns or suggestions for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Incorporate the feedback received on the audit plan. Make any necessary adjustments to the scope, objectives, or procedures."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize my workspace and prepare for tomorrow."
+    }
+]

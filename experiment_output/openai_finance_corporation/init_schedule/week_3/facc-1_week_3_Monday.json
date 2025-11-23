@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare a plan for the financial forecast of the fund's operations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @pm-1 to discuss the timeline and requirements for the initial financial forecast."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft the financial forecast template, including revenue projections and expenditure estimates."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Contact @facc-2 for any historical data needed to inform the financial forecast."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze any received data and start populating the financial forecast template."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the initial financial forecast with @cio-1 for input on investment strategy impact."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Begin drafting accounting procedures for tracking investor contributions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an email summary to @facc-2 for feedback on accounting procedures drafted."
+    }
+]

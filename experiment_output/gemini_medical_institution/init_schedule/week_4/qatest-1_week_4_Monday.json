@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and messages. Skim industry news on EHR validation best practices."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the week's goals and prioritize tasks: Data element cross-validation, automated rule implementation, and data audits."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin cross-validating patient demographic data (name, DOB, address) against scanned medical records. Focus on the last 50 records entered this month."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any discrepancies found during data validation. Note the type of error (e.g., transposed numbers, incorrect spelling) and the frequency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue cross-validating patient demographic data against scanned medical records. Review another 50 records."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "@ehrdev-1, @da-1, Schedule a brief meeting to discuss potential data validation rules for demographics. Send out the email asking for the meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research potential automated validation rules for EHR system \u2013 acceptable ranges, required fields, and format validation. Spend some time reading articles about it."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document research findings and draft a proposal for implementing the automated validation rules. Save it as a document."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check any updates from the colleagues, and prepare the to-do list for tomorrow."
+    }
+]

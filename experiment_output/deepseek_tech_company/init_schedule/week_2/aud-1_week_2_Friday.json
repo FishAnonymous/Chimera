@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Finalize all SFX for core gameplay actions (gunfire, footsteps, reloading, melee)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Export finalized SFX files and organize them for easy access by @cdev-1 and @cdev-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize main menu and combat BGM tracks, ensuring they loop seamlessly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Export finalized BGM tracks and share with @prod-1 and @lpro-1 for integration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all audio assets and update the project tracker."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, review any pending feedback, and plan for next week's tasks."
+    }
+]

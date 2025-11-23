@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review previous presentations to gather insights on structure and key points."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1 and @qres-2 to discuss fund strategies and expected returns in detail."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Create a draft outline of the investor presentation, highlighting key sections: introduction, fund strategies, expected returns, and market positioning."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on the slide deck for the investor presentation, focusing on the introduction and fund strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @mkt-1 to request any visual materials that can support the presentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the completed slides for the introduction and fund strategies."
+    }
+]

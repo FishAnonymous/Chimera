@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize the demo materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a demo of the new EHR functionalities for @clinlead-1, @pchmp-1, and @rn-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from the clinical team and note any additional requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement any minor adjustments requested by the clinical team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Retest the adjusted functionalities with @qatest-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update documentation and prepare for final review."
+    }
+]

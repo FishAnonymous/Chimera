@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review yesterday's CI system setup and results. Analyze any build failures or warnings from the CI system."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Investigate and resolve any issues identified in the CI build logs. Refine the build scripts or CI configuration as necessary to ensure stable and reliable builds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin researching automated testing frameworks. Explore options suitable for a third-person shooter game, such as unit testing, integration testing, and performance testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @QTEST-1 @LPRO-1 to discuss preferred automated testing frameworks and testing strategies. Ask about specific testing requirements for the game. @PEOPLE"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate the chosen automated testing frameworks into the CI pipeline. Configure the CI system to run the tests automatically after each build. Set up reporting and notifications for test results."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Write basic unit tests for core game components. Focus on testing critical functionality and ensuring code quality. Run the unit tests in the CI pipeline to verify the integration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Analyze the test results from the CI pipeline. Identify any failing tests and investigate the root causes. Work with the development team to fix bugs and improve code quality."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the automated testing setup and integration. Prepare a status report for tomorrow."
+    }
+]

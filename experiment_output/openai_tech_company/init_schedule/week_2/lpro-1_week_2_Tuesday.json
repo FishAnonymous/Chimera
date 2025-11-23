@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review tasks from Monday and prioritize next steps."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing the interaction system for NPC and object interactions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and gather examples of successful NPC interaction systems from existing games."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue coding the interaction system, focusing on detecting player inputs and triggering interactions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct initial tests of the interaction system functionality with basic NPC interactions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @sdes-1 and @ndes-1 for feedback on interaction design."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review feedback from the pilot test."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss adjustments needed for the data abstraction protocol."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse latest trends in EHR management."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the data abstraction protocol based on pilot test feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a follow-up training session for data abstractors to cover protocol updates."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to schedule a quality assurance review of the updated protocol."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare documentation for the finalized protocol."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day, organize notes, and plan for Thursday."
+    }
+]

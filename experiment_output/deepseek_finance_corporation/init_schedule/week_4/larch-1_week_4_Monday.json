@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review pending tasks and prioritize for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdev-1 and @sdev-2 to discuss technical requirements for fund management software. Align on key functionalities and constraints."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft detailed technical specifications document for fund management software, including API endpoints, data models, and workflow diagrams."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review backend architecture with @devops-1 to ensure scalability and performance. Discuss potential bottlenecks."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @qres-1 and @qres-2 to integrate quantitative models into the backend. Validate data pipelines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document findings and action items from the day. Prepare for security assessment tomorrow."
+    }
+]

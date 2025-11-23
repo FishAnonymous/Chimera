@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to check on responses for asset requests from @3dmod-1 and @3dmod-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct focus group playtests with external players, observing their interactions and engaging them for live feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze feedback from external playtests, highlighting areas of confusion or frustration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document new findings alongside internal feedback and begin drafting a final report on level design adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share initial analysis with @sdes-1 and @ldes-1 for further discussion and insights."
+    }
+]

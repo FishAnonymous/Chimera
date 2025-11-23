@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, prepare a cup of coffee, and check emails for urgent requests or updates related to the EHR collection project. Prioritize emails and flag those requiring immediate action."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals and objectives regarding data quality metrics and database schema integration. Plan the day's tasks, focusing on the most critical items."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin researching existing data quality metrics used in healthcare, specifically for influenza-related data. Look for industry standards and best practices to adapt to our specific needs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an initial list of data quality metrics, including accuracy, completeness, consistency, and timeliness, with specific examples related to influenza data (e.g., correct ICD-10 codes, complete vaccination dates)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @da-1, @da-2, @clinlead-1 and @his-1 to discuss the drafted data quality metrics and gather feedback from a clinical and analytical perspective. @PEOPLE: Initial Data Quality Metrics Review"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head to the cafeteria for lunch. Socialize with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend the data quality metrics review meeting. Present the drafted metrics and actively participate in the discussion, taking detailed notes on suggested improvements and additions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Revise the initial data quality metrics based on the feedback received during the meeting. Refine the definitions and ensure they are measurable and achievable."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary document of the revised data quality metrics, ready to share with the Database Administrator and IT Project Manager. @PEOPLE: Data Quality Metrics Summary for DBA and ITPM Review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the upcoming tasks for the week and prepare for the next day. Organize workspace and shut down computer."
+    }
+]

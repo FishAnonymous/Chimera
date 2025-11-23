@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the core mechanics design document and prepare for prototyping."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 and @cdev-1 to discuss the technical approach for prototyping core mechanics (movement, basic interactions)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start prototyping the movement system. Focus on basic player controls (walk, run, jump)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue prototyping the movement system. Implement basic interactions (e.g., picking up objects)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress with @lpro-1 and adjust implementation as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the prototype progress and prepare for next steps."
+    }
+]

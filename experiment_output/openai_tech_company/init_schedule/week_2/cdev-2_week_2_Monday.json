@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review project requirements for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1 and @sdes-2 to discuss the backend functionalities required for user interactions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on implementing backend functionalities necessary for user interactions (e.g., user authentication, session management)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing backend functionalities focusing on database interactions (e.g., storing user data, retrieving user profiles)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Communicate with @cdev-2 and @cdev-3 about any integration requirements they need from the backend."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by checking in on project management tools for tasks and deadlines."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and finalize the week's notes and data reports."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the presentation materials regarding integrity findings to prepare for sharing in the upcoming team meeting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Engage with @dba-1 and @ehrdev-1 on data integration strategies and challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend final team meeting of the week to discuss medical records integrity and anything needing to be addressed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from team regarding the week's findings and roadblocks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize any outstanding documentation from the week and prepare for the weekend."
+    }
+]

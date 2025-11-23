@@ -1,0 +1,28 @@
+{
+    "name": "Liam O'Connor",
+    "id": "sdev-1",
+    "ip": "10.0.0.14",
+    "age": 33,
+    "role": "Server Developer",
+    "description": "Responsible for developing and maintaining the game's backend infrastructure, including server architecture, networking protocols, and database management. Ensures high availability, low latency, and secure player interactions.",
+    "tools": [
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis",
+        "NetworkProfilingTools"
+    ],
+    "mbti": "ISTJ",
+    "interests": "home automation, craft beers, tabletop RPGs",
+    "personality": "Methodical and detail-oriented. Prefers structured work environments with clear documentation. Most productive during late morning hours. Enjoys solving complex systemic problems.",
+    "application": {
+        "Zendo": {
+            "account_name": "sdev-664578",
+            "password": "liamO@serverdev",
+            "permissions": "developer"
+        }
+    },
+    "email": "sdev-664578@corp.com",
+    "container_id": "9f2e5d3a7c01"
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and company announcements. Prepare for the daily stand-up meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Daily stand-up meeting with the team. Briefly discuss progress from last week and identify any roadblocks. Since no specific goals were defined in meeting minutes, initiate a discussion about prioritizing tasks for the week, focusing on initial game setup and foundational elements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Following the stand-up, schedule a meeting with @Ldes-1 Lead Game Designer to better understand the high-level vision for the Third-Person Shooter game and potential areas of focus for the first playable prototype. @Ldes-1, @Lpro-1"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @Ldes-1 and @Lpro-1. Gather information about their design goals, the planned core mechanics, and technical considerations, like the game engine and target platform. Take detailed notes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the meeting with the Lead Game Designer and Lead Programmer, draft a preliminary list of tasks and priorities for the week. Focus on tasks necessary for building a basic, playable prototype. This might include environment blocking, character controller implementation, and basic shooting mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review meeting notes and the draft task list. Refine the list, breaking down larger tasks into smaller, more manageable ones. Begin estimating the time required for each task."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @Lpro-1 (Lead Programmer) to discuss the task list and time estimates. Get their feedback on the technical feasibility of the proposed tasks and adjust the schedule accordingly.  @Lpro-1 Need insights regarding the complexity of implementing character movement, camera control, and shooting mechanics, and their suggestions for the prototyping approach."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the task list and schedule based on feedback from the Lead Programmer. Distribute the task list to relevant team members, assigning ownership and deadlines for each task. Use the project management software (e.g., Jira, Asana) to track progress. @All team members"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out a recap email to the team summarizing the goals for the week, individual task assignments, and deadlines. Emphasize the importance of communication and collaboration throughout the week. Address any immediate questions or concerns."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the schedule for the week and prepare for tomorrow's tasks."
+    }
+]

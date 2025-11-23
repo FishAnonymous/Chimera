@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the foundational systems requirements and plan the implementation approach."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the project structure in the game engine (e.g., Unreal/Unity). Create necessary folders for scripts, assets, and scenes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Initialize version control (Git) for the project. Set up the repository and branch structure. @beng-1 to confirm version control setup."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start implementing basic input handling system (e.g., keyboard/mouse controls for character movement)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on input handling system. Test basic controls in the game engine."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Discuss placeholder asset requirements with @3dmod-1 and @3dmod-2. Confirm format and integration pipeline."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement basic physics system (e.g., gravity, collision detection). Test with simple objects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and update task tracker. Review any blockers with @lpro-1."
+    }
+]

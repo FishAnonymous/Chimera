@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails for feedback received from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review and analyze the feedback from the team regarding the updated blockouts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Host a meeting with the whole team to discuss the feedback and collectively iterate on blockouts."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on the iterations of the blockouts based on team input; enhance problematic areas."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the changes made and prepare for another round of testing."
+    }
+]

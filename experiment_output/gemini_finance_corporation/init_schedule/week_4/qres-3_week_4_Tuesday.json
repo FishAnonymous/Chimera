@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue developing models for managing liquidity risk. Research appropriate liquidity metrics, such as bid-ask spread, market depth, and turnover rate. Consider the impact of market microstructure on liquidity risk."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss liquidity risk management with @QRES-3, especially in the context of UHNWI redemptions. Analyze potential redemption scenarios and their impact on fund liquidity. Document our assumption."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin incorporating liquidity risk metrics into the risk management framework. Define thresholds and triggers for monitoring liquidity and implementing risk mitigation strategies. For example, a maximum percentage of AUM redeemable within a 30-day period."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop models for managing correlation risk. Analyze historical correlation patterns between assets in the portfolio. Incorporate measures of correlation stability and tail dependence."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Discuss the proposed correlation risk model with @DSDE-1 and @DSDE-2. Seek their advice on data sources and statistical techniques for estimating correlations. For example, consider using dynamic conditional correlation (DCC) models."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document the liquidity and correlation risk models, including the underlying assumptions, mathematical formulas, and implementation details. Prepare a summary for review by the CIO and COO."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Organize tasks for the next day."
+    }
+]

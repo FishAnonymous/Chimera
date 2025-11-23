@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any questions or requests related to the vendor's proposals. Review the summary of the meeting and the feedback received from stakeholders. Coffee first of course."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue evaluating the vendor's proposals, focusing on the impact on existing workflows. Consult with @rn-1, @rn-2 and @rn-3 to gather their feedback on the usability of the proposed changes. Topic: Usability of Proposed EHR Modifications."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research potential risks associated with the vendor's proposals, such as data security vulnerabilities or integration issues. Identify mitigation strategies for each risk."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the cost-benefit analysis based on the feedback received from stakeholders and the identified risks and mitigation strategies. Prepare a revised cost-benefit analysis report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Try that new Thai place everyone's been talking about."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a recommendation regarding the vendor's proposals, based on the evaluation, the cost-benefit analysis, and the feedback from stakeholders. Clearly state the rationale for the recommendation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the recommendation to the IT Project Manager @itpm-1 and the Clinical Lead @clinlead-1, seeking their approval. Address any concerns or questions they might have. Topic: Recommendation for EHR Vendor Proposals - Influenza Data Collection Modifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Revise the recommendation based on the feedback received from the IT Project Manager and the Clinical Lead. Finalize the recommendation and prepare it for submission."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the recommendation to the appropriate decision-makers. Follow up to ensure they have received the recommendation and are reviewing it. Then, browse travel destinations for a potential vacation."
+    }
+]

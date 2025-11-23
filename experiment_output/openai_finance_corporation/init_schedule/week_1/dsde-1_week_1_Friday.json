@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Prepare a presentation of the report for the team meeting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present findings to the team, focusing on trends, returns, and risk profiles."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather team feedback and discuss next steps regarding the application of findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document meeting notes and action items from the discussion."
+    },
+    {
+        "Time": "17:50",
+        "Activity": "Check emails, update personal task list, and summarize the week's work."
+    }
+]

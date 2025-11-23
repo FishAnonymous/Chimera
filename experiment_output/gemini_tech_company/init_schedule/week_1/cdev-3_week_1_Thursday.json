@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and respond."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the previous day's progress and address any outstanding issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research best practices for implementing accessible UI elements. Try to make sure all the fonts are clear and easy to read."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @LDES-1 and @NDES-1 to ensure the UI reflects the game's world and narrative. I will email both of them."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Add tooltips to UI elements to provide helpful information to the player."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @LDES-1 and @NDES-1 to discuss the game's world and narrative."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "I will listen carefully to their expression on the narrative story, and write down the possible UI styles to match these stories."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and refactor the UI code. Ensure that the code is clean, well-commented, and easy to maintain."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to the version control system with a descriptive commit message."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

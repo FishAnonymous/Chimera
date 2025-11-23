@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Reflect on the week. Prepare presentation for weekly meeting."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prioritize and address the feedback from the playtesting session. Fix critical bugs and implement high-priority improvements."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Test the fixes and improvements to ensure they address the feedback effectively."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a build of the game with the integrated systems, quests, crafting and character customization features for broader playtesting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @Qtest-1 @Lpro-1 @Beng-1 Subject: Integrated Systems Playtest Build - Request for Testing. Request the QA team to test the build and provide feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start documenting the progress of all integrated systems, including design decisions, implementation details, and test results."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a presentation to show to stakeholders on Monday of the work that has been completed this week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of all work done this week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the week."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and system notifications. Review the bug backlog and prioritize bug fixes based on severity and impact."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Verify bug fixes from previous builds. Retest bugs reported as fixed to ensure issues have been resolved and no new issues have been introduced."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Execute test cases focused on audio and sound effects. Document any issues with sound levels, missing sounds, or incorrect audio cues. @AUD-1 Need support on audio issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct gameplay experience testing. Evaluate game balance, difficulty, and overall enjoyment. Provide feedback on areas that need improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Perform soak tests by leaving the game running for extended periods. Monitor system resources and identify any memory leaks or stability issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct ad-hoc testing, focusing on story elements and narrative design. Look for inconsistencies, plot holes, or dialogue errors. @NDES-1 I need to discuss the narrative design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document and report any critical bugs that impact the core gameplay experience. Escalate these bugs to the lead programmer and producer."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize testing progress. Prepare a daily report outlining the number of test cases executed, the number of bugs found, and any significant observations."
+    }
+]

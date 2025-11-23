@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review feedback from @da-1 and @da-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement adjustments to the automated checks based on feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse open-source QA tools."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Re-run automated checks on the dataset to validate adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct manual audits on samples flagged by automated checks."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @clinlead-1 and @pchmp-1 to verify clinical accuracy of flagged data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile findings from manual audits into a report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan next steps for addressing identified inaccuracies."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Look at some stocks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @itpm-1 and @clinlead-1 to provide an update on the data quality project and discuss the findings from the initial weekly data quality report. Present the areas where data quality is below target and the potential causes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with the team to identify potential solutions to address the data quality issues. Discuss strategies for improving data completeness, accuracy, consistency, timeliness, and validity."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send the weekly data quality report to relevant stakeholders (e.g., @ehrv-1, @mrs-1, @mrs-2, @pchmp-1) for review and action. Include a summary of the key findings and recommendations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Treat myself to something special."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the action items and next steps identified during the meeting. Assign ownership for each action item and set deadlines for completion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on refining the data quality scripts based on the identified solutions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start planning for next week's data quality activities. Identify areas where further investigation or improvement is needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete the final data quality assessment and submit reports."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the week. Review all the work, and head out to enjoy the weekend."
+    }
+]

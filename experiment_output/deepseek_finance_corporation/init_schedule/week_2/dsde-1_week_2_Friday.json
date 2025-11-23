@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review any feedback from @pm-1 and @coo-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the presentation, ensure all data is accurate and well-organized."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Short break, browse financial forums for additional insights."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Rehearse the presentation, prepare for potential questions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the team, discuss next steps and potential improvements."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ir-1 and @cio-1 to share the final report and presentation slides."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's work, document lessons learned."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize files, and plan for the following week."
+    }
+]

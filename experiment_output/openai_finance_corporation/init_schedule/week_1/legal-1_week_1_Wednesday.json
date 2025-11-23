@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review emails and follow up on any outstanding questions related to compliance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation for the team on SEC regulations and necessary disclosures for the fund registration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Deliver the presentation to the team, engaging in a discussion to gather feedback and suggestions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Incorporate team feedback into the compliance documentation project."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @Lead Software Architect for insights on technological needs or changes resulting from compliance discussions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan tasks for the next day based on the progress made and set up a checklist for remaining work."
+    }
+]

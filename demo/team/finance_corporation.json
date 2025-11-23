@@ -1,0 +1,189 @@
+{
+  "core_team": {
+    "quantitative_research_team": {
+      "roles": [
+        {
+          "role_name": "Chief Investment Officer",
+          "abbr": "cio",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Oversee trading strategy development",
+            "Set quant research direction and priorities",
+            "Risk management architecture"
+          ]
+        },
+        {
+          "role_name": "Quantitative Researchers",
+          "abbr": "qres",
+          "count": 3,
+          "outsource": 0,
+          "responsibilities": [
+            "Design and backtest market-neutral strategies",
+            "Statistical modeling and simulation",
+            "Alpha and risk factor analysis"
+          ]
+        },
+        {
+          "role_name": "Data Scientist",
+          "abbr": "dsde",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Build and maintain data ingestion pipelines",
+            "Data validation and anomaly detection",
+            "Integration with research platform"
+          ]
+        }
+      ]
+    },
+    "technology_team": {
+      "roles": [
+        {
+          "role_name": "Lead Software Architect",
+          "abbr": "larch",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Overall system design",
+            "Trading platform infrastructure",
+            "API and security standards"
+          ]
+        },
+        {
+          "role_name": "Software Developers",
+          "abbr": "sdev",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Implement backtesting and production trading systems",
+            "Dashboard for real-time analytics",
+            "Automated monitoring and alerting"
+          ]
+        },
+        {
+          "role_name": "DevOps Engineer",
+          "abbr": "devops",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Deploy cloud infrastructure",
+            "Continuous integration & deployment setup",
+            "Production system reliability & rollback procedures"
+          ]
+        }
+      ]
+    },
+    "operations_and_compliance_team": {
+      "roles": [
+        {
+          "role_name": "COO/Operations Director",
+          "abbr": "coo",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Oversee fund operations",
+            "Service provider relationship management",
+            "IT and operational risk audits"
+          ]
+        },
+        {
+          "role_name": "Fund Accountant",
+          "abbr": "facc",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Fund NAV calculation setup",
+            "Fee and performance reporting design",
+            "Tax optimization protocol"
+          ]
+        },
+        {
+          "role_name": "Compliance Officer",
+          "abbr": "comp",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Design and maintain compliance framework",
+            "SEC registration process management",
+            "AML/KYC policy drafting"
+          ]
+        },
+        {
+          "role_name": "Legal Counsel",
+          "abbr": "legal",
+          "count": 1,
+          "outsource": 1,
+          "responsibilities": [
+            "Draft fund prospectus and operating agreements",
+            "Coordinate SEC filings and respond to regulatory requests",
+            "Advise on exemptions and private placement rules"
+          ]
+        }
+      ]
+    }
+  },
+  "client_and_investor_relations": {
+    "roles": [
+      {
+        "role_name": "Head of Investor Relations",
+        "abbr": "ir",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "UHNW client targeting strategy",
+          "Prepare investor presentation materials",
+          "Manage inbound investor queries"
+        ]
+      },
+      {
+        "role_name": "Client Onboarding Specialist",
+        "abbr": "onbd",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "Manage onboarding process for new clients",
+          "Coordinate KYC documentation",
+          "Ensure compliance with fund policies"
+        ]
+      },
+      {
+        "role_name": "Marketing & Communications",
+        "abbr": "mkt",
+        "count": 1,
+        "outsource": 1,
+        "responsibilities": [
+          "Design fund marketing collateral",
+          "Establish ultra-high-net-worth investor outreach plan",
+          "Press release and media management"
+        ]
+      }
+    ]
+  },
+  "support_teams": {
+    "roles": [
+      {
+        "role_name": "External Auditor",
+        "abbr": "audit",
+        "count": 1,
+        "outsource": 1,
+        "responsibilities": [
+          "Structure and plan annual audit",
+          "Validate internal controls for regulatory filings",
+          "Advise on compliance checklists"
+        ]
+      },
+      {
+        "role_name": "Project Manager",
+        "abbr": "pm",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "Track all deliverables against timeline",
+          "Risk register maintenance",
+          "Coordinate inter-team communication and reporting"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Jordan Wells",
+    "id": "legal-1",
+    "ip": "10.0.0.24",
+    "age": 39,
+    "role": "Legal Counsel",
+    "description": "Provides legal advice on various matters including compliance with SEC regulations, contract negotiations, and risk management. Responsible for ensuring legal protection of the company and its stakeholders while advising on corporate governance.",
+    "tools": [
+        "LexisNexis",
+        "Westlaw",
+        "Microsoft Office",
+        "Contract Management Software",
+        "ComplianceTracker"
+    ],
+    "mbti": "ENTP",
+    "interests": "playing chess, writing, attending legal seminars",
+    "personality": "Charismatic and persuasive, enjoys debating legal implications and finding innovative solutions to complex legal issues. Often engages in discussions and thrives on change and challenges.",
+    "application": {
+        "LegalDocs": {
+            "account_name": "lc-342567",
+            "password": "JordanLegal@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "lc-342567@corp.com",
+    "container_id": "l45k8m2n476t"
+}

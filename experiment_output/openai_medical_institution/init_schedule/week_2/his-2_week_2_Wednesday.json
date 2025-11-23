@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any pending actions from previous days."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a progress review meeting with the team members involved in EHR collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @pchmp-1 to discuss physician input on EHR collection process and data accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @his-1 on refining EHR user interface based on clinician feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin setting up a demo version of the integrated EHR system for internal testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize progress on EHR integration and prepare for upcoming presentations."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning routine. Check emails. Do a quick search for any new tools or techniques that could improve the asset creation pipeline."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a short presentation summarizing the technical requirements for art assets. Include visuals from the test scene to illustrate the key points. Make it engaging and easy to understand."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the technical requirements and test scene results to @Leon, @Ricardo, @Fatima, @Mei, @Aisha, @Javier, and @David. Gather feedback and answer any questions. Be prepared to defend my choices but also open to suggestions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Today I will order some fried chicken and hamburger! "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from the presentation into the technical requirements document. Make sure everyone is on the same page regarding the asset creation process."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start working on a simple shader to test the visual look of the assets in the game engine. Experiment with different material properties and lighting effects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue experimenting with the shader. Document the shader parameters and their impact on the visual look of the assets."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day. Back up all my work. Maybe play a quick game of Apex Legends to unwind."
+    }
+]

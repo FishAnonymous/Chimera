@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Address any last-minute questions or concerns regarding the kick-off meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Host the project kick-off meeting. Present objectives, timeline, and communication plan."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Facilitate Q&A session and gather initial feedback from team members."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile meeting minutes and action items from the kick-off meeting."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send meeting minutes and action items to all team members via email."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @da-1 @da-2 on data requirements for the EHR project."
+    }
+]

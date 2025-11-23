@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up and plan for the day."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review emails and prepare for the final project review meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final project review meeting with all team members to discuss the progress of the fund registration process. Identify any remaining tasks and assign responsibilities. @PEOPLE: CIO-1, PM-1, LARCH-1, QRES-1, LEGAL-1, COMP-1, FACC-1, MKT-1, IR-1, ONBD-1, DSDE-1, DEVOP-1, SDEV-1, AUDIT-1. Subject: Final Project Review Meeting"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work with @PM-1 to finalize the project timeline and budget. Ensure all tasks are completed on time and within budget."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review the fund's marketing materials and investor presentation deck. Ensure they are accurate and compelling."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Team lunch to celebrate progress on the project."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct performance reviews for team members. Provide feedback and identify areas for improvement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a final project report for @CIO-1. Summarize the progress of the fund registration process and identify any remaining tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @CIO-1 to review the final project report and discuss the next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Approve employee timesheets for the week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up my desk and prepare for the weekend. Reflect on the week's accomplishments."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

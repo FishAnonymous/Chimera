@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review weekly progress with @prod-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize any remaining asset integrations and perform a full test run."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @qtest-1 to ensure all critical bugs are resolved and performance is stable."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of the week's work, including mechanics refinements, bug fixes, and asset integration status."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Submit report to @prod-1 and discuss plans for the following week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing tasks and setting priorities for Monday."
+    }
+]

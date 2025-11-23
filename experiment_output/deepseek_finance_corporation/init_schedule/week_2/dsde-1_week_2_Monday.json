@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review any updates from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start reviewing historical performance data of market-neutral funds, focusing on trends during market downturns."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, browse financial news websites for any relevant market updates."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Continue reviewing historical data, noting key resilience patterns and anomalies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume work, begin compiling notes and insights from the morning's data review."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qres-1 and @qres-2 to discuss initial findings and gather their perspectives."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start drafting a summary report of the historical performance trends."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day, organize files, and plan for tomorrow's tasks."
+    }
+]

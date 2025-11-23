@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up and prepare for the final sprint!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails, and prepare the final changes to the game."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final review and polish of all the enemy character designs, attack animations, UI concepts, and character models. Make sure everything is consistent and high-quality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation to showcase the work done this week to the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the work to the team and gather feedback for final improvements. @lpro-1 and @cdev-1, let's make this game amazing!"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address the final feedback and make any necessary adjustments to the designs, animations, models, and UI elements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final documentation and archiving of all the assets created this week. Preparing for the next week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the week! Celebrate a productive week with the team and head home for some well-deserved rest and relaxation."
+    }
+]

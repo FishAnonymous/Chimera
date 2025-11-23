@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any new help desk tickets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the ticketing system configuration and prepare it for a pilot run."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email to @trainer-1 to discuss training plans for staff on using the new ticketing system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break and browse articles on effective user support strategies."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Draft a user guide for the ticketing system, focusing on common EHR issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the user guide and make necessary revisions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a small training session with @rn-2 and @mrs-1 to test the usability of the ticketing system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Gather feedback from the training session and note any adjustments needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update the ticketing system based on feedback and document changes."
+    }
+]

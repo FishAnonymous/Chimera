@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work. Get a coffee and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any urgent user inquiries or follow-up questions received overnight. Respond promptly and provide clear solutions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the support channel outline and internal guide based on feedback from @Clinlead-1. Make any necessary revisions to ensure accuracy and clarity."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start drafting a standard operating procedure (SOP) for handling user inquiries related to the EHR system and influenza data collection. Include guidelines for escalation, troubleshooting, and documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Share the draft SOP with @HIS-1 and @HIS-2 for review and feedback. @HIS-1 and @HIS-2 SOP Feedback"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Have lunch."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Research best practices for providing timely responses to user inquiries. Look for tips on efficient communication, prioritization, and resource allocation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a system for tracking response times to user inquiries. Create a spreadsheet or use a feature in the ticketing system to monitor average response times and identify areas for improvement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @QATEST-1 and @QATEST-2 to test the online help desk portal and ensure its functionality meets the required standards. Incorporate feedback on usability and performance. @QATEST-1, @QATEST-2 Help Desk Testing"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create training materials for users on how to use the support channels and access the knowledge base. This could include videos, tutorials, or webinars."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, organize notes, and plan for tomorrow's tasks. Briefly check favorite blogs."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

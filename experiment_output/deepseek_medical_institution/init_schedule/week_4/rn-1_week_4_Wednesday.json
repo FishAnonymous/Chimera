@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @qatest-1 and @qatest-2. Address any flagged data inaccuracies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Join a collaborative session with @ehrdev-2 to troubleshoot any EHR integration issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Enter new patient data, ensuring all fields are complete and accurate."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a mock workflow exercise with @rn-2 and @rn-3 to test new procedures."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Provide a summary of mock exercise outcomes to @trainer-1 and @itpm-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize and clean up EHR entries, ensuring no duplicates or errors."
+    }
+]

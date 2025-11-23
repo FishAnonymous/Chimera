@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and review yesterday's progress. Read the news while the computer boots up."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on integrating the cover system with the player's movement and shooting mechanics. Ensure the player can seamlessly aim and fire from cover. Potentially needing some support from client side."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement different firing stances while in cover (e.g., leaning out to shoot, blind firing). Add animations to support these stances and provide visual feedback to the player."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the cover system extensively to identify any bugs or issues. Refine the code based on the test results. Drink a cup of coffee."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up on some YouTube videos."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start designing the AI behavior for enemies using the cover system. Implement basic AI routines for taking cover, flanking, and engaging the player. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Since AI behavior design might need some support from Lead Programmer, send out an email to @Lpro-1 with topic 'Tech support needed on the AI behavior design'. Explain my purpose and request support."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the enemy AI to create more challenging and engaging encounters. Experiment with different AI personalities and combat tactics. Think of strategies to make the game more fun and challenging."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the AI design and implementation. Update the to-do list for tomorrow. Listen to a podcast before logging off."
+    }
+]

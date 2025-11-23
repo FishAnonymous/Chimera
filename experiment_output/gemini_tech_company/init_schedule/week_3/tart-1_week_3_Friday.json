@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Browse social media. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @tdev-1 to discuss the usability of tools for improving art pipeline. Provide constructive feedback and suggestions for improvement. @tdev-1 [Subject: Art Pipeline Tools Feedback]"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a tutorial or documentation on how to use the new shader and materials in the game engine."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate the new shader and materials into the game's art pipeline."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Provide support and training to the art team on how to use the new shader and materials."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any issues or bugs that arise during the integration process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of the week's progress and achievements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End of week. Prepare a report for the Lead Programmer about the progress this week."
+    }
+]

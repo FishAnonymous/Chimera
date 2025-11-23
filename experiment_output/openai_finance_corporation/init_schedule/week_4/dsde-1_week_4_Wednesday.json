@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the company system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Join the team meeting to present findings of the statistical model."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss recommendations for future investment strategies based on the findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from team members post-presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any questions or concerns raised during the presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day and continue documenting the feedback for further revisions."
+    }
+]

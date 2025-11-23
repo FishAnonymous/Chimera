@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Read some article on medium."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review all the data quality findings from the week, including the data element checklist, SQL query results, and cross-validation results."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the data quality report, including a summary of the identified data quality issues, the proposed solutions, and the recommendations for future data quality improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send the data quality report to @itpm-1, @clinlead-1, @da-1, @da-2, @ehrdev-1, and @ehrdev-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Do nothing with myself."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a presentation summarizing the data quality report for presentation to the stakeholders."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the presentation to @itpm-1, @clinlead-1, @da-1, @da-2, @ehrdev-1, and @ehrdev-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare the plan for next week, focusing on implementing the test plan and monitoring the data quality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Clean up the work environment and prepare for the weekend."
+    }
+]

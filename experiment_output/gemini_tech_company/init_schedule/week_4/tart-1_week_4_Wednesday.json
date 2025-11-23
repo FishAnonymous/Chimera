@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Review any feedback on the latest build of the character customization system. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any bugs or issues reported by the QA testers (@QTEST-1) regarding the character customization system. Prioritize critical bugs that affect gameplay."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin researching and prototyping a solution for dynamic lighting and shadows in the game's environments. Explore different lighting techniques, such as ray tracing and screen space reflections."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Experiment with different lighting setups in Unreal Engine. Create a test scene with various light sources and materials to evaluate their performance and visual quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Order some pizza and browse ArtStation for inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimize the lighting setup for performance. Experiment with different shadow settings and lightmap resolutions to find the optimal balance between visual quality and performance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consult with @LVDN-1 to discuss the level design requirements for lighting and shadows. Get their feedback on the lighting direction and technical constraints."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement the dynamic lighting solution in a small section of the game's environment. Test the lighting with different weather conditions and time of day settings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the dynamic lighting solution and update the team on the progress. Prepare a presentation to showcase the lighting effects to the team tomorrow. @LVDN-1 Email to discuss lighting solution in detail. Topic: Dynamic Lighting Implementation."
+    }
+]

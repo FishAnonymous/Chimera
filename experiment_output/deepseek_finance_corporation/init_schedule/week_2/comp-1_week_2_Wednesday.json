@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any new SEC updates or regulatory changes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to discuss the timeline for completing all compliance documentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize compliance documentation, ensuring all sections are complete and up-to-date."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @audit-1 to confirm the preliminary review schedule and share updated compliance documents."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a training session for @onbd-1 on compliance requirements for client onboarding."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review and update client onboarding procedures to ensure compliance with SEC regulations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize training materials and store them in the shared drive for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of the day's progress and outline tasks for the next day."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review notes from Monday\u2019s meeting and start creating a checklist for data quality testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @rn-1, @rn-2, and @rn-3 for input on testing data verification methods."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft initial checklist for testing data quality based on insights from the Data Analysts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Receive and review feedback from Registered Nurses regarding the checklist."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine checklist for testing data quality and accuracy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and log out."
+    }
+]

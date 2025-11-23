@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for urgent requests or updates. Review the project plan for EHR collection and influenza trend analysis to re-familiarize myself with timelines and deliverables."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the existing data abstraction protocol draft, focusing on clarity, completeness, and adherence to established data standards. Make notes on areas needing improvement or clarification."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Cross-reference the data abstraction protocol with the list of EHR data elements identified in week 1. Ensure all required elements are accurately represented in the protocol."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin drafting the standardized data abstraction form, ensuring it aligns perfectly with the data abstraction protocol. Focus on creating a user-friendly and efficient form for data entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Prepare lunch in the office."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the standardized data abstraction form, paying close attention to data validation rules and error handling to minimize data entry mistakes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @HIS-1 and @DA-1 to request feedback on the data abstraction protocol and standardized form draft. Specifically, ask for their input on the clarity and completeness of the instructions, and the usability of the form."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start working on the training materials for the data abstractors, outlining the data abstraction protocol and EHR data entry process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the daily work. Plan and set up goal for tomorrow."
+    }
+]

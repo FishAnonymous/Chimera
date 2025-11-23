@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the tasks assigned for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Client Developer to discuss the main requirements for automating build deployments."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start researching existing tools and scripts used in the company for build automation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an initial plan for scripts that will automate the deployment processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin developing the first script for deploying builds to the staging environment."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the initial deployment script on local environment."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the day's progress and send it to @Prod for review."
+    }
+]

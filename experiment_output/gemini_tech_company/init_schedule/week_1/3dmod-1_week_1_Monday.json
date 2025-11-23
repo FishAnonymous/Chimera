@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Grab a coffee and check emails for any urgent requests or updates. Quickly browse through my favorite 3D art blogs to get some inspiration. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: character blockout, environment models, and animation library. Prioritize character blockout as it's foundational."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @cart-1 Leon to request the character designs for the main characters. Subject: Character Design Request. Body: 'Hey Leon, could you please share the character designs you have for the main characters? I'll be starting the blockout phase this week. Let me know if you have any specific details or preferences I should keep in mind. Thanks!'"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "While waiting for Leon's response, start setting up my 3D modeling software (Maya/Blender - whichever feels right today) and organizing the project files for the character blockout."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Leon's replied! Review character designs. Spend some time analyzing the proportions, key features, and overall style of Leon's art. Take notes and save reference images."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin blocking out the first main character. Focus on the major body parts (torso, head, limbs) using simple shapes like spheres, cubes, and cylinders. Prioritize getting the proportions right based on Leon's designs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head out to grab something to eat with some of the other 3D modelers @3dmod-1. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the character blockout. Pay attention to the silhouette and how the different body parts connect. Ensure the pose is neutral and suitable for rigging later on."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break from character modeling. Switch gears and start researching environmental modeling techniques for the game. Look for tutorials and reference images of similar environments in other games."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue refining the character blockout, ensure the topology is clean and animation-friendly. Save backup. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Do a final save and backup of the character blockout. Quickly check emails one last time before leaving."
+    }
+]

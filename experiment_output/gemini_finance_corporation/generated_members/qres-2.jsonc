@@ -1,0 +1,27 @@
+{
+    "name": "Marcus Lee",
+    "id": "qres-2",
+    "ip": "10.0.0.12",
+    "age": 28,
+    "role": "Quantitative Researcher",
+    "description": "Focuses on developing predictive models through statistical analysis and machine learning techniques to enhance trading strategies. Performs extensive backtesting and empirical research to validate the effectiveness of models.",
+    "tools": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "SQL",
+        "Jupyter Notebook"
+    ],
+    "mbti": "ENFP",
+    "interests": "machine learning, rock climbing, cooking",
+    "personality": "Creative and open-minded, often finds unique approaches to problems. Values teamwork but also enjoys personal projects that allow for exploration of new ideas.",
+    "application": {
+        "ModelBuilder": {
+            "account_name": "qr-128947",
+            "password": "MarcusQR@2023",
+            "permissions": "read_write"
+        }
+    },
+    "email": "qr-128947@corp.com",
+    "container_id": "c23d85b317d4"
+}

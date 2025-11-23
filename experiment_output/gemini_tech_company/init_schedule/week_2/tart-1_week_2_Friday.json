@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, emails. Catch up on industry news and blog posts. Maybe browse Reddit's r/gamedev to see what's trending."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the documentation of the workflow for VFX production based on the feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any remaining issues with the technical requirements document for art assets. Finalize the document and distribute it to the art team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation summarizing the technical requirements for art assets and the visual style guidelines for the game. @PEOPLE: Art Style & Tech Requirements Presentation"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Maybe try that new restaurant down the street."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the art style guidelines and technical requirements to the art team. Answer any questions and address any concerns."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document all the parameters that can be tuned with the generated assets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Clean up the test scene and prepare it for future use. Back up all the assets and the shader graphs."
+    }
+]

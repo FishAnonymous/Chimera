@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, have breakfast, and review calendar."
+    },
+    {
+        "Time": "07:30",
+        "Activity": "Respond to any urgent emails."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, quick check with assistant."
+    },
+    {
+        "Time": "08:15",
+        "Activity": "Hold a project kickoff meeting with all team members. Clearly communicate project goals, timelines, and individual responsibilities. Emphasize the importance of collaboration and open communication."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review initial progress reports from each team. Identify any early warning signs or potential roadblocks. Follow up with relevant team leads to discuss mitigation strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @IR-1 (Head of Investor Relations) to discuss potential investor communications related to the project. Align on key messaging and timing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Networking opportunity."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any issues raised during the progress report review. Escalate critical issues to the CIO as needed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check the progress of documentation and send email to @PM-1 @LEGAL-1 @COMP-1 to remind them to work on the documentation stuff."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Individual check-ins with critical team members (e.g., @larch-1, @qres-1) to provide support and guidance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review budget spendings with @FACC-1 @FACC-2. Confirm the budget for the coming month."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

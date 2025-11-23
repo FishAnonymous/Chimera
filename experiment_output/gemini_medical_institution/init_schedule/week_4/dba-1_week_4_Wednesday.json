@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in, and check emails. Address any overnight requests or issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review previous progress and tasks. Check that the testing from the day before went well."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on refining and optimizing the CHECK constraints. Review the existing constraints and identify any potential gaps or areas for improvement. Ensure the constraints are as efficient as possible."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Consult with @qatest-1 and @qatest-2 (Quality Assurance Testers) via email to solicit feedback on the implemented constraints. Topic: Feedback on Implemented Database Constraints."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any feedback received from the QA testers. Refine the CHECK constraints based on their input. Re-test the constraints to ensure they are working as expected."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on implementing constraints for date fields. Ensure that dates are valid and fall within reasonable ranges (e.g., admission date is not in the future). Use date functions in SQL to implement the constraints."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop SQL scripts to implement the date constraints, using appropriate date functions and operators. Ensure the constraints are robust and handle various date formats."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the date constraints on the development database instance. Attempt to insert invalid dates and verify that the constraints prevent the insertion. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the documentation with the date constraints implemented. Document the rationale behind the constraints and the methods used to implement them. Review the week's progress and plan for Thursday."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Read emails and wrap up."
+    }
+]

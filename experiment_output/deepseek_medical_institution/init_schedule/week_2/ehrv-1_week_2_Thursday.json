@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any follow-up questions from stakeholders regarding the project timeline."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @trainer-1 to start planning training sessions for staff on new EHR functionalities post-modification."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review training materials and provide feedback to @trainer-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @ehrv-1 on vendor's progress with the proposed modifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to gather frontline feedback on current EHR usability and potential improvements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Compile nurse feedback and share with @ehrdev-1 and @ehrdev-2 for consideration in modifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the requirements document with nurse feedback and send to @ehrv-1 for vendor review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax and browse healthcare technology forums."
+    }
+]

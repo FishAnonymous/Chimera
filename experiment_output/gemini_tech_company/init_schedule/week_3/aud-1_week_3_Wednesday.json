@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and have a breakfast."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue placing environmental audio within the game engine. Focus on setting up basic audio triggers (e.g., sounds that play when the player enters a specific area)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start implementing sound effects for basic character actions (footsteps, jumping, landing). Attach the sounds to the appropriate animations within the engine."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @CDEV-1 (Client Developer) @PEOPLE to ensure accurate event triggering for character sounds. Confirm that the correct sound effects are playing at the right moments in the animations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin experimenting with adjusting audio parameters (volume, pitch, panning) to create variations in the sound effects and prevent them from sounding repetitive. Use the engine's built-in audio tools for this purpose."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Focus on UI feedback sounds. Start by creating a simple 'click' sound for button presses and a subtle 'whoosh' for menu transitions."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Test the UI sounds within the game and gather feedback from @UIUX-1 (UI/UX Designer) @PEOPLE regarding their appropriateness and clarity."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the departure and double-check the schedule for tomorrow."
+    }
+]

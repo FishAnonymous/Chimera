@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review yesterday's progress and prioritize tasks for the day, focusing on completing Form ADV."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft Form ADV, Part 1, focusing on the fund's business practices and disciplinary information. Coordinate with @comp-1 for compliance checks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on Form ADV, Part 2, detailing the fund's advisory business and potential conflicts of interest. Collaborate with @ir-1 to ensure alignment with investor relations materials."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @mkt-1 to ensure marketing materials align with Form ADV disclosures, particularly regarding performance claims and risk disclosures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize drafts of Form ADV and submit for internal review to @comp-1 and @legal-1. Address any immediate feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the compliance timeline based on progress. Identify any bottlenecks and discuss solutions with @pm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research recent SEC updates or enforcement actions related to hedge funds to ensure our documentation is up-to-date."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a status report for the COO (@coo-1) highlighting completed tasks, pending items, and any risks to the timeline."
+    }
+]

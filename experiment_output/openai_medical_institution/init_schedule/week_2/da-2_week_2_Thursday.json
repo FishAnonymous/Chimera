@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Prepare and send the final report on data collection and preliminary cleaning to the team for feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Discuss feedback received on the report with @clinlead-1 and make necessary adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with data cleaning based on team feedback, addressing any points raised."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @helpdesk-1 to address any system access issues encountered during data cleaning."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review day's progress and outline the next steps based on current data integrity status."
+    }
+]

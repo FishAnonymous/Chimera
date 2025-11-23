@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and company announcements. Skim through documentation on Unreal Engine's UMG (Unreal Motion Graphics) to refresh knowledge on UI design within the engine. Also, read the latest blog on game architecture design from the website that I am interested in."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the basic project structure in Unreal Engine. Create initial folders for UI, core game logic, and assets."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the main menu UI element. Place placeholder buttons for 'Start Game', 'Options', and 'Exit'. Just basic functionality for now."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement basic HUD elements. Display placeholder health, ammo, and score. This is just to get something on screen."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Play a few rounds of Apex Legends."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the HUD, adding a simple crosshair. Look for some open-source crosshair designs to try out."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement the basic Options menu. Placeholder sliders for volume and graphics settings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consider scalable architecture by researching design patterns applicable to game development. Focus on the MVC (Model-View-Controller) pattern for UI elements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the code committed, write some notes for architecture improvement in my notebook. Then, shut down PC and prepare to go home."
+    }
+]

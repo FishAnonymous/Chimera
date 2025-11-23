@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Prepare for the meeting with the CIO and Quant Researchers. Review the questions I have for them regarding the statistical arbitrage strategies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @CIO-1 (Chief Investment Officer) and @QRES-1, @QRES-2, @QRES-3 (Quantitative Researchers) to discuss compliance considerations related to the proposed statistical arbitrage strategies. Focus on understanding the potential risks and vulnerabilities of the strategies from a compliance perspective."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document the details of the statistical arbitrage strategies and their potential compliance implications based on the meeting discussion. Update the compliance checklist with specific risk mitigation strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review SEC regulations related to the use of alternative data in investment strategies. Assess potential compliance risks associated with the use of alternative data, including data privacy, data security, and data accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up with @COMP-1 (myself) on compliance updates and discuss the regulatory environment."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research and document best practices for ensuring compliance with AML/KYC regulations when onboarding UHNWI clients. Review relevant guidance from FINRA and other regulatory bodies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send an email to @ONBD-1 (Client Onboarding Specialist) to schedule a meeting to discuss AML/KYC compliance procedures for UHNWI clients. @ONBD-1 AML/KYC UHNWI Client Onboarding"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the compliance checklist with detailed requirements for AML/KYC compliance. Create a draft AML/KYC policy tailored to UHNWI clients."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all the information gathered this week and identify any remaining gaps in my understanding of the relevant SEC regulations. Plan for Thursday and Friday."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails, organize files, quick check on SEC website for new releases."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off for the day."
+    }
+]

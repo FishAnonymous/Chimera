@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review feedback from the EHR Vendor Liaison."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct testing on EHR data entry and retrieval functions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile results and document any bugs encountered during testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @Clinical Lead and @Health Informatics Specialist to discuss data collection criteria."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update test cases based on feedback from the meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any urgent queries."
+    }
+]

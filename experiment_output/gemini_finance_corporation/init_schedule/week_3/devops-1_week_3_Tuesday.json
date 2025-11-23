@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the development environment proposal from yesterday. Make necessary adjustments based on overnight thoughts."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Reach out to @larch-1 @sdev-1 @sdev-2 to get their feedback on the Development Environment Proposal. @PEOPLE Subject: Feedback on Development Environment Proposal"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Based on the feedback, finalize the Development Environment setup and refine the documentation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin researching CI/CD tools suitable for a financial environment. Consider Jenkins, GitLab CI, or CircleCI, focusing on security and auditability."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start setting up a basic CI/CD pipeline using the selected tool. Focus on automating the build and unit testing process for a sample code repository."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address security considerations for the CI/CD pipeline (e.g., secrets management, access control, vulnerability scanning). Possibly integrate with Vault."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Look up the recent vulnerabilities in the infrastructure related software, and check for the mitigation methods."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement automated unit tests as part of the CI/CD pipeline. Work with @sdev-1 and @sdev-2 to define meaningful tests for their code. @PEOPLE Topic: Automated Unit Tests for CI/CD"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document the CI/CD pipeline setup, including configuration details, security measures, and troubleshooting steps."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Test the CI/CD pipeline by making a code change and observing the automated build and test process. Troubleshoot any issues."
+    }
+]

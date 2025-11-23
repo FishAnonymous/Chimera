@@ -1,0 +1,70 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, brew a cup of calming chamomile tea. Settle in and check emails for urgent requests or reported EHR system issues. Prioritize based on impact and urgency."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the help desk ticketing system for new tickets related to EHR system problems and data collection issues. Pay close attention to descriptions and screenshots provided by users. Categorize tickets based on the nature of the issue."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address the highest priority ticket: a report from @rn-1 that they are unable to access patient records in the EHR. Attempt to remotely access their workstation to observe the issue firsthand."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "After remote access, discover the problem is that @rn-1's account has been temporarily locked due to multiple failed login attempts. Reset the password and provide instructions for creating a new, secure password."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document the resolution in the ticketing system, including the steps taken and the outcome. Close the ticket."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address another ticket: @mrs-1 is reporting difficulties with data entry into a specific EHR form. Research the specific EHR form, and related potential issues. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Call @mrs-1 to clarify the exact nature of the data entry problem. Determine if the issue is related to user error, software glitch, or data validation rules."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Guide @mrs-1 through the data entry process step-by-step, emphasizing the correct format and required fields. Confirm that the data is now being entered correctly. Also send email about this to @trainer-1, asking if this issue has been covered in training."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Browse some websites about modern architecture and interior design. Maybe sketch a little."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address a ticket reporting slow EHR performance. @da-1 reports that the queries they're running for trend analysis are taking much longer than usual. Email @dba-1 and @da-1 about EHR performance issues and requesting a database performance check. @PEOPLE"
+    },
+    {
+        "Time": "14:30",
+        "Activity": "While waiting for a response from @dba-1, research common causes of slow EHR performance, such as network congestion, server overload, or inefficient database queries."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Receive a response from @dba-1 indicating that they have identified a database indexing issue that may be contributing to the slow performance. They will implement a fix. Confirm the fix with @da-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Follow up with @da-1 to confirm that the database indexing fix has improved the performance of their queries. Update the ticketing system with the resolution. Close the ticket."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin documenting common EHR troubleshooting steps for known issues in a knowledge base article. This will help streamline future support requests. Focus on login issues and form input errors as those are most common so far."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on the knowledge base article, adding detailed screenshots and clear instructions. Review the article and finalize the edits."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails one last time. Respond to any outstanding messages and prepare for the next day's tasks. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Tess Harper",
+    "id": "qtest-1",
+    "ip": "10.0.0.29",
+    "age": 26,
+    "role": "QA Tester",
+    "description": "Responsible for testing game builds to ensure quality and performance. Executes test cases, identifies bugs, and collaborates with developers to verify fixes. Provides feedback on gameplay to enhance player experience.",
+    "tools": [
+        "Jira",
+        "TestRail",
+        "Selenium",
+        "Postman",
+        "Unreal Engine"
+    ],
+    "mbti": "ISFJ",
+    "interests": "board games, baking",
+    "personality": "Meticulous and patient, enjoys ensuring quality and stability in products. Prefers structured environments and finds satisfaction in detailed work.",
+    "application": {
+        "TestSuite": {
+            "account_name": "qa-987654",
+            "password": "tessH@rper",
+            "permissions": "qa_tester"
+        }
+    },
+    "email": "qa-987654@corp.com",
+    "container_id": "f830b7c3b456"
+}

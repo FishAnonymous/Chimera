@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm attendance for the training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the training room and test all technical equipment (projector, EHR system access)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct the training session for data abstractors on the finalized protocol and form."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any questions or concerns from the training session participants."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Gather feedback from participants and note areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update training materials based on participant feedback and send final versions to @trainer-1."
+    }
+]

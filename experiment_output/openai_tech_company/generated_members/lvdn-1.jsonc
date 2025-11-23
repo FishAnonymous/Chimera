@@ -1,0 +1,27 @@
+{
+    "name": "Tobias Reed",
+    "id": "lvdn-1",
+    "ip": "10.0.0.20",
+    "age": 32,
+    "role": "Level Designer",
+    "description": "Creates immersive and engaging levels that enhance the player journey, focusing on layout, pacing, and player interactions. Collaborates with artists and programmers to ensure consistency in the overall design.",
+    "tools": [
+        "Unreal Engine",
+        "SketchUp",
+        "Maya",
+        "Substance Painter",
+        "Trello"
+    ],
+    "mbti": "ISFP",
+    "interests": "landscaping, photography",
+    "personality": "Creative and sensitive, has a strong appreciation for artistry in design. Prefers a quiet workspace for deep focus and often finds inspiration in nature and visual art.",
+    "application": {
+        "LevelDesignToolkit": {
+            "account_name": "ldes-759201",
+            "password": "tobiasR@levels",
+            "permissions": "level_designer"
+        }
+    },
+    "email": "ldes-759201@corp.com",
+    "container_id": "f11e6f35b5a2"
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Address and fix any issues identified during yesterday's testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @his-1 and @his-2 to ensure the data collected aligns with health informatics standards."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the EHR system with fixes and retest the functionalities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a second round of testing with @qatest-1 and @qatest-2 to verify fixes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @trainer-1 to discuss training materials for end-users on the new functionalities."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the testing results and prepare a report for the project team."
+    }
+]

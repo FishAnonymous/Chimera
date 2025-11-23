@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails for any urgent requests or updates. I'll grab a cup of coffee to get my day started."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the EHR data elements list provided by @DA-1 and @HIS-1 last week. Refresh my understanding of each element and their potential impact on data abstraction."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin refining the data abstraction protocol draft based on the EHR data elements. Focus on clarity and conciseness to minimize ambiguity during data entry. I will think step by step."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start working on the standardized form design. Focus on user-friendliness and intuitive layout. Think about the logical flow of data entry for abstractors. Maybe look at some design websites for inspiration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head to the cafeteria to grab lunch and socialize with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the standardized form. Try to create the form on the computer using software. It's more efficient and effective."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @DA-1 and @HIS-1 to schedule a brief meeting tomorrow morning to review the initial data abstraction protocol and standardized form drafts. @DA-1 @HIS-1 Topic: Review of Initial Data Abstraction Protocol and Standardized Form Drafts"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue drafting the protocol and form, incorporating any potential improvements based on initial considerations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and make a list of items to address tomorrow before the meeting with @DA-1 and @HIS-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the end of the day. I like to listen to music to relax."
+    }
+]

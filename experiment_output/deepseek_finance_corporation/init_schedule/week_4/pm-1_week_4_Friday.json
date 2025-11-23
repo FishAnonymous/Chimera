@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any pending tasks. Prioritize for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @coo-1 and @cio-1 to review the week's progress and plan for next steps."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Follow up with all team leads (@larch-1, @dsde-1, @qres-1, @comp-1, etc.) to ensure all final deliverables are on track."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review fund accounting updates with @facc-1 and @facc-2. Ensure all financial data is accurate."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and submit weekly progress report to @coo-1 and @cio-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct team wrap-up meeting to review the week's achievements and address any remaining issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan and prioritize tasks for the following week. Send out weekend reminders to the team if necessary."
+    }
+]

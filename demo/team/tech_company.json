@@ -1,0 +1,197 @@
+{
+  "core_development_team": {
+    "programming_team": {
+      "roles": [
+        {
+          "role_name": "Lead Programmer",
+          "abbr": "lpro",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Design core technical architecture",
+            "Implement game logic/physics engine",
+            "Optimize network synchronization"
+          ]
+        },
+        {
+          "role_name": "Client Developers",
+          "abbr": "cdev",
+          "count": 3,
+          "outsource": 0,
+          "responsibilities": [
+            "Third-person camera controller",
+            "Character animation system",
+            "Weapon mechanics & ballistics",
+            "UI implementation"
+          ]
+        },
+        {
+          "role_name": "Server Developer",
+          "abbr": "sdev",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Multiplayer matchmaking system",
+            "Anti-cheat implementation",
+            "Cloud data management"
+          ]
+        },
+        {
+          "role_name": "Tools Developer",
+          "abbr": "tdev",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Build pipeline automation tools",
+            "Create level editor extensions",
+            "Asset import pipeline optimization"
+          ]
+        }
+      ]
+    },
+    "design_team": {
+      "roles": [
+        {
+          "role_name": "Lead Game Designer",
+          "abbr": "ldes",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Core gameplay loop design",
+            "Combat system balancing",
+            "Cross-department coordination"
+          ]
+        },
+        {
+          "role_name": "Systems Designers",
+          "abbr": "sdes",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Cover system implementation",
+            "Enemy AI behavior trees",
+            "Progression system tuning"
+          ]
+        },
+        {
+          "role_name": "Level Designer",
+          "abbr": "lvdn",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Map layout design",
+            "Spawn and cover placement",
+            "Gameplay pacing through level design"
+          ]
+        },
+        {
+          "role_name": "Narrative Designer",
+          "abbr": "ndes",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Worldbuilding documentation",
+            "Scriptwriting & dialogue",
+            "Lore integration with art assets"
+          ]
+        }
+      ]
+    },
+    "art_team": {
+      "roles": [
+        {
+          "role_name": "Concept Artist",
+          "abbr": "cart",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Character/enemy concept art",
+            "Environment keyframe illustrations",
+            "Art style guidelines"
+          ]
+        },
+        {
+          "role_name": "3D Modelers/Animators",
+          "abbr": "3dmod",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "High-poly asset modeling",
+            "Rigging & skinning",
+            "Third-person locomotion cycles"
+          ]
+        },
+        {
+          "role_name": "Technical Artist",
+          "abbr": "tart",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Shader graph development",
+            "Render pipeline optimization",
+            "Physics-driven destruction FX"
+          ]
+        },
+        {
+          "role_name": "UI/UX Designer",
+          "abbr": "uiux",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "HUD layout design",
+            "Cross-platform input mapping",
+            "Diegetic interface integration"
+          ]
+        }
+      ]
+    }
+  },
+  "support_teams": {
+    "roles": [
+      {
+        "role_name": "Audio Engineer",
+        "abbr": "aud",
+        "count": 1,
+        "outsource": 1,
+        "responsibilities": [
+          "Weapon SFX design",
+          "Dynamic music system",
+          "Spatial audio implementation"
+        ]
+      },
+      {
+        "role_name": "QA Testers",
+        "abbr": "qtest",
+        "count": 1,
+        "outsource": 1,
+        "responsibilities": [
+          "Combat feel iteration",
+          "Camera collision testing",
+          "Multiplayer stress tests"
+        ]
+      },
+      {
+        "role_name": "Producer",
+        "abbr": "prod",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "Agile sprint planning",
+          "Resource dependency mapping",
+          "Risk mitigation strategies"
+        ]
+      },
+      {
+        "role_name": "Build Engineer",
+        "abbr": "beng",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "CI/CD pipeline management",
+          "Asset bundle optimization",
+          "Version control governance"
+        ]
+      }
+    ]
+  }
+}

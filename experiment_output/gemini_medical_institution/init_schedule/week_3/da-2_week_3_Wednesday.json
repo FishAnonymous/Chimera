@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Check and reply to emails from @his-1 and @clinlead-1"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue developing the heatmap for visualizing geographical trends in influenza cases. Fine-tune the color scheme and data aggregation levels to ensure a clear representation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research on Data Visualization by using the Power BI."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Integrate the heatmap into the report template and ensure it interacts seamlessly with the other data visualization elements. Test the report's performance with large datasets."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Document the implementation details of the heatmap, including the data sources, aggregation methods, and color scheme choices."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Read the latest article about the challenges and solutions for implementing new EHR systems."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the entire report template to ensure consistency in terms of design, labeling, and interactive elements. Fix any identified inconsistencies."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct thorough testing of the report template to identify any potential bugs or performance issues. Document all identified issues in a bug tracking system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @qatest-1 to report the possible bugs and the method to reproduce them. @PEOPLE: qatest-1 Topic: Report Bug Issue."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Backup all the files and prepare to leave office."
+    }
+]

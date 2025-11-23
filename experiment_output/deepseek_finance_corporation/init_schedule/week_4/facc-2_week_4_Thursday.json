@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any feedback on the financial statements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Submit the finalized monthly financial statements to @coo-1 and @ir-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Monitor daily cash flows and ensure all transactions are up to date."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @audit-1 to discuss any audit-related queries regarding the financial statements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and update the accounting procedures based on any feedback from @comp-1 and @legal-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @facc-2 to coordinate on any pending reconciliation tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update investment valuations and prepare a summary report for @cio-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's tasks and plan for Friday."
+    }
+]

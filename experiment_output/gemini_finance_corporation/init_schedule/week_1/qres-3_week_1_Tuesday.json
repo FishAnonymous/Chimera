@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Review meeting notes from yesterday and re-familiarize myself with the progress on the fund strategy and risk management framework."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research and documentation on liquidity risk within the context of statistical arbitrage strategies. Examine the potential impact of market illiquidity on trade execution and position unwinding."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Expand the risk management framework to include a section on liquidity risk. Define key metrics for measuring liquidity risk and propose mitigation strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @FACC-1 and @FACC-2 regarding fund accounting procedures and reporting requirements related to liquidity. Ensure alignment between risk management practices and accounting standards. @PEOPLE = ['FACC-1', 'FACC-2'], topic = 'Liquidity Risk and Fund Accounting'."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting the liquidity risk section of the framework, incorporating insights from the discussion with @FACC-1 and @FACC-2. Include specific examples of how liquidity constraints might impact the fund's performance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the updated risk management framework with @QRES-1, @QRES-2, and @CIO-1. Focus on the liquidity risk section and seek feedback on the proposed mitigation strategies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the risk management framework based on the feedback received. Prepare notes for tomorrow's work on correlation risk."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clear desk and prepare for departure. Ensure all documents are properly saved and backed up."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review patient records for accuracy. Cross-check with paper records if necessary."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend a meeting with @clinlead-1 and @pchmp-1 to discuss any discrepancies found in patient data entry."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue verifying patient data in the EHR system, focusing on high-priority cases flagged by @his-1 and @his-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a training session led by @trainer-1 on new EHR workflows. Take notes on any challenges or questions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Provide feedback to @trainer-1 and @itpm-1 regarding the training session and any workflow challenges encountered."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @rn-1, @rn-2, and @rn-3 to ensure they are comfortable with the new workflows and address any concerns."
+    }
+]

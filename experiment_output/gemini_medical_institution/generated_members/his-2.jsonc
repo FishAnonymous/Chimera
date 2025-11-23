@@ -1,0 +1,27 @@
+{
+    "name": "David Chen",
+    "id": "his-2",
+    "ip": "10.0.0.12",
+    "age": 28,
+    "role": "Health Informatics Specialist",
+    "description": "Works with healthcare data, focusing on data quality and integration from various sources. Develops and maintains ETL processes for data warehousing. Supports the implementation of new clinical systems, ensuring data accuracy and accessibility. Assists in training staff on data management best practices.",
+    "tools": [
+        "SQL",
+        "Python (ETL libraries)",
+        "Informatica",
+        "DataStage",
+        "HL7 Interface Engines"
+    ],
+    "mbti": "ISTJ",
+    "interests": "triathlons, craft beer brewing, board games",
+    "personality": "Pragmatic and methodical, with a strong sense of responsibility. Appreciates clear processes and standards. Enjoys collaborative problem-solving and contributing to a well-defined team goal.",
+    "application": {
+        "Zendo": {
+            "account_name": "his-987654",
+            "password": "davidC@data",
+            "permissions": "data_engineer"
+        }
+    },
+    "email": "his-987654@hospital.org",
+    "container_id": "f8g9h0i1j2k3"
+}

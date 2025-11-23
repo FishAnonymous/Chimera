@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review any remaining tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final review of all analyses and reports. Ensure everything is properly archived."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @pm-1 to provide a weekly summary and discuss priorities for next week."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Respond to any last-minute requests or clarifications from the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Spend time on professional development, reading recent research papers or attending a webinar."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's achievements and challenges. Draft a personal improvement plan."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off, ensuring all tasks are completed and ready for the next week."
+    }
+]

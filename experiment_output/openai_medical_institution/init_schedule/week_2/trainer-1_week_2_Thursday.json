@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and assess outstanding issues from previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue providing on-the-ground support during data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct third onboarding training session for EHR tools."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback and troubleshoot any issues that arise during training."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of OA system for the day."
+    }
+]

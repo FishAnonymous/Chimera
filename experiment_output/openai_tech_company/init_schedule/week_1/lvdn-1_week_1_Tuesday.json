@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for feedback from @LDES-1 and @NDES-1 regarding the sketches."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Revise sketches based on feedback received, incorporating suggestions and improving layout."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation of revised level layouts for a collaborative meeting with the design team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a collaborative meeting with the design team to gather initial feedback on proposed layouts and discuss potential gameplay mechanics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take detailed notes on team feedback and identify any additional points to improve the level designs."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Draft a follow-up email to @LDES-1 and @NDES-1 summarizing the feedback received and how it will influence the next design phases."
+    }
+]

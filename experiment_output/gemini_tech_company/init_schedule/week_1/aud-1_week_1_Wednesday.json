@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, review the schedule, and catch up on emails. Reflect on yesterday's progress and identify any roadblocks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue attaching sound effects to in-game events and triggers. Focus on enemy actions and UI sounds. Pay close attention to timing and synchronization."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on implementing environmental audio. Start by identifying key areas in the game that require ambient soundscapes (e.g., forest, city, cave)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Source or create ambient sound loops for each environment. Consider using layered sounds to create a more dynamic and realistic atmosphere (e.g., wind, birds, insects in a forest)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax and listen to some nature sounds to get inspired for creating realistic soundscapes."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate ambient sound loops into the game engine. Use audio zones or other techniques to control the playback of ambient sounds based on the player's location. Adjust the volume and panning settings to create a sense of depth and immersion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Experiment with different audio effects to enhance the environmental audio. Consider using reverb to simulate the acoustics of different spaces or filters to create a sense of distance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the environmental audio in-game. Walk through each environment and evaluate the effectiveness of the soundscape. Make necessary adjustments to volume, panning, and effects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the environmental audio implementation process. Note any challenges or best practices. Update the sound effect tracking spreadsheet."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up the project and prepare for tomorrow's tasks. Check personal favorite website on audio engineering."
+    }
+]

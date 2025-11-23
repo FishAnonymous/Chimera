@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Hopefully, the goals for the week will be in my inbox from @PROD-1. If not, I'll send a follow-up email."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Assuming I have the goals: Review the assigned goals and break them down into smaller, manageable tasks. Create a detailed task list with estimated timeframes for each."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prioritize the tasks based on dependencies and overall project milestones. Identify any critical path items that need immediate attention."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start working on the highest priority task. This might involve implementing a new feature, debugging an existing issue, or conducting code reviews."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the task, regularly testing and debugging the code to ensure functionality and stability. Create test case for new gameplay functions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Hold a brief stand-up meeting with the client development team (@CDEV-1, @CDEV-2, @CDEV-3) to discuss progress, challenges, and any dependencies that might be blocking their work. Review the tasks for the three developers and suggest improvements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update task progress in the project management system and document any important findings or decisions made during the day. Send the summary to @PROD-1 and @LDES-1 to ensure they understand today's working process"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the next day by outlining the tasks and priorities. Review any relevant documentation or code samples to ensure a smooth start."
+    }
+]

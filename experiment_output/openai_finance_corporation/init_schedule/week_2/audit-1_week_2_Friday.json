@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, including response from @legal-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize audit scope document incorporating regulatory changes suggested by @legal-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit the final audit scope and risk assessment to @pm-1 for sign-off."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan next steps for implementing audit findings and preparing for the next phase of the audit."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's work, make notes for future improvements, and log off."
+    }
+]

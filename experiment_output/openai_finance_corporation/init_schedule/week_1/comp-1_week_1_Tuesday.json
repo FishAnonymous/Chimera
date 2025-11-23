@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries regarding previous research."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @Legal Counsel to discuss SEC regulations and compliance requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Outline key compliance checks for fund management based on previous research."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue outlining compliance frameworks applicable to fund management."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft compliance framework document for internal review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the compliance framework draft and make necessary adjustments."
+    }
+]

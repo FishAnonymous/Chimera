@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Review market news. Brief email check."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Respond to emails and review the project plan created with @pm-1. Provide feedback and approve the final version."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @audit-1 to discuss the fund's audit procedures and compliance requirements. Address any concerns and ensure a smooth audit process. Send email to @audit-1 with subject 'discuss the fund's audit procedures'."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work with @facc-1 and @facc-2 to establish fund accounting procedures. Ensure accurate and transparent financial reporting."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review the fund's legal documentation with @legal-1. Ensure compliance with SEC regulations and investor protection laws."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax and recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Monitor the progress of the development team. Review code and provide guidance on technical challenges. Schedule quick sync up with @larch-1, @sdev-1, @sdev-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the marketing and investor relations materials again with @mkt-1 and @ir-1. Ensure they accurately reflect the fund's strategy and risk profile. Final Approval."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Discuss the fund's risk management framework with the Quantitative Research team. Implement appropriate risk controls and monitoring procedures."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tomorrow's schedule and prepare for upcoming meetings. Respond to any remaining emails."
+    }
+]

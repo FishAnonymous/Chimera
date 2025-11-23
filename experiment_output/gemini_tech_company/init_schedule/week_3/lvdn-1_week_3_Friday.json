@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final day! Coffee, emails, and a look back at the week's accomplishments. Feeling good!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on polishing the level based on feedback from yesterday's demo. Address any remaining issues with gameplay, visuals, or technical performance."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Final playtest of the level. Focus on the overall player experience, ensuring a smooth and engaging gameplay loop from start to finish. Look for opportunities to fine-tune the pacing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a final build of the level for QA testing. Include clear instructions on how to access the level and what areas to focus on during testing. Send it to @Qtest-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Celebrate the end of the week with the team!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all changes made to the level during the week. Create a detailed change log for future reference. This is crucial for version control."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write a brief summary of the week's accomplishments and challenges for @Ldes-1. Include suggestions for improving the level design process in the future. Be constructive!"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Catch up on any outstanding emails or administrative tasks. Wrap up any loose ends before the weekend."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Properly shut down the system. Head home and enjoy the weekend. Time to recharge and get ready for next week's challenges. "
+    }
+]

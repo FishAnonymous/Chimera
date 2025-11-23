@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from the development team on asset integration."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @uiux-1 to discuss any UI elements that may require shader adjustments post-handoff."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make any necessary tweaks to UI shaders based on feedback from @uiux-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all changes made during the week and update the asset pipeline documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by organizing files and preparing for next week's tasks."
+    }
+]

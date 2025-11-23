@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log into the EHR, check emails from colleagues and follow-up on previous inquiry responses."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pchmp-1 to discuss typical physician concerns regarding EHR data accuracy and patterns in influenza cases."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend an online training session on the national EHR standards compliance relevant to influenza data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement feedback from previous meetings into the EHR system to improve data entry processes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a checklist for staff on best practices for EHR data collection related to influenza."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @mrs-1 and @mrs-2 to review the newly created checklist and solicit their input."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's progress and prepare for a team meeting to present findings and suggestions for improvements."
+    }
+]

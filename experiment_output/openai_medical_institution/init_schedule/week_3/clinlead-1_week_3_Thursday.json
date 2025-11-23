@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review responses from @itpm-1 and @clinlead-1 regarding the report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @ehrdev-1 and @ehrdev-2 to implement any changes suggested in the report evaluation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Supervise continued data entry efforts and ensure data collection is on track for completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with the clinical staff to address any issues reported during data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Discuss with @helpdesk-1 to tackle any technical issues nursing staff are encountering with EHR data entry."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct an informal check-in with the team members on data collection progress and any support needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work with @qatest-1 and @qatest-2 on the validation of data quality before end of the data collection week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document issues observed and prepare a summary for discussion in the next review meeting."
+    }
+]

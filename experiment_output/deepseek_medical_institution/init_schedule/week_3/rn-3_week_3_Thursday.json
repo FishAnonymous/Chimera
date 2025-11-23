@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review patient records for any missed documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Round on patients to ensure all adverse reactions and education are documented. Follow up with any missing information."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide additional patient education as needed. Document in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss any EHR documentation challenges and solutions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and finalize patient education materials for the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a progress update to @itpm-1 regarding documentation completion."
+    }
+]

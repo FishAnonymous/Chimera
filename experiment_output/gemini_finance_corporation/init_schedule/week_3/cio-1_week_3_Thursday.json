@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, listen to business news podcast."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and respond to urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up on the implementation of risk monitoring system with @Larch-1 and @Devops-1. Request a demonstration of the system. @PEOPLE: Software Architecture & DevOps - Risk Monitoring System Demonstration"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review documentation on the risk management system and prepare questions for the demonstration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Audit-1 to discuss the audit plan for the fund and answer any questions regarding the strategy and risk management framework. @PEOPLE: External Auditor - Audit Plan Discussion"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Business lunch with potential investor."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in the risk monitoring system demonstration. Provide feedback and request any necessary modifications."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the refined fund strategy with @PM-1 to ensure alignment with the project timeline and resources. @PEOPLE: Project Manager - Strategy Alignment"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review fund performance with @Qres-1, @Qres-2, @Qres-3, looking at specific trades and risk metrics.  @PEOPLE: Quantitative Research - Performance Review"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize agenda for investor meetings next week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

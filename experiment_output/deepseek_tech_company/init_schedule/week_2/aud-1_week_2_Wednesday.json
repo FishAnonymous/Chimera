@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Begin composing initial BGM track for main menu screen."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Experiment with different musical themes to match the game's tone (e.g., intense, atmospheric)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a rough draft of the main menu BGM."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine main menu BGM, focusing on transitions and loopability."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share BGM draft with @uiux-1 and @prod-1 for feedback on emotional impact."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Adjust BGM based on feedback."
+    }
+]

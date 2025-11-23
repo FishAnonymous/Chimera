@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and grab a coffee. Wednesdays are always a little tough!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on the overall client-side architecture. Review the current structure and identify areas for improvement and scalability."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refactor the UI code to improve maintainability and organization. Implement a UI manager class to handle UI element creation and management."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement a modular UI system that allows for easy addition and removal of UI elements. Ensure it's flexible and extensible."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "@LPRO-1 Email him and ask for some suggestions about the architecture and get alignment. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Chat with colleagues about the game and exchange ideas."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate visual assets from the art team (@3Dmod-1 @3Dmod-2). Replace placeholder UI elements with finalized artwork."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with the art team to ensure the UI assets are properly integrated and displayed in the game. Make adjustments as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement animations and visual effects for UI elements. Add polish and visual appeal to the UI."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the UI thoroughly with the new visual assets and animations. Fix any visual glitches or issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document progress and plan for tomorrow's tasks: focusing on player feedback and error handling."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and head to the gym to de-stress."
+    }
+]

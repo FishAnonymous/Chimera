@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, grab coffee, and check emails. Quick review of the character blockout from yesterday \u2013 any immediate changes needed?"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin creating the blockout for the first major environmental structure (e.g., a central building or landmark). Start with the overall shape and placement within the level, referencing the concept art."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create base environmental models, starting with the larger structures"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the large structures, adding preliminary architectural details. Start breaking up the monotony of flat surfaces."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Find someone new in the office to chat with during lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the large environmental structure, focusing on adding medium-sized details and breaking up repetition. Reference real-world architecture for inspiration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break. Watch some 3D modeling tutorials on YouTube to pick up new tips and tricks."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Finalize the environmental structure blockout for the day. Ensure it's a solid foundation for adding more detail later. Save the Maya scene and document progress."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any emails and update the project management tool with progress on environmental models. Prepare for tomorrow's character rigging tasks."
+    }
+]

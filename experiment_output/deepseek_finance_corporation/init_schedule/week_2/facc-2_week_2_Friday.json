@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback from @coo-1 on the financial statements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make final adjustments to the financial statements based on feedback and finalize the documents."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Submit the finalized financial statements and compliance reports to @pm-1 and @comp-1 for filing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @facc-2 to review the week's work and discuss any improvements for future procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all processes and procedures implemented during the week for future reference."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email the team (@facc-2, @comp-1, @pm-1) with a summary of completed tasks and next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and clean up the workspace, both digital and physical, to prepare for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's achievements and plan for any upcoming tasks or meetings."
+    }
+]

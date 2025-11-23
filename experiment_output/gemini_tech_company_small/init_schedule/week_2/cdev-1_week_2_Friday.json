@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review the work done so far. Plan for the final touches."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement a simple respawn mechanism for the player after death. Place the player at the initial position of the game when he dies. "
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the enemy AI by adding a patrolling behavior when not chasing the player. Make the enemy walk around the game map before spotting the player."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Add more visual and sound effects to enhance the overall combat experience. Check with designer for such material."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct thorough testing of the entire combat loop, focusing on identifying and fixing any remaining bugs or issues. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a comprehensive summary of the work done this week, including challenges faced, solutions implemented, and areas for future improvement. Prepare a demo of the combat loop for @lpro-1 and @ldes-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the final code and submit the demo to @lpro-1 and @ldes-1. Relax, browse the web, maybe check out some interesting game development articles. Play the game for a while."
+    }
+]

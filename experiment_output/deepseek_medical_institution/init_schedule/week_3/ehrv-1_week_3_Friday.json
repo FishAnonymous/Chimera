@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Compile weekly status report for leadership. Include vendor updates, risks, and next steps."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Present summary to @itpm-1 and @pchmp-1. Seek approval for proceeding with vendor agreements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @dba-1 about database modifications needed for influenza data fields."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize documentation for handoff to developers (@ehrdev-1, @ehrdev-2). Schedule kickoff for next week."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Reflect on week\u2019s challenges. Jot down process improvements for future vendor negotiations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Casually check Twitter for healthcare IT trends before wrapping up."
+    }
+]

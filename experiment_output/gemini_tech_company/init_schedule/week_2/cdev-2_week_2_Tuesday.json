@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any questions from @UIUX-1 regarding UI element sizes and responsiveness across different screen resolutions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refactor the UI code to better adhere to the MVC pattern. Separate data logic from presentation. It's a mess right now."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement a basic settings panel to allow player to change the volume of BGM. Connect the slider to the game volume settings."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Talk with @UIUX-1 to discuss the game's art style and overall visual language and aesthetic.  @UIUX-1 @Leon @Naomi Topic: UI and narrative alignment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Try to find some good food in the area."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the Options menu based on @UIUX-1 feedback. Add resolution options and apply button."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Integrate visual assets from @3dmod-1 for the main menu background. Replace the placeholder with the actual art."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement a simple loading screen with a progress bar. This will be improved later with more details."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review code and make sure everything has been committed. Then, browse Reddit for the latest gaming news before signing out."
+    }
+]

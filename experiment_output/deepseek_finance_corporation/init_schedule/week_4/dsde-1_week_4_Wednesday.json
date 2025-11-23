@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the investment strategy presentation and make any necessary adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to align on the presentation format and key messages."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break, check personal emails and browse financial forums."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the investment strategy presentation, ensuring all data is accurate and up-to-date."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the completed presentation to @cio-1 and @ir-1 for review."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Follow up with @qres-1, @qres-2, @qres-3 to ensure all statistical models are correctly integrated."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any feedback from @cio-1 and @ir-1 on the presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, ensuring all changes are saved and documented."
+    }
+]

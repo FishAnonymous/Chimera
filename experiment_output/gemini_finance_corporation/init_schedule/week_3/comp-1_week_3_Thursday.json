@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review the progress of the compliance monitoring system implementation. Respond to any urgent emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue implementing compliance monitoring systems. Focus on setting up alerts and reports to track investor interactions, such as onboarding, KYC/AML checks, and suitability assessments. Email @ONBD-1 to ask for a list of the information they collect."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue implementing compliance monitoring systems, integrating data from the onboarding system. Create a dashboard to view all compliance information."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read industry articles online."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @larch-1 and @devops-1 to ensure the compliance monitoring systems are properly integrated with the fund's trading platform and data infrastructure. Discuss data feeds, API access, and system security."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the configuration of the compliance monitoring systems, including alerts, reports, and user access controls. Create a user manual for the system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the compliance monitoring systems to ensure they are functioning correctly. Verify that alerts are being triggered appropriately and that reports are accurate. Document testing results."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize desk and head home."
+    }
+]

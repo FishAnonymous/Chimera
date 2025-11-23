@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any pending queries from the Health Informatics or EHR development teams."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the design of new tables for influenza-related data, including primary keys, foreign keys, and constraints."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @clinlead-1 and @pchmp-1 to validate the clinical relevance of the proposed table fields (e.g., symptom severity, vaccination dates)."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin mapping specific EHR data elements to the corresponding columns in the new tables, starting with patient demographics and vaccination records."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue mapping EHR data elements, focusing on diagnosis codes and treatment records related to influenza."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @da-1 and @da-2 to confirm the data mapping aligns with their analysis requirements for seasonal influenza trends."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review feedback and adjust the data mapping as needed. Document any unresolved issues for further discussion."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update documentation and prepare for a mid-week review with the IT Project Manager."
+    }
+]

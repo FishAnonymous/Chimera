@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review market news and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the final approval of risk management framework."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 to discuss the details of statistical arbitrage strategies. @PEOPLE: qres-1, qres-2, qres-3 Topic: Statistical Arbitrage Strategies"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Discuss risk factors of the fund. Ask @qres-1, @qres-2, and @qres-3 about the details. @PEOPLE: qres-1, qres-2, qres-3 Topic: Risk Factors of the Fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review Forbes."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Communicate with @onbd-1 to discuss the onboarding process for UHNWIs. @PEOPLE: onbd-1 Topic: Onboarding process for UHNWIs."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the feedback from onboarding. Discuss potential solutions with @qres-1, @qres-2, and @qres-3. @PEOPLE: qres-1, qres-2, qres-3, onbd-1 Topic: Solutions for Onboarding Process"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the fund strategy document and risk management framework."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

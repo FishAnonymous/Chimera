@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Check up on the overnight build status and any reports from @beng-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Dive into error message implementation. Create a system to display error messages in the UI. Make it informative and user-friendly. No one likes cryptic error codes!"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement settings panel UI. Add basic options for volume control, screen resolution, and key bindings. Get input from @uiux-1 regarding layout."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Leon (Narrative Designer @ndes-1) and @Naomi (Level Designer @lvdn-1) to discuss the game's world and narrative, understand the style. Ask if there are specific UI requirements for reflecting the game's setting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Try that new burger joint everyone's been talking about."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Connect the settings panel options to the actual game settings. Make sure the volume slider actually changes the volume!"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Tutorial system: Start implementing a basic tutorial system. Create a series of pop-up messages to guide the player through the game's mechanics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ldes-1 and @sdes-1 about the expected player experience and core gameplay loop. Inquire if there are expected times when tutorials or specific error messages should be triggered. @ldes-1 @sdes-1 Tutorial Triggers and Error Message Conditions"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit changes to Git. Write a descriptive commit message."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Review progress and make a list of tasks for tomorrow. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Time to go home! Maybe hit the gym or catch up with friends."
+    }
+]

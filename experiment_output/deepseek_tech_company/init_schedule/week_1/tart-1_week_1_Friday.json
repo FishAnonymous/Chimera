@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback on the style guide or tools."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 to discuss how the art style will be tested for quality assurance."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a checklist for QA to ensure the art style is consistently applied across all assets."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the checklist with @qtest-1 and make any necessary adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final review of all documentation and assets related to the art style."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @prod-1 to provide a summary of the week's progress and next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by ensuring all tasks are completed and documentation is finalized."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks and goals based on the progress made this week."
+    }
+]

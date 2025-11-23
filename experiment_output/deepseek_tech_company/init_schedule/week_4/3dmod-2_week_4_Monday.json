@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the list of 3D models and animations that need polishing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start polishing the first set of 3D models, focusing on texture details and smoothing out any rough edges."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, browse art inspiration websites for fresh ideas."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue polishing 3D models, ensuring they meet the aesthetic and technical standards."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review animations for the first set of models, tweaking timing and fluidity."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @tart-1 to discuss any technical constraints or optimizations needed for the animations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Optimize the first batch of assets for performance, reducing polygon count where possible without losing quality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made and prepare for handoff to the development team."
+    }
+]

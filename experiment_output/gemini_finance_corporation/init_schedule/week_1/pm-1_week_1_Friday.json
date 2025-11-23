@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Quick review of emails and project status report feedback."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Finalize and distribute weekly project status report. Highlight key achievements, upcoming milestones, and potential risks. @cio-1, @coo-1, @PEOPLE"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any questions or concerns raised in response to the project status report."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with team leads (@qres-1, @dsde-1, @larch-1, @comp-1) to discuss resource allocation for the upcoming week and address any potential roadblocks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Casual browsing of TechCrunch for project management tools updates."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Review project budget and track expenses to ensure adherence to budget. Work with @facc-1 to refine reporting practices."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update project schedule based on progress made during the week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare for next week's tasks, and review upcoming goals and milestones."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Team building activity - optional happy hour with the team to celebrate progress and foster collaboration. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Clean up workspace, back up important files, and prepare for the weekend. Reflect on the week's accomplishments."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office. Enjoy the weekend!"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Follow-up with @qres-1, @qres-2 regarding their progress on the risk management framework."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Quickly scan through the latest research papers on SSRN related to quantitative finance. (Loafing - Staying up-to-date)"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the backtesting results for the pairs trading strategy to the team. Solicit feedback and discuss potential improvements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on feedback from the presentation, refine the backtesting framework and explore alternative signal generation techniques."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement a mean reversion strategy in the backtesting framework. Focus on identifying overbought and oversold conditions and generating trading signals accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Backtest the mean reversion strategy using historical price data. Evaluate performance metrics and compare results with the pairs trading strategy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze backtesting results for the mean reversion strategy. Identify potential biases and limitations of the strategy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings on the mean reversion strategy and compare it to the pairs trading strategy in terms of performance, risk, and implementation complexity."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Contribute to the risk management framework document, focusing on model risk related to the statistical arbitrage strategies being investigated."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails, respond to any urgent requests. Finalize documentation for the day."
+    }
+]

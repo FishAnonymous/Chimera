@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review and edit communication plan based on feedback from colleagues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule training sessions for staff on the new EHR modules."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare presentation slides for the upcoming training sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final review of presentation materials and rehearse delivery."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Set up training environment and necessary equipment for sessions."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out reminders to all staff regarding training dates and times."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by reflecting on progress and preparing for training sessions."
+    }
+]

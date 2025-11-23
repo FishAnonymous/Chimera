@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss integration requirements for the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the existing data collection methods with @da-1 for EHR implementation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin organizing medical records documentation and verify consistency of data entries."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @his-1 and @his-2 to understand health informatics needs for the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @clinlead-1 to confirm clinical data requirements necessary for EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on electronic health records documentation, focusing on quality assurance aspects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check on the progress of the data collection process and prepare any questions for tomorrow's meeting."
+    }
+]

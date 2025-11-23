@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Scan industry news on websites like Gamasutra and Polycount - gotta stay sharp, right?"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Initiate email to @Leon (Lead Game Designer) to schedule a meeting regarding the game's overall art style and vision. Subject: Art Style & Vision - Initial Discussion."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start researching current trends in third-person shooter art styles. Looking for inspiration and potential pitfalls to avoid. Check out some cool concept art on ArtStation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @Leon. Discuss the game's setting, target audience, and desired visual feel. Take detailed notes \u2013 crucial to get this right."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head out to grab some food. Maybe check out that new ramen place everyone's been talking about."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review notes from the meeting with @Leon. Start compiling a mood board of visual references. Think Pinterest and a dedicated folder on my hard drive."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Reach out to @Ricardo (3D Modeler/Animator) and @Fatima (3D Modeler/Animator) via email. Subject: 3D Models and Animation Tech Review. Ask about their preferred workflows and software versions. Important for compatibility."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin drafting a document outlining the initial technical requirements for art assets. Polygon counts, texture sizes, animation frame rates \u2013 the works. Start with a conservative estimate; can always adjust later."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day. Double-check the drafted tech requirements document. Make a list of questions to ask @Ricardo and @Fatima during our upcoming meeting."
+    }
+]

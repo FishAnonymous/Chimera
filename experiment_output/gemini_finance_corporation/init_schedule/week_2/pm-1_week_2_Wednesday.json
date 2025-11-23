@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Prioritize tasks based on urgency and impact."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Final review of submitted SMART goals. Prepare for individual meetings with team leads."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Individual meeting with @larch-1 to discuss and refine SMART goals for the software development team. Focus on architecture, scalability, and security."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Individual meeting with @qres-1 to discuss and refine SMART goals for the quantitative research team. Focus on model development, backtesting, and risk analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Individual meeting with @dsde-1 to discuss and refine SMART goals for the data science team. Focus on data acquisition, cleaning, and feature engineering."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Individual meeting with @comp-1 to discuss and refine SMART goals for the compliance team. Focus on regulatory adherence, risk mitigation, and audit preparation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Individual meeting with @ir-1 to discuss and refine SMART goals for the investor relations team. Focus on investor communication, fundraising strategy, and UHNWI targeting."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Individual meeting with @onbd-1 to discuss and refine SMART goals for the client onboarding team. Focus on KYC/AML compliance, client documentation, and account setup."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Discuss the latest advancements in machine learning with @dsde-1 and @dsde-2."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @legal-1 and @comp-1 to discuss SEC regulations and compliance requirements for fund registration. Review documentation checklist and address any outstanding questions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the project plan with the refined SMART goals from each team, incorporating any adjustments made during individual meetings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a revised project plan, including finalized SMART goals, to COO and CIO for final approval."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation summarizing key milestones for the week, potential risks, and mitigation strategies for discussion during the weekly project status meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize daily tasks and prepare for tomorrow's schedule."
+    }
+]

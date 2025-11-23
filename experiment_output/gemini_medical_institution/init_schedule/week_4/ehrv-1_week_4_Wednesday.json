@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final check of emails before the meeting. Review the agenda and ensure all necessary materials are readily available. Have a cup of coffee and mentally prepare for the discussion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with the EHR vendor to discuss system modifications for influenza data collection. Present the hospital's requirements and listen carefully to their proposed solutions. Take detailed notes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break, right after the meeting. Might need to decompress after that."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Summarize the key takeaways from the meeting with the EHR vendor. Document the proposed solutions, timelines, and estimated costs. Distribute the summary to relevant stakeholders, including @clinlead-1, @itpm-1, and @ehrdev-1. Topic: Summary of EHR Vendor Meeting - Influenza Data Collection Modifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin evaluating the vendor's proposals based on the cost-benefit analysis framework. Compare the different options and identify potential risks and benefits."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consult with @qatest-1 and @qatest-2 to discuss the vendor's proposals and their potential impact on system testing. Gather their feedback on the testing requirements for the new functionalities. Topic: Impact of EHR Modifications on System Testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and prioritize tasks for tomorrow. Respond to any outstanding emails. Maybe look for a new restaurant to try."
+    }
+]

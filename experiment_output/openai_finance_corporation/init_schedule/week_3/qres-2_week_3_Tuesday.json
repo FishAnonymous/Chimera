@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and start researching investment strategies of key competitors."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze strengths of competitors in their market-neutral strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Investigate weaknesses of competitors in their market-neutral strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile the strengths and weaknesses into a comparative table."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send findings to @qres-2 for feedback."
+    }
+]

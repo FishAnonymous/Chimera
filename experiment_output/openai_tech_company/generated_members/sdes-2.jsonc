@@ -1,0 +1,27 @@
+{
+    "name": "Isaac Ramirez",
+    "id": "sdes-2",
+    "ip": "10.0.0.19",
+    "age": 30,
+    "role": "Systems Designer",
+    "description": "Responsible for designing intricate game systems and ensuring their functionality aligns with player expectations. Collaborates with various teams to implement engaging mechanics and achieve a cohesive player experience.",
+    "tools": [
+        "Unity",
+        "SpreadsheetSoftware",
+        "GameSystemsToolkit",
+        "DocumentationGenerator",
+        "Trello"
+    ],
+    "mbti": "ENTP",
+    "interests": "strategy games, coding challenges",
+    "personality": "Innovative and curious, loves brainstorming new ideas to enhance game mechanics. Enjoys collaborative discussions and thrives on creative problem-solving.",
+    "application": {
+        "SystemManager": {
+            "account_name": "sdes-294568",
+            "password": "isaacR@systems",
+            "permissions": "systems_designer"
+        }
+    },
+    "email": "sdes-294568@corp.com",
+    "container_id": "b9a8c1f4e20d"
+}

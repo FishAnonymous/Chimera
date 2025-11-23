@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Prepare coffee and review the weekly schedule."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and project management system for updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Send out a request to collect all the tasks and progress from each colleague. PEOPLE=@qres-1, @qres-2, @qres-3, @sdev-1, @sdev-2, @dsde-1, @dsde-2, @comp-1, @legal-1, @coo-1, @facc-1, @facc-2, @devops-1, @mkt-1, @onbd-1, @ir-1."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Make the documentation for all the achievements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Identify potential delay, and arrange meetings to address them."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Enjoy the meal with colleagues."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Send the latest update for this week to @cio-1."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for the arrangement of next week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Make a summary report for this week to review the achievements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Chat with @mkt-1 for some marketing material for this week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Set up a to-do list for next week's work."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

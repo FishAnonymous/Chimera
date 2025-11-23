@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Login, check emails. Read the tech news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin rigging the primary character. This involves creating a skeleton and attaching it to the character mesh. Use Blender's armature system. "
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Carefully place joints at the correct anatomical locations (shoulders, elbows, knees, etc.). This is crucial for good deformation during animation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a quick bite."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Weight paint the character, assigning different parts of the mesh to specific bones. This controls how the mesh deforms when the bones are moved. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the rig by posing the character in various positions. Identify and correct any areas with bad deformation. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save, backup, document, shutdown. Browse Reddit for a bit. "
+    }
+]

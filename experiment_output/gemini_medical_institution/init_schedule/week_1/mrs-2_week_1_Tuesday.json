@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office and review yesterday's summary report. Check emails for responses from IT and Health Informatics colleagues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin drafting the standardized data abstraction form. Focus on clarity, usability, and completeness. Design the form to capture all relevant EHR data elements."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Consult with @CLINLEAD-1 and @PCHMP-1 on the draft data abstraction form. Solicit feedback on clinical relevance and comprehensiveness. Topic: Review of Data Abstraction Form Draft"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate feedback from clinical colleagues into the data abstraction form. Refine the layout and wording for clarity and ease of use."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test the data abstraction form with a sample set of historical medical records (both electronic and paper). Identify any gaps or areas for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up on some online articles about film photography."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Revise the data abstraction form based on the testing results. Ensure that all relevant data elements can be accurately and efficiently captured."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @QATEST-1 and @QATEST-2 to arrange for testing the abstraction form. Topic: Request for the data abstraction form testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a training plan for the data abstractors. Outline the topics to be covered, the training methods to be used, and the schedule for the sessions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Develop training materials for the data abstractors, including a detailed protocol, step-by-step instructions for EHR data entry, and quality control procedures."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Summarize the day's accomplishments, focusing on the development of the data abstraction form and the preparation of the training plan."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

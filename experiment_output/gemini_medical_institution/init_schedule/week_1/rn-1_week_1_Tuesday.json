@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to my computer, and check emails. Pay special attention to any feedback from @qatest-1 or @qatest-2 regarding previous EHR entries. Respond to emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the previous day's patient assessments and EHR data entries. Identify any areas where I can improve my accuracy or efficiency. Think about some interesting websites for browsing later."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check patient schedule and prepare for morning assessments. Review patient charts, particularly focusing on vaccination history."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments, focusing on identifying influenza symptoms and accurately documenting findings in the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Enter patient data into the EHR promptly after each assessment. Double-check all entries for accuracy and completeness before saving."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Spend some time reading a magazine in the break room."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry, focusing on using the standardized data entry tools correctly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check some interesting websites for fun."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover. Discuss any patients with suspected influenza with the oncoming nurse and provide a comprehensive overview of their EHR documentation. @rn-1 and @rn-3 for shift handover."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete shift handover with the oncoming nurse, answering any questions they may have about patient assessments or EHR documentation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the computer and leave for the day."
+    }
+]

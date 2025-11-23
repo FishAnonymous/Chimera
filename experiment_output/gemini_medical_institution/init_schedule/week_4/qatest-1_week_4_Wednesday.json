@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Read some blogs about data quality."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with @ehrdev-1 on the fixes for the automated validation rules. Discuss progress and any roadblocks."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Perform a data audit of a specific data element, such as medication lists, focusing on records from the past month."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Cross-reference medication lists in the EHR with scanned prescriptions to identify discrepancies in dosage, frequency, or medication name."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all discrepancies found during the medication list audit, including the potential impact on patient care."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @clinlead-1 and @rn-1 to discuss the findings of the medication list audit. Get their feedback on the potential causes of the errors and propose solutions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the automated validation rule proposal based on the feedback from @clinlead-1 and @rn-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check any updates from the colleagues, and prepare the to-do list for tomorrow."
+    }
+]

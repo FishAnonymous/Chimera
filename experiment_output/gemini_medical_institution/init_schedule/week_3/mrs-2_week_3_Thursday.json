@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, grab coffee, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Discuss progress with @mrs-2 (Grace Ito), addressing any challenges. Review feedback from @clinlead-1 (Clinical Lead) and @pchmp-1 (Physician Champion) on symptom identification."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Data abstraction from EHRs, with focus on immunization status of patients. Aim to complete 30 records."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @ehrdev-1 and @ehrdev-2 about the data extraction from the electronic health system, including the database scheme, and the structure, and possible API ports for collecting data. Topic: EHR data extraction methods."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Visit a local art gallery for some inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction focusing on treatment regimens and patient outcomes. Aim to complete 25 records."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Data validation and quality control. Check for inconsistencies and errors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the progress report. Communicate findings and challenges to @mrs-2 (Grace Ito)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for the final day of the week and prioritize tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave work."
+    }
+]

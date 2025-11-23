@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review feedback from @da-1 and @da-2 on the preliminary report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue abstraction of historical influenza data, now focusing on comorbidities and outcomes. Collaborate with @rn-1, @rn-2, and @rn-3 for additional clinical insights."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break. Browse recent medical journals for any updates on influenza trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Document any findings from the morning session. Email @pchmp-1 for validation on clinical outcomes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin quality control audits on the abstracted data. Cross-check entries with @mrs-1 and @mrs-2 for accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile a list of discrepancies found during the audit. Send to @qatest-1 and @qatest-2 for further review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the abstraction log and plan for the next day."
+    }
+]

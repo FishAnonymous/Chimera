@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the refined statistical model."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin backtesting the model with historical data. Start with a small subset to ensure functionality."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Review initial backtesting results and note any anomalies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue backtesting with larger datasets. Adjust model parameters if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @dsde-1 and @dsde-2 to discuss data quality and any issues encountered during backtesting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any data quality issues and rerun backtests if needed."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document backtesting results and prepare preliminary findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan tasks for the next day."
+    }
+]

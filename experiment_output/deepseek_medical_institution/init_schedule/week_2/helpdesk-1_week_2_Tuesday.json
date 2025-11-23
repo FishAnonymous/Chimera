@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and help desk tickets for any new inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up on any unresolved tickets from the previous day and prioritize them based on urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss integrating the ticketing system with the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the proposed ticketing system with a small group of users (e.g., @rn-1, @rn-2, @rn-3) to gather feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile feedback from the test group and identify any necessary adjustments to the ticketing system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the ticketing system proposal based on the feedback received and send it to @itpm-1 for final approval."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Respond to any new help desk inquiries, ensuring prompt resolution within 1-2 business hours."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a user guide for the new ticketing system, including instructions for submitting and tracking inquiries."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and tickets one last time before ending the day."
+    }
+]

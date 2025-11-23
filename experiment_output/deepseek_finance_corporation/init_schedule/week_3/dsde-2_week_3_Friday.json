@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any pending tasks from the investment team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the statistical model's codebase for optimization opportunities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @dsde-1 to discuss potential improvements to the model's efficiency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement minor optimizations to the model based on discussions with @dsde-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the optimizations and update the team via email @dsde-1, @pm-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's achievements and prepare a summary for personal records."
+    }
+]

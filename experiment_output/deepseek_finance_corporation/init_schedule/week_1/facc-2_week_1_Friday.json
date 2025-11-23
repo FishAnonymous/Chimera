@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any final feedback from @comp-1 and @legal-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Consolidate all accounting procedures, chart of accounts, transaction recording practices, and compliance documentation into a single comprehensive report."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @coo-1 and @cio-1 to present the final report and seek approval."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Make any final adjustments based on feedback from @coo-1 and @cio-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Submit the finalized report to @pm-1 and @ir-1 for inclusion in the fund's registration package."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week, organize files, and plan for next week's tasks."
+    }
+]

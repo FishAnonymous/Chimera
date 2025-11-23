@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Look for any urgent message."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review and test the SQL scripts created yesterday. Verify that each script correctly enforces the corresponding data quality metric. Fix any errors or bugs that are discovered."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document the testing process and results. Record any issues that were encountered and how they were resolved. Create a comprehensive test report that can be shared with @dba-1 and other stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read about theoretical physics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a deployment plan for the data quality check scripts. Outline the steps that need to be taken to deploy the scripts to the production database. Coordinate with @dba-1 to schedule the deployment."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the deployment plan and test report to @dba-1 for review. Subject: Data Quality Check Deployment Plan and Test Report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any questions or concerns raised by @dba-1 regarding the deployment plan or test report."
+    }
+]

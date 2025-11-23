@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to my computer, and check emails for any urgent requests or updates regarding the EHR collection and influenza trend analysis project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the centralized tracking system. Correct any mistakes and ensure all data quality issues are properly described and categorized."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare a concise report on this week's work, summarizing the number of data quality issues identified and their root causes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email to @clinlead-1, @itpm-1, @da-1, @da-2, @ehrv-1, @ehrdev-1, @ehrdev-2 to communicate the weekly report. @clinlead-1, @itpm-1, @da-1, @da-2, @ehrv-1, @ehrdev-1, @ehrdev-2. Topic: Weekly data quality report"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review data quality reports and address any feedback from colleagues or supervisors."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Treat myself with some pasta!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze responses to the data quality report. Update the action plan accordingly."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an email to @trainer-1 and @helpdesk-1 to outline the key issues in the report and solicit training plans for common data entry mistakes or provide additional resources."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document proposed solutions in the tracking system. Prioritize them based on feasibility and impact on data quality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize the solutions and action plan into a slide deck, ready to be presented to the team in the coming week. Back-up all important documents and finalize slide deck."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check of emails and wrap up for the week. Plan any necessary steps for the coming week based on findings. Happy Friday!"
+    }
+]

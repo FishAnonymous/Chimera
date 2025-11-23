@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from clinical staff on EHR system and workflows from previous week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @rn-1 to discuss clinician feedback and identify key pain points in EHR workflows."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft a summary report of clinician feedback and prioritize issues based on impact and feasibility."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrv-1 and @itpm-1 with the feedback summary and request a meeting to discuss potential solutions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review EHR implementation project timeline and identify opportunities to advocate for clinician needs."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss technical adjustments based on clinician feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation for the leadership team on the importance of addressing clinician needs in EHR implementation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send follow-up emails to @clinlead-1 and @rn-2 to confirm next steps and gather additional feedback."
+    }
+]

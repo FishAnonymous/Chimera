@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any emails or updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any outstanding queries or issues related to data abstraction from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue data abstraction, targeting 40 records today to stay on track with the weekly goal. Prioritize electronic records."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the abstracted records from the morning batch, focusing on data quality and adherence to abstraction guidelines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue with data abstraction, aiming for at least another 20 records before lunch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Continue focusing on identifying and retrieving electronic health records for influenza patients from the 2023-2024 season."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the abstracted records of the afternoon batch, checking for consistency and accuracy in data entry. Make any necessary corrections or clarifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "If electronic records are becoming scarce, begin exploring potential sources of paper-based records (if any) and the process for abstracting from those."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Contact @MRS-1 via email. Topic: Check for any known issues or delays in accessing specific sections of the EHR that might be relevant to influenza data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update progress tracker. Assess progress against weekly goal. Prepare for tomorrow's work."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow. Review the SOP for influenza data abstraction to ensure adherence to guidelines and data integrity."
+    }
+]

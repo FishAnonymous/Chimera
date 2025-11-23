@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check email for any urgent requests or updates. Prioritize accordingly."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the feedback outline prepared yesterday for the clinical staff feedback sessions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a feedback session with @rn-1. Discuss EHR usability, data collection processes, and training materials. Document the feedback carefully."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hold a feedback session with @rn-2. Discuss EHR usability, data collection processes, and training materials. Document the feedback carefully."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the feedback received so far. Identify any common themes or areas of concern regarding the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft email to @clinlead-1, summarizing the feedback received from @rn-1, @rn-2 thus far, highlighting key themes and potential areas for improvement. Topic: Preliminary Feedback on EHR Usability."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Review training materials for the EHR system, focusing on sections related to influenza documentation. Assess clarity and completeness."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a list of questions for @trainer-1 regarding the training program for the EHR system, focusing on influenza documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @trainer-1 to schedule a brief meeting on Wednesday to discuss the training program and address my questions. Topic: EHR Training Program Review - Influenza Documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse online articles related to change management in healthcare IT implementations."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent issues before the weekend."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a final round of testing on the EHR system, focusing on any recently reported issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @qatest-1 and @qatest-2 to confirm all tests are completed and issues are resolved."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Provide technical support, ensuring all end-users are comfortable with the system before the weekend."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @ehrdev-2 to hand off any pending tasks and ensure continuity over the weekend."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update all documentation and ensure it is accessible to the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's achievements and plan for any follow-up tasks next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, log out, and prepare for a relaxing weekend."
+    }
+]

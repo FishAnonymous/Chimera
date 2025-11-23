@@ -1,0 +1,34 @@
+[
+    {
+        "week": 2,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Implement the core combat mechanics. This includes basic attacks, enemy AI for simple interactions, and hit detection.",
+            "Have a functional, albeit simple, combat loop by the end of the week.",
+            "Start with a very basic AI, like a simple 'chase and attack' behavior."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Design and implement the combat system architecture (damage calculation, hit detection, AI interface).",
+            "Implement basic AI classes and integrate them with the game world.",
+            "Implement basic attack animations and logic.",
+            "Create simple enemy AI (chase and attack).",
+            "Implement hit detection and damage application.",
+            "Ensure player and enemy characters have health values."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Development of enemy character designs.",
+            "Concept art for basic attack animations and visual effects (e.g., impact sparks).",
+            "UI concepts for health bars and other combat-related information.",
+            "Detailed character models for the first enemy type.",
+            "Implementation of basic attack animations for both the player and the enemy."
+        ]
+    }
+]

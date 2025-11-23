@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Follow up with @Ldes-1 and @Cdev-1 regarding the main menu wireframes, requesting specific feedback if needed. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the game's control scheme and input methods with @Sdes-1 (Systems Designer) to inform the design of the settings UI.  @Sdes-1 Quick sync on control schemes for settings UI."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorm ideas for the settings UI, focusing on categories like video, audio, controls, and gameplay. Sketch out initial layouts for each category."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create low-fidelity wireframes for the settings UI categories in Figma. Ensure all necessary options are included and organized logically."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the settings UI wireframes to @Ldes-1 (Lead Game Designer) and @Cdev-2 (Client Developer) for feedback on functionality and technical considerations. @Ldes-1 @Cdev-2 Settings UI Wireframe Review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the settings UI wireframes based on feedback received from @Ldes-1 and @Cdev-2. Pay close attention to accessibility and ease of use."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin creating a mid-fidelity mockup of the settings UI in Figma, incorporating the game's style guide. Focus on clear and concise presentation of options."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Explore different UI patterns for settings menus, such as sliders, dropdowns, and checkboxes. Select the most appropriate patterns for each setting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the design decisions for the settings UI and update the UI/UX design documentation. Plan for tomorrow's inventory UI design tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback and suggestions from @clinlead-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize presentation materials based on feedback from @clinlead-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct a practice run of the presentation to ensure clarity and conciseness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present preliminary findings to the team in a structured meeting format."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Open the floor for feedback and suggestions during the presentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile feedback and questions raised during the meeting to integrate into further analysis."
+    }
+]

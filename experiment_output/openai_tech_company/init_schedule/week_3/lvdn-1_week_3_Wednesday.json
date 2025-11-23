@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and feel through the feedback report received."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a meeting with @ldes-1 and @prod-1 to discuss findings from playtest session and recommendations for next steps."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Make adjustments to level layouts based on collaborative feedback discussed in the meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on level revisions, focusing on core gameplay mechanics and flow."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Contact @3dmod-1 and @3dmod-2 for potential changes in level art assets needed post-revision."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End the day by checking any updates on task progress from team members."
+    }
+]

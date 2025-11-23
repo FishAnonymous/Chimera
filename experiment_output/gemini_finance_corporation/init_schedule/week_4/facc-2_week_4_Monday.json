@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Respond to any urgent requests from @COO-1 or @CIO-1 regarding fund setup."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goal plan for the week: finalizing the accounting and reporting framework, establishing performance tracking procedures, preparing for the first audit, and coordinating with the External Auditor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin drafting the accounting and reporting framework document. Focus on the structure and content of the financial statements (balance sheet, income statement, cash flow statement, statement of changes in equity)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @LEGAL-1 and @COMP-1 to schedule a meeting to discuss the legal and compliance requirements for the accounting and reporting framework. @PEOPLE (LEGAL-1, COMP-1) Topic: Legal and Compliance Review of Accounting Framework"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue drafting the accounting and reporting framework. Research best practices for hedge fund accounting, particularly for statistical arbitrage strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @LEGAL-1 and @COMP-1 to review the initial draft of the accounting and reporting framework and incorporate their feedback. Discuss SEC regulations and reporting requirements (e.g., Form PF)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the accounting and reporting framework document based on the feedback received from @LEGAL-1 and @COMP-1. Focus on clarity, accuracy, and compliance with regulations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin outlining the procedures for tracking fund performance and expenses. Consider key performance indicators (KPIs) and the required data sources."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day. Review completed tasks and plan for tomorrow."
+    }
+]

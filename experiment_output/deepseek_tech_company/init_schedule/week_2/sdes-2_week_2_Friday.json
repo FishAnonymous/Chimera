@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any additional feedback from @prod-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the prototype, ensuring all core mechanics (movement, interactions) are polished."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @lpro-1 and @ldes-1 to review the final prototype and confirm it meets expectations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a detailed report on the week's progress, including playtest feedback and implemented changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email the report to @prod-1 and the team, summarizing the week's achievements and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize files, and plan for the following week."
+    }
+]

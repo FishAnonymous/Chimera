@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee time with @rn-2. Discuss the weekend plans that were brought up yesterday and see if we can all plan to go to the football game next Saturday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Quickly review overnight reports and patient updates in the EHR system. Check for urgent notifications or tasks related to influenza assessments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue patient assessments for influenza symptoms, focusing on accurate documentation within the EHR. Be sure to be friendly and empathetic to ease their worries."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Focus on mastering the use of drop-down menus and check boxes within the EHR to ensure data standardization. Reach out to @trainer-1 to confirm if any training courses are available, if any. @PEOPLE = @trainer-1 Topic: EHR Training Courses"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with @rn-1. Catch up on personal stuff and de-stress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and data entry, paying attention to detail when recording symptoms and lab results in the EHR. Ensure everything is complete and accurate."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Received a response from @helpdesk-1 regarding the data entry challenges. Implement the solutions into today's task."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consult with @pchmp-1 about challenging cases and unusual symptoms. Work together to determine the best course of action."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover, communicating patient status, and documenting important information in the EHR."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete my daily review and shift report, noting any challenges or observations."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home, looking forward to unwinding with a good book."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Evelyn Moore",
+    "id": "tart-1",
+    "ip": "10.0.0.26",
+    "age": 30,
+    "role": "Technical Artist",
+    "description": "Bridges the gap between art and technology, ensuring that the visual elements integrate seamlessly with game systems. Responsible for optimizing art assets and maintaining compliance with performance standards.",
+    "tools": [
+        "Houdini",
+        "Maya",
+        "Unreal Engine",
+        "Photoshop",
+        "Substance Designer"
+    ],
+    "mbti": "ISTJ",
+    "interests": "3D printing, retro games",
+    "personality": "Methodical and pragmatic, values efficiency and organization. Takes pride in delivering polished work and enjoys solving technical challenges related to art.",
+    "application": {
+        "AssetManager": {
+            "account_name": "tart-451284",
+            "password": "evelynM@techart",
+            "permissions": "technical_artist"
+        }
+    },
+    "email": "tart-451284@corp.com",
+    "container_id": "a11de2a1e450"
+}

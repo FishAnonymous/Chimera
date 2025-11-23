@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for urgent requests or updates. Review yesterday's build status and bug reports from @qtest-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the design document provided by @ldes-1 regarding core game mechanics. Make notes on potential technical challenges and areas needing clarification."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @ldes-1 and @sdes-1 to discuss the design document. Focus on clarifying ambiguities in the movement, combat, and interaction mechanics. Send email to @ldes-1, @sdes-1 on the clarification points @PEOPLE"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin implementing the base character movement system. Focus on basic locomotion (walking, running, jumping). Write unit tests for each movement state."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing character movement system. Add basic camera control and ensure smooth transitions between movement states."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Integrate the basic character movement with the physics engine. Experiment with different physics settings (gravity, friction, etc.) to achieve the desired feel. Consult with @sdes-2 on the impact of different parameters in game play. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the character movement system, including code structure, key variables, and limitations. Prepare a preliminary document for other programmers and upload to internal document server. Check code in."
+    }
+]

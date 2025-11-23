@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to the system, and check emails. Review any feedback from @clinlead-1 Nadia Silva regarding yesterday's patient summary."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend a brief team huddle to discuss any updates or changes to influenza protocols or EHR procedures."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient assessments and EHR documentation, focusing on influenza symptoms. Ensure proper data entry for all patients, cross-referencing information with patient history when needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with Physician Champion @pchmp-1 if any complex cases arise that require further clinical guidance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Check personal emails and browse online shopping sites."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR documentation. Focus on verifying the accuracy of lab results entered into the system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Identify patients who may benefit from influenza vaccination based on their EHR data. Offer vaccination and document accordingly."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an updated summary of patient encounters, focusing on vaccination rates and any adverse reactions observed. Send summary to Clinical Lead @clinlead-1 Nadia Silva."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign out and prepare for tomorrow."
+    }
+]

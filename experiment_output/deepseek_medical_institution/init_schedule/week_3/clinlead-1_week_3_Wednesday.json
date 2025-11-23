@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review any overnight feedback from clinical staff on workflow changes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to plan testing of new EHR data capture features."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Observe a mock patient encounter with @rn-1 to validate new workflow steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any issues identified during mock testing and adjust workflows as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Follow up with @ehrv-1 to ensure vendor support for any required EHR modifications."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a summary of testing outcomes for the project team."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, grab a quick coffee and a bagel, mentally prepare for an exciting week of game dev!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office, log in, check emails and company announcements. Maybe browse Reddit for some funny memes to start the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Project Setup: Create a new project in the game engine (Unreal Engine or Unity, tbd based on Lead Programmer's decision). Set up the basic folder structure (Assets, Scripts, Scenes, UI, etc.) This is crucial for keeping things organized from the start. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Version Control: Initialize Git repository for the project and set up a basic .gitignore file. Commit the initial project structure. Ensure everyone knows how to use Git properly - avoid chaos later on!"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with Lead Programmer @lpro-1 to discuss project setup standards and coding conventions. Ensure my approach aligns with the overall project architecture."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break! Check out a new cafe nearby with @cdev-1 and @cdev-2."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "UI Implementation: Start implementing the main menu UI. Create basic buttons for 'Start Game', 'Options', and 'Exit'. Use placeholder images and text for now."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact UI/UX Designer @uiux-1 to discuss the visual style and layout of the main menu. Get some initial feedback on my progress."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "HUD Implementation: Create a simple HUD with placeholder elements for health, ammo, and score. Basic functionality is key at this point, aesthetics can come later."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit changes to Git. Write a detailed commit message describing the changes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow: Review progress, identify roadblocks, and plan the tasks for tomorrow. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home, maybe watch some TV or play some games to unwind."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check emails. Review the deployment plan for the EHR system updates/modifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work with the QA team @qatest-1 and @qatest-2 to address any issues or defects identified during the testing session. Make any necessary code changes or configuration adjustments."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Assist the training coordinator @trainer-1 with the development of training materials for the new EHR system features. Provide technical expertise and guidance."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a change management plan for the deployment of the EHR system updates/modifications. This plan should outline the steps required to communicate the changes to users and provide support during the transition."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Go out for lunch with colleagues. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Monitor the Help Desk @helpdesk-1 to address any questions or issues that arise during the initial deployment of the EHR system updates/modifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document any lessons learned during the development and deployment process. Use this information to improve future EHR system updates/modifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the progress of the EHR integration project and identify any areas that require further attention. Prioritize tasks for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a weekly status report summarizing the progress of the EHR integration project. Distribute the report to stakeholders."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up the workstation and organize files. Back up any important data."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up and head home. Happy Friday!"
+    }
+]

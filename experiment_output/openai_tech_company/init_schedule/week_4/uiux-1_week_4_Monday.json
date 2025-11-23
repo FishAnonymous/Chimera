@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails for feedback from the last testing session on UI designs."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback collected from the testing sessions and start outlining the necessary refinements for the UI designs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Consolidate feedback and identify specific design elements to adjust for usability improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin refining UI designs in graphic design software, focusing on aesthetics and usability."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a draft comparison document highlighting changes made based on feedback for stakeholders."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up work and prepare for tomorrow's tasks."
+    }
+]

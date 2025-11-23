@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and monitor responses from the survey."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin analyzing survey responses with @da-1 and @da-2."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Summarize key findings from the survey responses."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @helpdesk-1 to discuss any technical issues reported by staff regarding EHR features."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a report summarizing survey findings, insights, and suggested improvements to EHR features."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the draft with @pchmp-1 for clinical validation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the report based on @pchmp-1's feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized report to @ehrv-1 for implementation consideration."
+    }
+]

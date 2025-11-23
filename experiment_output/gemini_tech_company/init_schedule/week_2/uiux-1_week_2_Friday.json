@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Respond to any urgent requests regarding the UI designs."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Gather all finalized mockups (main menu, settings, inventory, HUD) created throughout the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start prototyping the UI interactions in Figma, linking the mockups together to create a basic interactive flow."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Focus on prototyping the main menu navigation, settings adjustments, inventory management, and HUD feedback mechanisms."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the UI prototype and ask @Qtest-1 (QA Tester) to test the prototype, identifying any usability issues or areas for improvement. @Qtest-1 UI Prototype Testing Request."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address the usability issues and feedback received from testing, refining the UI prototype accordingly."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a presentation showcasing the UI designs and prototype to the wider team, including @Ldes-1 (Lead Game Designer), @Cdev-1 (Client Developer), and @Prod-1 (Producer)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather final feedback from the team on the UI designs and prototype. Discuss next steps and future iterations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the UI/UX design documentation with the final designs and prototype. Prepare a summary of the week's work and outstanding tasks."
+    }
+]

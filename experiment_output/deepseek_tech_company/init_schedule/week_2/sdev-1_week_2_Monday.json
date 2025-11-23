@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the server environment setup requirements and prepare a list of necessary cloud instances and databases."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @beng-1 to discuss the initial server environment setup, including cloud instance configurations and database requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin setting up the initial server environment, focusing on cloud instances (AWS/GCP) and database configurations (MySQL/PostgreSQL)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue setting up the server environment, ensuring all instances and databases are properly configured and secured."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the server environment by deploying a basic server application to verify connectivity and functionality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the server setup process and share it with @beng-1 and @lpro-1 for review."
+    }
+]

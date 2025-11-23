@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review the progress from yesterday. Grab a coffee and review the planned style guide from the previous day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue researching typography and color palettes that align with the game's art style and tone. Create a mood board to visually represent the desired aesthetic."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start creating mockups for the main menu in Figma. Experiment with different color schemes, typography, and background visuals. Request @cart-1 to provide the main banner figure for the game."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the main menu mockups, incorporating feedback from initial explorations. Focus on creating a visually appealing and engaging design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on mockups for the inventory screen. Consider different ways to organize and display items, weapons, and equipment."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Consult @3dmod-1 regarding the visual representation of in-game items and weapons, ensuring consistency between the UI and the 3D models. Subject: Inventory Iconography."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue refining the inventory screen mockups, incorporating feedback and exploring different interaction patterns."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress of the day, document key decisions, and plan for tomorrow's tasks. Prepare for the user testing session by drafting a test plan."
+    }
+]

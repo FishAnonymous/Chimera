@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review work from the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Configure deployment pipelines to automatically deploy the game to testing environments. Test the stability of the environments with QA testers @qtest-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any errors or failures in the CI/CD pipeline related to test environment deployment. Debug the test cases and CI/CD configuration. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the stability of the test environment and fix bugs. "
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Plan for the next week based on the current plan. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Sign off from work. "
+    }
+]

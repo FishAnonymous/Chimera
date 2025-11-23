@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Investigate any bug reports."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on camera controls, try different camera angles and movement patterns. Read some blogs about 3rd person camera controls. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the camera controls. Request @Qtest-1 to test this together and provide feedback. @PEOPLE"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address bugs that are reported by @Qtest-1. @PEOPLE"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue working on the camera control system, refining the movement and adjusting the camera's behavior based on player input and environmental factors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "I will document the current state of the camera control system, outlining the key design decisions and technical challenges encountered. Prepare a demo to show @Lpro-1 and @Sdes-1 tomorrow. @PEOPLE"
+    }
+]

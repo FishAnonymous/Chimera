@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, listen to a podcast on alternative investment strategies."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Prioritize urgent emails and tasks. Review progress on key milestones."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Approve the fund's investment strategy document after receiving final sign-off from the quantitative research team and legal counsel."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @COO-1 and @Facc-1, @Facc-2 (Fund Accountants) to discuss fund accounting procedures and reporting requirements. Ensure the accounting team is prepared for the fund's launch."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @larch-1, @sdev-1, @sdev-2, and @devops-1 (DevOps Engineer) to discuss the infrastructure requirements for the chosen trading platform and data providers. Plan for the integration process and address any potential technical challenges."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Further discuss the trading platform selection after vendors' presentation with the team and determine the criteria to be used for a final decision."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Discuss market trends with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Interview potential data providers. Evaluate their data quality, coverage, and delivery methods. Negotiate pricing and contract terms."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @Legal-1: Topic: Data Provider Agreements. Forward draft data provider agreements to legal counsel for review and approval."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Dedicate time to research on potential competitor arbitrage funds. Identify their strategies and key advantages."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the risk management framework based on feedback from the quantitative research team and compliance officer. Incorporate specific risk limits and monitoring procedures."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Attend an industry networking event."
+    }
+]

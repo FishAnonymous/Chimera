@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review feedback from @SDES-1 and @LPRO-1 on the core mechanics design document."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Revise the Core Game Mechanics section based on feedback. Clarify ambiguities and address concerns raised by @SDES-1 and @LPRO-1. Save document."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start sketching out a basic level layout. Focus on creating interesting combat encounters and exploration opportunities. Consider verticality and cover options."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @LVDN-1 to schedule a quick meeting to review the initial level layout sketches. Subject: Level Layout Review Request."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Meeting with @LVDN-1 to discuss level layout sketches. Get feedback on flow, combat encounters, and overall design. Incorporate suggestions into refined sketches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Discuss project progress with @3dmod-1."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting the Player Progression System section of the design document. Outline how players will level up, earn rewards, and unlock new abilities. Consider different progression paths."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research different player progression systems in existing TPS games. Identify successful and unsuccessful examples. Analyze the pros and cons of each system. Document findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the player progression design, identify the gaps in the design, and plan for tomorrow. Send initial draft of Player Progression System to @SDES-2 for review. Subject: Player Progression System - Initial Feedback Request."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse through some articles about ENFJ and see if there are some tips to improve my work."
+    }
+]

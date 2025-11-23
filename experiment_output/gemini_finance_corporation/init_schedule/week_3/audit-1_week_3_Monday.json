@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Review the week's goals: preliminary audit plan, risk identification, and accounting policy coordination."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start researching the fund's structure and investment strategy. Review any available documentation (prospectus, offering memorandum) to understand the fund's objectives, target investors, and planned investment activities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft a preliminary outline for the audit plan, focusing on areas like investment valuation, compliance, operational risk, and financial reporting. Ensure alignment with SEC regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. I will take my lunch in a quiet place to avoid any noisy environment"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the audit plan outline, adding more specific objectives and scope for each audit area. Consider materiality thresholds and sample sizes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Schedule a meeting with @facc-1 (Fund Accountant) and @coo-1 (Chief Operating Officer) for later in the week to discuss accounting policies and procedures and fund operations. Send out a meeting request."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin identifying key risk areas related to the fund's investment strategy. Consider market risk, credit risk, liquidity risk, and operational risk."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the identified risk areas in a risk matrix, including potential impact and likelihood. Determine which risks are most critical and require immediate attention."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the risk matrix and preliminary audit plan. Make adjustments as needed to ensure the audit plan adequately addresses the identified risks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize my workspace and prepare for tomorrow."
+    }
+]

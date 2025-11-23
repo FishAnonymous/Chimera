@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to QA system, check emails, review feedback from yesterday's testing report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Training Coordinator to discuss training needs related to EHR collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct further testing on the EHR system based on feedback received."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any issues found during this round of testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Debugging session with @EHR Integration Developer for issues related to the EHR system."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Compile results from debugging session and plan next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up a meeting with @Health Informatics Specialist for data analysis aspects of EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up work, check emails, and update the testing log."
+    }
+]

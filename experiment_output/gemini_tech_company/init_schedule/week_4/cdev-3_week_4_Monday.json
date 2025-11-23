@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Since the meeting minutes are not available, I will email @prod-1, @ldes-1, @lpro-1 to request the meeting minutes from week 3 and week 4 to understand the current goals and priorities for the development team. Subject: Request for Week 3 & 4 Meeting Minutes"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "While waiting for the meeting minutes, I'll review the existing codebase and project documentation to familiarize myself with the current state of the project. I'll focus on the areas I've worked on previously to refresh my memory."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hopefully, I've received the meeting minutes by now. Review the Week 3 meeting minutes, if available, focusing on any action items assigned to me or my team. Review the Week 4 meeting minutes, identifying the top priorities and goals for the week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the meeting minutes, I will start outlining a detailed schedule for the week, breaking down the goals into smaller, manageable tasks. I will prioritize tasks based on their importance and dependencies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Chat with colleagues @cdev-1 and @cdev-2 in the cafeteria to build team rapport."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the weekly schedule. If the meeting minutes are still unavailable, I will reach out again to @prod-1, @ldes-1 and @lpro-1 with a more urgent tone. Subject: URGENT: Request for Week 3 & 4 Meeting Minutes - Development Planning Blocked"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Assuming I have the meeting minutes, I will create a preliminary task list in JIRA (or our project management tool) and assign tasks to myself. I will also estimate the time required for each task. If meeting minutes are missing, I'll draft an email to @lpro-1, proposing a quick sync meeting to clarify the week's objectives. Subject: Quick Sync Meeting Request - Week 4 Goals Clarification"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Depending on the tasks identified, I'll start working on the highest priority item. This could involve coding, debugging, or researching specific technologies. If the goals remain unclear, I'll start working on refactoring some older, less crucial code to improve readability and maintainability."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by documenting the progress made on the current task. Also, I will prepare a brief summary of accomplishments and challenges encountered to share with the team during the next stand-up meeting. I'll also double-check the task assignment with my teammates @cdev-1, @cdev-2."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with a quick check of emails and respond to any urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Send the formal communication outlining the hospital's requirements for influenza data collection to the EHR vendor (@EHRVendor). Request confirmation of receipt and expected response time."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Contact @ITPM-1 (IT Project Manager) to discuss the project timeline and resource allocation for the EHR integration and data collection efforts."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @ITPM-1 to develop a detailed project plan with milestones, deliverables, and responsibilities for each stakeholder. Ensure alignment with the overall project goals."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the project plan in a shared document repository accessible to all relevant stakeholders. Communicate the plan to the team and solicit feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Might do some window shopping online."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for a meeting with @DA-1, @DA-2 (Data Analysts) to discuss the data analysis requirements for influenza trends. Understand their needs for data extraction, transformation, and reporting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @DA-1, @DA-2 to discuss data analysis requirements. Document their needs for data extraction, transformation, and reporting. Ensure alignment with the hospital's overall influenza trend analysis goals."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Summarize the data analysis requirements and communicate them to the EHR vendor (@EHRVendor). Request information on the EHR system's capabilities for supporting these requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Follow up with the EHR vendor (@EHRVendor) regarding the confirmation of receipt and expected response time for the formal communication sent earlier in the day."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails for urgent requests or updates. Review meeting notes from last week regarding EHR data collection and influenza trend analysis project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review project documentation, including the scope of work and requirements related to data quality metrics. Refresh my understanding of the data flow and involved systems."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start defining initial data quality metrics for EHR data related to influenza tracking. Focus on completeness, accuracy, and consistency. Draft a list of potential metrics."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research industry best practices and regulatory requirements for data quality in healthcare, specifically related to influenza tracking. Check for relevant guidelines and standards."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the list of data quality metrics based on research and project requirements. Prioritize metrics that are most critical for accurate influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a draft document outlining the proposed data quality metrics, including definitions, measurement methods, and acceptance criteria. Share with @da-1 and @da-2 for their input."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @da-1 and @da-2 to schedule a brief meeting tomorrow morning to discuss the data quality metrics document. Topic: Data Quality Metrics Review"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin researching existing tools and techniques for measuring data quality within our EHR system. Explore potential options for automated data quality monitoring."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document findings from tool research, including potential costs, benefits, and implementation challenges. Note any gaps in existing capabilities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Organize notes and prioritize tasks for tomorrow."
+    }
+]

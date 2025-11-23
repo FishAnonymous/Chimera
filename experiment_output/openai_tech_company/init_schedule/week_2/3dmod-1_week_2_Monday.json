@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the detailed goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start working on modeling the main character focusing on establishing a base mesh with clean topology."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break - Loaf around by browsing art websites for inspiration and ideas."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining the main character model with focus on anatomy and proportions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start defining the key features of the main character, such as facial features and clothing design."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Contact @Lead Game Designer and @Narrative Designer to discuss character visual style and backstory."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue working on the main character model, focusing on topology that supports smooth animations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End day with a review of progress, noting areas that need further work or feedback."
+    }
+]

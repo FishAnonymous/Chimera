@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Address any outstanding issues or questions related to the list of key audit considerations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin researching potential audit procedures for specific areas identified in the list of key audit considerations, such as model validation and backtesting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document the research on potential audit procedures. Create a library of audit templates and checklists that can be used during the audit process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Reviewing some interesting information about auditing."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue documenting audit procedures. Focus on areas requiring specialized knowledge or expertise."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the progress made on documenting audit procedures. Identify any gaps or areas requiring further attention."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the week's accomplishments and next steps. Schedule time next week to continue working on documenting audit procedures."
+    }
+]

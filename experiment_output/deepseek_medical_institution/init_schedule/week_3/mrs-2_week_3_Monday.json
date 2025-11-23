@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the standardized data abstraction protocols for influenza data."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin abstracting historical influenza data into the EHR system, focusing on patient demographics and vaccination records."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, browse medical records blogs for inspiration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue abstracting data, ensuring adherence to protocols. Cross-check entries for accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction, focusing on symptom onset dates and lab results."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @his-1 and @his-2 to clarify any ambiguous data points in the historical records."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and label the abstracted data for easy retrieval and analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work, note any inconsistencies, and plan for tomorrow."
+    }
+]

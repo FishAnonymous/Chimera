@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize prototype for internal playtest."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @qtest-1 to set up the playtest environment and define test cases."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct internal playtest with @qtest-1 and @ldes-1. Observe and note feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile feedback from playtest. Identify key issues and areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @lpro-1 and @ldes-1 to discuss feedback and prioritize fixes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document playtest results and action items."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from the previous day's mock onboarding session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Quantitative Researcher to align on data requirements needed for the onboarding process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback from @Quantitative Researcher into onboarding checklist and mock session materials."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @Marketing & Communications Specialist to discuss onboarding communication strategies for UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a second mock onboarding session with different internal team members to test updated processes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Gather feedback from this mock session, focusing on client experience and smoothness of the process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document all feedback and insights gained from both mock sessions into a report."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day by checking emails and preparing a to-do list for the next day."
+    }
+]

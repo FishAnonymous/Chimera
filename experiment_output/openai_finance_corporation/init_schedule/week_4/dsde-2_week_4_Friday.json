@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and await design feedback from @larch-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate any design feedback received from @larch-1 into the presentation slides."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the market research report and prepare for distribution."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out the finalized market research report to all relevant stakeholders including @pm-1, @ir-1, and @cio-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the market research findings to @pm-1 and other stakeholders in a scheduled meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by reviewing personal accomplishments and planning for the next week."
+    }
+]

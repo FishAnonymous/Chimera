@@ -1,0 +1,181 @@
+[
+    {
+        "week": 4,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Finalize promotional graphics such as key art and social media content.",
+            "Complete the primary game trailer and any additional teaser clips."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Conduct playtesting sessions to gather feedback on gameplay mechanics.",
+            "Optimize performance metrics for rendering, physics, and AI.",
+            "Identify and fix bugs found during playtesting.",
+            "Prepare documentation for development progress and next phase planning."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Conduct playtesting sessions to gather feedback on gameplay mechanics.",
+            "Optimize performance metrics for rendering, physics, and AI.",
+            "Identify and fix bugs found during playtesting.",
+            "Prepare documentation for development progress and next phase planning."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Combine all systems into a cohesive prototype.",
+            "Prepare documentation for handoff to Client Developers.",
+            "Present final mechanics and rules to the team; address any last-minute tweaks."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Polish deployment scripts and documentation.",
+            "Conduct final review and handoff to QA for testing."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Conduct final playtesting sessions to validate all game mechanics.",
+            "Compile a comprehensive bug report for the development team.",
+            "Prepare a final QA report summarizing testing outcomes and recommendations."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Polish all 3D models and animations for final integration.",
+            "Ensure all assets are optimized for performance.",
+            "Handoff finalized assets to the development team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Conclude presentation of the project progress to stakeholders.",
+            "Finish playtesting and document gameplay refinements."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Combine all systems into a cohesive prototype.",
+            "Prepare documentation for handoff to Client Developers.",
+            "Present final mechanics and rules to the team; address any last-minute tweaks."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Conduct playtesting sessions to gather feedback on gameplay mechanics.",
+            "Optimize performance metrics for rendering, physics, and AI.",
+            "Identify and fix bugs found during playtesting.",
+            "Prepare documentation for development progress and next phase planning."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Polish UI assets and animations.",
+            "Prepare design documentation (e.g., style guide, interaction specs).",
+            "Handoff to Client Developers for implementation."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Polish all 3D models and animations for final integration.",
+            "Ensure all assets are optimized for performance.",
+            "Handoff finalized assets to the development team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Review and finalize all codebase optimizations.",
+            "Ensure all systems are integrated and functioning correctly.",
+            "Prepare documentation for handoff to the next phase."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Finalize all technical art assets and shaders.",
+            "Ensure all assets are optimized for performance.",
+            "Handoff finalized assets to the development team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Finalize all tools and ensure they are fully functional.",
+            "Prepare documentation for tool usage and maintenance.",
+            "Handoff tools to the development team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Polish and publish the GDD; ensure all teams have access.",
+            "Conduct final playtesting sessions to validate design."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Polish all audio assets and ensure they are fully integrated.",
+            "Prepare documentation for audio implementation.",
+            "Handoff finalized assets to the development team."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Integrate server with client-side builds.",
+            "Prepare deployment scripts and documentation.",
+            "Conduct final review and handoff to QA for testing."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Polish level designs (e.g., particle effects, sound triggers).",
+            "Prepare documentation (e.g., level maps, spawn points, triggers).",
+            "Handoff to Client Developers for integration into the build."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Polish all narrative elements (e.g., dialogues, lore entries).",
+            "Prepare documentation for voice actors (if applicable).",
+            "Handoff to Client Developers for implementation."
+        ]
+    }
+]

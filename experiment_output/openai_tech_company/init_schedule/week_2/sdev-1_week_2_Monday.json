@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and review the goal for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1 and @sdes-2 to discuss the requirements for the authentication system and gather their input on design decisions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start developing the authentication system for user accounts. Focus on user registration processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue development on authentication system, implementing login functionality."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the authentication system processes and any challenges faced."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, check emails, and prepare tasks for tomorrow."
+    }
+]

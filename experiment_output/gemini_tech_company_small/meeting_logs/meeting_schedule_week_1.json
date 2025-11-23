@@ -1,0 +1,37 @@
+[
+    {
+        "week": 1,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Prototype basic movement and player input.",
+            "Research movement techniques used in similar games."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Set up the basic project structure and version control.",
+            "Create the player character class and integrate the input system.",
+            "Establish the core game loop.",
+            "Initial setup of collision detection.",
+            "Implement basic player movement (walk, run, jump).",
+            "Handle player input from keyboard/mouse/controller.",
+            "Prototype camera controls and follow behavior.",
+            "Implement basic collision to prevent the player from walking through walls."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Initial sketches and mood boards for the game world.",
+            "Focus on establishing the overall art style and color palette.",
+            "Simple blockout models for the environment to test player movement and scale.",
+            "Concept art for the player character, focusing on silhouette and basic features.",
+            "Initial exploration of character animations (walk cycle, idle pose).",
+            "Create a small, playable area with basic environmental assets (walls, floors, simple props).",
+            "The focus should be on functionality and readability, not high fidelity."
+        ]
+    }
+]

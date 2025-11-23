@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any vendor replies regarding the meeting request. Finalize the meeting date and time, sending out a formal meeting invitation with an agenda. Need coffee first though."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the document outlining the hospital's requirements, focusing on clarity and conciseness. Ensure all key stakeholders' needs are addressed. Send to @his-1 and @his-2 for a quick review and feedback. Topic: Review of EHR Modification Requirements Document."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @ehrdev-1 and @ehrdev-2 to discuss potential integration challenges with the proposed system modifications. Gather their insights on the technical feasibility of the required changes. Topic: EHR Modification Integration Feasibility."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research alternative EHR vendors and their capabilities for influenza data collection, just in case. It's always good to have a backup plan and know what else is out there."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a quick bite at the hospital cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on the cost-benefit analysis framework for evaluating the vendor's proposals. Identify key cost drivers and potential benefits. Consult with @itpm-1 to refine the analysis framework. Topic: Cost-Benefit Analysis Framework for EHR Modifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the feedback received from the Health Informatics Specialists regarding the requirements document and incorporate their suggestions. Make sure everything is clear and technically accurate."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation summarizing the hospital's requirements for influenza data collection. This will be used during the meeting with the EHR vendor. Include visuals and clear explanations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the presentation and practice my delivery. Make sure I'm prepared to answer any questions the vendor might have. Then start looking for fun things to do in the evening."
+    }
+]

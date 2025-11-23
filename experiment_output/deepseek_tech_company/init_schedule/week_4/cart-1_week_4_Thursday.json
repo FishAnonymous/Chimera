@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Check in with @3dmod-1 and @3dmod-2 on trailer animation progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assist with any additional concept art needed for the trailer, such as background elements or props."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Sketch some ideas for teaser clips."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start designing concept art for teaser clips, focusing on impactful moments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review teaser clip concepts with @prod-1 and @ldes-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine teaser clip concepts based on feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize teaser clip concepts and prepare for handoff to the animation team."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's progress. Begin working on the core game loop."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research the game engine's core loop. Understand the different stages: Input, Update, Render. Identify the functions responsible for handling each stage."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up a basic game loop in the GameMode class. Override the BeginPlay() function to initialize game state. Set up a timer to call a custom Update() function every frame."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement a simple Update() function. This function will be the central point for updating game logic every frame. For now, add a debug log message to verify it is being called correctly."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Integrate player movement into the game loop's Update() function. Call the necessary movement functions from 'AGameCharacter' within the GameMode's Update() to ensure consistent updates."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test the core game loop. Verify that the Update() function is being called every frame and that player movement is being updated correctly. Check for any performance issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Initial setup of collision detection. Explore the game engine's collision system. Understand collision channels, collision responses, and collision components."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Configure collision settings for the Player Character. Add a Capsule Component to the Player Character. Set the collision profile to 'Pawn'."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a simple test environment with static meshes (e.g., cubes, walls). Set the collision profile for these meshes to 'BlockAll'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement basic collision prevention. Detect collisions between the Player Character and the environment. Stop the player's movement when a collision is detected."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Fine-tune collision responses. Adjust collision settings to ensure the player can't walk through walls, but can still navigate corners and slopes smoothly. Implement a debug function to visualize collision data."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Commit changes to the 'feature/player_character' branch: 'Implemented core game loop and basic collision detection.'"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off."
+    }
+]

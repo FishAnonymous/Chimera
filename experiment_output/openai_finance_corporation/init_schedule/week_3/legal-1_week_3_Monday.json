@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and organize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review compliance documentation related to fund registration. Identify any potential legal issues or areas needing clarification."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @Comp-1 to discuss compliance documentation, ask questions, and ensure understanding of all requirements."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue reviewing compliance documentation and make notes on critical points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft the necessary legal documents for fund setup, starting with the fund registration documents."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Consult with @Facc-1 and @Facc-2 regarding any accounting considerations related to the draft legal documents."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Revise the drafts based on input received and ensure alignment with compliance requirements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails for any follow-ups or necessary communications."
+    }
+]

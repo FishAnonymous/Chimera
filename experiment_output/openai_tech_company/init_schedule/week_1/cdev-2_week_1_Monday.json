@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the weekly goals to prepare for the brainstorming session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in a brainstorming session with the team, including @ldes-1 (Lead Game Designer), @uiux-1 (UI/UX Designer), and @ndes-1 (Narrative Designer) to define key user interaction features for the game."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the key user interaction features discussed in the brainstorming session and share them with the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback on existing UI elements with @uiux-1 and clarify any uncertainties regarding the new UI."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin creating wireframes for the new UI elements based on the feedback collected."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up by saving work on the wireframes and preparing for the next day."
+    }
+]

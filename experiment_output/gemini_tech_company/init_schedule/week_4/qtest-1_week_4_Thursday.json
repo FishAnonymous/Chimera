@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails for meeting scheduling or changes to scope. Reviewing the status of known bugs related to shooting mechanics, and test any updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "If meeting was held and clear goals are established, prioritize tasks according to the new objectives. If not, continue with testing based on previously established plans. Refine existing test cases for shooting mechanics based on feedback and new features."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. I should remember to bring lunch from home next time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin testing character movement and animations. Need to ensure smooth transitions between different states (walking, running, jumping, crouching). Evaluate the responsiveness of the controls."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all bugs or issues found related to character movement and animations in the bug tracking system.  Provide detailed steps to reproduce the issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send preliminary report on character movement and animations to @3dmod-1 and @3dmod-2 (3D Modelers/Animators) and @cdev-1, @cdev-2, @cdev-3 highlighting any major issues. Suggest areas for improvement."
+    }
+]

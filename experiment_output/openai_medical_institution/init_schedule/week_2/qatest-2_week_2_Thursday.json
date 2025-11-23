@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review emails for any new updates or issues reported from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a team meeting with @Registered Nurse and @Clinical Lead to discuss practical implications of QA findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze feedback from the team meeting and adjust QA testing protocols as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct further QA testing on updated EHR data focusing on influenza cases."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to document findings from the latest testing and prepare an informative presentation for the team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Share presentation outline with @Training Coordinator for feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan testing activities for Friday based on findings and team input."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up, ensuring all documentation is up-to-date."
+    }
+]

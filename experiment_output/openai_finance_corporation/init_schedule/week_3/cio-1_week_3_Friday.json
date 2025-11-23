@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and ensure all feedback documents are organized."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize investment strategy documents for release."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create an internal announcement regarding the completion of the investment strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out the finalized investment strategy document to all stakeholders."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Plan follow-up sessions for investor onboarding team regarding feedback from investors."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week, reflecting on achievements, and outline next steps for implementation."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final review of the report and presentation slides, making last-minute adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cio-1, @pm-1, and @qres-3 to present findings and discuss potential investment strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break, reflect on feedback received during the meeting."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Incorporate feedback into the report and update slides if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email updated report and slides to the investment strategy team (@cio-1, @pm-1, @qres-1, @qres-2, @qres-3)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document lessons learned from the analysis and presentation process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin preliminary research for next week's tasks, exploring new datasets."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day, organize files and notes."
+    }
+]

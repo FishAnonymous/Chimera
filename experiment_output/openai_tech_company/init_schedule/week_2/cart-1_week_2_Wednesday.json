@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check for responses to the sketches shared with the design team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback on environment and character sketches, make notes for revisions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start revising thumbnail sketches of environments based on feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on revisions for the environment sketches."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin revising character silhouettes based on team feedback."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out for the day."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Address any feedback from stakeholders on the updated requirements document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss testing plans for the EHR updates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin drafting a high-level implementation plan for the EHR updates."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the draft implementation plan with @dba-1 for database impact assessment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @dba-1 and finalize the implementation plan."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Share the implementation plan with @itpm-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation on the planned updates for the clinical team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the presentation to @trainer-1 for review and scheduling."
+    }
+]

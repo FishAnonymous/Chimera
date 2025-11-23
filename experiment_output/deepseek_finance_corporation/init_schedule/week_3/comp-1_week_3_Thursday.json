@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any compliance-related queries. Follow up on SEC submission status."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a follow-up training session for any team members who missed the initial session or need clarification."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review and update internal compliance training materials based on feedback from the sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test KYC/AML process improvements implemented earlier in the week. Ensure all changes are functioning as intended."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @facc-1 and @facc-2 to ensure they are aware of any changes to compliance processes affecting their work."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document all process changes and updates for future reference."
+    }
+]

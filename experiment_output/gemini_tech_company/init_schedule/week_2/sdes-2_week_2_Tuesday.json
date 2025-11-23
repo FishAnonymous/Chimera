@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Listen to some calming music while reviewing yesterday's progress and planning the day ahead."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue working on the combat/progression integration. Implement a system for rewarding players with experience points based on their performance in combat. Consider factors such as accuracy, damage dealt, and special abilities used."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the combat/progression integration to ensure it is functioning as expected. Pay close attention to the balance between combat difficulty and progression rate."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read a chapter of a fantasy novel."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin integrating the economy system with the combat and progression systems. Design a system for rewarding players with currency for completing combat encounters."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @LDes-1 and @QTest-1 to schedule a playtesting session for the combat/progression/economy integration. Topic: \"Playtesting Session - Combat/Progression/Economy\""
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the work done and prepare for the playtesting session."
+    }
+]

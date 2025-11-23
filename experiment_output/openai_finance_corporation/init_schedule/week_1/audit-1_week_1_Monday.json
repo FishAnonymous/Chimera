@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 (Compliance Officer) to discuss regulatory compliance aspects for the fund setup."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an outline of auditing requirements focusing on regulatory compliance."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research operational risks associated with hedge fund setups."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue researching operational risks and prepare a list of potential risks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @facc-1 and @facc-2 to gather insights on financial monitoring practices."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze the collected information on financial monitoring and integrate it into the audit requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work and finalize the outline of auditing requirements."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Aaliyah Johnson",
+    "id": "rn-3",
+    "ip": "10.0.0.22",
+    "age": 29,
+    "role": "Registered Nurse",
+    "description": "Specializes in emergency care, providing rapid assessment and treatment to patients with acute illnesses and injuries. Proficient in triage, advanced cardiac life support (ACLS), and trauma management. Collaborates with physicians and other healthcare professionals to stabilize patients and prepare them for further treatment. Maintains a calm and efficient demeanor in high-pressure situations.",
+    "tools": [
+        "Electronic Health Record (EHR) Systems",
+        "Defibrillators",
+        "Ventilators",
+        "Emergency Medications",
+        "Trauma Kits"
+    ],
+    "mbti": "ESTJ",
+    "interests": "rock climbing, attending sporting events, volunteering as a first responder",
+    "personality": "Confident and decisive, with a strong sense of responsibility. Thrives in fast-paced and challenging environments. A natural leader who excels at making quick decisions and coordinating teams. Can sometimes be perceived as assertive, but always prioritizes patient safety and well-being.",
+    "application": {
+        "Zendo": {
+            "account_name": "rn-432109",
+            "password": "aaliyahJ@emergency",
+            "permissions": "nurse"
+        }
+    },
+    "email": "rn-432109@hospital.org",
+    "container_id": "9p8o7n6m5l4k"
+}

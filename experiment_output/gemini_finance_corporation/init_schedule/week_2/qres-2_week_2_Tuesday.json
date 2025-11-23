@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Coffee and some light reading. Check the news and maybe a quick glance at social media. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Respond to emails and address any urgent requests related to the risk management framework and backtesting methodologies."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the risk management framework document based on feedback from the Monday meeting. Ensure clarity and completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @larch-1 and @sdev-1 on the feasibility of implementing the backtesting methodologies using existing infrastructure or if new tools are needed. @larch-1 @sdev-1 Topic: Infrastructure for Backtesting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch! Maybe try that new Thai place down the street with @qres-1 and @qres-2."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the backtesting methodologies document. Add details on how to handle data cleaning, feature engineering, and model selection. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting with @cio-1 to discuss the preliminary risk management framework and backtesting methodologies and get his high-level feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Meet with @cio-1 to get feedback on risk management and backtesting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by organizing notes and making a plan for tomorrow."
+    }
+]

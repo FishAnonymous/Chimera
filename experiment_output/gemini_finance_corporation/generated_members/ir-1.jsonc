@@ -1,0 +1,27 @@
+{
+    "name": "Ariana Brooks",
+    "id": "ir-1",
+    "ip": "10.0.0.25",
+    "age": 37,
+    "role": "Head of Investor Relations",
+    "description": "Responsible for managing relationships with existing and potential investors, communicating fund strategy, performance, and market conditions. Develops marketing materials and oversees investor communications to ensure transparency and trust in the firm.",
+    "tools": [
+        "Salesforce",
+        "Microsoft PowerPoint",
+        "Bloomberg",
+        "Excel",
+        "Tableau"
+    ],
+    "mbti": "ESFJ",
+    "interests": "networking, public speaking, traveling",
+    "personality": "Warm and outgoing, enjoys building relationships and believes in the power of effective communication. Loves to engage with people and is often seen as the heart of the team, making efforts to ensure investors feel valued.",
+    "application": {
+        "InvestorRelationsManager": {
+            "account_name": "ir-789456",
+            "password": "ArianaIR@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "ir-789456@corp.com",
+    "container_id": "m79t3g7483j"
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any pending tickets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final review of the ticketing system and all support channels."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email to @itpm-1 and @ehrv-1 to schedule a demo of the ticketing system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break and browse creative websites for relaxation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a presentation for the demo, highlighting key features and benefits."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the demo for @itpm-1, @ehrv-1, and @clinlead-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Gather feedback from the demo and note any final adjustments needed."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Make the final adjustments to the ticketing system based on feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a final update email to the team and celebrate the week's progress."
+    }
+]

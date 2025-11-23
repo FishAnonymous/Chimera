@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prepare for the weekly team meeting. Need to figure out what the goals are for this week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Team meeting. (No goals mentioned? Seriously? Need to address this in follow-up communication.)"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Since no goals were specified, I'll take the initiative. Send an email to @prod-1 (Producer) and @ldes-1 (Lead Game Designer) requesting clarification on the testing goals for the week. Subject: URGENT - Missing QA Goals for Week 4."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review existing test cases for the Third-Person Shooter template project. Need to ensure all core functionalities are covered and up-to-date. Prioritize test cases related to character movement, shooting mechanics, and UI elements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Need to grab something quick."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assuming I haven't heard back about the week's goals yet, I'll begin proactively creating a test plan for the newly implemented shooting mechanics based on the latest build notes. This includes accuracy testing, recoil patterns, reload times, and weapon switching."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the test plan for shooting mechanics in the shared document repository. Ensure the plan is detailed, covering all aspects of the implemented functionality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Follow up email to @prod-1 and @ldes-1 reminding them of my request for clarification on the week's goals.  Politely emphasize the importance of having clear objectives for effective testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a list of tools/dependencies to ensure everything is setup correctly for the week."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Check system logs for any previous errors. Document all setup procedures for the benefit of the team."
+    }
+]

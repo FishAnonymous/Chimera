@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute issues before the weekly team meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend the weekly team meeting to present progress on EHR data elements and collection workflow."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback from the team meeting into the project plan."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrv-1 to discuss any vendor-specific requirements for data extraction."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all documentation for the week, including the data dictionary, workflow, and test plan."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @helpdesk-1 to ensure support is available for any technical issues during data collection."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review the week's accomplishments and prepare a summary for the project manager."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan tasks for the following week based on current progress and feedback."
+    }
+]

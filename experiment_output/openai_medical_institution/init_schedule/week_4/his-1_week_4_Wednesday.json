@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and respond to inquiries from staff."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up a meeting with @itpm-1 to discuss project timelines and resource allocations for EHR integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Dive deep into the data collected regarding seasonal influenza trends and begin data analysis with @da-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue detailed analysis of the seasonal influenza data, focusing on any anomalies or interesting trends."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare to present findings in the upcoming team meeting. Create slides summarizing key points."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share the slides with @pchmp-1 for their feedback before the team meeting."
+    }
+]

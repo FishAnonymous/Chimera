@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and confirm submissions and adjustments made."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a follow-up meeting with @ir-1 to discuss investor queries."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Get updates from @qres-1 on performance metrics related to planned operations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Review final operational plans and prepare the launch schedule."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send a summary email to all stakeholders confirming completion of week\u2019s tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week\u2019s achievements and plan for next weeks\u2019 goals."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up work, check for any last emails, and log off."
+    }
+]

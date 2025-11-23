@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to my workstation, and check emails for any urgent requests or updates. Being an ISFJ, I like to start the week by ensuring everything is in order and addressing immediate needs first."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: EHR database schema review, assessing existing tables, and designing new tables for influenza data. I like to have a clear plan before diving into the technical details."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin reviewing the existing EHR database schema. Focus on the patient demographics, medical history, and diagnosis tables initially. My goal is to understand the current structure and identify potential areas for integration."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document my observations and potential integration points in a detailed notes file. I prefer to keep meticulous records of my findings for future reference."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break to stretch and grab a cup of coffee. It's important to take breaks to maintain focus."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Continue reviewing the database schema, specifically looking at the tables related to lab results and medication history. These areas might contain relevant data for influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume work. Create a preliminary diagram outlining the existing schema and highlighting potential areas for storing influenza-related data. This will help visualize the integration process."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @his-1, @his-2 to schedule a brief meeting tomorrow to discuss the specific data elements required for influenza trend analysis. This will help me ensure the schema design meets their needs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research best practices for storing and managing epidemiological data in a relational database. I want to ensure our approach aligns with industry standards."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Refine the database schema diagram based on my research. Update the notes file with any new insights or considerations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and plan for tomorrow. Ensure all documentation is up-to-date. Prepare for the meeting with @his-1, @his-2 by outlining questions."
+    }
+]

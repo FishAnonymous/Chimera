@@ -1,0 +1,27 @@
+{
+    "name": "Marcus Thompson",
+    "id": "lpro-1",
+    "ip": "10.0.0.10",
+    "age": 35,
+    "role": "Lead Programmer",
+    "description": "Oversees the programming team, ensuring the implementation of game features and systems, and maintaining code quality. Responsible for architecture and design decisions, as well as mentoring junior programmers.",
+    "tools": [
+        "Visual Studio",
+        "Git",
+        "Unity",
+        "Perforce",
+        "Jira"
+    ],
+    "mbti": "INTJ",
+    "interests": "machine learning, sailing",
+    "personality": "Detail-oriented and focused, enjoys strategic problem-solving. Prefers to work in small, dedicated teams, often acting as a mentor to junior colleagues.",
+    "application": {
+        "CodeScribe": {
+            "account_name": "prog-578832",
+            "password": "marcusTh0mpson!",
+            "permissions": "lead_programmer"
+        }
+    },
+    "email": "prog-578832@corp.com",
+    "container_id": "8b2f67a22f6e"
+}

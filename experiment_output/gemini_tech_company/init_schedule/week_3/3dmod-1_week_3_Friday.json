@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Respond to the emails and plan for today's work."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue working on combat animations, creating a variety of attacks and combos. Experiment with different poses and timings to find what looks best."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Animate the character's interactions with the environment, such as opening doors or picking up objects. Pay attention to the character's body language and how they interact with the world."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Polish the existing animations, refining the timing and poses to create a more polished and professional look. Pay attention to details like finger movements and facial expressions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time! Get some food and chat with colleagues. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the animations in the game engine, ensuring they work correctly and blend smoothly. Make any necessary adjustments to the animations based on the feedback from the engine."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a demo reel showcasing the character's animations. Highlight the best and most impressive movements. Send the demo reel to @lpro-1 (Lead Programmer) and @ldes-1 (Lead Game Designer) for review. Subject: Character Animation Demo Reel - Feedback Request."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's progress, make notes on areas for improvement, and back up all files to the server. Clean my desk and head out for the weekend!"
+    }
+]

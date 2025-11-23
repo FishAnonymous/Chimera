@@ -1,0 +1,27 @@
+{
+    "name": "Emily Carter",
+    "id": "ehrdev-1",
+    "ip": "10.0.0.13",
+    "age": 35,
+    "role": "EHR Integration Developer",
+    "description": "Responsible for integrating various healthcare systems with the hospital's primary Electronic Health Record (EHR) system. Develops and maintains interfaces using HL7 and FHIR standards. Works closely with vendors and internal teams to ensure seamless data exchange. Troubleshoots integration issues and optimizes system performance.",
+    "tools": [
+        "HL7 Interface Engines (e.g., Mirth Connect)",
+        "FHIR",
+        "SQL",
+        "Java",
+        "API Development Tools"
+    ],
+    "mbti": "ENFJ",
+    "interests": "Yoga, volunteering at the local animal shelter, attending live music performances",
+    "personality": "Empathetic and communicative, with a knack for building rapport with stakeholders. Enjoys collaborating on complex projects and finding creative solutions. Passionate about improving patient care through technology.",
+    "application": {
+        "Zendo": {
+            "account_name": "ehr-654321",
+            "password": "emilyC@integration",
+            "permissions": "developer"
+        }
+    },
+    "email": "ehr-654321@hospital.org",
+    "container_id": "b4c5d6e7f8a9"
+}

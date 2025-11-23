@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm the meeting schedule with the EHR vendor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare presentation materials for the vendor meeting, highlighting key requirements and desired capabilities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a dry run of the presentation with @ehrv-1 and @itpm-1 for feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback and finalize the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend the meeting with the EHR vendor to communicate the hospital's specific requirements for influenza data collection."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Discuss potential system modifications or updates needed with the EHR vendor."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Summarize meeting outcomes and action items in an email to @ehrv-1, @itpm-1, and @clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review vendor's initial feedback and brainstorm potential solutions for any gaps identified."
+    }
+]

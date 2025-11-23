@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Coffee is a must. Briefly scan the news."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @facc-2 (Fund Accountant) to discuss the tracking framework for fund performance and expenses. Gather their insights and feedback on the approach. Subject: Fund Accounting - Discussion."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback from @facc-2 into the tracking framework document. Refine the approach based on their experience and knowledge."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research commercially available fund accounting software solutions in more detail. Identify potential vendors and schedule demos for the most promising options."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time. Grab some burgers with colleagues"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend software demo with [Vendor Name]. Evaluate the software's capabilities for tracking fund performance, expenses, and generating required SEC reports."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document the key takeaways from the software demo. Assess the software's strengths and weaknesses relative to our specific needs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @cio-1 (Chief Investment Officer) via email. Subject: Fund Accounting Software Evaluation. Briefly summarize the software demo and request their input on the decision-making process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an updated tracking framework document. Include a recommendation on whether to pursue a commercially available software solution or build a custom solution. This will be the starting point for a meeting on Friday."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Answer any final emails."
+    }
+]

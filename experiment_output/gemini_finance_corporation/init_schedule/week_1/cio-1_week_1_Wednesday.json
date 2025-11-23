@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Review market news and performance. Quickly check emails."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Respond to emails and finalize the compliance plan with @comp-1. Review and approve the final strategy document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Communicate the final strategy selection to the Quantitative Research, Software Development, and Data Science teams (@qres-1, @qres-2, @qres-3, @sdev-1, @sdev-2, @dsde-1, @dsde-2). Outline their respective roles and responsibilities in implementing the strategy. Send email to 'Disseminate Chosen Statistical Arbitrage Strategy'."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @larch-1, @sdev-1, @sdev-2 and @devops-1 to discuss the technical implementation of the chosen strategy. Define the system architecture, data pipelines, and trading algorithms. Set timelines and milestones."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Work with @pm-1 to create a project plan for the fund launch. Define key milestones, allocate resources, and establish communication protocols."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Network with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @mkt-1 and @ir-1 to discuss marketing and investor relations strategies. Craft a compelling narrative for UHNWIs, highlighting the fund's unique value proposition and risk management approach."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the marketing materials and investor presentations. Provide feedback and ensure accuracy and compliance with SEC regulations. Send Email to 'Review marketing material' to @mkt-1 and @ir-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Contact @onbd-1 to discuss onboarding procedures for UHNWI clients. Ensure a seamless and personalized experience for new investors."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tomorrow's schedule and prepare for upcoming meetings. Respond to any remaining emails."
+    }
+]

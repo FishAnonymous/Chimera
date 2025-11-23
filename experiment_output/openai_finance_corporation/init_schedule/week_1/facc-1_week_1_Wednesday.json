@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for feedback or additional information received about the budget."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine budget presentation slides based on the latest data."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Practice the presentation of the preliminary budget details."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize presentation materials and send to attendees for review."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @audit-1 to discuss any potential fiscal implications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review notes and prepare for Thursday's presentation."
+    }
+]

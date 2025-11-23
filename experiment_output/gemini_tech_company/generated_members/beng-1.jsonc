@@ -1,0 +1,30 @@
+{
+    "name": "Rajesh Kapoor",
+    "id": "beng-1",
+    "ip": "10.0.0.29",
+    "age": 34,
+    "role": "Build Engineer",
+    "description": "Responsible for automating the build, testing, and deployment processes of the game. Develops and maintains build scripts, CI/CD pipelines, and automated testing frameworks. Works closely with programmers, testers, and operations teams to ensure smooth and efficient software delivery.",
+    "tools": [
+        "Jenkins",
+        "CMake",
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "Bash",
+        "Git",
+        "Unreal Automation Tool"
+    ],
+    "mbti": "ISTJ",
+    "interests": "drones, home automation, woodworking",
+    "personality": "Methodical and detail-oriented. Enjoys optimizing processes and automating repetitive tasks. Can be a bit of a perfectionist and may get frustrated with sloppy code or poorly designed systems. Values stability and reliability above all else.",
+    "application": {
+        "Zendo": {
+            "account_name": "buildeng-864297",
+            "password": "RajeshK@build",
+            "permissions": "build_engineer"
+        }
+    },
+    "email": "buildeng-864297@corp.com",
+    "container_id": "2b9c0d1e3a4f"
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the current progress on the investor portal UI. Prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue development on the investor portal UI, focusing on finalizing the dashboard layout and navigation components."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Grab a coffee and browse tech news for inspiration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Coordinate with @sdev-2 to align on UI components and ensure consistency across the portal."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start integrating backend APIs for real-time data access. Test initial endpoints with mock data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Debug any issues encountered during API integration. Consult @devops-1 if infrastructure adjustments are needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by documenting progress and preparing a list of tasks for Tuesday."
+    }
+]

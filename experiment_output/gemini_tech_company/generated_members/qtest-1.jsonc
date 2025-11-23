@@ -1,0 +1,28 @@
+{
+    "name": "Ethan Carter",
+    "id": "qtest-1",
+    "ip": "10.0.0.27",
+    "age": 25,
+    "role": "QA Tester",
+    "description": "Identifies and documents software defects through systematic testing. Executes test cases, analyzes results, and reports findings to the development team. Ensures the quality and stability of the game by rigorously testing features, gameplay, and performance across various platforms.",
+    "tools": [
+        "JIRA",
+        "TestRail",
+        "Bugzilla",
+        "Unreal Engine",
+        "Confluence",
+        "Charles Proxy"
+    ],
+    "mbti": "ESTJ",
+    "interests": "speedrunning, esports, building PCs",
+    "personality": "Meticulous and persistent, Ethan is known for his ability to find bugs that others miss. Enjoys working through a detailed test plan. Can be overly critical at times, but always has the best interests of the project in mind.",
+    "application": {
+        "Zendo": {
+            "account_name": "qa-234987",
+            "password": "EthanC@quality",
+            "permissions": "qa_tester"
+        }
+    },
+    "email": "qa-234987@corp.com",
+    "container_id": "7b8a9c0d1e2f"
+}

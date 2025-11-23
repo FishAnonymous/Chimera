@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails regarding ongoing data collection efforts, and review the previous week's data entries for any inaccuracies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Data Analyst (da-2) to discuss data collection processes and identify any discrepancies noted during the review."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Perform data entry tasks while ensuring high accuracy. Focus on entering patient information related to seasonal influenza."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review completed data entries for accuracy and completeness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue data entry tasks and resolve any discrepancies found during the entry process."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @Health Informatics Specialist (his-1) to discuss data integrity and potential improvements to the EHR system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @Quality Assurance Tester (qatest-1) to gain insights into any data entry issues experienced and test for system reliability."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and summarize the day's activities and data entry performance."
+    }
+]

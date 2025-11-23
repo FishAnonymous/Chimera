@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and OA system, check emails for urgent updates or requests related to influenza assessment protocols or EHR data entry procedures. Respond to any pressing emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue performing patient assessments for influenza symptoms, emphasizing the use of EHR's quality assurance tools to identify and correct data entry errors in real-time."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Actively monitor the EHR for alerts or notifications related to data entry errors or inconsistencies. Investigate and resolve any identified errors promptly, following established procedures."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "If the EHR system experiences any performance issues or downtime, immediately report it to @itpm-1 and @helpdesk-1. Document the nature of the issue and any impact on patient care. @itpm-1 @helpdesk-1 EHR System Performance Issue."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Consult with @mrs-1 and @mrs-2 to discuss any challenges or questions related to accessing or retrieving patient medical records within the EHR. Ensure compliance with HIPAA regulations and hospital policies. @mrs-1 @mrs-2 Access or retrieving patient medical records."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Reflect on the week's progress and identify areas where I can further improve my skills in influenza assessment and EHR data entry. Set specific, measurable, achievable, relevant, and time-bound (SMART) goals for future development."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break to browse medical journals online for new research regarding influenza or EHR implementation and share articles that would benefit the team with @his-1 and @pchmp-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a final report summarizing the week's activities, including the number of patients assessed, the types of errors identified and corrected, and any challenges encountered. Share the report with the team and document it for future reference."
+    }
+]

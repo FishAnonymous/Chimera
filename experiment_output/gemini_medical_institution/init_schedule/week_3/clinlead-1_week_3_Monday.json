@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the overall project progress on EHR collection and influenza trend analysis. Address any urgent requests or updates from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goals for the week: focusing on clinical workflows for influenza data capture and implementing prompts for diagnosis and testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @rn-1, @rn-2, @rn-3, @pchmp-1 to discuss current clinical workflows related to influenza diagnosis, testing, and treatment. Gather feedback on potential areas for improvement and modification. @PEOPLE: Send email to nurses and physician champion to arrange a meeting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the discussion, begin identifying specific clinical workflows within the EHR that need to be modified to facilitate influenza data capture. Prioritize workflows based on their impact and feasibility."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the identified workflows and the proposed modifications. Outline the data points to be captured at each stage of the workflow."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @ehrdev-1 and @ehrdev-2 about the feasibility and timeline for implementing the identified workflow modifications within the EHR system. Discuss any technical challenges or limitations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an initial design for implementing prompts for influenza diagnosis and testing into the physician examination workflow. Consider different prompt types (e.g., pop-up alerts, embedded questions) and their placement within the EHR interface. @PEOPLE: Send email to developers to discuss feasibility."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @his-1 and @his-2 to ensure that the data captured through the prompts aligns with the required data fields for influenza trend analysis. Discuss data standardization and coding conventions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and plan for tomorrow's activities. Address any pending issues or concerns."
+    }
+]

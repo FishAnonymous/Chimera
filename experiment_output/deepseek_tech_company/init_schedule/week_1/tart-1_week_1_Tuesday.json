@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback from yesterday's mood board. Make necessary adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 @lvdn-1 to ensure the art style aligns with the game's level design and overall vision."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue refining the art style definition, focusing on key elements like lighting, shading, and color palette."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @uiux-1 to ensure the art style complements the UI/UX design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a detailed list of technical constraints and share it with the entire art and development teams."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the art style in a small prototype level to evaluate its feasibility and visual impact."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from @prod-1 @ldes-1 on the prototype and make adjustments as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the day's progress and prepare for tomorrow's tasks."
+    }
+]

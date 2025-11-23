@@ -1,0 +1,31 @@
+{
+    "name": "Ingrid M\u00fcller",
+    "id": "tdev-1",
+    "ip": "10.0.0.15",
+    "age": 41,
+    "role": "Tools Developer",
+    "description": "Develops and maintains internal tools and pipelines to support the game development team. Creates custom editors, automation scripts, and asset management systems to improve efficiency and productivity. Collaborates with programmers, artists, and designers to identify and address workflow bottlenecks.",
+    "tools": [
+        "Python",
+        "C#",
+        "Qt",
+        "PySide",
+        "Git",
+        "Perforce",
+        "Unreal Engine API",
+        "3ds Max API",
+        "Maya API"
+    ],
+    "mbti": "INTJ",
+    "interests": "classical music, hiking, reading technical books",
+    "personality": "Highly independent and self-motivated. Enjoys creating elegant and efficient solutions to complex problems. Can sometimes come across as blunt or critical, but is always focused on improving the development process.",
+    "application": {
+        "Zendo": {
+            "account_name": "toolsdev-295847",
+            "password": "IngridM@tools",
+            "permissions": "tools_developer"
+        }
+    },
+    "email": "toolsdev-295847@corp.com",
+    "container_id": "e61b3c5d78f9"
+}

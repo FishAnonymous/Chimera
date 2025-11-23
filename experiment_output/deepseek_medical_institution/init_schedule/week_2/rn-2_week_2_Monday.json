@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check for any urgent patient messages or updates. Review the standardized protocols for influenza symptom assessment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient rounds, focusing on assessing for influenza symptoms using the standardized protocols. Document findings in the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Administer influenza vaccinations to scheduled patients. Ensure all vaccination details are accurately entered into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient rounds and influenza symptom assessments. Cross-check EHR entries for completeness and accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @rn-1 and @rn-2 to discuss any challenges in symptom assessment or EHR documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's EHR entries for any discrepancies or missing information. Update as necessary."
+    }
+]

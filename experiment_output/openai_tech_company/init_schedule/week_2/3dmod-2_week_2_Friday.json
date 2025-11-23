@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and ensure all assets are archived and organized properly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a summary report of the week's progress, focusing on the models created and any challenges faced."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Share the summary report with @prod-1 and the team to discuss the accomplishments and get feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week\u2019s work and plan for the upcoming tasks next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by checking emails one last time and disconnecting from work, allowing some personal time."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, mentally prepare for the day's tasks."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue researching potential data sources, focusing on options data. Evaluate different vendor offerings and data quality."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Write an email to @qres-1, @qres-2, @qres-3 to discuss the data requirements, potential arbitrage strategies, and how options data can contribute to the model. TOPIC: Data Requirements and Potential Arbitrage Strategies."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Refine the data cleaning procedures based on yesterday's testing and feedback from the email discussion. Incorporate error handling and data validation checks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break, read news related to the financial market."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Enhance the data cleaning script to handle outliers using statistical methods (e.g., Z-score, IQR). Implement visualization techniques (e.g., box plots, histograms) to identify outliers."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Run the updated data cleaning script on a larger dataset and assess its performance. Analyze the distribution of the cleaned data and compare it to the original data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write an email to @sdev-1, @sdev-2 to discuss about data pipeline and infrastructure to automated data cleaning. TOPIC: Data pipeline and infrastructure."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update documentation to reflect the changes made to the data cleaning procedures and script."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and confirm the final arrangements for the data abstractor training session with @TRAINER-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review the training materials to ensure accuracy, completeness, and clarity. Conduct a final test run of the training presentation to identify any potential issues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare the training room, set up the presentation equipment, and arrange seating for the participants."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start the data abstractor training session. Start with introducing the finalized protocol, explanation of EHR data entry, and quality control procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Get lunch from a nearby restaurant."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue data abstractor training session. Provide hands-on practice with EHR data entry and address any questions or concerns from the participants."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conclude the training session by summarizing key takeaways and providing contact information for further support."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Collect feedback from the training participants to assess the effectiveness of the training program."
+    }
+]

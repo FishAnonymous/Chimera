@@ -1,0 +1,27 @@
+{
+    "name": "Brianna Reyes",
+    "id": "beng-1",
+    "ip": "10.0.0.32",
+    "age": 29,
+    "role": "Build Engineer",
+    "description": "Responsible for managing the build process of the game, ensuring that software builds are automated, reliable, and efficient. Works closely with engineers to support continuous integration and delivery.",
+    "tools": [
+        "Jenkins",
+        "Docker",
+        "Git",
+        "Ansible",
+        "Maven"
+    ],
+    "mbti": "ESTP",
+    "interests": "hiking, cooking",
+    "personality": "Energetic and adaptable, enjoys hands-on problem-solving and thrives in fast-paced environments. Prefers working collaboratively with engineering teams to streamline workflows.",
+    "application": {
+        "BuildMaster": {
+            "account_name": "build-748392",
+            "password": "briannaR@build",
+            "permissions": "build_engineer"
+        }
+    },
+    "email": "build-748392@corp.com",
+    "container_id": "a2f3c4b5e6d7"
+}

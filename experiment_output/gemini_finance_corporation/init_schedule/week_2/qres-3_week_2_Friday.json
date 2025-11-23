@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to my workstation, and check emails. Look for any urgent requests or updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start implementing the chosen liquidity model (e.g., Amihud's illiquidity ratio) in Python. Focus on efficient data handling and calculation of the metric."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the liquidity model on historical market data. Evaluate its ability to identify periods of high and low liquidity."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @SDEV-1 and @SDEV-2 to discuss the integration of the volatility and liquidity models into the broader risk management system. @SDEV-1 @SDEV-2 Topic: Model Integration into Risk Management System"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review the progress made this week and plan for next week's goals."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the Python code for both volatility and liquidity models, incorporating feedback from the testing and integration discussions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the final versions of the volatility and liquidity models, including code documentation, data requirements, and usage instructions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the updated risk model reports and the Python code to @QRES-3 for review and further validation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any remaining emails and prepare for the weekend. Back up all important files and code."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

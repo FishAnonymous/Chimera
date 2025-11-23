@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any pending approvals from @cio-1 or @coo-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a deep dive into SEC regulations with @comp-1 to ensure all compliance documentation is up-to-date."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a compliance checklist for the SEC regulations review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qres-1 and @qres-2 to ensure trading strategies align with SEC compliance."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and finalize client onboarding agreements with @onbd-1 and @ir-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send finalized legal agreements to @cio-1 for final sign-off."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address urgent requests related to the EHR modifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's progress and plan for today's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @QATEST-1, @QATEST-2 (Quality Assurance Testers) to test the influenza testing and antiviral medication order sets in the EHR system. Address any identified bugs or issues. @QATEST-1, @QATEST-2, please focus on usability, accuracy, and integration with existing workflows."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review feedback from nurses @RN-1, @RN-2, @RN-3 regarding draft order sets and incorporate necessary changes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @PCHMP-1 (Physician Champion) to discuss the physician awareness campaign for the new influenza guidelines and recommendations. Finalize the communication strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a healthy salad in the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the training materials for physicians on the new influenza-related EHR functionalities. Incorporate feedback from @TRAINER-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send an email blast to all physicians announcing the upcoming training session and the availability of the new influenza-related EHR functionalities."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on developing FAQs and quick reference guides for physicians to help them navigate the new EHR functionalities related to influenza management."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress on the EHR modification project. Prepare for tomorrow's tasks."
+    }
+]

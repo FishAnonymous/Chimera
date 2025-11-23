@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, review yesterday's research notes, and check for @comp-1's feedback on the initial memo."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue research on SEC rules related to statistical arbitrage. Deep dive into Reg NMS and its implications for high-frequency trading activities, if applicable to the fund's strategy."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Short break. Check out the latest articles on behavioral economics. Always good to understand how UHNWIs *think*."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Identify potential compliance hurdles related to the use of statistical arbitrage strategies. Consider issues such as data governance, model risk management, and algorithmic trading controls."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a sandwich and read a legal journal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a memo outlining potential compliance hurdles related to the proposed fund structure and trading strategy. Identify specific areas requiring further investigation or development of compliance procedures. Send to @comp-1, @cio-1, and @coo-1 for feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting with @comp-1 to discuss the preliminary compliance assessment and identify next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review relevant case law and SEC enforcement actions related to statistical arbitrage and market manipulation. Identify potential red flags and lessons learned."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, coffee, emails. Review all tasks for the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Work on creating the second main character's model, referencing from yesterday's experience."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Use character designs as the base for character models"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Friday team lunch!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Use character designs as the base for character models"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break. Order dessert with colleagues to celebrate for Friday!"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Make sure all tasks for the week are done. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails, wish everyone a good weekend!"
+    }
+]

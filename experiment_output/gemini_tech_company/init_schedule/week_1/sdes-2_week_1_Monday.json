@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, grab a cup of tea, and settle in. Check emails and company communication channels for any urgent updates or meeting requests. Start with a quick browse of gamedev.net and reddit.com/r/gamedev for inspiration and industry news. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the week's goals: integrating game systems (combat, economy, progression), ensuring seamless interaction, implementing core features (quests, crafting, character customization), and prioritizing playtesting/iteration. Brainstorm initial ideas and potential challenges for each area."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with @LDES-1 and @SDEV-1 to discuss the high-level design of the combat, economy, and progression systems. Prepare a basic outline of my initial thoughts and questions to guide the discussion. @LDES-1, @SDEV-1 Discuss the structure of combat, economy and progression system"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for the meeting with Lead Game Designer and Server Developer. Outline the possible framework for the combat, economy and progression system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head to the park for a quick walk to clear my head. Bring a book with me."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @LDES-1 and @SDEV-1 to discuss the high-level design of the combat, economy, and progression systems. Take detailed notes and ask clarifying questions to ensure a clear understanding of the vision. Discussed the basic framework for combat, economy and progression system. Need to prepare the possible detailed plan for the whole system."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin drafting a detailed design document outlining the core mechanics of the combat system. Focus on player input, enemy AI, damage calculation, and special abilities. Research existing third-person shooter combat systems for inspiration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the combat system design document. Send a draft to @LDES-1 and @SDEV-1 for feedback. Note down the possible challenges and the possible solutions for the combat system."
+    }
+]

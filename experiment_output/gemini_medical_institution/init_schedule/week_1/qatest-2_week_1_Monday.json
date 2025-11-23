@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar for any urgent updates or meetings. Prioritize tasks based on importance and deadlines. Review the week's goal: Verify data elements, address missing data, and cross-validate against source documents. Create a detailed checklist for each task."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review EHR system documentation and data dictionaries to familiarize myself with the location and format of the required data elements for influenza cases. Make notes on any potential areas of concern or ambiguity."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Contact @da-1 and @da-2 via email: \"Data Element Verification - Clarification Request\". Request clarification on the specific data elements that are considered 'required' for influenza cases, including acceptable values and formats. Also, inquire about any known data quality issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Browse medical journals online regarding the latest influenza diagnostic criteria. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start verifying the presence of required data elements for a sample set of influenza cases. Focus on patient demographics (name, age, gender, address) in the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue verifying data element presence, focusing on vaccination status and diagnosis codes. Document any cases with missing or invalid data in a detailed spreadsheet."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @mrs-1 and @mrs-2: \"Request for Access to Medical Records\". Request access to the source documents (medical records) for the sample cases, in order to begin cross-validation later in the week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Loaf around and check my Instagram."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize the day's findings, including the number of cases reviewed and the types of data elements that are frequently missing. Prepare a brief progress report for the IT Project Manager (@itpm-1)."
+    }
+]

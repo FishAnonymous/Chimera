@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review all finalized technical documents."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 and @cio-1 to present finalized technical requirements, backend plans, and API integrations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any last-minute feedback from stakeholders and make necessary adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Ensure all documentation is updated and stored in the shared repository."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a summary report of the week's achievements and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any pending queries from the team. Plan for the next week."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the foundational systems requirements and brainstorm potential approaches for input handling and basic physics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the initial project structure in Unity, create necessary folders (Scripts, Assets, Scenes, etc.)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Initialize Git repository for the project and set up .gitignore for Unity. Push initial project structure to the remote repository."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start implementing basic input handling system (keyboard/mouse controls). Test with simple character movement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining input handling system. Add controller support if time permits."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @3dmod-1 and @3dmod-2 to request placeholder character models for testing physics. Include specifications for basic collision shapes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research and implement basic physics (gravity, collision detection) using Unity's Rigidbody components."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test physics implementation with simple cubes as placeholders. Debug any issues."
+    }
+]

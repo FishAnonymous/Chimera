@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and respond."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the previous day's progress and address any outstanding issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @LPRO-1 to discuss the project progress."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "I will search for the basic implementation of the player-item interaction on Google and StackOverflow, and copy them to my local IDE."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Polish the UI elements. Ensure that the fonts, colors, and sizes are consistent across all UI elements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @UIUX-1 to refine the UI designs based on user feedback and playtesting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Investigate the interaction between the player and the item, like box, machinegun, or stone."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement the notification for the player to pick up the item."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to the version control system with a descriptive commit message."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

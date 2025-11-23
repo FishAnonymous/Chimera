@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails for feedback on the wireframes submitted."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @QA Tester to gather insights on usability testing strategies related to the wireframes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Revise wireframes based on feedback from @QA Tester and @UIUX Designer."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send updated wireframes to the team for further comments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin creating a prototype for one of the key features identified during brainstorming."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the day; review progress on the prototype."
+    }
+]

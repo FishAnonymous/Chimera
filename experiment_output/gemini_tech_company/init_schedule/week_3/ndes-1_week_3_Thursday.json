@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "09:00",
+        "Activity": "Arrive at the office, check emails. Procrastinate a bit by reading news articles about my favorite games. Then get to work."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Focus on writing in-game dialogue. Start with the opening scene and craft conversations that are engaging, informative, and consistent with the characters' personalities. Use natural language and avoid exposition dumps. Consider the player's perspective and what they need to know at each point in the story."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop dialogue options for the player that allow them to express their own personality and influence the story. Ensure the dialogue options are clear, concise, and reflect the intended tone and intent. Consider the consequences of each dialogue choice and how it impacts the relationship with the NPC."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Write dialogue for a key NPC encounter in the first act. Focus on establishing their personality, motivations, and relationship with the main character. Consider the information they can provide to the player and how it advances the story. Add a bit of humor where appropriate, depending on the NPC's personality."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and revise the dialogue written so far. Focus on improving the flow, clarity, and impact of the conversations. Ensure the dialogue is consistent with the established lore and character personalities. Proofread for grammar and spelling errors."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Meet with @aud-1 to discuss the tone and style of the dialogue. Get feedback on how the dialogue can be enhanced through voice acting and sound design. Discuss potential emotional cues and how they can be conveyed through the dialogue. Email @lpro-1 and @tdev-1 to check on the dialogue system integration and how easy it is to test different conversation paths."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow by creating a checklist of dialogue scenes to focus on and specific characters to prioritize."
+    }
+]

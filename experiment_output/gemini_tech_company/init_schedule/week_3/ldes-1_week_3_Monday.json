@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee and check emails. Respond to any urgent messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the weekly goals: initial game concept/design document, core mechanics/narrative hook brainstorming, basic level layout sketch, and player progression system definition."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @prod-1 (Producer) to discuss the project timeline, resource allocation, and initial milestones for the game's development. @PEOPLE: prod-1 Topic: Project Timeline & Milestones"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin drafting the initial game concept. Focus on the core genre, target audience, and unique selling points of the game. Outline the overall gameplay experience."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @ndes-1 (Narrative Designer) and @cart-1 (Concept Artist) to brainstorm potential narrative hooks and visual styles for the game. Explore different themes and settings. @PEOPLE: ndes-1, cart-1 Topic: Narrative Hook & Visual Style Brainstorm"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting the initial game concept document. Flesh out the story premise and world-building elements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research existing third-person shooter games to identify successful mechanics and potential areas for innovation. Analyze competitor titles to understand market trends."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings from the research. Highlight key takeaways and potential features to incorporate into our game."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and outline the tasks for tomorrow. Send a summary email to @prod-1 (Producer) and @lpro-1 (Lead Programmer) with the day's achievements. @PEOPLE: prod-1, lpro-1 Topic: Daily Progress Summary"
+    }
+]

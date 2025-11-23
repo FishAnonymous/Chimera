@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review any overnight updates or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @rn-1 and @rn-2 to discuss any challenges in patient assessments and EHR documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct patient assessments for influenza symptoms, ensuring all data is entered into the EHR promptly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccinations and document all necessary details in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with patients who received vaccinations to monitor for any adverse reactions, updating EHR as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @clinlead-1 with updates on vaccination progress and any issues encountered."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review EHR entries for completeness and accuracy, making corrections as necessary."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize responses from @ehrdev-1, @ehrdev-2, @rn-2, and @rn-3."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any remaining issues with the EHR data abstraction form integration with @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Send out training session invitations to the data abstractors, including the schedule and agenda. "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Print and prepare all necessary materials for the training sessions (data abstraction forms, protocols, training slides, assessments)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Check personal social media for updates."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up the training room and ensure all equipment (projector, computer, etc.) is working properly."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a final review of the training materials and rehearse the presentation. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Confirm with @helpdesk-1 that they are aware of the upcoming training sessions and are prepared to provide technical support if needed. @helpdesk-1 Subject: Notification of Upcoming Training Sessions - Technical Support Request"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final preparation for training sessions. Review project goals for the week and make sure the task list is all complete"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the week's accomplishments and prepare a brief summary for the project team. Leave the office."
+    }
+]

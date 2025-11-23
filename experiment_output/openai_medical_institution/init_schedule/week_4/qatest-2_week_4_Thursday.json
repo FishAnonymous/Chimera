@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review any follow-up emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct integration testing with @EHR Integration Developer."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze test results and identify potential improvements to EHR processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @IT Project Manager to align testing timelines."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a mid-week report on testing progress and challenges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to feedback from the mid-week report."
+    }
+]

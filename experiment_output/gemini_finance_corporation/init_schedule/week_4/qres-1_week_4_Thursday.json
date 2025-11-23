@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and scan headlines. Review the designed stress tests from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Run the stress tests. Analyze the results and identify potential vulnerabilities in the portfolio. Evaluate the effectiveness of the risk management framework in mitigating the impact of adverse market conditions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the risk management framework based on the stress test results. Adjust the models, parameters, and risk limits to improve the fund's resilience to adverse market conditions. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation summarizing the risk management framework, including the volatility, liquidity, and correlation risk models, and the stress test results. Focus on communicating the key risks, mitigation strategies, and the overall resilience of the fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Listen to music."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Practice the presentation. Refine the messaging and ensure that the key points are clear and concise."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send presentation slides to @CIO-1 and @COO-1 for preliminary feedback. @pm-1 Confirm meeting details for tomorrow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Review presentation notes."
+    }
+]

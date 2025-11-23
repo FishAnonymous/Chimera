@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review replies from @Clinical Lead."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Organize the collected feedback from @EHR Vendor Liaison and @Clinical Lead to present findings."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break and engage with personal interests."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare presentation materials summarizing the findings and proposed changes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a meeting with @Training Coordinator and @EHR Integration Developer to finalize details for the training sessions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @Quality Assurance Tester to review the effectiveness of the updated training materials."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize any last-minute adjustments to the training materials based on correlation to findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Respond to any outstanding support tickets before ending the day."
+    }
+]

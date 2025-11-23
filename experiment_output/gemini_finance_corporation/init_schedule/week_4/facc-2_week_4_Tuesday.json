@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue outlining the procedures for tracking fund performance and expenses. Research industry best practices and identify the required data points. Talk with @QRES-1, @QRES-2, @QRES-3 about the detailed formula about tracking fund performance. @PEOPLE (QRES-1, QRES-2, QRES-3) Topic: Fund Performance Tracking Details."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Develop a spreadsheet template for tracking fund expenses. Include categories such as management fees, performance fees, brokerage fees, and other operating expenses."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document the procedures for calculating and reporting fund performance, including net asset value (NAV), returns, and risk metrics. Ensure documentation is clear and concise."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @QRES-1, @QRES-2, @QRES-3 to discuss the spreadsheet template for tracking the fund performance, and make sure that you have fully understand the formula details for the calculation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the procedures for tracking fund performance and expenses. Share the documentation with @COO-1 and @CIO-1 for review and feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start preparing a checklist of documents and information required for the fund's first audit. Include items such as financial statements, transaction records, and compliance documentation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day. Review completed tasks and plan for tomorrow."
+    }
+]

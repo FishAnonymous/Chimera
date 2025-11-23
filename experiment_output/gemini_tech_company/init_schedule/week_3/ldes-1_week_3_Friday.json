@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office and check emails. Respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review and polish of the initial game design document. Ensure it is clear, concise, and well-organized."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send the initial game design document to the entire team (@all, including cart-1, cdev-3, cdev-1, sdes-1, beng-1, qtest-1, 3dmod-2, prod-1, sdes-2, cdev-2, uiux-1, 3dmod-1, lpro-1, tart-1, tdev-1, ldes-1, aud-1, sdev-1, lvdn-1, ndes-1) for review and feedback. Schedule a meeting for next week to discuss the document in detail. @PEOPLE: cart-1, cdev-3, cdev-1, sdes-1, beng-1, qtest-1, 3dmod-2, prod-1, sdes-2, cdev-2, uiux-1, 3dmod-1, lpro-1, tart-1, tdev-1, ldes-1, aud-1, sdev-1, lvdn-1, ndes-1 Topic: Initial Game Design Document Review & Feedback (All)"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a presentation summarizing the key aspects of the initial game design document. This will be used in next week's meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Browse Gamasutra and other game development websites to stay up-to-date on industry trends and best practices. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start thinking about potential improvements to the documentation process for future projects. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document observations and thoughts from the readings and reflections."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize tasks for this week and create a todo list for next week. Make sure next week's kick off meeting is scheduled and that people confirm their attendance. "
+    }
+]

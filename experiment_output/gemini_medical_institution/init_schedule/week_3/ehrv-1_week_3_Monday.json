@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar for any urgent updates or meeting requests. Skim industry news websites like EHR Intelligence for any relevant updates on EHR systems and vendor landscape. Maybe a little light reading on current influenza trends to sound informed later."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a detailed agenda for the initial discussion with the EHR vendor regarding system modifications for influenza data collection. Include specific data points required, reporting needs, and any potential challenges we foresee. List potential questions to ask."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send email to @ehrdev-1 (EHR Integration Developer), @da-1 (Data Analyst) and @clinlead-1 (Clinical Lead) to brief them on the agenda for the EHR vendor discussion and ask for their input on key considerations. Topic: Input on EHR Vendor Discussion Agenda"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review responses from @ehrdev-1, @da-1 and @clinlead-1. Refine agenda based on their feedback. Prepare talking points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab a sandwich and catch up on non-work-related news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct initial discussion with EHR vendor regarding system modifications required to support influenza data collection. Emphasize the importance of seamless data integration and user-friendly interface. Take detailed notes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all key discussion points, concerns, and vendor's initial responses from the meeting with the EHR vendor. Start a preliminary comparison table of potential solutions offered."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send summary email to @ehrdev-1, @da-1, @clinlead-1 and @itpm-1 (IT Project Manager) summarizing the outcome of the vendor discussion and outlining next steps. Topic: Summary of EHR Vendor Discussion"
+    }
+]

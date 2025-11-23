@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any pending items."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the technical design for EHR updates, ensuring alignment with the finalized requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to gather additional feedback on the usability of the proposed updates from a nursing perspective."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate nursing feedback into the technical design and make necessary adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @trainer-1 to discuss training needs for staff once the updates are implemented."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by documenting progress, updating the project plan, and setting goals for next week."
+    }
+]

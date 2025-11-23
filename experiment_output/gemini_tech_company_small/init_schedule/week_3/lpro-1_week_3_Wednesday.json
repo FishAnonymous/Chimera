@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review test results from @cdev-1 regarding Resource Management System integration with player movement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing the basic Audio Manager. Create a class to manage audio assets and playback. Design a system for playing sound effects and background music."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement methods for loading and unloading audio assets. Support different audio formats (e.g., WAV, MP3, OGG). Handle audio resource management efficiently."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement methods for playing sound effects and background music. Control volume, pitch, and looping. Support 3D audio for spatial effects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Add sound effects for player actions, such as running, jumping, and landing. Trigger the sound effects when the corresponding actions are performed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Add sound effects for attacks and impacts. Vary the sound effects based on the type of attack and the material being hit. Implement basic audio mixing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Add sound effects for death and other significant events. Use impactful sound effects to create a sense of drama and tension."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the audio integration thoroughly. Ensure that all sound effects are playing correctly and that the audio levels are balanced. Fix any audio glitches or inconsistencies."
+    }
+]

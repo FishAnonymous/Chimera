@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Validate bug fixes from Week 2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Test fixed bugs in isolation to confirm resolution. Document results."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @sdes-1, @sdes-2 to understand any changes in mechanics that might affect bug fixes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue validating bug fixes. Focus on UI-related bugs and coordinate with @uiux-1 if needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update bug tracker with validation results. Email summary to @prod-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start drafting test cases for final prototype testing in Week 4."
+    }
+]

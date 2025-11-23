@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, ensuring all teams are on track with preparations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final review of operational readiness with @pm-1 (Project Manager)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Confirm final adjustments with @facc-1 (Fund Accountant) and @comp-1 (Compliance Officer)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Host a final team meeting to discuss upcoming fund launch and assign last-minute tasks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize thought process and document lessons learned throughout this week\u2019s operational readiness assessment."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Celebrate completion of the week\u2019s tasks with a small team meeting and acknowledge contributions."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week\u2019s activities and prepare for the next week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Loaf around or browse financial news and updates to stay informed."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office and check emails. Respond to any urgent matters."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback on the level layout sketch from @lvdn-1 (Level Designer) and @3dmod-1 (3D Modeler/Animator)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Revise level layout based on the received feedback. Focus on improving gameplay flow and visual appeal."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin defining the player progression system. Research existing progression systems in other third-person shooter games. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Brainstorm different ways players can advance and unlock new abilities. Consider skill trees, character upgrades, and equipment progression."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @cdev-1 (Client Developer), @cdev-2 (Client Developer), and @cdev-3 (Client Developer) to discuss the technical feasibility of the proposed player progression system. @PEOPLE: cdev-1, cdev-2, cdev-3 Topic: Player Progression System Feasibility"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the proposed player progression system, outlining the different stages of advancement, unlockable abilities, and their impact on gameplay."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the initial draft of the player progression system document with @sdes-1 (Systems Designer) and @sdes-2 (Systems Designer) for feedback. @PEOPLE: sdes-1, sdes-2 Topic: Player Progression System Draft Feedback"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and plan for tomorrow. Send a reminder to @sdes-1 (Systems Designer) and @sdes-2 (Systems Designer) regarding the feedback on the player progression system."
+    }
+]

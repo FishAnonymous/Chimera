@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in early and rehearse the presentation for stakeholders."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present finalized art assets and effects to stakeholders, highlighting their impact on game experience."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from stakeholders and document responses for future reference."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Engage with stakeholders to clarify concepts and answer any follow-up questions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on revisions to the technical documentation based on stakeholder feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and finalize any actions needed from the day."
+    }
+]

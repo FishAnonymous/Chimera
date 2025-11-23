@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review EDA findings and outline visualization requirements. Sketch initial designs for competitor performance dashboards."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Develop interactive visualizations using Python (Matplotlib/Seaborn) or Tableau. Focus on clarity and actionable insights."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Share draft visualizations with @mkt-1 for feedback on design and usability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine visualizations based on feedback. Ensure all metrics are accurately represented."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a short summary of visualization insights for the investment team. Coordinate with @pm-1 for presentation scheduling."
+    }
+]

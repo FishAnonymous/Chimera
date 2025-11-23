@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the documented core game mechanics from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 (Naomi) to review the defined core game mechanics. Obtain feedback and clarify any ambiguities. Discuss integration with the overall game design."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the feedback from Naomi, refine the core game mechanics documentation. Address any inconsistencies or areas needing clarification. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin designing the underlying system for movement. Define the classes and data structures needed to represent character movement, including velocity, acceleration, and animation states."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the movement system design. Create a detailed document describing the classes, data structures, and their relationships. Include UML diagrams for clarity."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start designing the underlying system for combat. Define the classes and data structures needed to represent attacks, damage, and hit detection. Consider different weapon types and their effects."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the combat system design. Add this to the existing system design document, detailing the classes, data structures, and their relationships. Include considerations for networking (if multiplayer is planned)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all system design documentation (Movement, Combat) for completeness and clarity. Ensure consistency with the core game mechanics document. Prepare for initial implementation."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the presentation materials one last time and ensure all details are accurate."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to align on timing and flow of the presentation for seamless execution."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Practice the presentation delivery with a few colleagues for feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Make final adjustments to the presentation based on rehearsal feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up the presentation environment, checking tech equipment and materials needed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Deliver the investor presentation to the UHNWIs and respond to questions accordingly."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the presentation performance and send thank you emails to attendees."
+    }
+]

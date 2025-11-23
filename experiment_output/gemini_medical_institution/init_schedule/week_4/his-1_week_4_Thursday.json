@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office and check emails. Respond to any inquiries related to the data quality analysis."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review documentation of common data errors and validation rules. Refresh memory to improve data validation skills."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Compare data formats from the EHR vendor with the database schema for consistency. Highlight any discrepancies to be fixed later."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Log the identified data format discrepancies into the centralized tracking system. Document discrepancies and include their impact on data analysis."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @da-1, @da-2, @ehrv-1, @his-1 to discuss identified data format discrepancies and solicit their input on potential resolutions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a salad and browse some tech news websites."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review responses from @da-1, @da-2, @ehrv-1, @his-1, regarding potential resolutions for data format discrepancies. Refine resolutions in the tracking system based on their feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue root cause analysis for any unresolved data quality issues. Consider potential system errors or data entry inconsistencies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Brainstorm potential root causes for remaining data quality issues. Develop multiple theories for unresolved issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the root cause analysis process and findings for each unresolved issue. Summarize findings, potential actions, and impact on data analysis."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review and update documentation regarding data quality issues. Prepare for tomorrow's tasks."
+    }
+]

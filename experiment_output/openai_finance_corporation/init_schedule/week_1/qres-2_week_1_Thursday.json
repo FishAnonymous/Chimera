@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review compliance feedback on the report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make necessary revisions to the report based on feedback from @comp-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare key insights and visuals from the report for a presentation to the executive team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Schedule a presentation meeting with the executive team."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Practice the upcoming presentation to ensure clarity and confidence."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and wrap up for the day."
+    }
+]

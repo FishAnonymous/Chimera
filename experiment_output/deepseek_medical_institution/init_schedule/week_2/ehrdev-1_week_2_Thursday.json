@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the requirements specifications document incorporating all feedback from clinical, informatics, and vendor teams."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @itpm-1 to present the finalized requirements and discuss next steps for implementation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin preliminary work on the technical design for the EHR updates, focusing on data collection modules."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @dba-1 to discuss database modifications needed to support the new influenza data collection features."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and update the project tracker."
+    }
+]

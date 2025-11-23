@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any feedback from @3dmod-1 and @3dmod-2 on the technical constraints document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 to align on the overall game vision and how the art style and assets fit into it."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Refine the technical constraints document based on feedback and finalize it for distribution to the art team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the finalized technical constraints document to @cart-1, @3dmod-1, and @3dmod-2 via email."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Experiment with shader techniques in the game engine to explore potential visual styles."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review any additional references or inspiration shared by @cart-1 and provide feedback."
+    }
+]

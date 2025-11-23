@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Quick scan of industry news to see what's trending. Fire off a quick email to @Ldes-1 and @Prod-1 asking for a brief recap of last week's key decisions and any high-level changes to the game's direction. Need to stay in the loop, ya know?"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Brainstorming session. Review the overall game narrative and mechanics documents. Start sketching out rough level layouts for the first level. Focus on creating several drastically different environments for consideration."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the level sketches. Prioritize the environment that best complements the gameplay and supports the game's narrative. Start blocking out the main pathways in Unreal Engine. Time to get hands-on!"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Grabbing some fast food with @3dmod-1 and @cdev-1."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue blocking out the main pathways and areas in Unreal Engine. Focus on ensuring good flow and pacing. Implement basic navigation mesh."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Initial playtest of the blocked-out level. Identify any areas that feel clunky or confusing. Make notes for adjustments. Send an email to @Qtest-1 for feedback and a formal playtest later in the week. @Qtest-1 , could you give me some feedback of my level design?"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address immediate issues identified during the initial playtest. Minor tweaks to pathing and area sizes. Save work and plan for tomorrow's tasks."
+    }
+]

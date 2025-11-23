@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the latest drafts of compliance documentation for SEC submission."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 to discuss any gaps or issues in the compliance documentation and align on final changes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft final revisions to the compliance documentation based on feedback from @comp-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review investor contracts for legal soundness, focusing on clauses related to UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing investor contracts, making notes on any areas requiring clarification or revision."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @ir-1 and @onbd-1 to discuss investor contract terms and ensure alignment with client expectations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research recent SEC rulings relevant to market-neutral statistical arbitrage funds to ensure compliance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

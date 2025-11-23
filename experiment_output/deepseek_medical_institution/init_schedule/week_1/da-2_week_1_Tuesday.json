@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any pending queries from @ehrdev-1 or @ehrdev-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the list of EHR data elements required for influenza trend analysis."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Define the data collection workflow in detail, including steps for data extraction, transformation, and loading (ETL)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @itpm-1 and @dba-1 to review the proposed data collection workflow and ensure alignment with existing systems."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @itpm-1 and @dba-1 into the workflow design."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a visual representation (flowchart) of the data collection workflow for clarity."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @trainer-1 to discuss training needs for staff involved in data collection."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the finalized workflow and share with the team via email."
+    }
+]

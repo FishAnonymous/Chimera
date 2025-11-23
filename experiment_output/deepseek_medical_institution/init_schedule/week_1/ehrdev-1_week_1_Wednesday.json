@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize requirements specifications document and share with @itpm-1 for approval."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @dba-1 to discuss database changes required for influenza data collection and storage."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @rn-1, @rn-2, and @rn-3 to gather feedback on current EHR usability and any pain points related to data entry."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Incorporate nurse feedback into requirements and update documentation as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting technical specifications for EHR system updates, including data models and API endpoints."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @trainer-1 to discuss training needs for staff once updates are implemented."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review and test sample influenza data sets received from @da-1 and @da-2 to ensure compatibility with proposed updates."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update project documentation and prepare for next day's activities."
+    }
+]

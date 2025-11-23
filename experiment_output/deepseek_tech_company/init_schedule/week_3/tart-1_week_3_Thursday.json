@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm the final review meeting schedule with @prod-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a dry run of the final review presentation, ensuring all points are covered."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @aud-1 to discuss any audio-visual synchronization issues with the new shaders and effects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Make any last-minute adjustments to the shaders and visual effects based on feedback from @aud-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ldes-1 and @ndes-1 to ensure narrative and level design elements are compatible with the final art style and effects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize all presentation materials and documentation for tomorrow's review."
+    }
+]

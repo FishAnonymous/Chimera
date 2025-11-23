@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any outstanding items from the audit preparation checklist. Ensure that all required documents and information are complete and accurate."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a follow-up call with @AUDIT-1 to discuss any remaining questions or concerns. @PEOPLE (AUDIT-1) Topic: Follow-up Call and Audit Preparation"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct a final review of all audit-related documents and information. Ensure that everything is organized and easily accessible."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow-up call with @AUDIT-1. Address any remaining questions and confirm the audit schedule and logistics."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report of the week's activities for @COO-1 and @CIO-1, highlighting progress on each goal and any challenges encountered. @PEOPLE (COO-1, CIO-1) Topic: Weekly Progress Report - Fund Accounting"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Submit the summary report to @COO-1 and @CIO-1 and answer any questions they may have."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize all documents and files related to the fund accounting and audit preparation for easy access and future reference."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day. Review completed tasks, plan for next week, and prepare for the weekend."
+    }
+]

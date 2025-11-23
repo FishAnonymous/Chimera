@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any follow-ups from Monday's meetings. Review updated clinical workflows."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss any vendor-specific updates or changes needed for the EHR system based on clinical feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct a training session with @rn-1, @rn-2, @rn-3 on updated workflows for influenza data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 to ensure testing of updated workflows is on track."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review any additional feedback from nursing staff and update workflows as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send summary of day's activities and updates to @itpm-1 and @clinlead-1."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Read up on the latest trends in EHR technology."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation summarizing the identified EHR data elements, the data collection workflow, and the data quality issue reporting process. Include visual aids to enhance understanding. Consider the perspectives of different stakeholders (clinical staff, IT personnel, administrators)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with @ITPM-1, @Clinlead-1, and @PCHMP-1 to present the findings and discuss next steps. TOPIC: Review of EHR Data Collection and Quality Processes"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send out the presentation materials to the meeting attendees in advance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Take a walk outside to get some fresh air."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the presentation with @ITPM-1, @Clinlead-1, and @PCHMP-1. Gather feedback and address any questions or concerns. Take detailed notes of the discussion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Revise the identified EHR data elements, data collection workflow, and data quality issue reporting process based on the feedback received during the presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the documentation to reflect the revisions made. Ensure that the documentation is clear, accurate, and complete."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin planning for the implementation of the data collection workflow and data quality issue reporting process. Identify the resources needed and develop a timeline."
+    }
+]

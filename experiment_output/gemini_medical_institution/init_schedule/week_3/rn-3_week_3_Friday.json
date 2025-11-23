@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the EHR system, and check emails. Look for any updates from @dba-1 regarding database performance or data integrity issues related to influenza data."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized protocols and tools for influenza symptom assessment within the EHR. Make sure all related information is clear."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assess the first patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Enter patient data into the EHR for patients seen this morning, ensuring accuracy and completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address the second patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break, browse the lastest movie."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address the third patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Assess the fourth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to review the week's progress on EHR data collection and influenza trend analysis. Discuss any challenges encountered and brainstorm solutions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address the fifth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Log out of the EHR system and prepare for departure."
+    }
+]

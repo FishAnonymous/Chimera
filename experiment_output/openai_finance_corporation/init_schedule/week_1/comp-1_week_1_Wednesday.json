@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to check emails and update tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Legal Counsel to finalize discussions on SEC regulations and compliance needs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Revise compliance framework document based on feedback from @Legal Counsel."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a compliance checklist for fund management based on outlined frameworks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue working on the compliance checklist, ensuring clarity and comprehensiveness."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the draft compliance checklist to @External Auditor for preliminary review."
+    }
+]

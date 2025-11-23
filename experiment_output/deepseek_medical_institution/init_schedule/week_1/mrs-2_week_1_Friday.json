@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from @clinlead-1 on the initial data report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss quality assurance checks for the abstracted data."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Update the data abstraction protocol and form based on QA feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the updated protocol and form to all data abstractors and @trainer-1 for dissemination."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report of the week's activities and submit to @itpm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week, organize files, and plan for next week's tasks."
+    }
+]

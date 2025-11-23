@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize the report for the investment team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cio-1, @ir-1 to present the statistical model and backtest findings."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any questions or feedback from the investment team and update the report accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email the final report to @cio-1, @ir-1, and @pm-1 for archival and further action."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the week's work and prepare for any follow-up tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Browse industry research papers on statistical arbitrage strategies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day and plan for the next week's tasks."
+    }
+]

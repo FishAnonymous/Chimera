@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, review overnight reports, and check email for any urgent requests or notifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assist with influenza vaccination clinics. Administer vaccines and document vaccination status in the EHR. Talk to the old to help alleviate their concerns."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Perform patient assessments and EHR data entry, focusing on patients presenting with influenza-like symptoms. Be patient to those anxious patients."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Meet up with friends for lunch at a nearby cafe. A big meal could do a lot for me!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review lab results and imaging reports related to influenza cases. Document findings in the EHR and communicate with physicians as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Participate in a team meeting to discuss challenges and best practices related to influenza management. @clinlead-1 might be a good person to seek for help."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete end-of-day documentation and prepare for tomorrow's schedule. Make sure no patient's health conditions are missed."
+    }
+]

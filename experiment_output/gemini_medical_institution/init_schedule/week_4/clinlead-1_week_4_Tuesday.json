@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address urgent requests related to the EHR modifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's progress and plan for today's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on implementing the order sets for influenza testing and antiviral medications within the EHR system, following the specifications drafted yesterday. Coordinate with @EHRDEV-1, @EHRDEV-2."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @DA-1, @DA-2 (Data Analysts) asking about the current seasonal influenza trend analysis for the community, and its comparison with historical data. Request a brief presentation on the trend analysis for a meeting with physicians on Thursday."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @EHRV-1 (EHR Vendor Liaison) to discuss potential challenges and solutions related to implementing the order sets within the EHR system. Clarify any technical specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a walk outside with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the influenza testing and antiviral medication order sets based on the EHR vendor's input and clinical guidelines. Ensure the order sets are user-friendly for physicians."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @TRAINER-1 (Training Coordinator) to discuss plans for training physicians on the new influenza-related EHR functionalities. Schedule a training session for next week. Discuss the key points to be covered in the session, the target audience and the logistics of the training."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the progress on the influenza order set implementation. Address any outstanding issues or questions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare materials for physician awareness campaign, highlighting the new influenza guidelines and recommendations in the EHR system."
+    }
+]

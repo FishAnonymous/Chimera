@@ -1,0 +1,28 @@
+{
+    "name": "Dmitri Volkov",
+    "id": "sdes-1",
+    "ip": "10.0.0.17",
+    "age": 31,
+    "role": "Systems Designer",
+    "description": "Designs and balances complex game systems including progression, economy, combat mechanics, and AI behaviors. Creates mathematical models and simulations to ensure balanced and engaging gameplay experiences. Works closely with programmers to implement systems efficiently.",
+    "tools": [
+        "Excel",
+        "GameBalanceToolkit",
+        "SimulationSoftware",
+        "DataVisualizationTools",
+        "ScriptingLanguages",
+        "VersionControl"
+    ],
+    "mbti": "ENTJ",
+    "interests": "competitive board games, military history, algorithmic trading",
+    "personality": "Strategic and decisive. Enjoys solving complex systemic problems with elegant solutions. Prefers structured work sessions with clear objectives. Most productive in late afternoon hours. Dislikes unnecessary meetings.",
+    "application": {
+        "Zendo": {
+            "account_name": "sysdes-334455",
+            "password": "dmitriV@systems",
+            "permissions": "designer"
+        }
+    },
+    "email": "sysdes-334455@corp.com",
+    "container_id": "1b9e8d7f2a3c"
+}

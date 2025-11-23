@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for updates from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a detailed outline of the EHR collection process based on previous discussions and analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @Registered Nurse and @Physician Champion for insights on clinical workflows related to the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin creating a prototype of the influenza trend analysis dashboard to visualize data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the dashboard, implementing interactive features."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the dashboard functionalities and troubleshoot any issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and reflect on the progress of EHR data collection efforts so far."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off and take some time to relax."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, check emails. Start a bit of online shopping."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend the daily stand-up meeting to provide an update on the progress of the EHR workflow updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any outstanding issues or questions related to the updated workflows with @ehrdev-1, @ehrdev-2."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @his-1, @his-2, @da-1, @da-2 to discuss how the updated workflows will impact data collection and analysis for seasonal influenza trends. @PEOPLE: Impact of Updated Workflows on Data Collection"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work with @his-1, @his-2 to ensure that the necessary data elements are captured in the EHR system to support influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Time to eat!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @trainer-1 to schedule training sessions for nurses and physicians on the updated workflows."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare for the upcoming training sessions by reviewing the training materials and practicing the demonstrations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out email reminders to all staff members regarding the upcoming training sessions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address any last-minute questions or concerns from staff members regarding the updated workflows or training sessions."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave hospital."
+    }
+]

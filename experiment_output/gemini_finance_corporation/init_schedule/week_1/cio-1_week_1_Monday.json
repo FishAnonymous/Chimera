@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up early, review financial news and market performance to prime my mind for the week ahead. Check emails briefly for urgent matters."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Prioritize emails. Respond to urgent requests. Scan industry news for potential opportunities or threats to the fund."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Schedule individual meetings with @qres-1, @qres-2, @qres-3 to discuss potential statistical arbitrage strategies. Send email to @qres-1, @qres-2, @qres-3, @legal-1 to schedule meeting to 'Discuss Statistical Arbitrage Strategies & SEC Regulations'."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with Quantitative Research team (@qres-1, @qres-2, @qres-3) to brainstorm potential statistical arbitrage strategies. Focus on strategies suitable for UHNWIs and compatible with SEC regulations. Document all ideas thoroughly."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the preliminary strategy ideas generated during the meeting. Evaluate their feasibility, potential returns, and associated risks. Rank them based on a preliminary risk/reward assessment."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @legal-1 to discuss SEC regulations relevant to statistical arbitrage funds. Identify potential compliance hurdles and necessary documentation requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up on personal reading and relax."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @larch-1 and @devops-1 to discuss the infrastructure requirements for implementing the chosen strategies. Assess the capabilities of the current system and identify potential upgrades or modifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @larch-1, @devops-1, @dsde-1, @dsde-2, @sdev-1, @sdev-2 regarding infrastructure requirements for implementing the chosen strategies"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Contact @dsde-1 and @dsde-2 to assess data availability and quality for the top-ranked strategies. Discuss potential data sources and collection methods. Schedule a follow up meeting for tomorrow morning."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a preliminary report summarizing the day's findings, including the potential strategies, regulatory considerations, and infrastructure requirements. Identify key questions for the executive team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tomorrow's schedule and prepare for upcoming meetings. Respond to any remaining emails."
+    }
+]

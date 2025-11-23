@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the week's progress. Identify any pending tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with all clients to ensure all KYC/AML documentation is complete and verified."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @comp-1 and @legal-1 to review all collected documents and ensure full compliance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a weekly summary report for @coo-1, highlighting completed tasks and any challenges faced."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Organize and archive all client documentation. Ensure all records are up-to-date and securely stored."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by sending a final update to @pm-1 and planning for next week's tasks."
+    }
+]

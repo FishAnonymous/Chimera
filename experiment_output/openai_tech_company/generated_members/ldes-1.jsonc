@@ -1,0 +1,27 @@
+{
+    "name": "Jordan Lee",
+    "id": "ldes-1",
+    "ip": "10.0.0.17",
+    "age": 31,
+    "role": "Lead Game Designer",
+    "description": "Responsible for driving the overall creative direction of the game. Collaborates with other departments to ensure coherence in gameplay, art, and narrative design. Leads the design team and mentors junior designers.",
+    "tools": [
+        "Unity",
+        "Miro",
+        "Trello",
+        "Photoshop",
+        "Blender"
+    ],
+    "mbti": "ENFJ",
+    "interests": "storytelling, theater",
+    "personality": "Charismatic and visionary, enjoys fostering a creative environment. Works well in teams and is known for inspiring colleagues with their passion for game design.",
+    "application": {
+        "DesignHub": {
+            "account_name": "ldes-981247",
+            "password": "jordanL@design",
+            "permissions": "lead_game_designer"
+        }
+    },
+    "email": "ldes-981247@corp.com",
+    "container_id": "f2e78b3d5c4a"
+}

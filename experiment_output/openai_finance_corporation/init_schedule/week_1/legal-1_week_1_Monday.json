@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the overall schedule for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Compliance Officer to discuss the overall compliance requirements for the fund registration process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the current compliance documentation available in the company files, focusing on SEC regulations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a checklist of necessary disclosures required for the fund registration according to SEC regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Continue reviewing compliance documentation, and start drafting notes on key areas that need further clarification."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @Compliance Officer with questions regarding any ambiguous compliance issues identified during the review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Participate in a team meeting to update everyone on the progress made on compliance documentation review and gather feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile notes from the day and outline the plan for further documentation review for the week."
+    }
+]

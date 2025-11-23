@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for feedback on the clinical protocols and consolidate responses."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with @mrs-1 and @mrs-2 regarding data collection functionalities needed in the system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a meeting with the nursing team (@rn-1, @rn-2, @rn-3) to address any nursing-specific data requirements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop an integration plan for the EHR data collection protocols based on feedback received."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Host a workshop with @his-1 and @his-2 to educate staff on EHR data collection steps for seasonal influenza."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review initial outcomes of the workshop and collect suggestions for improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update stakeholders via email about project status and expected next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the day's progress and identify areas for the next meeting."
+    }
+]

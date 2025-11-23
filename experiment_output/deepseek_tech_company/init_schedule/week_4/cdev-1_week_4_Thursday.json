@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review and finalize development progress documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare presentation for next phase planning. Include performance metrics and bug fixes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review presentation with @prod-1 and @ldes-1. @prod-1 @ldes-1"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize documentation and presentation based on feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send finalized documentation to the team. @ALL"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks based on current progress."
+    }
+]

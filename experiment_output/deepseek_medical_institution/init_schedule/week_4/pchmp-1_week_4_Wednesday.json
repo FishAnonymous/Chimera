@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm attendance for today's meetings with clinical staff."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @mrs-2 and @mrs-1 to discuss project success and address any concerns regarding EHR collection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Present project outcomes to @rn-1, @rn-2, and @rn-3, highlighting key successes and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 to ensure all quality assurance checks are completed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review any remaining clinical needs with @clinlead-1 and @his-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation based on feedback from clinical staff."
+    }
+]

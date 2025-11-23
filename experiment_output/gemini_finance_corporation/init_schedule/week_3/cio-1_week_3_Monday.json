@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review news headlines related to finance and global markets."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and prioritize urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 to discuss initial testing results and analysis of the fund strategy. Identify areas for improvement and further investigation. @PEOPLE: Quantitative Research Team - Fund Strategy Refinement Discussion"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the current fund strategy documentation and identify areas requiring modification based on the research team's feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @Larch-1 and @Sdev-1, @Sdev-2 to discuss incorporating changes into the backtesting framework and live trading platform. @PEOPLE: Software Development Team - Implementation of Strategy Changes"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch at a nearby restaurant, network with other finance professionals."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @Legal-1 and @Comp-1 to discuss any legal or compliance implications of the refined fund strategy. @PEOPLE: Legal & Compliance - Fund Strategy Compliance Review"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the initial draft of the risk management framework. Identify areas where more detailed procedures or metrics are needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @COO-1 to discuss resource allocation for risk management framework development and implementation. @PEOPLE: COO - Risk Management Resources Allocation"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the day's discussions and action items for follow-up tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review news and market data from Bloomberg Terminal. Prepare for tomorrow's meetings."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

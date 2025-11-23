@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review documentation progress. Prepare for the team presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize documentation and ensure all systems are properly documented. Cross-check with @beng-1 for build compatibility."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare slides and demo for the team presentation. Highlight key mechanics and rules."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the presentation with @prod-1 for feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback and polish the presentation. Ensure all team members are notified."
+    }
+]

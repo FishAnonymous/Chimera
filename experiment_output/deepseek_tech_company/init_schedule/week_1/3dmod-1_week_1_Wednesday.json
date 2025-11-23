@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback from @3dmod-2. Start refining the blockouts based on the feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, then continue refining the blockouts for both key characters."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation of the current blockouts for the team review meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @prod-1, @ldes-1, @3dmod-2 to schedule a team review meeting for the initial models."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Attend the team review meeting, present the blockouts, and gather feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document feedback from the meeting and plan adjustments for the next day."
+    }
+]

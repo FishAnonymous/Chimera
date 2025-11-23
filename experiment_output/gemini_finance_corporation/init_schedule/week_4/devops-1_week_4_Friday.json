@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and alerts. Review the week's accomplishments and plan for the next week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue providing technical support to the trading and research teams. Address any outstanding support requests. Monitor the system for stability."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Complete the first phase of the infrastructure upgrades in the test environment. Verify that all systems are functioning correctly."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @qres-1, @qres-2, @qres-3 and @sdev-1, @sdev-2 to gather feedback on the upgraded infrastructure. Schedule a brief meeting for early next week if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Casual Friday with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of the week's activities, including progress on deployment, monitoring, support, and upgrades. Highlight any challenges or areas for improvement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin planning for the second phase of the infrastructure upgrades, focusing on more complex changes that may require downtime."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Catch up on industry news and trends in DevOps and cloud computing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final check of emails and alerts. Ensure all critical systems are stable before the weekend."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the week. Prepare for the weekend. Maybe browse some motorcycle forums..."
+    }
+]

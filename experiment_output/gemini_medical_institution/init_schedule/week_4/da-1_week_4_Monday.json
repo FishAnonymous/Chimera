@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, grab a coffee, and check emails. Skim through industry news on data visualization trends \u2013 maybe something cool I can adapt for the influenza report. (personal preference: a quick check on 'Data is Beautiful' subreddit for inspiration)"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorming session: Outline the report template. Initial thoughts on sections \u2013 Executive Summary, Data Sources, Analysis, Visualization, Predictive Modeling, Conclusion, Recommendations. Quick sketch on paper of potential visualizations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research best practices for presenting healthcare data to different audiences. Focus on tailoring language and visuals for hospital admin (big picture), clinical staff (practical implications), and public health (population-level trends)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft the Executive Summary section of the report template. Focus on clarity and concise language, highlighting the key benefits of the influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a sandwich and chat with @da-1 (another Data Analyst) about the latest sports scores \u2013 gotta stay sharp!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Define the 'Data Sources' section: Detail the EHR data used (specific fields, timeframes), any external data sources (CDC reports, etc.), and data quality considerations. @his-1 and @his-2 (Health Informatics Specialists) might be helpful here. Email @PEOPLE Data sources available for flu trend analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin drafting the 'Analysis' section: Outline the statistical methods to be used (e.g., time series analysis, regression models). Note down potential challenges and assumptions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Initial design of the visualization plan. Decide on chart types for different aspects of the analysis (line charts for trends, bar charts for comparisons, maps for geographic distribution). Prioritize clarity and accessibility. Loaf around by checking instagram"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the outline of the report template. Ensure it covers all key aspects of the analysis and is aligned with the needs of different stakeholders."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails for any urgent messages. Review yesterday's code and identify areas for improvement or potential bugs. Consider edge cases for the raycasting hit detection."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement the Player's basic attack. Check with the designer if they have the animations ready."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Integrate the basic attack animation. Trigger it upon player input (e.g., pressing the left mouse button)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the damage to the Enemy with the attack animation of the player. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on the basic 'chase and attack' AI. Create a simple state machine for the enemy with 'Idle', 'Chase', and 'Attack' states."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement the 'Chase' state. Make the enemy move towards the player's location using a simple pathfinding algorithm (e.g., direct path with obstacle avoidance). Refactor code for readability."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress, commit code. Send a quick email to @lpro-1 to get feedback on the current AI implementation approach and coding style. Topic: AI implementation feedback"
+    }
+]

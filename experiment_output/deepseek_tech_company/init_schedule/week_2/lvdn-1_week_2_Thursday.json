@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Prepare second playtest build with refined levels. Double-check all gameplay elements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct second internal playtest with @qtest-1 @prod-1. Focus on previously identified pain points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze second playtest results. Compare with initial findings to measure improvement."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Discuss results with @ldes-1 @sdes-1 @sdes-2. Plan final adjustments if needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax\u2014sketch loose ideas for environmental storytelling. @ndes-1 for narrative input."
+    }
+]

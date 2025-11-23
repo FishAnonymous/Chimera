@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, morning meditation session to focus and calm my mind."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Stop by my favorite bakery, grab a pastry, and head to the office."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check emails. Review responses from @dsde-1, @dsde-2, @sdev-1, and @sdev-2. Prioritize tasks based on data availability."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Focus on developing the correlation risk model. Implement a basic DCC model and test it with historical market data. Assess its ability to capture dynamic correlation changes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze data received from @dsde-1 and @dsde-2 regarding specific market events. Incorporate these insights into the volatility and liquidity risk models."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Team lunch with the quant team to discuss progress and challenges."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct initial stress tests on the fund's hypothetical portfolio, focusing on the volatility and liquidity risk models. Simulate adverse market scenarios and observe the impact on portfolio performance.  Email @qres-1, @qres-2: 'Stress Testing Discussion'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the correlation risk model based on stress test results. Explore alternative model specifications or parameter adjustments to improve its performance under stress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the stress testing methodology and results. Prepare a summary of the correlation risk model refinements. Plan for tomorrow's tasks."
+    }
+]

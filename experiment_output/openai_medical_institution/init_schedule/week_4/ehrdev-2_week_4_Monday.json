@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review any updates or notes from the previous week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Initiate the integration of new EHR data formats; gather requirements for data mapping."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @EHR Vendor Liaison to discuss data integration standards and compatibility issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the data mapping process for the new EHR data formats."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the integration scripts based on the gathered requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct initial tests to validate data mappings and integration scripts."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and wrap up the day."
+    }
+]

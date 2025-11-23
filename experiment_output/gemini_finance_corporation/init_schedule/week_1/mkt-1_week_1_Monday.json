@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, prepare a cup of coffee, and review emails and calendar invites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check financial news websites (Bloomberg, WSJ) for any major market updates that could affect UHNWI investment strategies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin research on UHNWI investment preferences. Focus on asset allocation trends, preferred sectors (e.g., tech, real estate, private equity), and geographical preferences."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Identify relevant industry reports and research papers on UHNWI investment behavior from sources like Capgemini, Credit Suisse, and Wealth-X. Skim through executive summaries."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Check social media for interesting marketing trends."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Dive deeper into the identified reports. Start taking detailed notes on key findings related to investment preferences."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research UHNWI interest in alternative investments such as hedge funds, private equity, and venture capital. Note the typical allocation percentages."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile a preliminary summary of findings on UHNWI investment preferences. Prepare a list of questions for Investor Relations (@IR-1) and Client Onboarding (@ONBD-1) regarding their experiences with UHNWI clients."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Draft an email to Investor Relations (@IR-1) and Client Onboarding (@ONBD-1) to schedule a brief meeting to discuss UHNWI investment preferences based on their direct interactions with clients. @IR-1, @ONBD-1 Topic: UHNWI Investment Preference Insights"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. "
+    }
+]

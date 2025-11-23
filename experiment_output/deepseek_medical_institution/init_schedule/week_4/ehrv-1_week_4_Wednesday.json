@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 to provide an update on vendor interactions and system performance."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 to ensure any system updates have been tested."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review test results and address any critical issues with @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a training session with @trainer-1 for end-users on any new system features."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document all testing outcomes and update the vendor on any unresolved issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Browse EHR vendor forums for any known issues or updates."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and archive all documentation related to vendor interactions."
+    }
+]

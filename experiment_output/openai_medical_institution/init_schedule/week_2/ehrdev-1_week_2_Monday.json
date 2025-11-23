@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and assess any updates from previous tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @EHR Vendor Liaison to discuss current EHR integration status and any outstanding issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the EHR integration documentation and identify any areas that require updates."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @Data Analyst to analyze seasonal influenza data trends and gather relevant metrics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin coding for EHR data pull processes, ensuring adherence to data standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct a code review session with @Quality Assurance Tester to identify any potential issues."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document any code changes made and update internal collaboration platforms."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to emails from colleagues."
+    }
+]

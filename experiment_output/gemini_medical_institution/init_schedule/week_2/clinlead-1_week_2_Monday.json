@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, grab a coffee, and check emails for any urgent updates or requests from the team. Start browsing some medical journals about the seasonal influenza trends to get more insights."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: Update the nursing assessment workflow and modify the physician examination workflow for influenza diagnosis and testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @rn-1, @rn-2, @rn-3, @pchmp-1 to discuss the current nursing assessment workflow and gather input on how to best incorporate a standardized assessment for influenza symptoms. @PEOPLE: Discuss Nursing Assessment Workflow Updates for Influenza Symptoms"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the discussion with the nursing team, create a draft of the updated nursing assessment workflow, outlining specific questions and observations related to influenza symptoms. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Share the draft nursing assessment workflow with @rn-1, @rn-2, @rn-3 for their review and feedback. @PEOPLE: Review of Draft Nursing Assessment Workflow"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up with colleagues in the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the feedback received from the nurses on the draft assessment workflow. Make necessary revisions and improvements based on their suggestions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @pchmp-1 to discuss modifying the physician examination workflow to include prompts for influenza diagnosis and testing. Understand their perspective on the current process and identify areas for improvement. @PEOPLE: Physician Examination Workflow Modification for Influenza"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Based on the discussion with the physician champion, create a draft of the modified physician examination workflow, including prompts for influenza diagnosis, testing options, and relevant clinical guidelines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share the draft physician examination workflow with @pchmp-1 for their review and feedback. @PEOPLE: Review of Draft Physician Examination Workflow"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the plan for tomorrow. Prepare the documents for tomorrow's meeting."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave hospital."
+    }
+]

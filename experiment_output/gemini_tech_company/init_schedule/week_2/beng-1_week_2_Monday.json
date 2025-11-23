@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails from the team and prioritize urgent tasks. Review the goal plan for week 2: Build environment setup, build scripts, CI system, automated testing, deployment pipelines, and integrations."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research and document necessary tools and dependencies for the build environment. Consider operating systems, compilers, SDKs, and other relevant software. Focus on tools that are stable, well-documented, and suitable for a third-person shooter project."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @LPRO-1 @TDEV-1 to discuss preferred build tools and environments. Include questions about potential conflicts with existing systems and desired level of automation. @PEOPLE"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin setting up the build environment on a dedicated machine. Install the identified tools and dependencies, carefully documenting each step for future reference and reproducibility. Start with the core compiler and build tools."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue setting up the build environment. Configure the compiler with necessary flags and settings for optimal performance and stability. Test the compiler by building a simple \"Hello, World\" program."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start drafting the initial build scripts. Begin with a basic script that compiles the core game code. Use a scripting language like Python or Bash for flexibility and ease of use. Focus on clarity and maintainability."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Back up the configured build environment and build scripts. Document all steps and configurations for future reference. Prepare a status report for tomorrow."
+    }
+]

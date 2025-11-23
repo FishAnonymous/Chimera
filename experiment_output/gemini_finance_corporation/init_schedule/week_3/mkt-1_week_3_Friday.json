@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to urgent requests. Review the schedule for the day and adjust as necessary."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Send the invitation for the introductary event to @IR-1 and @CIO-1, and adjust the draft based on their feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @ONBD-1 for the following onboarding steps for potential investors and prepare necessary documents and procedure. Make sure to comply with the guide from @LEGAL-1 and @COMP-1"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the list of marketing materials. Ensure all material is fully reviewed by all members in the company and address all feedbacks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the entire week's progress and identify areas for improvement in the marketing strategy. Make sure all procedure aligns with the company's goal."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Browse some of the financial news, and loaf around. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up all ongoing tasks and send final reports to the responsible members. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign off for the week and prepare for the upcoming week."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review responses from yesterday's update email."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Medical Records Specialist to ensure proper documentation is integrated into EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work closely with @Quality Assurance Tester on any identified issues in the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review user feedback collected by @Help Desk Support regarding EHR usability."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop a user-friendly guide for the new EHR system features in collaboration with @Trainer."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation summarizing seasonal influenza data for the upcoming staff meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the presentation draft for review to @Health Informatics Specialist and @Clinical Lead."
+    }
+]

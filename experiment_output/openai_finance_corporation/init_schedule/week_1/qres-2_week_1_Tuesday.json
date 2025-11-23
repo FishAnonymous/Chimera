@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review feedback and insights from yesterday\u2019s meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a more in-depth analysis of the most promising investment themes identified."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @cio-1 and @ir-1 to discuss findings and get their input on potential themes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare presentation slides for the meeting with @cio-1 and @ir-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Attend the meeting with @cio-1 and @ir-1 to discuss investment themes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Incorporate feedback from the meeting into the research document."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and wrap up for the day."
+    }
+]

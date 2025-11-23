@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, review yesterday\u2019s reports, and organize emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend a weekly team meeting with all staff to discuss progress on EHR and feedback on integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin implementing code adjustments for the EHR based on feedback from @clinlead-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test EHR functionalities and fix any bugs reported previously, collaborating with @qatest-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all changes made in the EHR system and prepare a report for the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review tasks completed and plan tasks for Thursday."
+    }
+]

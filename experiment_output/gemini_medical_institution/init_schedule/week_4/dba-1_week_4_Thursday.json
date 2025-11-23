@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in, and check emails. Address any overnight requests or issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the documentation from the previous days and make sure everything is up to standards."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin working on implementing constraints for foreign key relationships. Ensure that foreign keys are properly defined and that data integrity is maintained across related tables. Focus on relationships between patient tables, diagnosis tables, and vaccination tables."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Consult with @ehrdev-1 and @ehrdev-2 (EHR Integration Developers) to ensure that the foreign key relationships align with the EHR system's data model. Topic: Foreign Key Relationships in EHR Database."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop SQL scripts to implement the foreign key constraints, creating appropriate indexes to ensure efficient query performance. Ensure that the constraints are cascading to maintain data integrity across related tables."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the foreign key constraints on the development database instance. Attempt to insert or update records that violate the foreign key relationships and verify that the constraints prevent the changes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any issues encountered during testing. Refine the foreign key constraints as needed. Re-test the constraints to ensure they are working as expected. If I can't figure it out, I'll ask @dba-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the foreign key constraints implemented. Document the rationale behind the constraints and the methods used to implement them."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Back up all the changes that I've made this week. That way I can pick up where I left off next week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Read emails and wrap up."
+    }
+]

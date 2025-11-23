@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and review the final project outcomes document prepared by @da-1 and @da-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @rn-1 to discuss any remaining clinical needs and advocate for necessary adjustments."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare feedback on the final project outcomes and send it to @itpm-1 and @ehrdev-1 for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a communication plan to share project success with clinical staff, including @rn-2, @rn-3, and @mrs-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the draft with @trainer-1 and @his-1 to ensure clarity and effectiveness."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the communication plan and schedule meetings with clinical staff for the rest of the week."
+    }
+]

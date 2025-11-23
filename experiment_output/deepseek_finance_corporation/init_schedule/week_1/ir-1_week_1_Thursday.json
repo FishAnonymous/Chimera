@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent investor inquiries. Prioritize follow-ups from high-net-worth individuals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @coo-1 to review the overall progress of the investor presentation. Discuss any bottlenecks or additional resources needed."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Integrate all sections of the investor presentation (strategy, risk management, communication approaches). Ensure a cohesive narrative."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the investor presentation with @cio-1 and @coo-1. Gather feedback and make necessary adjustments."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the investor presentation based on feedback. Ensure all visuals and data are accurate and up-to-date."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @comp-1 and @legal-1 for final compliance and legal review of the presentation."
+    }
+]

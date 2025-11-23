@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the updated report and plan final touches."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare a presentation of the findings for the team. Focus on key insights and recommendations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Break for coffee. Practice the presentation."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Finalize the presentation. Ensure all data is accurate and visuals are clear."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the team. Discuss next steps and assign action items."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @coo-1 with the final report and presentation slides for archival."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's work. Document lessons learned and areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week. Plan for next week's tasks and goals."
+    }
+]

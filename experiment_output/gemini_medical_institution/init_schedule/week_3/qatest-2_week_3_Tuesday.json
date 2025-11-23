@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the agenda for the meeting with @da-1 and @da-2, focusing on concrete examples of how the metrics will be used and validated."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @da-1 and @da-2 to review the draft data quality metrics document. Discuss their feedback and suggestions for improvement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Revise the data quality metrics document based on feedback from @da-1 and @da-2. Incorporate their suggestions and clarify any ambiguities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @clinlead-1 and @rn-1 to send the updated data quality metrics document to them. Ask for feedback. Topic: Data Quality Metrics Review and Feedback"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin defining weekly targets for improvement for each of the identified data quality metrics. Consider current performance levels and achievable goals."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @ehrdev-1 and @ehrdev-2 to check the possible issues to retrieve the data from the EHR System and confirm the data source."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the proposed weekly targets for improvement, including rationale and expected impact on influenza trend analysis. Consider presenting this as a table with baseline values, target values, and timelines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the data quality metrics and weekly targets with @itpm-1. Discuss any potential risks or challenges associated with achieving the targets."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the list of weekly targets, taking into account feedback from @itpm-1."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Address any follow-up feedback from @prod-1 or other team members."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make any final adjustments to character or environment designs based on feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Browse for new art tools or brushes to experiment with."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare final submission files for all designs. Ensure they are properly labeled and organized."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit all finalized designs to @prod-1 and confirm receipt. Email team to notify completion of tasks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Reflect on the week's work. Note any lessons learned or areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Clean up workspace, organize files, and plan for next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End the week by exploring new art techniques or relaxing with a creative side project."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from team leads on the initial project schedule. Prioritize addressing concerns and incorporating suggestions."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Revise the project schedule based on the feedback received. Adjust task durations, dependencies, and deadlines as necessary. Ensure the schedule reflects a realistic and achievable plan for the entire team."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a brief meeting with @tart-1 and @tdev-1 to assess the development schedule from an artistic and technical perspective."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Once the initial schedule is set up, send out emails with @ldes-1, @lpro-1, @lvdn-1, @3dmod-2, @aud-1, @ndes-1, @tart-1 and @tdev-1 to confirm and arrange the following steps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Input any modifications or alterations from team meetings into the project schedule."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Browse the website for new fashion trends."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up a daily reminder to keep myself on track with the project."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Discuss the project management software with @beng-1, and solve any potential problems. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Arrange weekly meeting with all the members for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review tomorrow\u2019s schedule and prepare for the tasks ahead."
+    }
+]

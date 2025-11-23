@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee, emails, Browse through some game development forums to see what's new in the industry and learn from other artists."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the animation library. Refine the walking, running, and jumping animations. Add more variety to the animations by creating different speeds and styles. Save backup."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin working on combat animations. Block out basic attacks, dodges, and blocking animations. Use reference videos of martial arts or sword fighting to get the movements right."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the combat animations. Ensure the attacks have impact and the dodges and blocks are believable. Focus on creating a sense of weight and power in the animations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start working on interaction animations. Block out animations for picking up objects, opening doors, and interacting with other characters. Ensure the animations are smooth and seamless."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save and backup all the work. Check emails."
+    }
+]

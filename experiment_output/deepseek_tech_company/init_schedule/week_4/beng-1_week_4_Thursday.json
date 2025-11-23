@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any feedback from QA on the deployment scripts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any issues reported by QA, making necessary fixes to scripts and documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Re-test fixed scripts in staging environment to ensure issues are resolved."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update documentation based on fixes and re-handoff to @qtest-1 for final verification."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with @qtest-1 to confirm all issues are resolved and deployment is ready for production."
+    }
+]

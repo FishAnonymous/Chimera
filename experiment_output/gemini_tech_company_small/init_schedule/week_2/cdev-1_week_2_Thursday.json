@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's work. Analyze the test results of the Enemy AI, and determine potential issues with current implementation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement a simple 'Game Over' screen when the player dies. Display a message and provide an option to restart the game."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the combat loop by adding basic visual effects (e.g., particle effects for impacts) and sound effects (e.g., weapon sounds, enemy groans)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a very basic score keeping system. Award points for defeating enemies and display the score on the screen."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Explore potential improvements to the combat mechanics, such as adding different attack types, dodging, or blocking."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and commit code."
+    }
+]

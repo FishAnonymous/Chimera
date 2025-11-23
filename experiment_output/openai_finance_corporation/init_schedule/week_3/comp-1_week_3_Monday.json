@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review compliance documentation for accuracy and adherence to SEC regulations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct a briefing meeting with @audit-1 (External Auditor) to discuss the plan for internal audit of compliance documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather necessary compliance documents and information from @comp-1 (Compliance Officer) and @facc-1, @facc-2 (Fund Accountants) for the audit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start conducting the internal audit of compliance documentation focusing on KYC and AML regulations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings and prepare initial notes for the compliance report."
+    }
+]

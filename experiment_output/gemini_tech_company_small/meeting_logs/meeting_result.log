@@ -1,0 +1,37 @@
+```python
+import pandas as pd
+
+# Define the data for the DataFrame
+data = {
+    "Employee ID": ["cdev-1", "lpro-1", "ldes-1"],
+    "Week 1": [
+        "Prototype basic movement and player input. Research movement techniques.",
+        "Set up project structure, version control. Create player character class and integrate input system. Establish core game loop. Initial collision detection setup.",
+        "Initial sketches and mood boards. Simple blockout models for environment. Concept art for player character. Initial animation exploration."
+    ],
+    "Week 2": [
+        "Implement core combat mechanics (attacks, enemy AI, hit detection). Get basic combat loop functional.",
+        "Design combat system architecture, implement basic AI classes. Implement basic attack animations, simple enemy AI, hit detection and damage application.",
+        "Develop enemy character designs. Concept art for attack animations and VFX."
+    ],
+    "Week 3": [
+        "Expand core mechanics with resource system and integrate. Implement simple UI. Add basic sound effects.",
+        "Implement resource management system, design UI elements, add audio manager. Integrate resource system with combat/movement.",
+        "UI design for resource system. Visual effects for resource changes. Polish character models."
+    ],
+    "Week 4": [
+        "Polish and refine mechanics based on testing and feedback. Bug fixing, balancing, and documentation.",
+        "Refactor code, implement error handling and logging, document systems. Bug fixing and balancing.",
+        "Final polish of visuals, create marketing materials. Optimize character models and assets."
+    ]
+}
+
+# Create the DataFrame
+df = pd.DataFrame(data)
+
+# Display the DataFrame
+df.set_index("Employee ID", inplace=True)
+df
+```
+
+This DataFrame outlines the detailed expected goals for each employee over the next four weeks as the company works towards constructing a third-person shooter game. It includes specific tasks for the Junior Developer, Lead Programmer, and Game Designer for each week.

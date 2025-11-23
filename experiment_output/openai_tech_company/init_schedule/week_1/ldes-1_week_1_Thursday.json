@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any new feedback on the updated layouts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @3dmod-1 and @3dmod-2 to discuss how the designs can be translated into 3D environments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on refining the level layouts based on collaborative discussions and suggestions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the layouts and prepare a document highlighting the key gameplay elements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Share the final document with all relevant team members via email."
+    }
+]

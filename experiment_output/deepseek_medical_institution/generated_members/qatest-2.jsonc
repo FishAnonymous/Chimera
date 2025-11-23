@@ -1,0 +1,29 @@
+{
+    "name": "Isabella Rossi",
+    "id": "qatest-2",
+    "ip": "10.0.0.27",
+    "age": 33,
+    "role": "Quality Assurance Tester",
+    "description": "Conducts rigorous testing of hospital information systems, including EHR and billing applications, to identify defects and ensure optimal performance. Develops automated test scripts and performs manual testing. Collaborates with developers and business analysts to resolve issues. Participates in user acceptance testing and provides feedback to improve system usability. Focuses on both functionality and security aspects of software.",
+    "tools": [
+        "Selenium",
+        "TestComplete",
+        "JMeter",
+        "OWASP ZAP",
+        "SQL",
+        "Jira",
+        "Confluence"
+    ],
+    "mbti": "ESTJ",
+    "interests": "CrossFit, gourmet cooking, true crime podcasts",
+    "personality": "Highly organized and detail-oriented. A strong communicator who is not afraid to speak her mind. Enjoys working in a team but also capable of independent work. Driven by a desire to deliver high-quality results and ensure patient safety. Can be direct, but always fair.",
+    "application": {
+        "Zendo": {
+            "account_name": "qa-445566",
+            "password": "isabellaR@quality",
+            "permissions": "tester"
+        }
+    },
+    "email": "qa-445566@hospital.org",
+    "container_id": "d2e3f4a5b6c7"
+}

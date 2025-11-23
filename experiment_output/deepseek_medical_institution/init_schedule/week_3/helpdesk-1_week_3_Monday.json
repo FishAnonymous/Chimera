@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails for any new user concerns related to the EHR system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review and categorize user concerns from the help desk ticketing system. Prioritize based on urgency and impact."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address straightforward user concerns by providing step-by-step solutions via email or phone support."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document resolved issues in the help desk log and update the knowledge base with new solutions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Identify complex technical issues that require escalation. Prepare detailed documentation for @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @clinlead-1 and @pchmp-1 to ensure clinical concerns are addressed appropriately."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize a brief meeting with @itpm-1 to discuss recurring issues and potential system improvements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by updating the help desk dashboard and planning for tomorrow's tasks."
+    }
+]

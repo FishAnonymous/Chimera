@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any feedback from @legal-1, @comp-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine investment strategy based on feedback with @qres-1, @qres-2, @qres-3."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @coo-1 to align on operational readiness for the strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct dry run of stakeholder presentation with @pm-1, @ir-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @facc-1, @facc-2 to ensure accounting systems are ready for new strategy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and finalize presentation materials."
+    }
+]

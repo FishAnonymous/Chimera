@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to urgent inquiries and flag important but non-urgent ones for later."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue root cause analysis for the third identified data quality issue (e.g., missing insurance information). Interview relevant staff (e.g., Medical Records Specialist, Help Desk Support)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Document the interview findings, update the list of potential causes, and refine the hypotheses."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start testing hypotheses related to the third data quality issue. Review data entry workflows, system configurations, and training materials."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Analyze test results and determine if the hypotheses are supported by the data. Document the findings and conclusions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the findings, identify the root cause(s) for the third data quality issue. Document the root cause(s) and provide supporting evidence."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop recommendations to address the root cause(s) for the third data quality issue."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Categorize the root cause(s) identified for the third data quality issue into the existing list of common themes. Update the list as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all documentation and prepare a summary report of the week's activities, including the root cause analysis findings, recommendations, and common themes. Send to @itpm-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign off for the week!"
+    }
+]

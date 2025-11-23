@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Quick market news scan. Check emails for urgent items."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Respond to emails and finalize any outstanding tasks. Review the week's accomplishments and identify areas for improvement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a team meeting with all key stakeholders (@qres-1, @qres-2, @qres-3, @sdev-1, @sdev-2, @dsde-1, @dsde-2, @larch-1, @devops-1, @comp-1, @pm-1, @mkt-1, @ir-1, @onbd-1, @facc-1, @facc-2) to review progress, address any roadblocks, and ensure alignment on the fund's launch timeline. Send email to all team members for a progress review and alignment meeting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Based on the team meeting, adjust the project plan and timelines as needed. Communicate any changes to all relevant stakeholders."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a final report summarizing the week's activities, including the strategy selection, compliance plan, technical implementation progress, and marketing initiatives. Share the report with the executive team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Team lunch to celebrate progress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet individually with team leads (e.g., @larch-1, @qres-1, @dsde-1) to provide feedback and discuss individual performance. Offer coaching and support."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the fund's risk management framework with the Quantitative Research team. Implement appropriate risk controls and monitoring procedures. Final check before weekend."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Plan for the next week. Identify key priorities and schedule meetings. Delegate responsibilities as needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final email check. Tidy up the office. Prepare for a relaxing weekend."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails for any updates from the team, and prepare for the playtesting sessions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @qtest-1 and @sdev-1 to set up playtest schedules with internal team members."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare playtest materials, including a questionnaire for participants to gather structured feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct playtests with internal team members. Observe gameplay and take notes on their experiences."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue conducting internal playtests, focusing on asking targeted questions regarding level design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile initial observations and feedback from the playtests into a document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send feedback document to @ldes-1, @ndes-1, and @uiux-1 for insights on the feedback received."
+    }
+]

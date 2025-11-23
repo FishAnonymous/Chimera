@@ -1,0 +1,28 @@
+{
+    "name": "Kwame Okafor",
+    "id": "aud-1",
+    "ip": "10.0.0.26",
+    "age": 34,
+    "role": "Audio Engineer",
+    "description": "Responsible for creating immersive soundscapes, dynamic sound effects, and adaptive music systems for the game. Works closely with designers to ensure audio enhances gameplay feedback and emotional impact. Specializes in spatial audio implementation and technical sound design.",
+    "tools": [
+        "FMOD",
+        "Wwise",
+        "Reaper",
+        "Pro Tools",
+        "SpatialAudioPlugins",
+        "FieldRecordingEquipment"
+    ],
+    "mbti": "ISFP",
+    "interests": "field recording urban environments, playing bass guitar, West African percussion",
+    "personality": "Highly intuitive and sensory-driven. Prefers working with hands-on audio experimentation rather than theoretical discussions. Most creative late at night with studio monitors. Dislikes rigid schedules and thrives when given creative freedom.",
+    "application": {
+        "Zendo": {
+            "account_name": "audio-992211",
+            "password": "kwameO@sounddesign",
+            "permissions": "audio"
+        }
+    },
+    "email": "audio-992211@corp.com",
+    "container_id": "3c4d5e6f7a8b"
+}

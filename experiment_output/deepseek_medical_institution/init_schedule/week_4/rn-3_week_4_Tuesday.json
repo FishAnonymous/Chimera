@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review and update any incomplete patient records in the EHR system. Coordinate with @mrs-1 and @mrs-2 for missing data."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Attend a debrief session with @ehrdev-1 and @ehrdev-2 to discuss any technical issues with EHR integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Test the new workflows in a sandbox environment provided by @ehrv-1. Report any bugs to @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a peer review session with @da-1 and @da-2 to ensure data accuracy and consistency in the EHR."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document any workflow challenges and potential solutions. Share with @itpm-1 and @clinlead-1 for review."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @helpdesk-1 regarding any user-reported issues with the EHR system."
+    }
+]

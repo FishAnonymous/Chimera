@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prepare for the deadline on animation revisions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final tests on all animations and polish any remaining issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit the final animations for review and prepare to present to the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "End of week review with @Producer and @Lead Game Designer to discuss successes and improvements."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the week."
+    }
+]

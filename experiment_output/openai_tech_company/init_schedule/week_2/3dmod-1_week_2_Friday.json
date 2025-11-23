@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review the week's progress on modeling tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare to present the final character model and environment assets to the team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break - Relax and mentally prepare for the presentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the main character and environment assets to the team, gather final feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Discuss the next steps based on feedback from the presentation with the team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document all feedback and create an adjusted plan for the following week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check emails and follow up with any team members regarding outstanding tasks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up, ensure all work is saved, and plan for leisure activities over the weekend."
+    }
+]

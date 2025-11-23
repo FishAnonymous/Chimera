@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, have coffee and review industry news related to high-frequency trading infrastructure and data feed technologies. Specifically focusing on latency and reliability improvements."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review meeting requests. Respond to urgent queries from @SDEV-1 and @SDEV-2 regarding existing code repositories and coding standards."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin drafting a high-level architecture document for the data feeds and trading platform. Focus on outlining the major components, data flow, and system interactions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @QRES-1, @QRES-2, and @QRES-3 to schedule a meeting to discuss their data requirements and preferred data formats for the trading platform. @PEOPLE: @QRES-1, @QRES-2, @QRES-3 Subject: Data Requirements for Trading Platform."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Research vendor solutions for low-latency market data feeds (e.g., Bloomberg, Refinitiv, FactSet). Create a comparison matrix based on cost, latency, historical data availability, and API support."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Review technical blogs and articles on system design patterns for high-performance trading systems."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @QRES-1, @QRES-2, and @QRES-3 to gather detailed requirements. Take detailed notes focusing on data frequency, data cleansing requirements, and the specific data points needed for their models."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Refine the architecture document based on the meeting feedback. Begin outlining the data processing pipeline, including data ingestion, validation, transformation, and storage."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Research message queue technologies suitable for handling high volumes of market data (e.g., Kafka, RabbitMQ). Evaluate their performance characteristics, scalability, and fault tolerance."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day - Review the day's progress and plan for tomorrow. Write a summary of the vendor research."
+    }
+]

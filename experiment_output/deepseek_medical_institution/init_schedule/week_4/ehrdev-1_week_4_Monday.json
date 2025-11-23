@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for any urgent issues or updates from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the remaining EHR system configurations and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on completing the remaining EHR system configurations, focusing on high-priority items first."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, browse tech news or personal interests."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on EHR system configurations, ensuring all settings align with hospital requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test new data fields and workflows in the EHR system, documenting any issues or inconsistencies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to discuss any identified issues and coordinate further testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Provide technical support for any system issues reported by @helpdesk-1 or other team members."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by updating task progress and preparing for tomorrow's work."
+    }
+]

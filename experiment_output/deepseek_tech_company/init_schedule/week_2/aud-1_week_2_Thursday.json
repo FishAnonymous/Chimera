@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Begin composing BGM for in-game combat scenarios."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research and gather inspiration for combat BGM (e.g., dynamic, high-energy tracks)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create initial combat BGM draft, focusing on intensity and pacing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine combat BGM, ensuring it adapts to gameplay intensity."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share combat BGM with @lvdn-1 and @qtest-1 for integration testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make adjustments based on testing feedback."
+    }
+]

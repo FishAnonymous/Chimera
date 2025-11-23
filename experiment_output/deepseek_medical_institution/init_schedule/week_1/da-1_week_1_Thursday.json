@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, finalize presentation for team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present data quality metrics and targets to the team (@all)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss feedback and adjust plans accordingly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @trainer-1 to plan staff training on data quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @rn-1 @rn-2 @rn-3 for frontline data collection insights."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update documentation based on feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress with @itpm-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare weekly report on achievements and next steps."
+    }
+]

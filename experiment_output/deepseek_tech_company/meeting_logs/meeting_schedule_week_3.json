@@ -1,0 +1,181 @@
+[
+    {
+        "week": 3,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Finalize all environmental asset models and textures.",
+            "Conduct integration testing with the development team to confirm assets fit seamlessly into the game world."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Refine mechanics based on feedback from Week 2.",
+            "Optimize performance and fix critical bugs.",
+            "Begin integrating finalized assets from the art team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Refine mechanics based on feedback from Week 2.",
+            "Optimize performance and fix critical bugs.",
+            "Begin integrating finalized assets from the art team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Refine mechanics based on feedback.",
+            "Implement secondary systems (e.g., economy, AI behaviors).",
+            "Conduct another playtest; finalize balancing parameters."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Optimize build pipeline for multi-platform support.",
+            "Implement automated testing for builds.",
+            "Document CI/CD workflows for team reference."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Conduct regression testing on refined mechanics.",
+            "Validate bug fixes from Week 2.",
+            "Prepare test cases for final prototype testing in Week 4."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Polish character animations based on feedback.",
+            "Finalize environment models and textures.",
+            "Conduct integration testing with the development team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Assess progress and challenges from Weeks 1-2.",
+            "Gather team feedback and adjust project timeline as needed.",
+            "Prepare for final prototype review in Week 4."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Refine mechanics based on feedback.",
+            "Implement secondary systems (e.g., economy, AI behaviors).",
+            "Conduct another playtest; finalize balancing parameters."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Refine mechanics based on feedback from Week 2.",
+            "Optimize performance and fix critical bugs.",
+            "Begin integrating finalized assets from the art team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Build interactive prototypes using tools like Figma or Adobe XD.",
+            "Conduct usability testing with internal team members.",
+            "Iterate based on testing feedback."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Polish character animations based on feedback.",
+            "Finalize environment models and textures.",
+            "Conduct integration testing with the development team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Review and optimize core gameplay systems.",
+            "Ensure all mechanics are technically feasible and performant.",
+            "Coordinate with Client Developers for final integration."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Finalize art style and asset integration.",
+            "Optimize shaders and visual effects for performance.",
+            "Conduct final reviews with the art and development teams."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Finalize custom tools for art and code integration.",
+            "Conduct testing and gather feedback from the team.",
+            "Prepare documentation for tool usage."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Finalize sections of the Game Design Document (GDD).",
+            "Conduct cross-team review for alignment.",
+            "Update GDD based on feedback and prototyping results."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Compose background music (BGM) for key game scenes.",
+            "Refine sound effects based on feedback.",
+            "Begin integration with the development team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Optimize server performance (e.g., latency reduction, resource allocation).",
+            "Implement security measures (e.g., firewalls, encryption).",
+            "Stress-test the server; identify and address bottlenecks."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Add environmental details, lighting, and props.",
+            "Test level performance and optimize as needed.",
+            "Review with the art and programming teams for final adjustments."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Refine dialogues based on feedback.",
+            "Collaborate with Level Designer to integrate narrative into levels.",
+            "Conduct internal playtesting for narrative flow."
+        ]
+    }
+]

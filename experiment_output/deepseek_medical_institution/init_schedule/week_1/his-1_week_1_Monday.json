@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review project goals and outline initial thoughts on EHR data elements for influenza analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research and compile a list of potential EHR data elements relevant to seasonal influenza (e.g., vaccination status, symptom codes, diagnosis codes)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @clinlead-1 and @pchmp-1 to validate the list of EHR data elements and gather clinical input on additional relevant fields."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze feedback from clinical team and refine the list of EHR data elements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a preliminary data collection workflow, outlining steps from EHR extraction to analysis."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to discuss technical feasibility of the proposed workflow and any integration challenges."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Browse latest health informatics articles on influenza trend analysis for additional insights."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Summarize findings and prepare for tomorrow's tasks."
+    }
+]

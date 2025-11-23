@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any pending issues with technical requirements or backend plans."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to provide updates on technical requirements, backend development, and API integrations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @legal-1 and @comp-1 to ensure compliance with SEC regulations in the technical implementation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on finalizing and approving backend development plans."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and test API integrations with frontend mockups."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any pending queries from the team."
+    }
+]

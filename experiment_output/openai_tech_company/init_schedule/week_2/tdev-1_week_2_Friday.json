@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize documentation on the prototype's iterations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up follow-up meeting with initial users to gather additional feedback on the revised prototype."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Hold the follow-up meeting with users and collect further insights."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review collected feedback and plan the next steps for development."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email a summary of the week's progress, including feedback and next steps, to @Producer and @Lead Programmer."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the week and log out."
+    }
+]

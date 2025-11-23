@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, follow up on feedback from @mkt-1 regarding communication strategies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the investment strategy outline, integrating insights from @mkt-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss the core investment philosophy with @ir-1 to ensure alignment with investor interests."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the investment selection criteria, documenting the rationale for each criterion."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @facc-1 and @facc-2 to gather information on performance metrics for selected asset managers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a team review session with @qres-1, @qres-2, and @qres-3 to present the refined strategy."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document action points from the review session and outline tasks for the next day."
+    }
+]

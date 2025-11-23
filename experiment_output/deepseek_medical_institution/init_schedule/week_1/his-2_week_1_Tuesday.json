@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @itpm-1 and refine the data collection workflow document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss EHR vendor-specific requirements for data extraction."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Update the data collection workflow based on vendor input and share with @qatest-1 and @qatest-2 for testing considerations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @dba-1 to ensure database readiness for the proposed data extraction workflow."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct a walkthrough of the workflow with @rn-1, @rn-2, and @rn-3 to validate clinical relevance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the data collection workflow document and submit for approval."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for urgent requests or updates. Respond to any pressing emails, especially from @ehrv-1 regarding system access or initial documentation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review project documentation related to EHR integration and seasonal influenza trend analysis. Refresh knowledge of current data fields and workflows."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 (EHR Vendor Liaison) to discuss the scope of system updates and modifications needed for EHR collection and influenza trend analysis.  Clarify technical specifications and identify potential challenges. @ehrv-1 Discuss the timeline of the updates and set expectations. Take detailed notes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the meeting with @ehrv-1, begin outlining the development plan for system updates. Identify specific tasks, dependencies, and estimated timelines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and document the existing EHR data fields relevant to influenza data (e.g., diagnosis codes, vaccination records, patient demographics). Consult with @da-1 and @da-2 (Data Analysts) on specific data requirements for trend analysis. @PEOPLE send email to @da-1 and @da-2 asking for the definition and requirements of related data fields."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on the development environment, setting up necessary test databases and user accounts. Ensure the environment mirrors the production system as closely as possible. Consult with @dba-1 if needed. @PEOPLE send email to @dba-1 asking for the test databases and user accounts."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Initial configuration of new data fields based on the documentation from @ehrv-1 and input from @da-1 and @da-2. Focus on ensuring data types and formats are correct."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the configuration process for the new data fields. Create a detailed guide for future reference and troubleshooting. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress, identify any roadblocks, and plan for tomorrow's tasks. Create a detailed task list for Tuesday."
+    }
+]

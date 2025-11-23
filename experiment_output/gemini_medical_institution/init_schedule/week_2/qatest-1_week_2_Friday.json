@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any messages from @dba-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assist @dba-1 with the deployment of the data quality check scripts to the production database. Monitor the deployment process and address any issues that arise."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Verify that the data quality checks are functioning correctly in the production database. Run tests to ensure that the checks are accurately identifying and flagging data quality issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Try the new sandwich place."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a monitoring plan for the data quality checks. Outline the steps that will be taken to monitor the performance of the checks and identify any potential issues. Include instructions for troubleshooting common problems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Loaf around by browsing websites that are related to PC hardware, or reading the documentation on Vulkan."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of the week's activities, including accomplishments, challenges, and next steps. Submit the report to the appropriate stakeholders."
+    }
+]

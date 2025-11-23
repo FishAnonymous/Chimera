@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails for any additional feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine level layouts further based on the team's feedback, focusing on balancing gameplay elements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin creating a more detailed version of the layout sketches, making preliminary notes on asset requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @3DMOD-1 and @3DMOD-2 to discuss asset needs for the level designs before finalizing sketches."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback and finalize detailed sketches of the level layouts."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email the finalized sketches to @LDES-1, @NDES-1, and @UIUX-1 for their input on integration with the narrative and UI design."
+    }
+]

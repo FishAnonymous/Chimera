@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the previous day's research summary. Plan the day based on identified knowledge gaps."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up on identified knowledge gaps from Monday's research. Focus on areas like expense allocation methods within a statistical arbitrage fund and specific valuation methodologies."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start drafting a preliminary framework for tracking fund performance. Consider key metrics like Sharpe Ratio, Sortino Ratio, and Information Ratio. Consult with @Qres-1, @Qres-2, @Qres-3 on required performance calculations and data points. Subject: Performance Metric Requirements for Fund Accounting"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin outlining the structure for expense tracking. Identify potential expense categories (e.g., management fees, performance fees, legal fees, audit fees, brokerage fees). Document the proposed categories."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the expense tracking framework. Determine appropriate methods for allocating expenses to the fund. Consult with @legal-1 regarding legal and regulatory considerations for expense allocation. Subject: Expense Allocation Legal Considerations"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research software and tools used for fund accounting and performance reporting. Explore options like Advent Geneva, VPM, or other industry-standard solutions. Compile a list of potential tools for further evaluation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the document outlining the preliminary framework for tracking fund performance and expenses with any new information or insights. Prepare a summary for the day."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any emails. Back up all documents and notes. Ensure all tasks are updated and properly organized. Prepare for tomorrow\u2019s tasks."
+    }
+]

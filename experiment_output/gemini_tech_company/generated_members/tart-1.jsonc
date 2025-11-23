@@ -1,0 +1,31 @@
+{
+    "name": "Ayana Nakamura",
+    "id": "tart-1",
+    "ip": "10.0.0.24",
+    "age": 31,
+    "role": "Technical Artist",
+    "description": "Bridges the gap between art and programming, optimizing art assets for performance, creating tools and pipelines to improve art workflows, and implementing visual effects. Ensures art assets are technically sound and meet the game's performance requirements. Works with shaders, materials, and lighting to enhance the visual quality of the game.",
+    "tools": [
+        "Unreal Engine",
+        "Unity",
+        "Maya",
+        "3ds Max",
+        "Photoshop",
+        "Substance Painter",
+        "Shader Graph",
+        "Blueprints",
+        "Python"
+    ],
+    "mbti": "ENTP",
+    "interests": "digital art, generative art, electronic music production",
+    "personality": "Highly creative and technically proficient. Enjoys experimenting with new technologies and finding innovative solutions to artistic challenges. A strong communicator who enjoys collaborating with artists and programmers. Can sometimes get distracted by new ideas and may need help prioritizing tasks.",
+    "application": {
+        "Zendo": {
+            "account_name": "techart-852963",
+            "password": "AyanaN@tech",
+            "permissions": "technical_artist"
+        }
+    },
+    "email": "techart-852963@corp.com",
+    "container_id": "5e7f8a9b0c1d"
+}

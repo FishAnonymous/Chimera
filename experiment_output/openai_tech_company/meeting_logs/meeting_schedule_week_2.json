@@ -1,0 +1,181 @@
+[
+    {
+        "week": 2,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Produce thumbnail sketches for 5 different environment concepts.",
+            "Create character silhouettes focusing on unique features and shapes.",
+            "Share sketches with the design team for feedback and direction."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Focus on implementing backend functionalities necessary for user interactions.",
+            "Integrate UI elements with backend functionalities and ensure seamless transitions.",
+            "Conduct playtesting sessions to identify any bugs or usability issues with the new features."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Focus on implementing backend functionalities necessary for user interactions.",
+            "Integrate UI elements with backend functionalities and ensure seamless transitions.",
+            "Conduct playtesting sessions to identify any bugs or usability issues with the new features."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Identify and define core mechanics that will drive gameplay experience.",
+            "Create prototypes for two key mechanics and outline their interactions within the system.",
+            "Conduct peer reviews of the prototypes and gather feedback for refinement."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Configure CI tools to automatically run builds whenever changes are pushed to the repository.",
+            "Establish automated testing procedures that trigger with each build.",
+            "Create documentation outlining the CI process for the development team."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Evaluate and select a bug tracking tool that suits team needs.",
+            "Create templates for bug reports to ensure consistent and thorough information is logged.",
+            "Train team members on how to report bugs and utilize the bug tracking system effectively."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Model a main character focusing on topology that supports smooth animations.",
+            "Create 3D models for two key environment assets that are essential to the gameplay.",
+            "Review models together for cohesiveness in style and detail level."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Finalize character and environmental designs based on feedback from Week 1.",
+            "Start implementing the core gameplay mechanics in an early prototype."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Identify and define core mechanics that will drive gameplay experience.",
+            "Create prototypes for two key mechanics and outline their interactions within the system.",
+            "Conduct peer reviews of the prototypes and gather feedback for refinement."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Focus on implementing backend functionalities necessary for user interactions.",
+            "Integrate UI elements with backend functionalities and ensure seamless transitions.",
+            "Conduct playtesting sessions to identify any bugs or usability issues with the new features."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Create low-fidelity wireframes for different screens, focusing on layout and information hierarchy.",
+            "Develop interactive prototypes to simulate user interactions and gather feedback from the design and development teams.",
+            "Share wireframes and prototypes with stakeholders for initial reviews and incorporate suggestions."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Model a main character focusing on topology that supports smooth animations.",
+            "Create 3D models for two key environment assets that are essential to the gameplay.",
+            "Review models together for cohesiveness in style and detail level."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Develop player movement controls based on design specifications.",
+            "Implement the interaction system for NPC and object interactions.",
+            "Coordinate with Client Developers to ensure seamless integration of UI elements."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Identify high-poly models and assess opportunities for LOD creation where applicable.",
+            "Implement texture atlasing for 2D assets to minimize draw calls and improve rendering efficiency.",
+            "Conduct tests to measure performance impacts of optimized assets in various scenarios, iterating based on results."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Create wireframes and functional specifications for key tools.",
+            "Develop a working prototype for one of the core tools.",
+            "Gather feedback from initial users to iterate on the prototype's design and functionality."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Construct 3D blockouts of the most promising level layouts.",
+            "Test the flow and pacing of the blockouts, identifying areas of improvement.",
+            "Share blockouts with the development team for feedback and iterate on designs based on team input."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Develop thematic motifs for different game areas or situations.",
+            "Experiment with different musical styles and instruments.",
+            "Share early versions of the compositions with the design team for initial feedback."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Develop the authentication system for user accounts.",
+            "Set up database schemas and APIs for handling user data.",
+            "Conduct unit tests on implemented functionalities to ensure reliability and performance."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Construct 3D blockouts of the most promising level layouts.",
+            "Test the flow and pacing of the blockouts, identifying areas of improvement.",
+            "Share blockouts with the development team for feedback and iterate on designs based on team input."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Define character motivations, conflicts, and relationships.",
+            "Draft character profiles that include attributes, flaws, and objectives.",
+            "Engage with the design team to align character designs with narrative elements."
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Receive feedback from @Compliance Officer and update the communication strategy accordingly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare the final presentation of the communication strategy for the leadership team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Rehearse the presentation for clarity and effectiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the final communication strategy to the leadership team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collect feedback from the leadership team and discuss next steps for implementation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize and distribute the communication strategy document to relevant parties."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan next week's objectives and reflect on progress made during the week."
+    }
+]

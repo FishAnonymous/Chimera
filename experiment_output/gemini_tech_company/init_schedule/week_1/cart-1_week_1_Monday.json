@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Briefly browse art news websites for inspiration. Maybe ArtStation or a quick peek at some concept art blogs."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: character sketches, environment concepts, prop designs, and color palette exploration. Prioritize character sketches as a starting point. Open my sketchbook and gather reference images."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin sketching character silhouettes. Focus on creating a variety of shapes and poses to establish the core feel of the characters. No details yet, just playing with forms. Experimenting with different character archetypes - maybe a bulky soldier type, a sleek agile rogue, etc."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break. Stroll around the office, observe my colleagues' workflows, and listen to music to get inspired."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the best silhouettes from the morning session. Start adding some basic features like head shape, suggestion of clothing, and key identifying elements. Still keeping it loose and gestural."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Go outside to get some fresh air and people-watch. Great for character design inspiration!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Return to character sketches. Scan my paper sketches into Photoshop and start digital painting over them. Refine shapes, and add initial details. Focus on one specific character that seems promising."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @Ldes-1 @3dmod-1 @TART-1 about the initial character designs. Ask for their feedback on overall direction, and if it's matching the vision of the game and if there are any technical limitations to be aware of."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Based on the initial designs, select and create the first color palette for the main hero character. Create some test renders to see the actual result."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up the workspace and shut down the computer. Listen to musics on the way home."
+    }
+]

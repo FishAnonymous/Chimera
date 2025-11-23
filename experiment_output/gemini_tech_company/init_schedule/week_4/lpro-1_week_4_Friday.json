@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and project management system for any updates or urgent issues. Prepare for the end-of-week sprint review and planning meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize any outstanding tasks and ensure all code is properly documented and tested. Prepare a demonstration of the work completed during the week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in the sprint review meeting, showcasing the team's accomplishments and discussing any challenges encountered. Provide constructive feedback and suggestions for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Participate in the sprint planning meeting, collaborating with the team to define the goals and priorities for the next sprint. Provide input on the technical feasibility of proposed features."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refactor code to address technical debt accumulated during the sprint. Improve code quality and maintainability."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write technical documentation for new features or systems implemented during the sprint. Ensure the documentation is clear, concise, and easy to understand."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @NDES-1 to integrate narrative elements into the game. Review dialogue scripts, cutscene animations, and environmental storytelling elements. Talk about the interaction and cutscene animation with @3DMOD-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete weekly report, summarize key accomplishments, challenges, and lessons learned. Submit the report to @PROD-1 and archive all relevant documentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse some funny websites."
+    }
+]

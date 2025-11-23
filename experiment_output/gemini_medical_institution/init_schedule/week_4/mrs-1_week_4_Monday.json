@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any urgent emails or announcements regarding system updates or data access policies. Review the weekly goal: abstract 200 influenza records from the 2023-2024 season, prioritizing electronic records."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standard operating procedure (SOP) for influenza data abstraction to ensure adherence to guidelines and data integrity."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin data abstraction process. Focus on identifying and retrieving electronic health records for influenza patients from the 2023-2024 season. Aim for approximately 30 records today."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the first batch of 15 abstracted records, checking for consistency and accuracy in data entry. Make any necessary corrections or clarifications."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue with data abstraction, focusing on retrieving and reviewing electronic records for influenza patients from the 2023-2024 season. Aim for another 15 records before lunch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Focus on identifying and retrieving electronic health records for influenza patients from the 2023-2024 season."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the abstracted records of the afternoon batch, checking for consistency and accuracy in data entry. Make any necessary corrections or clarifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @HIS-1, @HIS-2 via email. Topic: Clarification on specific data points for influenza abstraction (e.g., diagnostic codes, vaccination status documentation) to ensure consistency in data collection. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the daily progress tracker with the number of records abstracted and any challenges encountered. Plan for tomorrow's activities based on today's output."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow. Review the SOP for influenza data abstraction to ensure adherence to guidelines and data integrity."
+    }
+]

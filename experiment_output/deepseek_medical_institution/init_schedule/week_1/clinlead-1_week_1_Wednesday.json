@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on the status of the workflow modification plan implementation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @trainer-1 to discuss training needs for clinical staff on the modified workflows."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Develop training materials in collaboration with @trainer-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a training session for @rn-1, @rn-2, @rn-3 on the new workflows."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from nurses on the training session and adjust materials as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update @itpm-1 and @clinlead-1 on training progress and any issues identified."
+    }
+]

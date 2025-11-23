@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Verify with @qtest-1 that all testing is complete and deployment is approved."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a summary report of the deployment process, including any lessons learned."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Archive all deployment scripts and documentation for future reference."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @prod-1 to provide a status update on the deployment process and next steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Clean up any temporary files or environments used during the deployment process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for any upcoming tasks or projects, ensuring all resources are ready for the next phase."
+    }
+]

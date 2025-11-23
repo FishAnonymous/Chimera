@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any overnight communications. Review the feedback received so far, and see if some assistance is required."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Analyze feedback from training sessions and QA testing. Identify common themes and areas for improvement in the training materials and delivery."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Revise training modules and materials based on feedback. Ensure the training addresses all key objectives and is engaging for participants."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @da-1 and @da-2 Data Analysts: Confirm they have access to relevant EHR data to monitor the impact of the training on influenza vaccination documentation rates and allergy recording."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Treat myself to something nice for lunch. It's Friday!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a brief summary report of the training program, including key findings, recommendations, and next steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @clinlead-1 Clinical Lead: Share the summary report and solicit their feedback on the training program's effectiveness."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for next week: Identify any outstanding tasks related to the influenza vaccination documentation training. Preview the goals for the coming week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete any remaining administrative tasks (e.g., filing training records, updating training schedules)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Reflect on the week's accomplishments and identify areas for personal growth."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save all work and log out. Happy Friday!"
+    }
+]

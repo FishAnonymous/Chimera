@@ -1,0 +1,27 @@
+{
+    "name": "Ethan Carter",
+    "id": "sdev-2",
+    "ip": "10.0.0.18",
+    "age": 31,
+    "role": "Software Developer",
+    "description": "Responsible for creating and maintaining robust software applications, focusing on front-end development and user experience. Works closely with designers and product managers to implement new features and ensure high performance.",
+    "tools": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Git"
+    ],
+    "mbti": "ENTP",
+    "interests": "gaming, innovation, cooking",
+    "personality": "Enthusiastic and innovative, enjoys brainstorming new ideas and often seeks creative solutions to complex problems. Thrives in dynamic environments and enjoys collaborating with diverse teams.",
+    "application": {
+        "DevEnvironment": {
+            "account_name": "dev-763192",
+            "password": "EthanDev@2023",
+            "permissions": "developer"
+        }
+    },
+    "email": "dev-763192@corp.com",
+    "container_id": "h89i2k3l456n"
+}

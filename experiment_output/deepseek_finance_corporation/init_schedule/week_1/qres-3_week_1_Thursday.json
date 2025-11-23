@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any additional feedback from @cio-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the statistical model, incorporating all feedback and test results."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @comp-1 and @legal-1 to ensure the model complies with SEC regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a comprehensive presentation on the model's risk-return profiles and findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Rehearse the presentation and make final adjustments."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the presentation to @pm-1 and @ir-1 for pre-review."
+    }
+]

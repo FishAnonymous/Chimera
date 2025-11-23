@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and organize tasks for the week including finalizing the onboarding checklist for UHNWIs."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft the onboarding checklist for UHNWIs, ensuring it meets the needs of the clients and reflects the internal processes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Schedule a review session meeting with the Compliance Officer @comp-1, Project Manager @pm-1, and Head of Investor Relations @ir-1 to discuss the regulatory checks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining the onboarding checklist based on initial feedback and incorporate best practices relevant to UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the onboarding checklist for UHNWIs and prepare materials for the review session."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the compliance documents with @comp-1 to ensure everything aligns with SEC regulations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out the finalized onboarding checklist and review session materials to all attendees."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by checking emails and preparing a to-do list for Tuesday."
+    }
+]

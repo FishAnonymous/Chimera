@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check for any communications from the design team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 and @ldes-1 to discuss the visual quality standards for environment assets and props."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin polishing the environment assets; focus on textures and polygon details."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on environment assets, ensuring they meet game quality standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a demonstration of polished environment assets to show to the design team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review assets and make final adjustments before the presentation."
+    }
+]

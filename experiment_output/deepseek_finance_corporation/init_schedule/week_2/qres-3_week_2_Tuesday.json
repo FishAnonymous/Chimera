@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from @dsde-1, @dsde-2 regarding data access."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue data collection, focusing on specific time periods and asset classes relevant to market-neutral strategies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @cio-1 to align on risk-return expectations and model validation criteria."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement initial data cleaning and preprocessing steps for the collected historical data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop scripts for data analysis (Python/R) to calculate risk and return metrics."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @sdev-1, @sdev-2 to discuss potential automation of data collection and analysis pipelines."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Run preliminary analysis on cleaned data to identify patterns and outliers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document analysis results and prepare a summary for the team."
+    }
+]

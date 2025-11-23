@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the database, check emails for updates from team members."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from the Flu trend report and identify more in-depth areas for exploration."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare an agenda for the weekly meeting with all members to discuss the EHR and flu trends."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send meeting invites to all members and share the agenda."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on data collection strategies for EHR with assistance from @Quality Assurance Tester."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a team meeting to discuss the ongoing EHR data collection and seasonal influenza trends."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a summary of the meeting and disseminate to all members."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check and respond to emails, and reflect on project progress."
+    }
+]

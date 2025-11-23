@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from the Quality Assurance team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a preliminary review session with @qatest-1 and @qatest-2 to validate the table design and data mappings. Address any identified issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Make necessary adjustments to the table design based on QA feedback. Ensure all data mappings are accurate and complete."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the table design and data mappings. Prepare a comprehensive documentation package for the EHR Integration Developers."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to share the finalized design and request their input on implementation timelines."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review any final feedback from the EHR Integration Developers and update the documentation as needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete all documentation and prepare for a final review with the IT Project Manager."
+    }
+]

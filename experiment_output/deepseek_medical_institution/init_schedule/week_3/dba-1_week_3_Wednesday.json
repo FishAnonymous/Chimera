@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Perform a thorough review of the schema and constraints with @da-1 and @da-2 to ensure data analysis needs are met."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make any necessary adjustments to the schema based on Data Analysts' feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final validation of the schema with @rn-1, @rn-2, and @rn-3 to ensure clinical relevance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document all changes and prepare for deployment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @ehrv-1 to ensure the schema aligns with vendor requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @itpm-1 and @clinlead-1 outlining the finalized schema."
+    }
+]

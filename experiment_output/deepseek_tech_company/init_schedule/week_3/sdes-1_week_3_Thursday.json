@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Analyze playtest feedback and prioritize balancing changes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 and @sdes-2 to finalize balancing parameters for mechanics and secondary systems."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement balancing changes to core mechanics. Adjust parameters based on feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Fine-tune AI behaviors and economy system based on playtest feedback. Ensure smooth integration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare for final playtest. Coordinate with @qtest-1 and @prod-1 for test environment setup."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and update task tracker. Prepare for tomorrow's playtest."
+    }
+]

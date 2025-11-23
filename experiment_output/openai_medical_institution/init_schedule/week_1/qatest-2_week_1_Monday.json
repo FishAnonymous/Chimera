@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails for updates from colleagues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @EHR Vendor Liaison to discuss EHR collection processes and identify any potential issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review existing EHR testing protocols and documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct preliminary testing of new EHR features."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the results of the preliminary tests and document findings."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @EHR Integration Developer to troubleshoot any issues found during testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a report on the testing outcomes and review it with the Clinical Lead."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check and respond to emails regarding ongoing projects and prepare a to-do list for tomorrow."
+    }
+]

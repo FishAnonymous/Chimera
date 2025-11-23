@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the database management system, check emails for updates or queries from colleagues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the electronic health record (EHR) data collection progress and identify any inconsistencies."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Send an email to @EHR Vendor Liaison, @Clinical Lead, and @Data Analysts to request the latest data collection reports for the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the received EHR data reports and compile a summary of key takeaways."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for a meeting with colleagues to discuss the trends in the seasonal influenza data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a meeting with @Clinical Lead, @EHR Integration Developers, and @Health Informatics Specialists to discuss data trends and findings."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on database queries to extract relevant data for the influenza trend analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check and respond to emails, and finalize notes from the day."
+    }
+]

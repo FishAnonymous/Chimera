@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check the project dashboard for any overnight updates or alerts related to the EHR system."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Respond to any urgent emails or messages from stakeholders."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to review any bugs or issues identified during testing of the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @rn-1, @rn-2, and @rn-3 to gather feedback on the usability of the EHR system from a clinical perspective."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a summary of testing feedback and share it with @ehrdev-1 and @ehrdev-2 for resolution."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the latest influenza trend analysis report and identify any anomalies or trends that need further investigation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @his-2 and @mrs-1 to discuss data collection processes and ensure alignment with project goals."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a project status update email to all stakeholders, including @clinlead-1, @pchmp-1, and @ehrv-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project documentation and prepare for the next day's tasks."
+    }
+]

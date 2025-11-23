@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails, and review the report feedback from the management team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make any final adjustments needed based on management feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare for next week's tasks and prioritize based on current feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send an update email to the team summarizing this week\u2019s progress and the tasks for next week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Take time to review personal growth and development through this week\u2019s challenges and achievements."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up for the week; log off and relax, reviewing the successes of the week."
+    }
+]

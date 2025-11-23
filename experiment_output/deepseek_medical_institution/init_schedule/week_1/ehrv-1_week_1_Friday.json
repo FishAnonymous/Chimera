@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize weekly progress report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email weekly progress report to @itpm-1 and leadership team."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a debrief meeting with @ehrdev-1, @ehrdev-2, and @itpm-1 to review week's progress."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct debrief meeting and document key takeaways and action items for next week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up on any pending action items from debrief meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize and archive all project documentation for the week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan tasks and priorities for next week based on current progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week, check emails, and log out."
+    }
+]

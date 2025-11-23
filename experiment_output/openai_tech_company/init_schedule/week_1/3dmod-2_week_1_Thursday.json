@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on environmental asset responses."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @uiux-1 on integrating props and environmental assets into the game design."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Create mockups of how props and environments interact in-game."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine mockups based on feedback from @uiux-1 and begin integrating ideas into the main design document."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Share updated design documents with the entire team for further feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Adjust design document according to team feedback."
+    }
+]

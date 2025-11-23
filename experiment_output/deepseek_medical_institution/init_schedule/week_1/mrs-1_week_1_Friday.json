@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any outstanding issues with the protocol or form."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 and @da-2 to discuss next steps for seasonal influenza trend analysis."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Update documentation and close out tasks for the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a weekly progress report for @itpm-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Organize and archive all project files for the week."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Plan tasks for the upcoming week and set reminders."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Respond to any urgent requests. Review yesterday's schema changes and test results."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address the issues identified during yesterday's testing. Modify the schema and data loading scripts to resolve the errors."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Re-run the tests to verify that the issues have been resolved. Document the results."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start browsing some articles about medical database or new technology on database."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue mapping EHR data elements, focusing on procedure and diagnosis codes. Ensure that the appropriate code sets are used and that the mappings are accurate."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Relaxing and re-energizing."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue mapping procedure and diagnosis codes. Verify mappings with @clinlead-1 via email to ensure clinical accuracy. Topic: Verification of Procedure and Diagnosis Code Mappings"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin working on the data transformation scripts. Write scripts to transform the EHR data into the format required by the new schema."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the data transformation scripts on a small sample of data. Verify that the data is correctly transformed and loaded into the new tables."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the data transformation process and the scripts used. Prepare to share the documentation with the team tomorrow. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check of emails and project management tools. Prepare for tomorrow's tasks."
+    }
+]

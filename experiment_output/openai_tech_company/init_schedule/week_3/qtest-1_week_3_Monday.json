@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the testing strategy established by the QA team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the testing environment for the critical features of the game, ensuring all necessary tools and software are ready."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Execute test cases for player movement mechanics, observing and documenting performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue executing test cases focusing on shooting mechanics and weapons functionality."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin identifying and documenting any bugs or inconsistencies found during the testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Compile a preliminary report of findings and prepare to communicate them with the development team."
+    }
+]

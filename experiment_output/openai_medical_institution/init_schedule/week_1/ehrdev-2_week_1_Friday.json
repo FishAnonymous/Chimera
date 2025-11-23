@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Team sync meeting with all @EHR_DEV to discuss progress and any blockers."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start working on finalizing the influenza trend analysis structure and requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Receive inputs from @DAB-1 regarding the current database architecture."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin writing the integration script for influenza data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the integration script for influenza data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the data collection functionality and document results."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send a summary email of the week's progress to @ITPM and all stakeholders."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around, browse tech forums for new tools and resources."
+    }
+]

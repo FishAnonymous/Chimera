@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks. Review strategy document from Tuesday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin preparing thematic investment recommendations. Structure the report with clear, actionable insights."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Short break. Browse industry reports for additional context."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Continue drafting recommendations. Ensure data supports each recommendation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review draft recommendations with @qres-1, @qres-2, @qres-3 for peer feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Incorporate feedback and refine recommendations. Focus on clarity and impact."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up. Prepare for Thursday's final review."
+    }
+]

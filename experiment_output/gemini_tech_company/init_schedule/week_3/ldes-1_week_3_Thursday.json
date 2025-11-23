@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office and check emails. Answer any pending questions."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review and incorporate feedback from @sdes-1 (Systems Designer) and @sdes-2 (Systems Designer) on the player progression system document."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the player progression system document, ensuring it aligns with the core game mechanics and the overall gameplay experience."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start compiling all the individual documents (game concept, level layout sketch, player progression system) into a single initial game design document."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the initial game design document, adding sections on target audience, monetization strategy (if applicable), and competitive analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @uiux-1 (UI/UX Designer) to discuss potential UI/UX elements for the game, focusing on how they can support the player progression system and core game mechanics. @PEOPLE: uiux-1 Topic: UI/UX Discussion for Progression and Mechanics"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate the key points from the UI/UX discussion into the game design document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress. Prepare a near-final draft of the initial game design document to share with the team tomorrow."
+    }
+]

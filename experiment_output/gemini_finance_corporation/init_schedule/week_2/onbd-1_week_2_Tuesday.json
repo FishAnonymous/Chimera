@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning! Blast some pop music while getting ready. Then, log into the system and check emails again. Anything urgent?"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the notes from yesterday and plan for today's activities. Focus will be on finishing the onboarding process refinement and starting the suitability assessment questionnaire."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the refined client onboarding process document. Ensure all KYC/AML requirements are addressed and that the process is tailored to UHNWIs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the refined onboarding process to @comp-1 for review and feedback. @PEOPLE = [comp-1], Topic = Refined UHNWI Onboarding Process - Review Request."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin researching suitability assessment questionnaires used by other firms that cater to UHNWIs. Identify key questions and areas to cover."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start drafting the suitability assessment questionnaire. Focus on understanding the client's investment objectives, risk tolerance, financial situation, and investment experience."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with the girls (@mkt-1 and @facc-1). Discuss the latest trends and have a good laugh!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the suitability assessment questionnaire. Make sure the language is clear, concise, and easy for UHNWIs to understand. Perhaps include visual aids."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break and check Instagram for some travel inspiration. Maybe plan a weekend getaway."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Back to work. Review the draft suitability assessment questionnaire from a client's perspective. Is it too long? Are the questions relevant? Are there any areas missing?"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Summarize the progress on the suitability assessment questionnaire. Prepare a list of questions for @ir-1 (Head of Investor Relations) regarding what type of information they believe would be most helpful to gather in the assessment. @PEOPLE = [ir-1], Topic = Questions regarding the UHNWI Suitability Assessment."
+    }
+]

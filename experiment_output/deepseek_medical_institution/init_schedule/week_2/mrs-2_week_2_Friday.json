@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review any final feedback from @itpm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to present the finalized protocol and get final sign-off."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse medical records management blogs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize any last-minute adjustments to the protocol based on leadership feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Distribute the finalized protocol and documentation to all relevant team members via email."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Celebrate the week's achievements with a small team gathering."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's work and note any lessons learned for future projects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize notes, and plan for next week's tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the current progress of statistical models for risk-return evaluation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss final adjustments needed for the statistical models."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on finalizing the statistical models, focusing on risk-return evaluation metrics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the statistical models. Document the methodology and assumptions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @dsde-1, @dsde-2 to request additional data validation for the models."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and prepare a summary for tomorrow's tasks."
+    }
+]

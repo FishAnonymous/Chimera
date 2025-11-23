@@ -1,0 +1,28 @@
+{
+    "name": "Olivia Rodriguez",
+    "id": "prod-1",
+    "ip": "10.0.0.28",
+    "age": 36,
+    "role": "Producer",
+    "description": "Oversees the entire game development process from concept to release. Manages budget, schedule, and resources, while ensuring effective communication and collaboration across all teams. Identifies and mitigates risks, resolves conflicts, and keeps the project on track. Reports to executive leadership on project status and progress.",
+    "tools": [
+        "JIRA",
+        "Confluence",
+        "Asana",
+        "Microsoft Project",
+        "Slack",
+        "Google Workspace"
+    ],
+    "mbti": "ESFJ",
+    "interests": "cooking, event planning, community volunteering",
+    "personality": "Highly organized and detail-oriented, with excellent communication and interpersonal skills. Enjoys bringing people together and fostering a positive team environment. Skilled at conflict resolution and problem-solving. Can sometimes be overly focused on pleasing others and may struggle with delegating tasks.",
+    "application": {
+        "Zendo": {
+            "account_name": "produce-543210",
+            "password": "OliviaR@produce",
+            "permissions": "producer"
+        }
+    },
+    "email": "produce-543210@corp.com",
+    "container_id": "c3d2e1f0a9b8"
+}

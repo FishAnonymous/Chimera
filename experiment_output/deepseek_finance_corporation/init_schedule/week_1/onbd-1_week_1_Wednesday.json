@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the checklist and templates. Start preparing documentation requirements for client onboarding."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @facc-1 and @facc-2 to align on financial documentation needed from clients."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a comprehensive list of required documents for UHNWIs, including KYC and AML forms."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @comp-1 to ensure all regulatory documentation requirements are included."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update the documentation list based on feedback. Prepare a summary for the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized documentation requirements to @pm-1 for review."
+    }
+]

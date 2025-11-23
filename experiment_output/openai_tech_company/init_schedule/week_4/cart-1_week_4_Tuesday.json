@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and respond to any feedback from team members."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on finalizing character designs, ensuring all aspects align with the feedback incorporated."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and polish the final artworks for the environment designs, refining details and color palettes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a draft presentation layout for stakeholders, detailing the development process for characters and environments."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

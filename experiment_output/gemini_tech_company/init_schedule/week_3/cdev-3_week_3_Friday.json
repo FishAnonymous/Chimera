@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Have a quick chat with @tart-1 about some art implementation issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct thorough testing of the main menu, HUD, settings panel, tutorial system, and error message system. Document any bugs or issues found."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Address the bugs and issues identified during testing. Work with @qtest-1 to verify the fixes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Refactor and optimize the UI code for performance. Ensure the UI is responsive and does not impact game performance."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Check some news on social media."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy the Friday lunch with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary of the work completed this week, including accomplishments and challenges faced."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the UI architecture and key implementation details. Create diagrams and flowcharts to illustrate the system design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the week's progress and documentation with the team. Answer any questions and provide support."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks. Prioritize the remaining UI elements and player feedback systems to be implemented."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out from the OA system. Happy Friday!"
+    }
+]

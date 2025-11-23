@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent issues. Review notes from yesterday's meeting with the EHR vendor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate the feedback from the EHR vendor into the requirements document. Address any concerns or questions they raised during the meeting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Focus on defining the testing strategy for the EHR system updates. What types of tests will be conducted? Who will be responsible for testing?"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @qatest-1 and @qatest-2 to develop detailed test cases for the EHR system updates. Ensure comprehensive test coverage."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break - watch a quick youtube video"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start drafting a change management plan for the EHR system updates. How will we communicate the changes to end-users? What training will be required?"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with @trainer-1 to develop training materials for the EHR system updates. Ensure the materials are clear, concise, and easy to understand."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting with key stakeholders (e.g., clinical staff, IT staff, management) to review the requirements document and the change management plan. @itpm-1 will know who"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of all the documents and prepare for tomorrow's meeting. Shutdown the PC."
+    }
+]

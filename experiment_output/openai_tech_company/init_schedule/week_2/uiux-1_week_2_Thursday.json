@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review the final presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the review meeting with stakeholders regarding wireframes and prototypes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take notes on feedback received during the stakeholder meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start incorporating the feedback from stakeholders into wireframes and prototypes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share revised wireframes and prototypes with @qtest-1 for QA testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review any additional insights from @qtest-1."
+    }
+]

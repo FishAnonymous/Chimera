@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with a strong cup of coffee and check emails. Prioritize vendor communications and internal updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the project scope document and refresh my understanding of the hospital's overall EHR collection and influenza trend analysis goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare for an initial meeting with the EHR vendor to discuss the project kickoff and establish communication protocols. Review existing vendor contracts and service level agreements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with the EHR vendor (@EHRVendor) to kickoff the project, introduce stakeholders from both sides, and set the agenda for regular communication. Discuss project timelines and reporting expectations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the key discussion points from the vendor kickoff meeting and disseminate the information to relevant internal stakeholders via email @ITPM-1, @ClinLead-1, @HIS-1, @HIS-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Catch up on the latest news and browse some tech blogs to stay updated with industry trends."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with @ClinLead-1 (Clinical Lead) and @HIS-1, @HIS-2 (Health Informatics Specialists) to gather detailed requirements for influenza data collection, reporting, and analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @ClinLead-1, @HIS-1, @HIS-2 to gather comprehensive information on influenza data needs. Specifically discuss data elements, reporting formats, frequency, and any regulatory requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile the information received from @ClinLead-1, @HIS-1, @HIS-2 into a structured document outlining the hospital's specific requirements for the EHR vendor. Clarify any ambiguities or inconsistencies with relevant stakeholders."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a follow-up email to @ClinLead-1, @HIS-1, @HIS-2 to confirm the accuracy and completeness of the documented requirements. Ensure all parties are aligned on the expectations before communicating them to the vendor."
+    }
+]

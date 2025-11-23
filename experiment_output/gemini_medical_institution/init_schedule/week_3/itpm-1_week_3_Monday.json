@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and calendar for any urgent updates or meetings. Prioritize tasks for the week based on the project goals. Review week 3 goal: Abstracting influenza season data and prioritizing electronic records. Contact @da-1 and @da-2 to confirm data extraction plan and ensure alignment on target of 200 records per week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 (Mateo Rodriguez) and @da-2 (Grace Ito) to discuss the data abstraction process for the influenza season 2023-2024. Clarify expectations for prioritizing electronic records and address any questions they may have. Discuss data sources and potential challenges."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review EHR system documentation to understand data fields relevant to influenza tracking. Focus on identifying fields related to diagnosis, vaccination status, and relevant patient demographics. Prepare a list of relevant data fields for @da-1 and @da-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @ehrv-1 (EHR Vendor Liaison) requesting clarification on accessing specific data fields within the EHR system. Inquire about any known issues with data quality or access limitations. @ehrv-1 Topic: EHR Data Access and Quality for Influenza Data Abstraction."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing EHR system documentation and begin drafting a preliminary data abstraction form for @da-1 and @da-2 to use. Ensure the form includes all necessary data fields and clear instructions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Schedule a brief meeting with @clinlead-1 (Clinical Lead) and @his-1 (Health Informatics Specialist) to discuss the clinical relevance of the abstracted data and ensure the data fields being collected are appropriate for influenza trend analysis. @clinlead-1, @his-1 Topic: Clinical Relevance of Influenza Data Abstraction."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the data abstraction form based on feedback from @clinlead-1 and @his-1. Send the updated form to @da-1 and @da-2 for their review and feedback. Request they pilot test the form with a small sample of records."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document today's activities and update the project plan with progress made. Review the plan for tomorrow and identify any outstanding tasks. Prepare for tomorrow's meeting."
+    }
+]

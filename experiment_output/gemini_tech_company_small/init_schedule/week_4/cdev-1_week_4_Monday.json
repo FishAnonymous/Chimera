@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Scan for any urgent requests or updates from @lpro-1 or @ldes-1 regarding immediate bug fixes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review existing bug reports and player feedback logs from the previous week's testing. Prioritize based on impact on player experience."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin bug fixing. Focus on high-priority issues first. Implement fixes in the codebase for movement jitters."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test the implemented bug fixes related to movement. Ensure the fix doesn't introduce new issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address medium-priority bug fixes. Investigate and fix issues related to weapon switching delay."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test weapon switching fixes. Ensure they are seamless and responsive."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the bug fixes implemented today. Update the bug tracking system and add comments in the code."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Brainstorming on potential improvements for the cover system. Jot down ideas for better responsiveness and context-awareness. @PEOPLE: @ldes-1, Cover System Enhancement Brainstorm."
+    }
+]

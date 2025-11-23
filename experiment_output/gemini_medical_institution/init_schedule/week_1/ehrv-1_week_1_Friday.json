@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day by organizing the week's notes and action items. Check emails for any updates from the vendor or internal team members."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a weekly progress report summarizing the activities completed, challenges encountered, and next steps for the EHR collection and influenza trend analysis project."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Distribute the weekly progress report to @ITPM-1, @ClinLead-1, @HIS-1, @HIS-2, @EHRDev-1, @EHRDev-2, and @DA-1, @DA-2 for review and feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a brief check-in meeting with @ITPM-1 to discuss the progress report, address any concerns, and plan for the upcoming week's activities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Relax and catch up with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the feedback received on the weekly progress report and incorporate any necessary changes or updates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin planning for the next week's activities, focusing on the key priorities and milestones outlined in the project plan."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research potential solutions for any outstanding challenges or limitations identified during the week. Explore alternative approaches and best practices."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the plan for the upcoming week and communicate it to the relevant team members. Wrap up the week and prepare for a relaxing weekend."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start to write the integration tests for the API with @larch-1. Check the requirements of testing with @pm-1."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Communicate with @pm-1 to check the requirements of testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @larch-1. Confirm the method to write the integration tests. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Write the integration tests. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start to review the code quality of Trade execution module from yesterday."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Discuss the code quality with @sdev-1 for the Trade execution module."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Record the discussion results for the code review"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue to review the code quality and plan for tomorrow."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and finalize drafting of the report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare the final version of the market research report for submission."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email the completed report to @pm-1 and arrange for the document to be distributed to relevant stakeholders."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss next steps with the project team, focusing on how to implement findings into investment strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @onbd-1 regarding potential client interest based on the research findings."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a brief team meeting to align on next steps regarding investor outreach based on the report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's accomplishments and outline tasks for the coming week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off for the weekend."
+    }
+]

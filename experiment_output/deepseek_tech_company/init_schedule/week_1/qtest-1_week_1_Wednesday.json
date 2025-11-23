@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any feedback from @cdev-1 and @cdev-2 regarding environment setup."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize test cases for core systems (movement, combat, UI). Ensure all cases are documented and categorized."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse QA blogs for best practices in third-person shooter testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin setting up automated testing tools. Research and select appropriate frameworks for the project."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @tdev-1 to discuss integration of automated testing tools with the current build pipeline."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Install and configure selected automated testing tools. Run initial test scripts to verify functionality."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document tool setup and initial test results. Share findings with @qtest-1 for review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up by organizing notes and preparing for Thursday's tasks."
+    }
+]

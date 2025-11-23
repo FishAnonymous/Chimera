@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize any remaining patient data entries. Review feedback from @mrs-1 @mrs-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Complete any pending patient data entries, ensuring all information is accurate and complete."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break. Check in with @rn-3 for any last-minute updates."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize all patient data entries. Cross-check with @his-1 @his-2 for any discrepancies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Relax and recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a debrief session with @clinlead-1 and @itpm-1 to discuss the week's progress and any remaining challenges."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Provide a comprehensive report on the EHR data entry process, including any issues and recommendations for improvement, to @itpm-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by organizing your workspace and preparing for next week's tasks. Send a final update to @itpm-1."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and follow up on outstanding items from the previous meetings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @IT Project Manager to align on timelines for project deliverables."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement any feedback received on data collection documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review ongoing EHR integration work and discuss challenges with @EHR Integration Developer."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on data visualization for influenza trend analysis."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare and send a weekly progress report to the entire team, highlighting completed tasks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Spend time addressing any last minute emails or follow-ups required."
+    }
+]

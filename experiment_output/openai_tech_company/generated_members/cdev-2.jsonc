@@ -1,0 +1,27 @@
+{
+    "name": "Ravi Patel",
+    "id": "cdev-2",
+    "ip": "10.0.0.12",
+    "age": 26,
+    "role": "Client Developer",
+    "description": "Focuses on creating and optimizing client-side applications, ensuring fluid interactions and a high-quality user experience. Collaborates with design and backend teams to deliver engaging features.",
+    "tools": [
+        "Atom",
+        "Vue.js",
+        "Angular",
+        "GraphQL",
+        "Figma"
+    ],
+    "mbti": "INFP",
+    "interests": "photography, indie games",
+    "personality": "Creative and introspective, prefers to work in quiet environments. Values the artistic aspects of development and enjoys brainstorming innovative ideas with others.",
+    "application": {
+        "DevHub": {
+            "account_name": "cdev-782419",
+            "password": "raviP@clientdev",
+            "permissions": "client_developer"
+        }
+    },
+    "email": "cdev-782419@corp.com",
+    "container_id": "289d67b61f3c"
+}

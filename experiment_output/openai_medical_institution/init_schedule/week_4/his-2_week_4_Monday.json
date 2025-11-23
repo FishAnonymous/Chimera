@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @EHR Vendor Liaison to discuss EHR system requirements and integration points."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review current EHR database schema and identify areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @Data Analyst to analyze existing data collection methodologies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Develop database queries for EHR data extraction."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test data extraction queries for accuracy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @Clinical Lead to validate clinical information requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on integrating data extraction methods into the existing system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and update task statuses on the project management tool."
+    }
+]

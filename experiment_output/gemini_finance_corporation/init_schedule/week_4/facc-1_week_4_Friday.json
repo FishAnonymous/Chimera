@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails. Celebrate Friday with a donut!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the accounting and reporting framework. Get sign-off from @CIO-1 and @COO-1."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Distribute the finalized accounting and reporting framework to all relevant team members."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a presentation summarizing the key features of the accounting and reporting framework for the fund's investment committee."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the accounting and reporting framework to the investment committee. Answer any questions or concerns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Early start to the weekend!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile all the documents and information requested by @AUDIT-1 for the fund's first audit. Organize the documents in a clear and logical manner."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Submit the audit documentation to @AUDIT-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the progress made on the week's goals. Prepare a summary report for @PM-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Team Happy Hour! Head out with the team to celebrate the end of a productive week."
+    }
+]

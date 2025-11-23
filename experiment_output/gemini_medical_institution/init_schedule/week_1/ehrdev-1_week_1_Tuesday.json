@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to urgent requests. Have a cup of coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @clinlead-1 (Clinical Lead) to discuss clinical requirements for influenza data collection. Understand the specific data points needed for effective influenza surveillance and patient management."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the gap analysis document based on feedback from the clinical lead. Update the list of required data fields and workflow modifications."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin planning potential EHR system updates/modifications based on the gap analysis. Explore options for creating new data fields, customizing existing workflows, and implementing validation rules."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Contact @ehrv-1 (EHR Vendor Liaison) to inquire about available customization options and potential limitations within the EHR system. Topic: 'EHR Customization Options for Influenza Data Collection'."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Head to the park for a quick walk to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue planning EHR system updates. Focus on developing a detailed plan for creating new data fields related to influenza symptoms, vaccination dates, and diagnosis codes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Outline the steps involved in customizing existing workflows to ensure accurate and complete influenza data capture. Consider incorporating prompts and alerts to guide users."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research and document potential validation rules to ensure data quality and consistency. Plan to implement checks for data type, format, and required fields."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the proposed EHR system updates/modifications. Create a preliminary design document outlining the new data fields, workflow customizations, and validation rules."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tasks and plan for tomorrow. Check email and respond to urgent requests."
+    }
+]

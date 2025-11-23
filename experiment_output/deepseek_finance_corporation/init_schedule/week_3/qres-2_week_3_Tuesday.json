@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's progress and adjust analysis based on any new data received overnight."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Deep dive into specific investment themes identified. Use quantitative models to assess viability."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break. Check in with @qres-3 to discuss any overlapping findings or discrepancies."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue quantitative modeling and refine investment opportunity criteria."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start drafting the report on viable investment opportunities. Structure the document with executive summary, methodology, findings, and recommendations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @pm-1 to schedule a preliminary review of the report draft by mid-week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue writing the report, focusing on clear and concise presentation of data and insights."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Save progress, update task list, and prepare for tomorrow."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Javier Rodriguez",
+    "id": "cdev-2",
+    "ip": "10.0.0.12",
+    "age": 29,
+    "role": "Client Developer",
+    "description": "Specializes in implementing and refining gameplay mechanics, focusing on character movement, combat systems, and player interactions. Collaborates with the design team to ensure a smooth and engaging player experience, while also addressing performance considerations.",
+    "tools": [
+        "C++",
+        "Unreal Engine",
+        "Blueprints",
+        "Visual Studio",
+        "Perforce"
+    ],
+    "mbti": "ISTP",
+    "interests": "rock climbing, motorcycles, VR gaming",
+    "personality": "Practical and analytical, excels at optimizing code and identifying bottlenecks. Prefers a hands-on approach to problem-solving and enjoys tackling technical challenges independently. Appreciates clear, concise communication.",
+    "application": {
+        "Zendo": {
+            "account_name": "cldev-735028",
+            "password": "JavierR@client",
+            "permissions": "client_developer"
+        }
+    },
+    "email": "cldev-735028@corp.com",
+    "container_id": "2a9c1f8d64e0"
+}

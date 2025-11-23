@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review progress on animations and prepare for hit detection and health values."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the HitDetector class implemented earlier in the week. Ensure it's functioning correctly and efficiently."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement the logic for applying damage to the character when a hit is detected. Use the DamageCalculator class to calculate the damage amount."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Ensure that both the player and enemy characters have health values. Use Unreal Engine's Attribute Sets to manage health."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax and play a game."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a death system for the characters. When a character's health reaches zero, the character should die and trigger a death animation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement a simple UI element to display the player's health. Use Unreal Engine's UMG system to create the UI."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the hit detection and damage application in the test environment. Ensure that damage is applied correctly and that the characters die when their health reaches zero."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final testing and debugging. Address any remaining issues and ensure that the combat system is functioning smoothly."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Commit all changes to Git. Send a summary email to @ldes-1 and @cdev-1 outlining the week's accomplishments and any remaining issues. Subject: Week 2 Development Summary"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the influenza-related data quality audit checklist."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin initial data quality audit for influenza-related data, focusing on completeness and accuracy."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, browse medical informatics forums."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data quality audit, cross-referencing with EHR vendor documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume audit, flagging inconsistencies for further review."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ehrv-1 and @his-1 to clarify discrepancies found in the data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings from the audit in the QA report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress and plan for Tuesday's tasks."
+    }
+]

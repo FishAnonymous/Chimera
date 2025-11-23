@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the project management software (e.g., Jira, Asana) and review any overnight notifications or urgent messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check email for any urgent requests or information from team leads. Respond to any immediate concerns."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 (Lead Game Designer) to gather detailed information on game design tasks, dependencies, and deadlines. Discuss the overall game vision and ensure alignment with the project goals."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @lpro-1 (Lead Programmer) to gather detailed information on programming tasks, dependencies, and deadlines. Discuss the technology stack and any potential challenges."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 (3D Modeler/Animator) to gather detailed information on asset creation, animation tasks, dependencies, and deadlines. Review the art style and ensure consistency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @aud-1 (Audio Engineer) to gather detailed information on sound design, music composition, and implementation tasks, dependencies, and deadlines. Discuss the desired audio atmosphere for the game."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @lvdn-1 (Level Designer) to gather detailed information on level design tasks, dependencies, and deadlines. Review the level layouts and gameplay mechanics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @uiux-1 (UI/UX Designer) to gather detailed information on UI/UX design tasks, dependencies, and deadlines. Review the user interface and user experience design."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Initial review of the information gathered from team leads. Begin drafting a preliminary project schedule."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Address any outstanding emails or urgent requests. Prepare for tomorrow's meetings."
+    }
+]

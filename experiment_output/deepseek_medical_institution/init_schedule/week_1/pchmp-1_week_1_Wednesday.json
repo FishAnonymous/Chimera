@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review overnight data updates from @da-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend clinical leadership meeting to discuss influenza trends and EHR adoption."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work with @his-1 and @his-2 to refine data collection protocols for accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review training feedback from @trainer-1, adjust clinical workflows as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct EHR usability session with @rn-1, @rn-2, and @rn-3."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to validate clinical scenarios in QA testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review database performance reports from @dba-1, ensure clinical data integrity."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document clinical insights and EHR feedback, share with @clinlead-1 and @itpm-1."
+    }
+]

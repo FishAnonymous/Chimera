@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review communication metrics (email open rates, intranet page views, feedback form submissions)."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Analyze the communication metrics to identify areas where the communication plan is working well and areas where it needs improvement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback received through email, intranet feedback forms, and informal channels (e.g., conversations with colleagues). Identify common themes and concerns."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the communication metrics and feedback, identify potential adjustments to the communication plan. This may include revising communication materials, using different communication channels, or targeting specific audiences with tailored messages."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an updated FAQ document based on feedback received. Address any new questions or concerns that have emerged."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the updated FAQs to @clinlead-1 and @pchmp-1 for review. Topic: Review Updated FAQs."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a brief presentation summarizing the communication effectiveness metrics and proposed adjustments to the communication plan. To be shared with senior stakeholders next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @trainer-1 to discuss potential training needs identified through the communication process. Coordinate on any updates needed to training materials. Topic: Training Needs for EHR and Influenza Analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the communication plan document to reflect the adjustments made based on feedback and communication metrics. Save the revised plan."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Leave the office."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any urgent matters. Prepare for the stakeholder presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Host stakeholder presentation with @ir-1, @mkt-1, and @cio-1. Present fund setup progress and address questions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Debrief with @ir-1 and @mkt-1 on stakeholder feedback. Identify action items."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @qres-1, @qres-2, and @qres-3 on quantitative research updates. Ensure alignment with stakeholder feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @comp-1 and @legal-1 to finalize compliance and regulatory documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out summary of stakeholder presentation feedback and action items to the team."
+    }
+]

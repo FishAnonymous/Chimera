@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the updated framework. Review the comments from @facc-2 and determine if there are any unresolved issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Revisit SEC regulations regarding expense reporting and allocation. Ensure the preliminary framework aligns with these requirements. Document findings and potential gaps."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Develop a detailed list of data sources required for accurate performance and expense tracking. Consider internal and external data providers. Document the required data fields for each source."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @comp-1 about the compliance requirements for tracking and reporting fund performance. Ensure alignment with regulatory standards and best practices. Subject: Compliance Requirements for Fund Performance Tracking"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the framework based on the discussion with @comp-1. Document any necessary changes to ensure compliance. Update the list of data sources required for tracking performance and expenses. "
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a summary report of the research and framework development progress. Highlight key findings, challenges, and next steps. Prepare a presentation for the team meeting tomorrow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of all documentation. Ensure accuracy and completeness. Update the summary report with the latest information."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any emails. Ensure all documents are organized and backed up. Prepare for the team meeting tomorrow."
+    }
+]

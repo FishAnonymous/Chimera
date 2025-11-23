@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the fund setup documentation to understand the identified risks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Compliance Officer to discuss the risks identified in the fund setup and gather additional insights for risk assessment."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the risks and prepare a list of recommendations to address each identified risk regarding the fund setup."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Draft an email summarizing the risk assessment findings and recommendations for @Compliance Officer and @Chief Operating Officer."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a detailed plan for drafting audit procedures to ensure compliance with regulatory frameworks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research best practices for audit procedures relevant to hedge funds and regulatory compliance."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Start drafting the audit procedures, outlining key compliance areas that need to be addressed."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day and organize notes for tomorrow."
+    }
+]

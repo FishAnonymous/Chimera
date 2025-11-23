@@ -1,0 +1,36 @@
+[
+    {
+        "week": 3,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Expand on the core mechanics by adding a basic resource system (e.g., health, mana, or stamina) and integrate it with the combat and movement systems.",
+            "Implement a simple UI to display these resources.",
+            "Add some basic sound effects for the core mechanics."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Implement a resource management system (health, mana, stamina).",
+            "Design and integrate UI elements to display resource values.",
+            "Add basic audio manager and integrate sound effects.",
+            "Integrate the resource system with combat and movement (e.g., stamina drain for running).",
+            "Implement UI elements to display health, mana, and stamina.",
+            "Add sound effects for attacks, impacts, and player actions."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "UI design for the resource system (health, mana, stamina).",
+            "Visual effects for resource depletion and replenishment.",
+            "Concept art for any special abilities or power-ups.",
+            "Visual polish of existing character models and animations.",
+            "Implementation of visual feedback for resource usage (e.g., character glows when using mana).",
+            "Add more detail and variety to the environment.",
+            "Implement visual cues to guide the player and communicate game information."
+        ]
+    }
+]

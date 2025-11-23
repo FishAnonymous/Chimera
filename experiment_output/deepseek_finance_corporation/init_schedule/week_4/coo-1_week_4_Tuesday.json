@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up on pending tasks from Monday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 to review quantitative models and ensure they align with the fund's strategy."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss with @sdev-1 and @sdev-2 the development status of trading algorithms and any required adjustments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @onbd-1 to confirm client onboarding processes are streamlined and ready for launch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review marketing materials with @mkt-1 and provide feedback on messaging for UHNWIs."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @audit-1 to ensure all audit trails are in place and compliant with SEC regulations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @dsde-1 and @dsde-2 to validate data pipelines and ensure data integrity."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an update for the CEO on the week's progress and any critical issues."
+    }
+]

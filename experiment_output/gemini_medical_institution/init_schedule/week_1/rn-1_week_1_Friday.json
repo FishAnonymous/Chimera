@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in, and check emails. Check for any updates or requests from @da-1 or @da-2 regarding data entry or reporting needs. Reply to emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goals for the week. Reflect on my performance and identify areas where I can improve. Think about weekend plan."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review patient schedule and patient charts, preparing for the final day of assessments for the week."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments, ensuring all patients are accurately assessed for influenza symptoms and their data is entered into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Enter patient data into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Make weekend plans with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry, ensuring all data is complete and accurate."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Before the end of my shift, take the time to check the interesting websites."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover, providing a comprehensive overview of all patients assessed and their EHR data. @rn-1 and @rn-3 for shift handover."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete shift handover."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out and leave for the weekend."
+    }
+]

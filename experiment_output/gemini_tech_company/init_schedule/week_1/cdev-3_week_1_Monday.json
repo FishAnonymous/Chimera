@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Respond to any urgent messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the weekly goals. Create a prioritized task list for the week, breaking down each goal into smaller, manageable steps."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the basic project structure in the game engine (e.g., Unreal Engine or Unity). This includes creating the necessary folders for scripts, assets, and scenes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Configure the version control system (Git) for the project. Create a new repository and commit the initial project structure."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the main menu UI element. Design the basic layout with buttons for 'Start Game', 'Options', and 'Exit'."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing the main menu UI element. Add functionality to the buttons (e.g., 'Start Game' loads the first level)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @UIUX-1 and @LDES-1 to get the UI/UX design guidelines and discuss the Main Menu implementation, ensuring that I implement the right thing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin implementing the Options menu UI element. Create sliders for volume control and dropdowns for resolution settings. Save the configuration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the main menu and options menu. Fix any bugs or usability issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to the version control system with a descriptive commit message."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

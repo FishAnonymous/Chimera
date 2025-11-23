@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from yesterday's meetings."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the personnel cost estimates by cross-referencing with industry standards."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @cio-1 to discuss investment-related costs and potential hidden expenses."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the budget draft with new insights from the CIO and other team members."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Outline miscellaneous expenses such as office space, utilities, and travel costs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the entire budget draft for consistency and completeness."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send a summary email to @pm-1 and @coo-1 for initial feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize notes and prepare for the next day's tasks."
+    }
+]

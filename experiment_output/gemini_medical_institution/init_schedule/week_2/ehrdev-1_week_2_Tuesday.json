@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the system, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the requirements specifications document, focusing on the technical feasibility of the proposed updates or modifications."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @ehrv-1 to discuss the feasibility of implementing the EHR updates. Include @itpm-1 in the email to keep the project manager informed. Consider sending the requirements specification document to him ahead of time so he has a better understanding before the meeting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @ehrv-1 and @itpm-1: Subject: EHR Update Feasibility Discussion. Body: 'Hi [EHR Vendor Liaison Name] and [IT Project Manager Name], I'd like to schedule a meeting to discuss the feasibility of implementing the required updates for influenza trend analysis. Please let me know what time works best for you both. I will include the requirements specification document for your reference. Thanks, Emily Carter.'"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue working on refining the requirements specifications document based on the identified feasibility considerations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Enjoy a relaxing lunch break with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @ehrv-1 and @itpm-1 to discuss the technical feasibility, potential costs, and timelines associated with the EHR updates. Prepare questions in advance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the key discussion points and decisions from the meeting with @ehrv-1 and @itpm-1. Identify any follow-up actions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the requirements specifications document based on the feedback from the EHR vendor and the IT project manager."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the updated requirements specifications document with @da-1 and @da-2 to ensure that the proposed updates will support their data analysis needs. Send an email to @da-1 and @da-2. Subject: EHR update for data analysis needs. Body: Hi [Data Analyst-1 Name] and [Data Analyst-2 Name], Could you please spend some time on the updated EHR requirements specification document? Please let me know if it will support your data analysis needs and if you have any comments. Thanks, Emily Carter."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's progress and plan for tomorrow's activities."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day and head home."
+    }
+]

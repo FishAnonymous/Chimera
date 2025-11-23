@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and help desk tickets for any new concerns or follow-ups."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @ehrdev-1 and @ehrdev-2 to test any recent fixes or updates to the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Provide hands-on support to clinical staff experiencing difficulties with EHR data collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any new issues encountered during testing and share with the development team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @clinlead-1 and @pchmp-1 to ensure all clinical concerns are being addressed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review and update the help desk FAQ section based on recent user inquiries."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize a team meeting with @itpm-1 and @trainer-1 to discuss ongoing training needs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End the day by preparing a report on the week's progress for management review."
+    }
+]

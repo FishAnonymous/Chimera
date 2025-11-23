@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Prioritize tasks based on urgency and impact."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Review project plan and SMART goals document. Ensure all teams are aligned and prepared for the week's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Weekly project status meeting with all team leads (@larch-1, @qres-1, @dsde-1, @comp-1, @ir-1, @onbd-1). Discuss progress against SMART goals, identify roadblocks, and coordinate solutions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document action items from the project status meeting and assign responsibility to relevant team members."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with team leads on assigned action items and ensure timely completion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Network with other project managers in the Finance industry to share best practices and lessons learned."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Work with @devops-1 to ensure the infrastructure is in place for the data science and quantitative research teams to perform backtesting and model validation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @facc-1 and @facc-2 to discuss fund accounting procedures and reporting requirements. Ensure alignment with regulatory standards."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the risk management plan with @comp-1 and @qres-1. Identify any new potential risks and update mitigation strategies accordingly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Monitor team progress against SMART goals. Identify any teams that are falling behind and provide support to get them back on track."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a weekly progress report for COO and CIO, highlighting key achievements, challenges, and upcoming activities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize daily tasks and prepare for tomorrow's schedule."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Compile recent performance data from reputable sources (e.g., Hedge Fund Research, BarclayHedge)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Clean and normalize the data, ensuring consistency in time periods and metrics."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Analyze recent trends (last 1-3 years) and compare against historical benchmarks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Identify outliers or anomalies in recent data and investigate potential causes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ir-1 and @mkt-1 with recent performance highlights for potential investor communications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the compilation and update the master report with recent data insights."
+    }
+]

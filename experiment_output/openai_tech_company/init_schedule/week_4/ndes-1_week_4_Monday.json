@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule meetings with @Client Developer, @Systems Designer, and @Lead Game Designer to discuss narrative integration into gameplay."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an initial outline for the narrative document, focusing on key story elements and character arcs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @UI/UX Designer to discuss how narrative elements can influence user interactions and design."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the narrative document, adding dialogue examples and character motivations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @Client Developer to review how narrative elements can be implemented into the game code."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes from meeting with developers and refining the narrative outline."
+    }
+]

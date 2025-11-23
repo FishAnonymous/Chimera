@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare for the final presentation of the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review all compiled information and materials prepared throughout the week."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break to relax and recharge."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Practice presenting the findings and updates to ensure clarity and cohesiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the final review meeting with all involved parties, including @EHR Integration Developer and @Trainer, for feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Initiate any necessary changes suggested during the meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a summary email to all participants with the discussed points and action items."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by checking any last support tickets and wish everyone a great weekend!"
+    }
+]

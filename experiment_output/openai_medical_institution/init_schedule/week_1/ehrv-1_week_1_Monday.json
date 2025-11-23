@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review any updates from last week regarding EHR collection progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @ehrdev-1 and @ehrdev-2 to discuss integration plans and upcoming milestones for EHR development."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare an agenda for the meeting with developers, including deadlines, expectations, and roles."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Attend the meeting with @ehrdev-1 and @ehrdev-2 to align on the EHR integration strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up on meeting actions by sending emails to @ehrdev-1 and @ehrdev-2 with meeting notes and assigned tasks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @itpm to discuss project timelines and ensure alignment with project management."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check in with @healthinformaticsspecialist to review EHR data analytics and identify potential issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan tasks for tomorrow and review the day\u2019s accomplishments."
+    }
+]

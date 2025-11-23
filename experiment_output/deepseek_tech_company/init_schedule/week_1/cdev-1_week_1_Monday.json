@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the foundational systems requirements and brainstorm initial ideas for input handling and basic physics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the project structure in Unity, create necessary folders (Scripts, Assets, Scenes, Prefabs). Initialize Git repository and set up version control with @beng-1 for collaboration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start implementing basic input handling system (keyboard/mouse controls). Test basic movement and camera controls."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining input handling system. Debug any issues with @cdev-1 and @cdev-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin drafting basic physics system (gravity, collision detection). Research Unity's physics engine for reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's work, commit changes to Git, and update task progress in the project management tool."
+    }
+]

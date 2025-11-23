@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review and polish the draft report, ensuring clarity and coherence."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create visualizations (charts, graphs) to better illustrate findings in the report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break, check latest market updates and news."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize visualizations and integrate them into the report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a self-review of the report, checking for any errors or gaps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @cio-1 and @pm-1 to schedule a meeting for presenting findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare slides for the presentation, summarizing key points from the report."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Rehearse presentation, ensuring smooth delivery."
+    }
+]

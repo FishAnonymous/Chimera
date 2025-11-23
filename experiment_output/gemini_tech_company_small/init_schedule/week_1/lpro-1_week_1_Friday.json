@@ -1,0 +1,62 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review this week's completed tasks. Plan the final tasks for the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement controller input. Add Action Mappings for gamepad buttons and axes (left stick for movement, right stick for camera, etc.) to 'PlayerInputContext'."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Bind gamepad inputs to the corresponding movement and camera control functions in 'AGameCharacter'."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement input buffering. Store recent input events and process them later. This can help improve responsiveness and prevent dropped inputs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Add UI to display current input source (keyboard/mouse or gamepad). This will help players know which controls are active. Inform @ldes-1 to design the UI."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test controller input. Verify that all gamepad buttons and axes are working correctly and that the controls feel comfortable. Pay special attention to stick sensitivity and dead zones."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct thorough testing of all implemented features: project setup, player character, game loop, collision detection, player movement, input handling, camera controls, and collision prevention."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Fix any remaining bugs or issues. Address any performance concerns. Document all fixes and changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the 'feature/player_character' branch. Ensure the code is clean, well-documented, and follows coding standards."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Merge the 'feature/player_character' branch into the 'develop' branch. Resolve any merge conflicts. Push the changes to the remote repository."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write a summary of the week's accomplishments. Document any challenges encountered and lessons learned. Prepare a report for @lpro-1, @cdev-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an email to @lpro-1, @cdev-1, @ldes-1 summarizing the work done on the player character this week. Include any questions or requests for next week's tasks."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Final code review. Commit any last-minute changes."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off and enjoy the weekend."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and OA system, check emails for urgent updates or requests related to influenza assessment protocols or EHR data entry procedures. Respond to any pressing emails. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin performing patient assessments for influenza symptoms, adhering to the standardized protocol and utilizing the EHR for data entry. Focus on accuracy and completeness when documenting patient information."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "During each patient assessment, meticulously record demographic information, medical history, vaccination status, and presenting symptoms within the EHR. Use drop-down menus and check boxes whenever possible to ensure data standardization. Double-check entered information for errors or omissions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "If any technical difficulties or usability issues with the EHR are encountered during data entry, promptly contact @helpdesk-1 for support. Document the nature of the issue and any troubleshooting steps taken. @helpdesk-1 EHR technical support."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "After assessing a few patients, pause and review the data entered in the EHR. Compare the data entries with the patients' actual symptoms and medical history to ensure accuracy and consistency. Identify any patterns or common errors in data entry."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consult with @clinlead-1 to discuss any challenges or questions encountered during the patient assessments and EHR data entry process. Solicit feedback on data entry techniques and identify areas for improvement. @clinlead-1 Questions on EHR data entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the hospital's policy on patient data privacy and security within the EHR. Ensure compliance with HIPAA regulations and best practices for protecting patient information."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of the day's influenza assessments, including the number of patients assessed, the types of symptoms observed, and any challenges encountered during the EHR data entry process. Share the report with @his-2 and @itpm-1 for analysis and improvement purposes. @his-2 @itpm-1 Summary report of today's influenza assessment."
+    }
+]

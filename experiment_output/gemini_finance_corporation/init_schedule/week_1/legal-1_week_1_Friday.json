@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, review emails, and make any final revisions to the compliance plan based on yesterday's feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Distribute the draft compliance plan to relevant team members for internal review. Solicit feedback and suggestions for improvement. @PEOPLE: @comp-1, @cio-1, @coo-1, @pm-1, @ir-1; Topic: Compliance Plan Review"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break and browse some law-related podcasts. Gotta stay sharp."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @cio-1 and @coo-1 to discuss the compliance plan and answer any questions. @PEOPLE: @cio-1, @coo-1; Topic: Compliance Plan Discussion"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Celebrate the end of the week with a slightly longer lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @cio-1 and @coo-1 to discuss the compliance plan. Address any questions or concerns they may have. Incorporate their feedback into the final version of the plan."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Based on the feedback, make any necessary changes or edits to the draft compliance plan."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the compliance plan and submit it to @comp-1 for approval. Ensure all necessary documentation is included."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, clear my desk, and head out. Time for a well-deserved weekend!"
+    }
+]

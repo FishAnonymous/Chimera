@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review responses from @da-1 and @da-2 regarding data validation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin final quality control audits on abstracted influenza data, checking for inconsistencies or missing entries."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break. Compile a list of discrepancies found during the audit."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Resolve identified discrepancies by cross-referencing with original EHR records. Update the dataset accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue quality control audits, ensuring all data points meet the required standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to request a secondary review of the audited data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of the audit findings, highlighting any unresolved issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update documentation to reflect the quality control processes and findings."
+    }
+]

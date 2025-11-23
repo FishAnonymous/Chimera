@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails. Briefly review the weekly goal and the progress made so far."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any urgent emails or follow-up tasks identified in the morning."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review all the extracted records and make sure every data is correct. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": " Communicate with @DA-1 @DA-2 Data Report for This Week"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Plan for next week if there are any new goals."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Since I reached the target, I am ready for going home to enjoy my weekends! "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and leave for the day."
+    }
+]

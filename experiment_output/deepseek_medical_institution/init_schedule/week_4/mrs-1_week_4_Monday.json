@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review historical influenza data files for completeness and accuracy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin abstraction of historical influenza data, focusing on patient demographics and vaccination status. Cross-reference with EHR entries."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break. Review progress and note any discrepancies found during data abstraction."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue abstraction of historical influenza data, now focusing on diagnosis dates and treatment outcomes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume work on data abstraction, finalizing the extraction of all required fields for analysis."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @da-1 and @da-2 to share preliminary findings and request validation of data points."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize abstracted data into a structured format for quality control audits. Save files in the shared drive."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document initial abstraction processes and any challenges encountered. Update the process log."
+    }
+]

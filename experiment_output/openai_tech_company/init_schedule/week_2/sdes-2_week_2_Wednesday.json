@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Refine the first prototype based on any comments or feedback received."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finish development of the second key mechanic prototype."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize a review session with @qtest-1 and @sdev-1 to demo both prototypes and gather initial feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document feedback received from the review session."
+    }
+]

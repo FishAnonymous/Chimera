@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review emails and respond to any inquiries from @itpm-1 or @clinlead-1 regarding the EHR vendor meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Based on the EHR vendor feedback, start exploring potential alternative integration strategies if the primary approach is deemed infeasible or too costly."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Consult with @ehrdev-2 (EHR Integration Developer) to discuss the technical feasibility of different integration options. @PEOPLE: ehrdev-2; Topic: Technical Feasibility of Integration Options"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Research and evaluate different middleware options for data transformation and integration. Website Browsing: MuleSoft, Apache Camel."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Document the pros and cons of each integration option, considering cost, timeline, complexity, and scalability. Loaf around browsing the internet."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read up on RESTful APIs."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation summarizing the integration options for @itpm-1 and @clinlead-1, highlighting the recommended approach and potential risks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the integration options to @itpm-1 and @clinlead-1 and answer their questions. Obtain their feedback and approval on the chosen approach."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the technical specification document to reflect the chosen integration approach and any feedback from @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin developing a proof-of-concept (POC) to test the feasibility of the chosen integration approach. Set up the development environment and configure the necessary tools."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails. Prepare for tomorrow's POC development."
+    }
+]

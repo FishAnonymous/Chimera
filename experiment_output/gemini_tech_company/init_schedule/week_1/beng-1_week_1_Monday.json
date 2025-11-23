@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the weekly goals. Prioritize tasks based on dependencies and criticality. Review documentation on the company's preferred build tools (e.g., Jenkins, TeamCity, or similar) and deployment platforms."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin setting up the build environment. This includes installing and configuring the required software development kits (SDKs) for target platforms (Windows, Linux, etc.). Document the installation process for future reference and team onboarding."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research and select appropriate scripting language for build scripts (e.g., Python, Bash, or dedicated build scripting languages). Evaluate based on ease of use, cross-platform compatibility, and integration with the chosen CI system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start drafting the initial build scripts for compiling code. Focus on the core game engine modules first. Ensure the script includes error handling and logging mechanisms for debugging purposes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the code compilation build scripts. Add support for different build configurations (Debug, Release, etc.). Research best practices for code compilation and optimization."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @Lpro-1 and @Cdev-1 to discuss the project's directory structure and code dependencies, ensuring the build scripts correctly locate all necessary files. Topic: Code dependencies and directory structure for build scripts."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin researching asset pipeline and integration with the build process. Explore how to automate the conversion of assets into game-ready formats. Contact @Tart-1 and @3dmod-1 regarding the types and formats of game assets and any specific requirements for them. Topic: Game asset types, formats, and build requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refactor build script and add comments for readability and maintainability. Back up the build scripts to a version control system (Git). Review all documentation written throughout the day to ensure clarity and accuracy."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize any last-minute compliance tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @coo-1 and @cio-1 for the final review of compliance documentation and internal controls."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any feedback or changes required from the final review meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Submit final compliance documentation to @audit-1 for official review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @audit-1 to confirm receipt of documents and discuss next steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize and archive all compliance-related files for future reference."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a weekly summary report highlighting completed tasks and any outstanding items."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, plan for any follow-up tasks next week."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize the preliminary document on technical requirements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send the finalized document to @comp-1 and @legal-1 for compliance checks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze feedback from @sdev-1 and @sdev-2 on the draft outline."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a joint meeting with @qres-1, @qres-2, and @qres-3 for insights on data access requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a meeting with @qres-1, @qres-2, and @qres-3 regarding data access and real-time data processing."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Summarize the data access requirements gathered in the meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the document based on discussions with @qres-1, @qres-2, and @qres-3."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review day\u2019s achievements and plan for the following day."
+    }
+]

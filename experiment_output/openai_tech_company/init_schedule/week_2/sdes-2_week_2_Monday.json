@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 and @prod-1 to discuss the core mechanics that will drive the gameplay experience."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @ndes-1 to align on narrative elements that will complement the core mechanics."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Brainstorm and outline the core mechanics in a shared document."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize identification of core mechanics and share with the team for preliminary feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin working on prototypes for the first key mechanic, focusing on its interactions within the system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft an email to @cdev-1, @cdev-2, and @cdev-3 to request assistance on technical requirements for the prototype."
+    }
+]

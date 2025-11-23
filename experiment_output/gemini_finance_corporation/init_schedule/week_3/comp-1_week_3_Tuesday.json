@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review notes from yesterday's SEC regulation review. Respond to any urgent emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Resume drafting the compliance checklist for fund operations. Focus on specific regulatory requirements for market-neutral statistical arbitrage funds. Refer to SEC guidance and industry best practices."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @QRes-1, @CIO-1, and @Legal-1 with the subject 'Compliance Checklist Input Request: Fund Operations' to request their input on the draft checklist, specifically regarding trading strategies and valuation procedures. Request a meeting to discuss the topic further"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue drafting the compliance checklist, incorporating initial thoughts and regulations from the SEC review. Consider operational risks and create checklist items that can monitor, detect, and prevent those risks. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Enjoy a quick lunch and read the news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @QRes-1, @CIO-1, and @Legal-1 to discuss the compliance checklist for fund operations. Gather their insights and recommendations for improvements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Incorporate feedback from the meeting into the compliance checklist. Refine the language, add specific monitoring procedures, and ensure the checklist is comprehensive and easy to use. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the compliance checklist for fund operations. Ensure all areas are covered, including trading practices, valuation procedures, investor reporting, and marketing compliance. Send to Legal for final review."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize desk and head home."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Continue conducting the internal audit of compliance documentation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email update regarding the audit progress to @pm-1 (Project Manager) and @legal-1 (Legal Counsel) for transparency."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @qres-1, @qres-2, and @qres-3 (Quantitative Researchers) to gather insights on any compliance data analytics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Complete the internal audit and begin drafting the compliance checks report focusing on KYC and AML processes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the draft compliance report with @comp-1 (Compliance Officer) for feedback."
+    }
+]

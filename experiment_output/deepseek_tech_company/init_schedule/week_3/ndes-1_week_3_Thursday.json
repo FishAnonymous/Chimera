@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up on any additional feedback from playtesting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize all narrative adjustments based on the latest feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse industry news for narrative design trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a summary report of narrative refinements and playtesting results for the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @prod-1 with the summary report and next steps for narrative development."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @aud-1 to ensure narrative and audio elements are synchronized."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review and finalize all narrative documents for the week."
+    }
+]

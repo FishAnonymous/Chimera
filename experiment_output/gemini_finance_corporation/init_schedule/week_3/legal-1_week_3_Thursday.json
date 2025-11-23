@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Coffee and check email for urgent matters. Quickly review yesterday's PPM progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue drafting the PPM, refining the risk disclosure sections based on feedback from @cio-1 and @qres-3. Emphasize the market-neutral statistical arbitrage strategy's inherent risks and limitations. @PEOPLE: @cio-1, @qres-3, PPM risk disclosure refinement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a memo outlining potential legal risks associated with the fund's investment strategy. Highlight areas that require ongoing monitoring and mitigation. Send to @coo-1 and @cio-1. @PEOPLE: @coo-1, @cio-1, Legal Risk Assessment of Investment Strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab a quick meal and browse through academic papers on behavioral finance."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @onbd-1 and @ir-1 to discuss the investor onboarding process and ensure compliance with KYC/AML regulations. Address any legal concerns related to investor eligibility and suitability. @PEOPLE: @onbd-1, @ir-1, Investor Onboarding Compliance and Legal Considerations"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update the PPM based on the investor onboarding process discussion."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Check out the latest posts in the effective altruism forum."
+    }
+]

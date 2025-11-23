@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any new feedback from QA. Sync with @lpro-1 on progress and blockers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin integrating finalized assets from the art team. Coordinate with @3dmod-1 and @3dmod-2 to ensure assets are ready."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Import and test new character models and animations in the game engine."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on integrating environment assets from @lvdn-1. Ensure they align with the game's design and performance requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @uiux-1 to confirm UI asset integration and discuss any adjustments needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the integration process and update the asset pipeline documentation."
+    }
+]

@@ -1,0 +1,99 @@
+```python
+import pandas as pd
+
+data = {
+    'Week1': [
+        "**Data Analyst (da-2):**\n*   Familiarize with EHR system and data elements for influenza tracking.\n*   Begin data quality assessment on existing influenza data.\n*   Collaborate with IT to set up data validation rules.",
+        "**EHR Vendor Liaison (ehrv-1):**\n*   Review current EHR capabilities for influenza data collection.\n*   Communicate hospital's requirements to EHR vendor.\n*   Schedule a meeting with the vendor to discuss system modifications.",
+        "**Clinical Lead (clinlead-1):**\n*   Review current clinical workflows for influenza data capture.\n*   Identify areas for workflow modification.\n*   Collaborate with clinical staff to gather feedback.",
+        "**Quality Assurance Tester (qatest-1):**\n*   Understand data quality metrics for influenza data.\n*   Assist in setting up data validation procedures.\n*   Begin testing data quality checks.",
+        "**Registered Nurse (rn-2):**\n*   Attend training on new EHR functionalities for influenza data.\n*   Review new data collection workflows.\n*   Begin practicing data entry using standardized protocols.",
+        "**EHR Integration Developer (ehrdev-1):**\n*   Collaborate with Database Administrator on schema creation.\n*   Begin developing system modifications for data collection.\n*   Set up automated ETL processes for data extraction.",
+        "**IT Project Manager (itpm-1):**\n*   Finalize project timeline for EHR updates.\n*   Establish communication plan for project updates.\n*   Coordinate with different teams on project tasks.",
+        "**Database Administrator (dba-1):**\n*   Assess existing database structure.\n*   Start designing database schema for influenza data.\n*   Ensure data security and privacy measures.",
+        "**Data Analyst (da-1):**\n*   Familiarize with EHR system and data elements for influenza tracking.\n*   Begin data quality assessment on existing influenza data.\n*   Collaborate with IT to set up data validation rules.",
+        "**Training Coordinator (trainer-1):**\n*   Assess training needs for staff on new EHR functionalities.\n*   Start developing training materials.\n*   Schedule training sessions for the following weeks.",
+        "**Quality Assurance Tester (qatest-2):**\n*   Understand data quality metrics for influenza data.\n*   Assist in setting up data validation procedures.\n*   Begin testing data quality checks.",
+        "**Registered Nurse (rn-1):**\n*   Attend training on new EHR functionalities for influenza data.\n*   Review new data collection workflows.\n*   Begin practicing data entry using standardized protocols.",
+        "**EHR Integration Developer (ehrdev-2):**\n*   Collaborate with Database Administrator on schema creation.\n*   Begin developing system modifications for data collection.\n*   Set up automated ETL processes for data extraction.",
+        "**Registered Nurse (rn-3):**\n*   Attend training on new EHR functionalities for influenza data.\n*   Review new data collection workflows.\n*   Begin practicing data entry using standardized protocols.",
+        "**Help Desk Support (helpdesk-1):**\n*   Set up help desk ticketing system for EHR-related issues.\n*   Develop a knowledge base for common user issues.\n*   Provide support to users on EHR system and data collection.",
+        "**Health Informatics Specialist (his-2):**\n*   Collaborate on data quality resolution plan.\n*   Analyze data patterns and trends.\n*   Assist in developing preventive actions for data quality.",
+        "**Medical Records Specialist (mrs-2):**\n*   Participate in training on data abstraction protocol.\n*   Begin preparing for historical data abstraction.\n*   Confirm access to necessary medical records.",
+        "**Physician Champion (pchmp-1):**\n*   Review project goals and objectives.\n*   Attend project meetings and provide clinical insights.\n*   Gather feedback from physicians on EHR system.",
+        "**Medical Records Specialist (mrs-1):**\n*   Participate in training on data abstraction protocol.\n*   Begin preparing for historical data abstraction.\n*   Confirm access to necessary medical records.",
+        "**Health Informatics Specialist (his-1):**\n*   Collaborate on data quality resolution plan.\n*   Analyze data patterns and trends.\n*   Assist in developing preventive actions for data quality."
+    ],
+    'Week2': [
+        "**Data Analyst (da-2):**\n*   Continue data quality assessment and finalize initial baselines.\n*   Develop data quality reports for key stakeholders.\n*   Refine data validation rules based on initial findings.",
+        "**EHR Vendor Liaison (ehrv-1):**\n*   Hold meeting with EHR vendor to discuss system modifications and timelines.\n*   Evaluate vendor proposals for system modifications.\n*   Negotiate contracts and service level agreements (SLAs).",
+        "**Clinical Lead (clinlead-1):**\n*   Finalize clinical workflows for influenza data capture.\n*   Present workflow modifications to clinical staff.\n*   Incorporate feedback and refine workflows.",
+        "**Quality Assurance Tester (qatest-1):**\n*   Finalize testing procedures for data quality checks.\n*   Begin comprehensive testing of data validation rules.\n*   Document testing results and identify areas for improvement.",
+        "**Registered Nurse (rn-2):**\n*   Practice data entry using new workflows and EHR functionalities.\n*   Provide feedback on data entry screens and processes.\n*   Collaborate with IT on system usability improvements.",
+        "**EHR Integration Developer (ehrdev-1):**\n*   Continue developing system modifications for data collection.\n*   Collaborate with the Database Administrator on database integration.\n*   Address any technical issues identified during development.",
+        "**IT Project Manager (itpm-1):**\n*   Monitor project progress and identify potential delays.\n*   Communicate project updates to stakeholders.\n*   Address any issues or roadblocks encountered by the project team.",
+        "**Database Administrator (dba-1):**\n*   Finalize database schema for influenza data.\n*   Define data types and constraints.\n*   Implement security measures to protect patient data.",
+        "**Data Analyst (da-1):**\n*   Continue data quality assessment and finalize initial baselines.\n*   Develop data quality reports for key stakeholders.\n*   Refine data validation rules based on initial findings.",
+        "**Training Coordinator (trainer-1):**\n*   Finalize training materials and schedule.\n*   Begin conducting training sessions for staff.\n*   Gather feedback from participants on training content.",
+        "**Quality Assurance Tester (qatest-2):**\n*   Finalize testing procedures for data quality checks.\n*   Begin comprehensive testing of data validation rules.\n*   Document testing results and identify areas for improvement.",
+        "**Registered Nurse (rn-1):**\n*   Practice data entry using new workflows and EHR functionalities.\n*   Provide feedback on data entry screens and processes.\n*   Collaborate with IT on system usability improvements.",
+        "**EHR Integration Developer (ehrdev-2):**\n*   Continue developing system modifications for data collection.\n*   Collaborate with the Database Administrator on database integration.\n*   Address any technical issues identified during development.",
+        "**Registered Nurse (rn-3):**\n*   Practice data entry using new workflows and EHR functionalities.\n*   Provide feedback on data entry screens and processes.\n*   Collaborate with IT on system usability improvements.",
+        "**Help Desk Support (helpdesk-1):**\n*   Monitor help desk ticketing system for EHR-related issues.\n*   Update knowledge base with new user issues and resolutions.\n*   Provide support to users on EHR system and data collection.",
+        "**Health Informatics Specialist (his-2):**\n*   Conduct root cause analysis for identified data quality issues.\n*   Develop corrective actions to address root causes.\n*   Collaborate on preventive actions for data quality.",
+        "**Medical Records Specialist (mrs-2):**\n*   Finalize data abstraction protocol and form.\n*   Conduct training session for data abstraction.\n*   Pilot test data abstraction protocol.",
+        "**Physician Champion (pchmp-1):**\n*   Attend project meetings and provide clinical insights.\n*   Gather feedback from physicians on EHR system.\n*   Champion EHR adoption among colleagues.",
+        "**Medical Records Specialist (mrs-1):**\n*   Finalize data abstraction protocol and form.\n*   Conduct training session for data abstraction.\n*   Pilot test data abstraction protocol.",
+        "**Health Informatics Specialist (his-1):**\n*   Conduct root cause analysis for identified data quality issues.\n*   Develop corrective actions to address root causes.\n*   Collaborate on preventive actions for data quality."
+    ],
+    'Week3': [
+        "**Data Analyst (da-2):**\n*   Monitor data quality metrics and track progress against targets.\n*   Generate weekly data quality reports for stakeholders.\n*   Refine data validation rules based on testing and feedback.",
+        "**EHR Vendor Liaison (ehrv-1):**\n*   Finalize contracts and SLAs with EHR vendor.\n*   Coordinate system updates and implementations.\n*   Ensure data security and privacy measures.",
+        "**Clinical Lead (clinlead-1):**\n*   Implement finalized clinical workflows for influenza data capture.\n*   Monitor adoption of new workflows by clinical staff.\n*   Address any workflow-related issues or concerns.",
+        "**Quality Assurance Tester (qatest-1):**\n*   Continue comprehensive testing of data validation rules.\n*   Document testing results and track progress against targets.\n*   Collaborate with developers to resolve identified issues.",
+        "**Registered Nurse (rn-2):**\n*   Utilize new workflows and EHR functionalities for data entry.\n*   Provide feedback on data entry screens and processes.\n*   Report any system issues or concerns to the Help Desk.",
+        "**EHR Integration Developer (ehrdev-1):**\n*   Continue developing system modifications for data collection.\n*   Implement data validation rules within the EHR system.\n*   Address any technical issues identified during testing.",
+        "**IT Project Manager (itpm-1):**\n*   Monitor project progress and address any delays or roadblocks.\n*   Communicate project updates to stakeholders.\n*   Coordinate training sessions and implementation activities.",
+        "**Database Administrator (dba-1):**\n*   Implement database schema in the EHR system.\n*   Create database views and stored procedures.\n*   Grant appropriate permissions to users.",
+        "**Data Analyst (da-1):**\n*   Monitor data quality metrics and track progress against targets.\n*   Generate weekly data quality reports for stakeholders.\n*   Refine data validation rules based on testing and feedback.",
+        "**Training Coordinator (trainer-1):**\n*   Conduct training sessions for staff on new EHR functionalities.\n*   Gather feedback from participants and refine training materials.\n*   Provide ongoing support to staff on data collection.",
+        "**Quality Assurance Tester (qatest-2):**\n*   Continue comprehensive testing of data validation rules.\n*   Document testing results and track progress against targets.\n*   Collaborate with developers to resolve identified issues.",
+        "**Registered Nurse (rn-1):**\n*   Utilize new workflows and EHR functionalities for data entry.\n*   Provide feedback on data entry screens and processes.\n*   Report any system issues or concerns to the Help Desk.",
+        "**EHR Integration Developer (ehrdev-2):**\n*   Continue developing system modifications for data collection.\n*   Implement data validation rules within the EHR system.\n*   Address any technical issues identified during testing.",
+        "**Registered Nurse (rn-3):**\n*   Utilize new workflows and EHR functionalities for data entry.\n*   Provide feedback on data entry screens and processes.\n*   Report any system issues or concerns to the Help Desk.",
+        "**Help Desk Support (helpdesk-1):**\n*   Monitor help desk ticketing system for EHR-related issues.\n*   Update knowledge base with new user issues and resolutions.\n*   Provide support to users on EHR system and data collection.",
+        "**Health Informatics Specialist (his-2):**\n*   Implement corrective actions to address root causes of data quality issues.\n*   Monitor the effectiveness of corrective actions.\n*   Implement preventive actions to prevent future issues.",
+        "**Medical Records Specialist (mrs-2):**\n*   Begin abstracting data from the most recent influenza season.\n*   Target: 200 records.\n*   Adhere to the standardized data abstraction protocol.",
+        "**Physician Champion (pchmp-1):**\n*   Attend project meetings and provide clinical insights.\n*   Gather feedback from physicians on EHR system.\n*   Promote adoption of new EHR system among staff.",
+        "**Medical Records Specialist (mrs-1):**\n*   Begin abstracting data from the most recent influenza season.\n*   Target: 200 records.\n*   Adhere to the standardized data abstraction protocol.",
+        "**Health Informatics Specialist (his-1):**\n*   Implement corrective actions to address root causes of data quality issues.\n*   Monitor the effectiveness of corrective actions.\n*   Implement preventive actions to prevent future issues."
+    ],
+    'Week4': [
+        "**Data Analyst (da-2):**\n*   Analyze data quality reports and identify areas for improvement.\n*   Develop strategies to improve data completeness, accuracy, and timeliness.\n*   Provide feedback to clinical staff on data quality performance.",
+        "**EHR Vendor Liaison (ehrv-1):**\n*   Monitor system performance for influenza data collection.\n*   Address any vendor-related issues or concerns.\n*   Facilitate training for new staff on EHR functionalities.",
+        "**Clinical Lead (clinlead-1):**\n*   Evaluate the effectiveness of new clinical workflows.\n*   Gather feedback from clinical staff and make adjustments as needed.\n*   Provide ongoing support to staff on data collection.",
+        "**Quality Assurance Tester (qatest-1):**\n*   Continue testing data validation rules and system modifications.\n*   Document testing results and track progress against targets.\n*   Collaborate with developers to resolve any identified issues.",
+        "**Registered Nurse (rn-2):**\n*   Utilize new workflows and EHR functionalities for data entry.\n*   Provide feedback on data entry screens and processes.\n*   Report any system issues or concerns to the Help Desk.",
+        "**EHR Integration Developer (ehrdev-1):**\n*   Monitor system performance for data collection.\n*   Address any technical issues or concerns.\n*   Collaborate with the Database Administrator on database maintenance.",
+        "**IT Project Manager (itpm-1):**\n*   Monitor project progress and address any delays or roadblocks.\n*   Communicate project updates to stakeholders.\n*   Plan for post-implementation monitoring and evaluation.",
+        "**Database Administrator (dba-1):**\n*   Monitor database performance and identify any bottlenecks.\n*   Optimize database queries for reporting and analysis.\n*   Ensure data security and privacy measures.",
+        "**Data Analyst (da-1):**\n*   Analyze data quality reports and identify areas for improvement.\n*   Develop strategies to improve data completeness, accuracy, and timeliness.\n*   Provide feedback to clinical staff on data quality performance.",
+        "**Training Coordinator (trainer-1):**\n*   Conduct follow-up training sessions for staff.\n*   Develop additional training materials as needed.\n*   Provide ongoing support to staff on data collection.",
+        "**Quality Assurance Tester (qatest-2):**\n*   Continue testing data validation rules and system modifications.\n*   Document testing results and track progress against targets.\n*   Collaborate with developers to resolve any identified issues.",
+        "**Registered Nurse (rn-1):**\n*   Utilize new workflows and EHR functionalities for data entry.\n*   Provide feedback on data entry screens and processes.\n*   Report any system issues or concerns to the Help Desk.",
+        "**EHR Integration Developer (ehrdev-2):**\n*   Monitor system performance for data collection.\n*   Address any technical issues or concerns.\n*   Collaborate with the Database Administrator on database maintenance.",
+        "**Registered Nurse (rn-3):**\n*   Utilize new workflows and EHR functionalities for data entry.\n*   Provide feedback on data entry screens and processes.\n*   Report any system issues or concerns to the Help Desk.",
+        "**Help Desk Support (helpdesk-1):**\n*   Monitor help desk ticketing system for EHR-related issues.\n*   Update knowledge base with new user issues and resolutions.\n*   Provide support to users on EHR system and data collection.",
+        "**Health Informatics Specialist (his-2):**\n*   Monitor data quality metrics and evaluate the effectiveness of corrective actions.\n*   Refine preventive actions based on monitoring results.\n*   Collaborate on data quality audits.",
+        "**Medical Records Specialist (mrs-2):**\n*   Continue abstracting data from the most recent influenza season.\n*   Target: Additional 200 records.\n*   Adhere to the standardized data abstraction protocol.",
+        "**Physician Champion (pchmp-1):**\n*   Attend project meetings and provide clinical insights.\n*   Gather feedback from physicians on EHR system.\n*   Advocate for clinician needs and concerns.",
+        "**Medical Records Specialist (mrs-1):**\n*   Continue abstracting data from the most recent influenza season.\n*   Target: Additional 200 records.\n*   Adhere to the standardized data abstraction protocol.",
+        "**Health Informatics Specialist (his-1):**\n*   Monitor data quality metrics and evaluate the effectiveness of corrective actions.\n*   Refine preventive actions based on monitoring results.\n*   Collaborate on data quality audits."
+    ]
+}
+
+df = pd.DataFrame(data)
+df.index = ['da-2', 'ehrv-1', 'clinlead-1', 'qatest-1', 'rn-2', 'ehrdev-1', 'itpm-1', 'dba-1', 'da-1', 'trainer-1', 'qatest-2', 'rn-1', 'ehrdev-2', 'rn-3', 'helpdesk-1', 'his-2', 'mrs-2', 'pchmp-1', 'mrs-1', 'his-1']
+
+print(df.to_string())
+```

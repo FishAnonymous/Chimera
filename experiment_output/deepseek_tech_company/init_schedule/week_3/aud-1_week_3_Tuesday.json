@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to any urgent messages. Review feedback from @qtest-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine gunshot sound effects based on QA feedback. Test variations for realism and impact."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, listen to reference soundtracks for inspiration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on BGM for the in-game combat scenes. Focus on dynamic layers for intensity changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @lvdn-1 to discuss BGM integration points for specific levels."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize sound files and update documentation."
+    }
+]

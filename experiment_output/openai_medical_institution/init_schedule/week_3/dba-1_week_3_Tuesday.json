@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the database and check the status of data collection from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @Quality Assurance Tester to ensure proper testing of integrated data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review database performance metrics and identify any potential issues with data handling."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Assist @Help Desk Support in addressing any user-reported database issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on refining scripts necessary for ensuring database integrity during upcoming data collection periods."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meeting with @Clinical Lead to discuss data collection parameters and clinical implications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review integration documentation with @EHR Integration Developer for any inconsistencies or errors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile and document findings from the day\u2019s work and send updates to the team."
+    }
+]

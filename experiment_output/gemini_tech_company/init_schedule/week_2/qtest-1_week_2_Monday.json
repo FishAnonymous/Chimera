@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and company announcements. Prioritize any urgent messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the game design document thoroughly, paying close attention to core mechanics and UI elements. Take notes on potential areas for testing focus."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin drafting the test plan. Start with a high-level overview, outlining the scope of testing and the different areas that will be covered."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the test plan, focusing on detailed test case creation for core game mechanics (e.g., character movement, shooting, jumping). Each test case should include clear steps, expected results, and pass/fail criteria."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @LDes-1 (Lead Game Designer) and @SDes-1 (Systems Designer) to clarify any ambiguities in the game design document related to specific game mechanics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the core mechanics section of the test plan for the day. Save and backup the document."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's tasks, focusing on UI elements and level layout testing in the test plan."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Leave the office."
+    }
+]

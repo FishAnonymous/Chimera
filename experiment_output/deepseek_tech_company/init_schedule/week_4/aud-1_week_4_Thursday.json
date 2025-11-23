@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries. Final review of all polished audio assets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Ensure all audio assets are properly named and organized in the shared drive."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Listen to some ambient sounds to relax."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare final handoff package for the development team, including all assets and documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @cdev-1, @cdev-2, and @cdev-3 to hand off finalized audio assets and discuss integration."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address any immediate questions from the development team regarding the handoff."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by ensuring all handoff materials are accessible and complete."
+    }
+]

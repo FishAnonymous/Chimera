@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and project management tools (Jira, Confluence) for updates and assigned tasks. Respond to urgent inquiries from @Prod-1 (Producer) regarding the UI/UX roadmap."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the game's art style guide and narrative design documents provided by @Ndes-1 (Narrative Designer) and @Cart-1 (Concept Artist) to ensure a consistent visual language for the UI."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorm initial ideas and sketches for the main menu UI. Consider different layout options, navigation flows, and key elements to include (e.g., game modes, player profile, options)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create low-fidelity wireframes for the main menu using Figma. Focus on the placement of elements and the overall structure. Prepare several variations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Share the main menu wireframes with @Ldes-1 (Lead Game Designer) and @Cdev-1 (Client Developer) for initial feedback on usability and technical feasibility. Send an email including the wireframes to both of them. @Ldes-1 @Cdev-1 Main Menu Wireframes for Review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @Ldes-1 and @Cdev-1 into the main menu wireframes. Refine the layout and navigation based on their suggestions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin creating a mid-fidelity mockup of the main menu in Figma, incorporating the game's color palette and typography. Experiment with different visual styles."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Research best practices for UI design in third-person shooter games. Analyze successful UI implementations in similar titles for inspiration."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the design decisions made for the main menu and update the UI/UX design documentation. Prepare for tomorrow's tasks by outlining the steps for the settings UI."
+    }
+]

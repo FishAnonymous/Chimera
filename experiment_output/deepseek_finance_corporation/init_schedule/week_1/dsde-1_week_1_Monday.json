@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the tasks for the week. Prioritize analyzing historical performance trends in market-neutral funds."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Gather historical data on market-neutral funds from internal databases and reputable external sources (e.g., Bloomberg, CRSP)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start preliminary analysis of historical performance trends, focusing on key metrics like Sharpe ratio, annual returns, and volatility."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue analysis, visualizing trends using Python (Matplotlib/Seaborn) and preparing initial insights."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qres-1 and @qres-2 to discuss findings and validate assumptions. Include preliminary charts for feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the analysis methodology and initial results in a shared report. Review for any gaps."
+    }
+]

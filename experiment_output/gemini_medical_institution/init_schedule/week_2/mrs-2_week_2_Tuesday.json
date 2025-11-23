@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent matters. Grab coffee to energize myself. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the data abstraction protocol and standardized form before the meeting. Address any pending questions or concerns from yesterday."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meeting with @DA-1 and @HIS-1 to review the initial drafts of the data abstraction protocol and standardized form. Actively listen to their feedback and make note of any revisions needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate the feedback received from @DA-1 and @HIS-1 into the protocol and form. Make the necessary revisions to ensure clarity and accuracy. Focus on refining the language and layout."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up with some friends and enjoy a meal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue revising the protocol and standardized form. Pay close attention to detail and ensure consistency throughout both documents."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send the revised protocol and form to @Clinlead-1 for clinical review and input. @Clinlead-1 Topic: Clinical Review of Data Abstraction Protocol and Standardized Form"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin outlining the training session agenda and materials. Focus on covering all key aspects of the data abstraction protocol, EHR data entry procedures, and quality control measures."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue preparing the training session agenda and materials. Create a basic PPT outline."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Listen to music before going home."
+    }
+]

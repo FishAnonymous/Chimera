@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and prepare for the day's tasks based on the update report feedback."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Integrate additional feedback received from the Quality Assurance Tester."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @Help Desk Support to gather staff concerns regarding EHR integration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address any reported issues raised by help desk support."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a user acceptance testing session with medical staff."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from stakeholders and document key points."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize logs and document progress made during the week."
+    }
+]

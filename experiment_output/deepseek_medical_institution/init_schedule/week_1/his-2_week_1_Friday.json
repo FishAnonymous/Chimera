@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final review of the data extraction workflow and ensure all documentation is up to date."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 to discuss next steps and any remaining issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide a status update to the entire team via email, including @da-1, @da-2, @ehrdev-1, @ehrdev-2, @clinlead-1, @pchmp-1, @qatest-1, @qatest-2, @rn-1, @rn-2, @rn-3, @dba-1, @trainer-1, @helpdesk-1, @his-2, @mrs-1, @mrs-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize and archive all project-related documents for future reference."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Reflect on the week's progress and prepare a personal to-do list for the following week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and log out of systems."
+    }
+]

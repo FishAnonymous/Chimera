@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to feedback from @External Auditor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback received on the compliance checklist and identify needed changes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback into the compliance checklist."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and format the compliance checklist for presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a preliminary compliance report summarizing findings and frameworks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and finalize the compliance report draft."
+    }
+]

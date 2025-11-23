@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning routine: emails, caffeine, check the company calendar for any important meetings."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare the demo of the current level state, ensuring it highlights the implemented features: layout, enemy placement, puzzles, and basic lighting. Ensure smooth performance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the demo to @Ldes-1, @Cdev-1 and @3dmod-1. Gather feedback on all aspects of the level design, including gameplay, visuals, and technical performance. Be open to criticism!"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Following the demo feedback, prioritize the most pressing issues and begin implementing fixes. This may involve adjusting enemy placement, tweaking puzzle difficulty, or modifying the level layout."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Discuss the demo feedback with @3dmod-1 and brainstorm solutions to visual issues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address visual feedback. Begin integrating set dressing elements to enhance the atmosphere and guide the player's eye. Rocks, debris, foliage - the little things that make a big difference."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @Tart-1 on implementing visual effects (VFX) to enhance key areas and events in the level. Explosions, particle effects, and other visual flair."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and outline the remaining tasks for the week. Prepare a brief summary of the day's accomplishments for tomorrow's wrap-up."
+    }
+]

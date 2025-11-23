@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Compile all documentation related to art assets and integration procedures."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qtest-1 to discuss testing plans for the art assets and visual effects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the overall project, ensuring all tasks are tracked and follow up on any issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final review of the technical documentation with the aim to finalize for team distribution."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails, summarize the week\u2019s work, and prepare for the next week."
+    }
+]

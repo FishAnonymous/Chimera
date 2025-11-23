@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Begin researching load testing tools suitable for the game environment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Select load testing tools to be used, such as JMeter or Locust, and create a testing plan."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Set up the load testing environment using selected tools and configure test scenarios to simulate user traffic."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Perform initial load tests, monitor server performance and response times to analyze behavior under various conditions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze the results of the load test; identify performance bottlenecks and potential improvements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a report on testing results and proposed changes for discussion with the systems design team."
+    }
+]

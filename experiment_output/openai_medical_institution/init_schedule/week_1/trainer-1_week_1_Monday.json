@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review feedback from previous training sessions to identify common issues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to gather insights on EHR usage for influenza data entry and their training needs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile gathered insights into a draft outline for a consolidated training plan."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review training materials currently available and note areas that need updates based on employee feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Connect with @ehrv-1 to discuss any specific EHR updates that need to be included in training modules."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Begin drafting updated support materials based on current training modules and feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a summary email to @clinlead-1 and @helpdesk-1 to keep them updated on training plan development progress."
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "name": "Amara Diallo",
+    "id": "prod-1",
+    "ip": "10.0.0.28",
+    "age": 37,
+    "role": "Producer",
+    "description": "Oversees the entire game development process, ensuring projects are delivered on time and within budget. Coordinates between teams, manages schedules, and resolves bottlenecks. Acts as the bridge between creative vision and practical execution, balancing business goals with development realities.",
+    "tools": [
+        "JIRA",
+        "Trello",
+        "Confluence",
+        "MicrosoftProject",
+        "Slack",
+        "BudgetTrackingSoftware"
+    ],
+    "mbti": "ESTJ",
+    "interests": "competitive esports, West African drumming, leadership podcasts",
+    "personality": "Highly organized and decisive. Thrives in high-pressure environments and enjoys solving logistical puzzles. Morning person who schedules most meetings before noon. Dislikes ambiguity and prefers clear, actionable plans.",
+    "application": {
+        "Zendo": {
+            "account_name": "prod-889900",
+            "password": "amaraD@production",
+            "permissions": "admin"
+        }
+    },
+    "email": "prod-889900@corp.com",
+    "container_id": "2d3e4f5a6b7c"
+}

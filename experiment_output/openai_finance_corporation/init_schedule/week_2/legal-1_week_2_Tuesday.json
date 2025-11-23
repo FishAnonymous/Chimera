@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Review any feedback from @audit-1 on compliance documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate any additional feedback into compliance documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start drafting the initial prospectus for SEC submission."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the initial draft of the prospectus."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the initial draft of the prospectus with @comp-1 for compliance checks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and make notes for tomorrow."
+    }
+]

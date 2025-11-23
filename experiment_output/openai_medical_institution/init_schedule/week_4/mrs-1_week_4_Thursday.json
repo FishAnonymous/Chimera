@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails, review progress on EHR testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @qatest-1 to refine the test plan for EHR data collection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on executing the test cases created on Wednesday."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin analyzing results from test cases with @da-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a presentation on EHR integration results for the team meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send updates to @ehrv-1 regarding integration status."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

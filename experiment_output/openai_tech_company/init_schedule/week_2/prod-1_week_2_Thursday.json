@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review documentation and progress on gameplay mechanics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1 and @sdes-2 to evaluate current gameplay mechanics and make necessary adjustments."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement feedback regarding character interactions into gameplay mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in testing session to playtest core gameplay mechanics with @qtest-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Engage with @lpro-1 for debugging any issues found during playtesting."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Sync up with @cdev-1, @cdev-2, and @cdev-3 to go through remaining development work on the prototype."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up daily tasks, document results from playtesting and testing adjustments."
+    }
+]

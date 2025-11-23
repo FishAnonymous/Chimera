@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, check in. Feeling the pressure!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final visual asset review. This is it! Ensure everything is polished, consistent, and ready for prime time."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Another round of playtesting! Time for another playtest session. Focus on identifying any remaining visual issues. Get feedback from fresh eyes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the trailer footage. Ensure the pacing is good and the music matches the visuals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on feedback from the playtest, make any final tweaks to the visuals. Ensure the experience is as polished and engaging as possible."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @lpro-1 on the game's graphical settings. Ensure they are working as intended and offer a good balance between visual quality and performance. Topic: Graphics Settings and Visual Quality"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the marketing screenshots to capture the best possible visual representation of the game."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the final trailer. Does it convey the essence of the game?"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the work. Go home."
+    }
+]

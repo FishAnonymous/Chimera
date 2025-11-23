@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive, coffee, and review."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the influenza data abstraction process. Ensure all historical data has been loaded and validated."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @da-1 and @da-2 to discuss the plan for analyzing the influenza trend data."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the data analysis plan with @clinlead-1 and @pchmp-1. Ensure the analysis aligns with clinical objectives."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address any questions or concerns from @clinlead-1 and @pchmp-1 regarding the data analysis plan."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation summarizing the project progress, key accomplishments, and next steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the project status to senior management. Answer any questions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document lessons learned from the EHR collection and influenza trend analysis project. Identify areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project documentation with the lessons learned."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete the weekly project report. Submit the report to senior management."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct a final review of all EHR entries with @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in a closing training session with @trainer-1. Discuss any last-minute workflow adjustments."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @itpm-1 and @clinlead-1 with a summary of the week's achievements and challenges."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Assist @dba-1 with backing up EHR data for the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend a team wrap-up meeting to discuss next steps and celebrate progress."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Organize workspace and plan for the upcoming week."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "End the week by relaxing and reflecting on personal growth."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Gather all necessary resources for prototype development."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Develop the prototype for one of the key user interaction features, focusing on functionality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break and browse game development websites for inspiration and techniques."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue developing the prototype, emphasizing user experience and interaction flows."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a quick usability test of the prototype with a few colleagues to gather initial feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Compile feedback received from the usability test and identify areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Revise the prototype based on feedback and ensure it aligns with user interaction goals."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an email to @ldes-1 and @sdes-1 sharing the prototype and gathering further input."
+    }
+]

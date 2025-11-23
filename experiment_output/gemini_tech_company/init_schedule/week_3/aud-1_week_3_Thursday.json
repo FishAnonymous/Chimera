@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and messages, and drink a cup of coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address feedback from @UIUX-1 regarding the UI sounds. Adjust the pitch and volume of the click sound to make it more satisfying and less intrusive. Implement alternative sounds for different button states (e.g., hover, disabled)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Move on to weapon sounds. Begin sourcing or creating sound effects for firing, reloading, and weapon handling. Focus on a single weapon type (e.g., a pistol) for now."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Experiment with layering different sounds to create a unique and impactful firing sound. Combine synthesized sounds with recordings of real-world weapons (if available)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate the initial weapon sounds into the game engine and attach them to the appropriate firing and reloading animations. Work with @CDEV-2 (Client Developer) @PEOPLE to ensure accurate synchronization."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin testing the weapon sounds in-game. Pay close attention to the volume levels and how they interact with other sound effects."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Adjust the audio mix to ensure that the weapon sounds are balanced and don't overpower other important audio cues (e.g., enemy footsteps, dialogue)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the departure and think about the activities for tomorrow."
+    }
+]

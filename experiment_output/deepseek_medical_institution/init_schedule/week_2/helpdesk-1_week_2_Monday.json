@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for any urgent help desk tickets or inquiries from hospital staff."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the current EHR-related inquiries and categorize them for better tracking and resolution."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 to discuss the requirements for establishing a help desk ticketing system for EHR-related inquiries."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research and evaluate potential ticketing system software that can be integrated with the hospital's existing EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a proposal for the ticketing system, including features like categorization, priority levels, and response time tracking."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the draft proposal to @itpm-1 and @ehrv-1 for feedback and approval."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Respond to any pending help desk inquiries via email or phone, ensuring a response time within 1-2 business hours."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document resolved inquiries and update the knowledge base with common solutions for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails one last time for any urgent inquiries before wrapping up for the day."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any feedback from @clinlead-1 or @pchmp-1 on the protocol."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make necessary revisions to the protocol and form based on feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Finalize the training materials and send them to @trainer-1 for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the training session with @trainer-1 to ensure smooth delivery."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Adjust training materials based on dry run feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out meeting invites to data abstractors (@rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2) for the training session."
+    }
+]

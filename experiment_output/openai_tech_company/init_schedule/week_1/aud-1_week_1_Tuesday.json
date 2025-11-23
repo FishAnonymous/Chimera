@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the feedback from yesterday\u2019s meeting with @sdes-1 and @lpro-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start gathering sound effects from identified libraries and compile them in a structured format."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a spreadsheet for tracking sound effects with their descriptions, duration, and sources."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue cataloging the sound effects into the spreadsheet and classify them as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create initial audio samples for team review based on collected sounds."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send out the compiled sound effect samples to @uiux-1 and @ldes-1 for their feedback."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Review financial news and market performance. Briefly check emails."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Respond to emails, prioritizing those requiring immediate action. Review the preliminary report from yesterday and identify areas needing further clarification."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meeting with Data Science team (@dsde-1, @dsde-2) to discuss data requirements for the top statistical arbitrage strategies. Validate data availability, quality, and potential costs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the data availability report from @dsde-1 and @dsde-2. Refine the strategy ranking based on data limitations and potential costs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation for the executive team, outlining the top 3 statistical arbitrage strategies, their potential returns, risks, and regulatory considerations. Include a detailed cost analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Review the presentation and practice delivery."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the proposed strategies to the COO (@coo-1) and Head of Investor Relations (@ir-1). Address their concerns and incorporate their feedback into the strategy selection process."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Based on feedback from the executive team, finalize the strategy selection. Document the rationale for the chosen strategy and its alignment with the fund's objectives and risk tolerance."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Meet with @comp-1 to discuss compliance requirements for the selected strategy. Develop a compliance plan to ensure adherence to SEC regulations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tomorrow's schedule and prepare for upcoming meetings. Respond to any remaining emails."
+    }
+]

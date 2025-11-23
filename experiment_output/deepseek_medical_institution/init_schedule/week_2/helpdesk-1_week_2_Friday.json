@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and help desk tickets for any new inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up on any unresolved tickets and prioritize them based on urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a training session for the medical records staff (@mrs-1, @mrs-2) on how to use the new ticketing system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from the medical records staff on the training session and identify any areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the training materials based on all feedback received throughout the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Respond to any new help desk inquiries, ensuring prompt resolution within 1-2 business hours."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the week's help desk tickets and compile a report on common issues and resolutions for @clinlead-1 and @pchmp-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the report to @clinlead-1 and @pchmp-1 and schedule a meeting for next week to discuss any ongoing issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and tickets one last time before wrapping up for the week."
+    }
+]

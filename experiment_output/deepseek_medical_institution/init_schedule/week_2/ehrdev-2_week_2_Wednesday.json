@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Confirm meeting details with @ehrv-1 for the EHR vendor consultation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend the consultation meeting with @ehrv-1 and the EHR vendor to discuss feasibility of updates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document vendor feedback and technical constraints discussed during the meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @ehrv-1 to clarify any points from the vendor discussion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the requirements specifications based on vendor feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review updated specifications with @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the updated requirements document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the final document to all stakeholders for review."
+    }
+]

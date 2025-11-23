@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "09:00",
+        "Activity": "Log in, check emails. Review the previous day's work on the risk monitoring tool.  Think about ways to improve the visualization of risk data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @SDEV-1, @SDEV-2, @LARCH-1 to discuss data stream access and integration for the risk monitoring tool.  Address any potential latency or data quality issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin implementing stress testing scenarios. Start with historical stress tests using significant market events (e.g., 2008 financial crisis, Brexit). Gather historical market data from @DSDE-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing historical stress tests. Analyze the fund's portfolio performance under these scenarios.  Identify vulnerabilities and potential losses."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Explore ways to generate synthetic stress scenarios using Monte Carlo simulations. Research appropriate distributions and parameters for modeling market shocks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write a summary of the initial stress testing results and identify areas where the fund is most vulnerable.  Outline potential mitigation strategies."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

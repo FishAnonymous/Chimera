@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the company system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @Comp-1 and @Legal-1 to discuss compliance requirements for onboarding UHNWIs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @Comp-1 and @Legal-1 to gather information on compliance documentation needed for onboarding."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft initial onboarding checklist based on compliance discussions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research best practices for onboarding UHNWIs in the finance industry."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @Qres-1 to discuss initial strategy discussions necessary for UHNWIs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Revise onboarding checklist to include findings from the meeting with @Qres-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @Qres-2, @Cio-1, and @Ir-1 for additional input on initial strategy components for UHNWIs."
+    }
+]

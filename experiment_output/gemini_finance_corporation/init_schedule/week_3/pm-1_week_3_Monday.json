@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office, prepare a cup of strong coffee, and review the overall project timeline and key milestones for the statistical arbitrage fund. Mentally prioritize tasks for the week."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the project management system (e.g., Jira, Asana). Review task progress for all teams: Quantitative Research, Software Development, Data Science & Engineering, Compliance, Legal, and Operations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send out a 'Weekly Progress Check-in' email to @qres-1, @qres-2, @qres-3, @sdev-1, @sdev-2, @dsde-1, @dsde-2, @comp-1, @legal-1, @coo-1, @facc-1, @facc-2. Request concise updates on progress against planned tasks, potential roadblocks, and any resource needs."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin reviewing individual task updates as they come in. Categorize responses based on team and impact on overall project timeline (e.g., on track, minor delay, significant delay)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Identify any potential delays or bottlenecks based on initial update reviews. Flag critical issues requiring immediate attention."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a brief meeting with @larch-1 and @sdev-1 to discuss the progress of software development, particularly focusing on the trading platform infrastructure. Address any technical challenges or resource constraints."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab a quick and healthy lunch at my desk while browsing the Financial Times."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @larch-1 and @sdev-1 to deep dive into trading platform development. Clarify requirements, troubleshoot potential delays, and offer guidance."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review updates from the Quantitative Research team (@qres-1, @qres-2, @qres-3). Assess the validation results of the statistical arbitrage models. Identify any areas needing further refinement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report of the morning's progress review, highlighting key risks and potential mitigation strategies. Share with @cio-1 and @coo-1 for their awareness."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check if @devops-1 has completed the task of automated deployment pipeline, and ensure that the model deployment and testing process are efficient. If not, ask the reasons."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review documentation from @legal-1 regarding SEC regulations and fund registration requirements. Identify any pending items or areas needing clarification. Send email to @legal-1 for confirming the schedule."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update project plan with current progress, identified risks, and planned mitigation steps. Ensure all team members have access to the latest version. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

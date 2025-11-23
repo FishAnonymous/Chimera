@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning coffee and catch up on overnight emails. Check project status on the IT dashboard."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on the 'Data Sources' section based on feedback from @his-1 and @his-2 from email. Incorporate their input on data definitions and potential biases. Include information on the EHR system and data extraction process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Focus on the 'Statistical Analysis' subsection. Detail the specific statistical tests to be used, including their rationale and limitations. Consider consulting @clinlead-1 (Clinical Lead) for input on relevant clinical interpretations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research predictive modeling techniques for influenza forecasting. Look into ARIMA models, machine learning algorithms, and other approaches. Evaluate their suitability for the available data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time. Maybe a quick game of foosball in the break room with @da-1. I'm always up for a challenge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Design and develop the first draft of the data visualizations. Start with a line chart showing the overall influenza case count over time. Use a data visualization tool like Tableau or Python's Matplotlib."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a bar chart comparing influenza case counts across different age groups or demographic categories. Pay attention to color schemes and labeling for clarity."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Develop a map showing the geographic distribution of influenza cases. Use color-coding or shading to represent different levels of infection."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the data visualizations with @qatest-1 and @qatest-2 (Quality Assurance Testers) to ensure accuracy and clarity. Incorporate their feedback on design and usability. Email @PEOPLE Request for Data Visualization feedback."
+    }
+]

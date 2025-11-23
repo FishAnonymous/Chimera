@@ -1,0 +1,27 @@
+{
+    "name": "Fatima Al-Khalidi",
+    "id": "ehrv-1",
+    "ip": "10.0.0.25",
+    "age": 39,
+    "role": "EHR Vendor Liaison",
+    "description": "Serves as the primary point of contact between the hospital and its EHR vendor(s). Manages vendor relationships, negotiates contracts, and ensures that the EHR system meets the hospital's needs. Coordinates system upgrades, implementations, and training programs. Advocates for the hospital's interests and ensures timely resolution of issues. Stays abreast of industry trends and emerging technologies to inform EHR strategy.",
+    "tools": [
+        "Project Management Software (e.g., MS Project, Asana)",
+        "Contract Management Systems",
+        "EHR Systems (e.g., Epic, Cerner)",
+        "Communication Platforms (e.g., Microsoft Teams, Zoom)",
+        "Vendor Management Tools"
+    ],
+    "mbti": "ENTP",
+    "interests": "international travel, debate club, foreign films",
+    "personality": "Strategic thinker and skilled negotiator with a global perspective. Enjoys challenging the status quo and finding creative solutions to complex problems. Highly articulate and persuasive. Can sometimes be perceived as argumentative but is always driven by a desire to improve outcomes. Enjoys fostering strong relationships with vendors and colleagues alike.",
+    "application": {
+        "Zendo": {
+            "account_name": "vendor-789012",
+            "password": "fatimaA@vendor",
+            "permissions": "vendor_liaison"
+        }
+    },
+    "email": "vendor-789012@hospital.org",
+    "container_id": "4a5b6c7d8e9f"
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Prepare assets for testing, ensuring all optimized assets are available for performance measurement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @QA Tester to discuss the testing process and objectives."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct initial performance tests on optimized assets in various scenarios."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze performance test results and identify areas for further optimization."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Iterate on assets based on performance results and prepare a report on findings."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Organize documentation and finalize the report for distribution."
+    }
+]

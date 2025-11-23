@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Look for any feedback regarding the game design document."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Based on the received feedback, I will improve the game design document."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hold a meeting with all members to answer their questions regarding the current game design. @PEOPLE: All Topic: Q&A for the Game Design Document"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "After answering all the questions, I will check the game design document again to make sure everything is correct."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary of this week's work and a plan for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the summary and next week's plan to @PROD-1. @PEOPLE: @PROD-1 Topic: Weekly Summary"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finish my work. Have a great weekend."
+    }
+]

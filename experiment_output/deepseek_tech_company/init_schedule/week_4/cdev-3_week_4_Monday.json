@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review playtesting schedule and prepare necessary tools for session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct first playtesting session with @qtest-1 and @ldes-1 to gather feedback on gameplay mechanics."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze feedback from playtesting session and document key findings."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @lpro-1 and @cdev-1 to discuss performance optimization strategies for rendering, physics, and AI."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start implementing initial optimizations based on discussion."
+    }
+]

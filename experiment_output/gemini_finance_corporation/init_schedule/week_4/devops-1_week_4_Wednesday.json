@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and alerts. Review the progress on monitoring and prepare for providing technical support."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Test the deployed infrastructure and monitoring system with simulated trading activity. Identify any performance bottlenecks or issues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Address any issues identified during testing. Optimize infrastructure configurations and monitoring thresholds."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare documentation and training materials for the trading and research teams on how to use the deployed infrastructure and monitoring system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read a book related to system design."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Make myself available to the trading and research teams for technical support. Respond to inquiries and troubleshoot issues as they arise. Track support requests in a ticketing system (e.g., Jira)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the infrastructure upgrade options discussed with the lead architect. Begin drafting a detailed plan for the upgrades, including timelines, resource requirements, and potential risks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and prepare for the next day."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, get coffee. Check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Deep dive into color palettes. Experiment with different color combinations to evoke the desired mood. Consider the psychological impact of colors - warm vs. cool, vibrant vs. muted. Focus: establishing the overall art style and color palette."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create several color palette variations. Save each palette with descriptive names (e.g., 'Cyberpunk Neon,' 'Serene Forest,' 'Desolate Wasteland'). Note down the specific RGB/HEX values for each color. Compare these different color palettes with the sketches produced yesterday."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the mood boards and selected color palettes with @lpro-1 and @cdev-1. Discuss how they align with the gameplay and story. Get feedback and make necessary adjustments. Topic: color palettes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine color palettes based on feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start creating simple blockout models for the environment using a game engine (Unity or Unreal Engine). Focus on basic shapes and proportions. The goal is to test player movement and scale. Focus: Simple blockout models."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the player movement in the blockout environment. Adjust the camera angle, movement speed, and collision detection. Ensure the player feels comfortable and responsive. Email @lpro-1, @cdev-1 and discuss problems found. Topic: problems in player movement test."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save the progress and head home."
+    }
+]

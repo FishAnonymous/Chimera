@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Conduct a final review of all deliverables: statistical models, backtesting results, and investor presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cio-1, @pm-1 for final approval of all deliverables."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Submit finalized statistical models and backtesting results to @cio-1 and @pm-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and submit the investor presentation to @ir-1 and @pm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @comp-1 and @legal-1 to ensure all deliverables comply with SEC regulations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, document any pending tasks, and plan for the next week."
+    }
+]

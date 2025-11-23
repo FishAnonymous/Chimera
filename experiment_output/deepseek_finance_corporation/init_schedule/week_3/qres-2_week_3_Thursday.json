@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review any last-minute feedback from @cio-1 or @ir-1 on the report or presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make final adjustments to the presentation based on feedback. Ensure all data is up-to-date."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @cio-1 for a dry run of the presentation. Incorporate any suggestions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Short break. Relax and mentally prepare for the investment committee meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the investment committee. Answer any questions and take notes on feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Debrief with @cio-1 and @ir-1 on the presentation outcomes. Discuss next steps based on committee feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the report and presentation materials with any additional insights from the meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Reflect on the week's achievements and areas for improvement."
+    }
+]

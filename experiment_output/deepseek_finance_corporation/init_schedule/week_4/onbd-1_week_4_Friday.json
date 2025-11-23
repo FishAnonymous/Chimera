@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize any remaining tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a quick review of all onboarded clients to ensure no documentation is missing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @audit-1 to provide access to onboarding records for external audit purposes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @sdev-1 and @sdev-2 to address any CRM integration issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend team meeting with @pm-1 and @ir-1 to discuss onboarding progress and client feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize weekly report and submit to @coo-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by organizing the workspace and planning for the next week's priorities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log off and relax after a productive week."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. No urgent messages. Good."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the presentation/demo of the updated 'Urban Ruins' blockout."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the updated 'Urban Ruins' blockout to @lDes-1. Gather feedback and discuss next steps. Answer any questions he has regarding the blockout."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on feedback from @lDes-1, identify areas for further iteration on the 'Urban Ruins' blockout. This may include adjusting cover placements, enemy spawn points, or overall level layout."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the identified iterations on the 'Urban Ruins' blockout. Focus on refining the encounter design and improving the overall flow of the level. I will also ask @sdes-1 for some technical support."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Getting some Pizza."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back from lunch. Continue refining the 'Urban Ruins' blockout based on the latest iterations. Playtest the level with internal team members to gather additional feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the changes made to the 'Urban Ruins' blockout, including specific adjustments to cover placements, enemy spawn points, and level layout. The documentation will be helpful in communicating and tracking the level's evolution."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start experimenting with lighting and visual effects in the 'Urban Ruins' blockout to create a more immersive and engaging environment. Ask @tart-1 for some technical assistance."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out. Time for some drinks."
+    }
+]

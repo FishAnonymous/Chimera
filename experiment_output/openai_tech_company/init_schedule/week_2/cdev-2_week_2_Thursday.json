@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review status updates on the bug fixes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue addressing secondary issues from the playtesting results."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement any final integration requirements with @cdev-2 and @cdev-3."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a second round of playtesting for newly implemented features and improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from playtesting and list any new issues or improvements for the following week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send out thank you emails to testers and summarize findings with @qtest-1."
+    }
+]

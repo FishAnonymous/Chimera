@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review any final feedback on the presentation and make last-minute adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ir-1 to discuss how to present the findings to potential UHNWIs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break, browse industry news for any updates that might impact the presentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Rehearse the presentation with @ir-1, focusing on key points and data visualizations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final run-through of the presentation, ensuring all technical aspects are working."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cio-1, @ir-1, and @pm-1 to confirm the presentation is ready for delivery."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare backup materials and FAQs for potential investor questions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Relax and unwind, review the week's progress and plan for Friday."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, contemplate the absurdity of existence while making coffee. Check emails - anything urgent? If not, browse Hacker News for 30 minutes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Quickly review the week's goals: module completion, integration, bug fixes, and documentation. Think about the most efficient way to tackle them. Probably start with the most annoying module first."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on the software module I hate the most (Module A): Start development/testing of the core functionality of Module A. Ugh."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Realize Module A is even worse than I thought. Email @larch-1, @qres-1 about a specific calculation that seems fishy. Subject: Module A - WTF is this calculation?"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on Module A while waiting for a response. Implement unit tests alongside development \u2013 avoid future headaches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Escape the office. Find a decent sandwich shop and people-watch. Avoid work talk."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back to the grind. Still no reply. Decide to make a best-guess assumption about the calculation and proceed. Add a HUGE comment block highlighting the assumption and emailing @larch-1 and @qres-1 again. Subject: URGENT - Module A Calculation Assumption"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finish the core functionality of Module A. Begin writing basic documentation (just enough to remember what the heck I did)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finally got reply from @larch-1 and @qres-1 confirming my assumption. Remove the 'HUGE comment block' and replace it with the correct formula."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start the testing process for Module A. Fix the bugs. Found 2 bugs. Fix them."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Go home and play video games to de-stress."
+    }
+]

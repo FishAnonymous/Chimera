@@ -1,0 +1,27 @@
+{
+    "name": "Liam Anderson",
+    "id": "sdev-1",
+    "ip": "10.0.0.15",
+    "age": 34,
+    "role": "Server Developer",
+    "description": "Responsible for the backend architecture and server logic, ensuring performance, scalability, and security of the game servers. Collaborates closely with client developers to provide a seamless gaming experience.",
+    "tools": [
+        "Docker",
+        "Kubernetes",
+        "Node.js",
+        "SQL",
+        "Redis"
+    ],
+    "mbti": "ISTP",
+    "interests": "gaming technology, rock climbing",
+    "personality": "Practical and resourceful, enjoys finding efficient solutions to complex problems. Prefers to work independently but is adaptable to team dynamics when necessary.",
+    "application": {
+        "ServerManager": {
+            "account_name": "sdev-839120",
+            "password": "liamA@server",
+            "permissions": "server_developer"
+        }
+    },
+    "email": "sdev-839120@corp.com",
+    "container_id": "e5f76e9b15f2"
+}

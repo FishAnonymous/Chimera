@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Receive and incorporate feedback from @ldes-1 on finalized sketches."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin finalizing textures for all environmental assets. Prioritize high-priority areas first."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @3dmod-1 and @3dmod-2 to ensure models are ready for texture application."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all textures and prepare them for integration. Organize files for easy access by the development team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send finalized textures to @beng-1 and @tdev-1 for integration testing preparation."
+    }
+]

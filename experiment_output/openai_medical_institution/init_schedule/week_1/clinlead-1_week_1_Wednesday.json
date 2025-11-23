@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prepare agenda for the mid-week project review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a mid-week project review meeting with @itpm-1, @da-1, and @da-2 to evaluate data collection efforts."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Identify and document challenges faced in EHR integration and data collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Plan next steps to address identified challenges with team input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a report on EHR data collection progress and feedback mechanisms for upper management."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Set up a follow-up meeting with @qatest-2 and @ehrv-1 to discuss feedback and improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on refining EHR data features based on feedback collected so far."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the workday by checking emails and making notes for tomorrow."
+    }
+]

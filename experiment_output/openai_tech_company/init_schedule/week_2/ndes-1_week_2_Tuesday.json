@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review notes from the previous day and outline specific character attributes and flaws."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start drafting character profiles including attributes, flaws, and objectives for main characters."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @3D Modeler/Animator to ensure character features match narrative descriptions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting character profiles, focusing on secondary characters and their narrative roles."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Set up a meeting with @UI/UX Designer to discuss profile presentation within the game."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out emails to @Client Developer for integration of character profiles into the game's interface design."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Compile all character profiles and prepare for review session tomorrow."
+    }
+]

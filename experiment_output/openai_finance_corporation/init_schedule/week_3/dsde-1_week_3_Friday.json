@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Prepare for team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present findings from statistical model and correlation analysis to the team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from team and discuss next steps based on their input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Start implementing feedback into the statistical model."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize documentation of both the risk-return model and the correlation analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap-up the week, set goals for the following week, and review progress."
+    }
+]

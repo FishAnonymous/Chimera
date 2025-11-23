@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the documentation created and update as necessary before sharing with the team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Organize a brief check-in with @qtest-1 to ensure testing considerations are included in network planning."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the documentation and prepare to create a presentation for the team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on creating a presentation summarizing the chosen cloud provider and network architecture."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the presentation to @prod-1, @sdes-1, and @sdes-2 for feedback."
+    }
+]

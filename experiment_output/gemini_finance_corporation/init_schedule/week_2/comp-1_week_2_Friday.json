@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Final check of emails for the week. Brew a relaxing cup of tea."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the draft training program for employees on insider trading prevention. Ensure the content is clear, concise, and engaging."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @PM-1, the Project Manager, to discuss the implementation of the enhanced insider trading policies and the rollout of the training program. Create a detailed project plan."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @PM-1 to review the project plan. Set realistic timelines and assign responsibilities. Document all decisions and action items."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a brief summary report of my activities and accomplishments for the week. Highlight any challenges or roadblocks encountered and propose solutions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. I will go to the cafe to enjoy the meal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review all the compliance documents created this week. Make sure everything is properly organized, labeled, and stored securely."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a self-assessment of my performance this week. Identify areas where I excelled and areas where I could improve. Develop a plan for continuous professional development."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Catch up on industry news and regulatory updates. Subscribe to relevant newsletters and publications. Stay informed about emerging compliance trends."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for next week's tasks. Outline the key priorities and schedule any necessary meetings or research activities. I like to be organized for the coming week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Ensure my desk is clean and tidy before leaving for the weekend. Send the summary report to the relevant stakeholders."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of week. Relax and recharge over the weekend. I deserve it!"
+    }
+]

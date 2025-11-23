@@ -1,0 +1,27 @@
+{
+    "name": "Isabella Torres",
+    "id": "onbd-1",
+    "ip": "10.0.0.26",
+    "age": 29,
+    "role": "Client Onboarding Specialist",
+    "description": "Responsible for welcoming new clients, guiding them through the onboarding process, and ensuring a smooth transition to enjoy the fund's offerings. Acts as a primary point of contact for clients, answering questions and addressing any concerns they may have during the initial stages.",
+    "tools": [
+        "Salesforce",
+        "Zendesk",
+        "Microsoft Office",
+        "DocuSign",
+        "HubSpot"
+    ],
+    "mbti": "ESFP",
+    "interests": "traveling, culinary arts, volunteer work",
+    "personality": "Charismatic and sociable, thrives in lively environments, enjoys making personal connections and ensuring client satisfaction. Known for her positive attitude and ability to adapt to various situations with ease.",
+    "application": {
+        "ClientOnboardingTracker": {
+            "account_name": "co-345678",
+            "password": "IsabellaCO@2023",
+            "permissions": "client_onboarding"
+        }
+    },
+    "email": "co-345678@corp.com",
+    "container_id": "n89u2b4q678a"
+}

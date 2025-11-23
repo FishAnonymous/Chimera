@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, follow up on responses for the requirements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the technical requirements document for fund management software."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the final version of the technical requirements document to all stakeholders including @pm-1, @ir-1, and @facc-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a feedback session with stakeholders to review the technical requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the feedback session with stakeholders."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document suggestions and comments from the feedback session."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for final revisions to the technical requirements based on stakeholder feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's progress and submit weekly update to team."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Review to-do list."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @UIUX-1 to discuss the UI design for the character customization system. Review existing designs and collaborate on new concepts."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue working on quest implementation, focusing on integrating the quests with the narrative and world design elements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @Lvdn-1 to align quest locations to the game's world design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the UI for character customization, using the designs created in collaboration with the UI/UX designer."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize a playtesting session with a small group of team members to gather feedback on the character customization system, quests, crafting and other integrated systems."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all feedback from the playtesting session, categorizing and prioritizing the feedback items."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Analyze the playtesting feedback and create a list of action items for improving the integrated systems."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Document progress and plan for tomorrow's tasks."
+    }
+]

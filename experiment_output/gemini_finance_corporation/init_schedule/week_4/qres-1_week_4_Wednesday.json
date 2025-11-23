@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and industry news. Review notes on the correlation risk model development."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining the correlation risk model. Experiment with different factor models and correlation estimation techniques to improve the model's accuracy and robustness."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the correlation risk model on historical data. Evaluate the model's ability to identify and manage correlation risk during different market regimes. Assess its impact on portfolio diversification and risk-adjusted returns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Integrate the volatility, liquidity, and correlation risk models into the existing risk management framework. Ensure that the models are compatible with the existing infrastructure and data feeds. @devops-1 Question about integrating the existing framework into the new models."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Walk around."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin designing stress tests to assess the fund's resilience to adverse market conditions. Identify potential stress scenarios based on historical events and current market risks. (e.g., flash crashes, geopolitical events, interest rate shocks). "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Code the stress tests. Simulate the impact of different stress scenarios on the portfolio's value, risk metrics, and liquidity. Incorporate the volatility, liquidity, and correlation risk models into the stress testing framework."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Sync code changes."
+    }
+]

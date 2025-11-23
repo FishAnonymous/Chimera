@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review Wednesday's progress and adjust the task list for Thursday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue implementing the prioritized features for the level building tool. Focus on features that improve usability and streamline the level design process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Integrate the level building tool with the game engine. Ensure that levels created with the tool can be loaded and played in the game."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the integrated level building tool. Identify and fix any issues that arise during the integration process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Read technical documentation related to game engine integration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refactor the level building tool code. Improve the code's readability, maintainability, and performance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the integration process. Create a guide for level designers on how to use the level building tool to create levels for the game."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @lvdn-1 (Level Designer) to schedule a training session on how to use the new level building tool."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare training materials for the level building tool training session."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Training session with @lvdn-1 (Level Designer) to demonstrate the new level building tool and provide hands-on training."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day - Review progress, update task list, and plan for Friday."
+    }
+]

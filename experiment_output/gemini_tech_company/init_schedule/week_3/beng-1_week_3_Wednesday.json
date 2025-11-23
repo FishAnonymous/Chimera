@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review yesterday's work. Check automated testing framework and ensure it's running correctly"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Integrate the automated testing framework into the CI/CD pipeline. Configure a job to run the tests after the code is compiled."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Test the CI/CD integration with automated testing by introducing a bug and committing it. Monitor the build and test process in the CI/CD system."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any errors or failures in the CI/CD pipeline related to automated testing. Debug the test cases and CI/CD configuration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on deployment pipelines. Start by configuring a pipeline to deploy the game to a testing environment."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement the deployment script using tools like scripting languages or deployment tools."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the deployment pipeline to the testing environment, and fix bugs based on the test results. "
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from @ldes-1 and @prod-1 on the story outlines."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine story beats based on feedback. Ensure each beat serves the narrative and gameplay effectively."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @ldes-1 to discuss alignment between narrative and gameplay mechanics. Adjust story beats if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining character bios, incorporating feedback and ensuring diversity in character traits and arcs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @3dmod-1 @3dmod-2 to discuss visual representation of key characters. Share bios for reference."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a presentation summarizing the narrative and character outlines for the team review meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the presentation and send it to @prod-1 for pre-meeting review."
+    }
+]

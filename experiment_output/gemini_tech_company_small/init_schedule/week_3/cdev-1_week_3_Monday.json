@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and company announcements. Skim through any relevant articles or discussions about resource management systems in third-person shooters to gather some ideas."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Initial brainstorming on the specifics of the resource system. Decide on which resources to implement first (health, stamina). Consider how these resources will affect combat and movement. Document initial ideas."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start implementing the health resource. Define the data structure for health (e.g., current health, max health). Implement functions for increasing and decreasing health. Add unit tests for health functionality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Integrate the health system with the combat system. Ensure that taking damage reduces health. Implement a death mechanism when health reaches zero. Add unit tests for damage calculation and death."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue integrating the health system with combat by adding more sophisticated damage calculation and perhaps even implementing some basic healing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the implemented code. Refactor if necessary. Write more unit tests for different damage scenarios and edge cases."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the implemented health system. Push the changes to the remote repository."
+    }
+]

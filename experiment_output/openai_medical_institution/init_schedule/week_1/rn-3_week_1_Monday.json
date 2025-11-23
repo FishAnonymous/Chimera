@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails for any updates from colleagues regarding EHR collection and seasonal influenza trend analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 and @itpm to discuss the integration timeline for EHR collection and understand vendor requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in a departmental meeting with all RN colleagues to see how to streamline data collection during patient visits."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @dba-1 to request the latest database structure and access for the EHR development process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the existing EHR documentation and analyze current seasonal influenza data trends."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @clinlead-1 to discuss possible challenges in EHR documentation from a clinical perspective."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on a detailed implementation plan for EHR integration based on the feedback received."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of the day's activities and outline goals for the next day."
+    }
+]

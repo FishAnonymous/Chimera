@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a weekly report summarizing all vendor interactions, system performance, and user feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @itpm-1 to review the weekly report and discuss any outstanding issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with the EHR vendor to confirm any pending actions or updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and share the weekly report with the entire team via email."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize all documentation and notes for the week in the shared drive."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Relax and browse industry news or personal interests."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and plan for the next week's tasks."
+    }
+]

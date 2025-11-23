@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address urgent requests related to the EHR modifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's progress and plan for today's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a presentation to the medical staff, with @DA-1, @DA-2 to help explain, on the seasonal influenza trend analysis and the new influenza guidelines and recommendations, focusing on the importance of using the EHR prompts and order sets."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address questions and concerns raised by physicians regarding the new influenza-related EHR functionalities. Provide clarification and support."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Monitor the usage of the new influenza-related EHR functionalities and identify areas for improvement. Work with the IT team to address any technical issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a team lunch at a local restaurant."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @HELPDEK-1 (Help Desk Support) to prepare for common questions from users regarding new workflows. Ask them to document and escalate issues to the appropriate team for resolution. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze the data collected from the EHR system to assess the impact of the new influenza-related functionalities on patient outcomes and clinical workflows."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a report summarizing the key findings of the data analysis and recommendations for further improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress on the EHR modification project. Prepare for tomorrow's tasks."
+    }
+]

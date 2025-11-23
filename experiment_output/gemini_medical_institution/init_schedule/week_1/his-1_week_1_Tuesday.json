@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Respond to urgent requests. Skim through a blog about data privacy in healthcare."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @DA-1, @DA-2, @Clinlead-1 to review the list of identified EHR data elements. Discuss the relevance of each element for seasonal influenza trend analysis. Revise the list based on their feedback. TOPIC: EHR Data Element Review for Influenza Analysis"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin defining the data collection workflow. Research and document the existing ETL (Extract, Transform, Load) processes used for extracting data from the clinical databases and lab systems."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @EHRDEV-1 and @EHRDEV-2 regarding the feasibility of automating the extraction of the identified EHR data elements through ETL processes. Discuss potential challenges and limitations. TOPIC: ETL Automation for Influenza Data"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Play a quick game of Sudoku."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the proposed data collection workflow, including the data sources, ETL processes, and frequency of data extraction (weekly). Outline the steps involved in extracting relevant data elements from clinical databases and lab systems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze potential data gaps in the identified EHR data elements. Focus on incomplete vaccination records. Brainstorm strategies for improving vaccination data capture (e.g., patient reminders, staff training)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze potential data gaps related to inconsistent symptom documentation by clinicians. Consider the use of standardized symptom checklists or templates to improve documentation consistency."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Analyze potential data gaps related to missing lab results due to external testing. Explore options for integrating external lab results into the EHR system."
+    }
+]

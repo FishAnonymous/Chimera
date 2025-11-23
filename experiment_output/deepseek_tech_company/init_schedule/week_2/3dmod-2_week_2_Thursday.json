@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review animations created so far and identify areas for improvement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on additional animations such as run, jump, and attack cycles."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break. Browse forums for animation tips and tricks."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue refining attack animations, focusing on impact and timing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test animations in the game engine and adjust as necessary."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qtest-1 to request feedback on character animations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback and finalize animations for the key character."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and backup all animation files."
+    }
+]

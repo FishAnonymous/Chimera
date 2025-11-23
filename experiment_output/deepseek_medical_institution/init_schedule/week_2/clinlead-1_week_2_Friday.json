@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review any pending tasks and prioritize for completion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1, @qatest-2 to review test results for the nursing assessment workflow modifications."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @qatest-1, @qatest-2 to review test results for the physician examination workflow updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qatest-1, @qatest-2 to review test results for the EHR and laboratory information system integration."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Compile a summary report of the week's progress and submit to @itpm-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Plan for the next week's tasks and priorities."
+    }
+]

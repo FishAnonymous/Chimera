@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and company announcements. Skim through industry news on game development trends and new engine features (UE5, Unity)."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start setting up the basic project structure in the game engine (likely Unreal Engine). Create base folders: Content, Source, Config, etc."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Configure the project settings: input mappings, rendering settings, and basic project defaults. This ensures consistency from the start."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement the main menu UI. This includes creating the UI layout, adding buttons for 'New Game,' 'Load Game,' 'Options,' and 'Exit,' and placeholder functions for their functionality. Use UMG in Unreal."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a quick bite and browse some tech blogs related to game development."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing the main menu: button styling and basic animation on hover. Get the main menu functional navigation logic. Make sure the buttons highlight on hover or when selected using controller/keyboard."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement the Options menu UI. Add placeholder options for video, audio, and gameplay settings. The visual element will be handled by UI/UX designer."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Test the main menu and options menu navigation. Ensure all buttons respond correctly and the UI is responsive to different screen resolutions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit the changes to the source control system (Git). Write a clear commit message describing the changes."
+    }
+]

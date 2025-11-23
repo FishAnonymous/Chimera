@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and finalize the report summarizing the data cleaning findings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Share the report with @clinlead-1, @mrs-1, and @itpm-1 for review and inputs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss with @his-2 about the implementation of any necessary data integrity checks moving forward."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and implement any recommended changes to the data collection methodology."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a final email to the team summarizing the week's progress and next steps."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review my week's work and prepare key takeaways for personal development."
+    }
+]

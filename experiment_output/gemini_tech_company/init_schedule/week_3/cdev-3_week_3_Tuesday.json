@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Discuss yesterday's architecture plan with @cdev-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the main menu UI. Implement button functionality (e.g., New Game loads a placeholder level). Email @uiux-1 Topic: Main Menu UI Feedback. Request initial feedback on the layout and button placement."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start designing the basic HUD (Heads-Up Display). Research common HUD elements in third-person shooters (health bar, ammo counter, minimap placeholder)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Create placeholder UI elements for the HUD in a separate scene. Implement basic functionality (e.g., health bar changes color when damaged - simulated)."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Check the progress of my favorite sports team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Discuss HUD design ideas with @3dmod-1 and @3dmod-2."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a simple settings panel. Include options for volume control and basic graphics settings (resolution, quality)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research how to save and load settings data (PlayerPrefs, JSON serialization). Choose a suitable method for our project."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement saving and loading functionality for the settings panel. Test to ensure settings are correctly saved and loaded between sessions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the current progress. Writing detailed comments in the code."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out from the OA system. Go home."
+    }
+]

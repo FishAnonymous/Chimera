@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the goals for week 2: combat system architecture, AI implementation, attack animations, simple enemy AI, hit detection, and health values. Prioritize tasks based on dependency; combat system architecture is the foundation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start designing the combat system architecture. Create a UML diagram outlining the core classes (Character, Weapon, Attack, DamageCalculator, HitDetector, AIController) and their relationships. Focus on modularity and extensibility."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @ldes-1 and @cdev-1 to schedule a brief meeting regarding combat system design. Subject: Combat System Architecture Review. Include key design considerations and ask for feedback on potential design flaws or improvements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Browse Unreal Engine documentation related to Gameplay Abilities and Attribute Sets. Explore existing resources to potentially leverage existing systems instead of reinventing the wheel. Take notes on potential implementation approaches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a quick bite and browse tech news on Hacker News."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @ldes-1 and @cdev-1 to review the combat system architecture diagram and design considerations. Address any concerns or suggestions. Incorporate feedback into the design."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin implementing the base Character class in Unreal Engine. Define basic attributes like health, movement speed, and attack power. Use Unreal Engine's Attribute Sets for managing health and other vital stats."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the Character class to the version control system (Git). Write a detailed commit message outlining the changes made and the purpose of the class."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review documentation on Unreal Engine's AI system, focusing on Behavior Trees and Blackboard components. Start thinking about how to represent enemy AI behaviors."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Check emails one last time. Prepare for tomorrow's tasks."
+    }
+]

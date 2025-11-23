@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and briefly browse Reddit."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue working on the task identified yesterday. Write some detailed documentation on what has been done."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to work on the task. Possibly send the code for review. E-mail @LPRO-1 with subject: Code review for [Task Name]"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write some documentations and prepare for possible code change due to code review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow's tasks."
+    }
+]

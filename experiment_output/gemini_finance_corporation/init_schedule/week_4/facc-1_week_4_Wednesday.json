@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and financial news. Prepare for the meeting with @AUDIT-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @AUDIT-1 (External Auditor) to discuss the fund's first audit. Review the audit scope, timeline, and documentation requirements. Address any questions or concerns from the auditor."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Based on the meeting with @AUDIT-1, refine the audit preparation plan. Assign specific tasks to other team members as needed (e.g., @COMP-1 for compliance-related documentation, @QRES-1 for performance calculation details)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up on the email sent to @LEGAL-1 and @COMP-1 regarding legal interpretation of SEC regulations on fund valuation. If no response, send a reminder."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the fund's compliance procedures with @COMP-1 to ensure alignment with accounting standards. Focus on areas related to anti-money laundering (AML) and know your customer (KYC) requirements."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on refining the procedures for tracking fund expenses, incorporating feedback from @COO-1 and @AUDIT-1. Specifically address the documentation requirements for different types of expenses."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the accounting and reporting framework document based on the discussions with @AUDIT-1 and @COMP-1. Ensure the document is clear, concise, and easy to understand."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Wrap up for the day."
+    }
+]

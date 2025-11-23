@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize responses from @trainer-1, @qatest-1, and @qatest-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the data abstraction protocol based on feedback from @qatest-1 and @qatest-2. Incorporate quality control measures into the protocol."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the training session agenda and presentation slides in collaboration with @trainer-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Develop a quiz or assessment to evaluate the data abstractors' understanding of the protocol and data entry procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Browse medical journals to see if any updated guidelines or trend analysis for influenza."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @ehrdev-1 and @ehrdev-2 to ensure the data abstraction form is properly integrated into the EHR system. @ehrdev-1 @ehrdev-2 Subject: Data Abstraction Form Integration into EHR"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a mock data abstraction session with @rn-2 and @rn-3 to identify any potential issues with the form or protocol. @rn-2 @rn-3 Subject: Mock Data Abstraction Session"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Make final adjustments to the training materials based on feedback from the mock data abstraction session. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a detailed schedule for the training sessions, including dates, times, locations, and attendees."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review task list and prepare for tomorrow."
+    }
+]

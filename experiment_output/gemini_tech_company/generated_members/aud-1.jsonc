@@ -1,0 +1,28 @@
+{
+    "name": "Sakura Ishikawa",
+    "id": "aud-1",
+    "ip": "10.0.0.26",
+    "age": 33,
+    "role": "Audio Engineer",
+    "description": "Responsible for creating and implementing all audio aspects of the game, including sound effects, music, and voiceovers. Ensures high-quality audio integration and optimization, working closely with composers, sound designers, and voice actors. Masters the final audio mix.",
+    "tools": [
+        "Pro Tools",
+        "Nuendo",
+        "Wwise",
+        "FMOD Studio",
+        "Reaper",
+        "Audacity"
+    ],
+    "mbti": "ISFJ",
+    "interests": "playing the shamisen, film scores, collecting vintage audio equipment",
+    "personality": "Patient and detail-oriented. Prefers structured workflows and appreciates clear communication. A deep love for traditional Japanese music mixed with the cutting edge in sound design.",
+    "application": {
+        "Zendo": {
+            "account_name": "audio-123456",
+            "password": "SakuraI@sound",
+            "permissions": "audio_engineer"
+        }
+    },
+    "email": "audio-123456@corp.com",
+    "container_id": "b9c8a7f6e5d4"
+}

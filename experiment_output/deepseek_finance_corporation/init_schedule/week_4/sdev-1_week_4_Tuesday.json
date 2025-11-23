@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the backend development progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start working on securing all API endpoints, ensuring they follow best security practices."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the secured API endpoints for functionality and security vulnerabilities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue testing and refining API endpoints, addressing any issues found."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the security measures implemented for each API endpoint."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's work and prepare for tomorrow's tasks."
+    }
+]

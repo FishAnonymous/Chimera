@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Confirm the EHR configuration meeting with @ehrv-1, @ehrdev-1, and @ehrdev-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the communication plan based on feedback received from clinical staff yesterday. Determine the best methods for reaching out to different groups and ensuring their participation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct a brief interview with @rn-2 and @rn-3 to gather their perspectives on the ease of use and effectiveness of the current EHR system for influenza data collection. Ask about any challenges they face during data entry."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare detailed notes to organize all the data collected in the interviews. Summarize the main points to include in future reports."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend the EHR configuration meeting with @ehrv-1, @ehrdev-1, and @ehrdev-2. Discuss potential changes to improve influenza data collection, such as adding new fields, modifying existing ones, and streamlining the data entry process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "After the EHR meeting, document all proposed configuration changes and their potential impact on data collection and reporting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an email to @qatest-1 and @qatest-2 outlining the proposed EHR configuration changes and requesting their input on testing requirements and quality assurance procedures."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check on emails and calendar."
+    }
+]

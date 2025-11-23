@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any follow-up questions from the training session or pilot test."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss any technical adjustments needed for EHR integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the integration plan and provide feedback to the development team."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Follow up with @ehrv-1 on vendor feedback regarding the protocol."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of the week's progress for @pchmp-1 and @clinlead-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the report and schedule a brief meeting to discuss any outstanding issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and clean up the EHR system workspace to ensure all documents are properly stored."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks, including any follow-up training or testing needed."
+    }
+]

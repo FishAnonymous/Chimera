@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital's EHR system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a final review of medical records for the week."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Assist in maintaining accurate medical records during data entry processes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Liaise with @his-2 to finalize influenza-related documentation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Summarize all findings from the week and prepare a report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the week's report to team during the end-of-week meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Discuss future improvements based on week's outcomes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set goals for the next week based on the discussions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end the workweek."
+    }
+]

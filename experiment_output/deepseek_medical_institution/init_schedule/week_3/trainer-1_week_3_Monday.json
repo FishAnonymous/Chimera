@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review the current EHR training materials and identify gaps for the new influenza data collection procedures."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to discuss the clinical requirements for the new influenza data collection procedures."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an outline for the training modules, focusing on key steps for data collection and common pitfalls."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrv-1 and @ehrdev-1 to request technical specifications for the EHR updates related to influenza data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop the first training module: 'Introduction to Influenza Data Collection in EHR'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the module with @his-1 and @his-2 for accuracy and relevance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the first module and prepare for tomorrow's session."
+    }
+]

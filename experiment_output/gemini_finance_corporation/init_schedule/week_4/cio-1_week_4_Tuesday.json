@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review overnight market data, focusing on volatility and correlations across different asset classes."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Respond to overnight emails and address any urgent requests from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 (Quantitative Research team) to discuss revisions to the investment strategy document based on yesterday's feedback. Review progress on refining the backtesting models."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct a detailed review of the revised investment strategy document. Ensure all feedback has been addressed and the document is ready for final approval."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @Qres-1, @Qres-2, @Qres-3, @Legal-1: Topic: Final Investment Strategy Review. Circulate the final version of the investment strategy document for final review and approval by both the quantitative research team and legal counsel."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @comp-1 (Compliance Officer) to discuss the fund's compliance procedures and ensure the investment strategy adheres to all relevant regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Network with other financial professionals."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with shortlisted trading platform vendors for presentations and demonstrations. Evaluate their platforms based on key criteria such as performance, reliability, and cost."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss data provider options with @Qres-1. Evaluate data quality, coverage, and cost-effectiveness. Ensure data feeds are compatible with the chosen trading platform."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and provide feedback on the draft risk management framework. Ensure the framework covers all relevant risks associated with the investment strategy."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Catch up on industry news and research papers."
+    }
+]

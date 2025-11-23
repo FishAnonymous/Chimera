@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the fund's preliminary documentation to understand the scope and requirements for establishing accounting procedures."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 and @legal-1 to discuss compliance and regulatory considerations for accounting. Outline key SEC requirements and internal policies."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft initial accounting procedures for the new fund, focusing on transaction recording, reconciliation, and reporting workflows."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting accounting procedures. Incorporate feedback from compliance and legal teams."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cio-1 and @coo-1 for approval on the drafted accounting procedures. Request any additional inputs or modifications."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize and file all documents related to the accounting procedures. Prepare for tomorrow's tasks."
+    }
+]

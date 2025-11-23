@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prepare the presentation room."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the Game Design Document to the entire team. Clearly communicate the game's vision, core mechanics, narrative hook, and player progression system. Encourage questions and feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Facilitate a discussion about the Game Design Document. Address any concerns or questions raised by the team. Gather feedback and suggestions for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collect all feedback from team meeting and identify what is needed to improve, then start to improve the design document."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the Game Design Document based on feedback from the team. Ensure that all comments have been addressed. Share the final version with the entire team. Subject: Final Game Design Document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document all the achievements this week and the problems encountered. This will be used as a reference for my future work."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for the weekend. Browse travel websites."
+    }
+]

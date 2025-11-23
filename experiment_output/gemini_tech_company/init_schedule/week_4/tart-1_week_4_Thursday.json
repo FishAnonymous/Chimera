@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Review the status of the character customization bug fixes and lighting implementation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the dynamic lighting solution to the team (@LVDN-1, @3DMOD-1, @3DMOD-2). Gather feedback and discuss potential improvements. Take detailed notes on the discussion."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the team's feedback, identify key areas for improvement in the dynamic lighting system. Prioritize tasks based on their impact on gameplay and visual quality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the first round of improvements to the dynamic lighting system. Focus on addressing the most critical issues raised during the team presentation, such as performance bottlenecks or visual artifacts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Head out for some tacos and catch up on my favorite podcasts."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the dynamic lighting system. Explore different options for handling volumetric lighting and fog effects."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with @LVDN-1 to integrate the dynamic lighting system into the game's environments. Optimize the lighting for different areas of the game world."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the integrated dynamic lighting system with different gameplay scenarios. Identify any issues or bugs and report them to the level designer. @LVDN-1, Issue reports for the dynamic lighting in game environments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made to the dynamic lighting system and update the team on the progress. Prepare a new build for testing."
+    }
+]

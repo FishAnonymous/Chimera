@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the week's goals and prioritize tasks for prototyping core mechanics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 and @lpro-1 to discuss the core mechanics design (movement, basic interactions) and align on expectations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start prototyping the movement system, focusing on player controls and responsiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the movement system, refining controls and testing in-engine."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @3dmod-1 and @3dmod-2 to request placeholder assets for testing the movement system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and any issues encountered for tomorrow's review."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Address any urgent issues that have popped up since yesterday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "More system review, focusing on data extraction capabilities. How easy is it to pull out influenza-related data in a usable format for analysis? Look into existing reporting tools."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a detailed requirements document for the EHR vendor. This document will specify the desired modifications to the EHR system, including data field enhancements, reporting capabilities, and integration with existing hospital systems."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab lunch and browse some articles about AI and healthcare on my phone."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @ehrdev-1 and @dba-1 to confirm technical feasibility of the proposed EHR system modifications. Discuss potential integration challenges and data storage considerations. Revise the requirements document as needed based on their input."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the EHR requirements document based on the technical feasibility assessment and incorporate feedback from @ehrdev-1 and @dba-1. Finalize the document in preparation for the meeting with the EHR vendor."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized requirements document to the EHR vendor, and confirm that we are aligned on the discussion points for tomorrow's meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's EHR vendor meeting, going over the requirements document and anticipating potential questions."
+    }
+]

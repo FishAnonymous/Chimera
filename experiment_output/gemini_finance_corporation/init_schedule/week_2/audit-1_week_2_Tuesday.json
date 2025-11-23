@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and calendar for any urgent updates or meetings."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review and refine the checklist of key audit considerations drafted yesterday. Add more details on specific areas such as portfolio valuation, performance calculation, and risk monitoring."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research specific auditing standards relevant to statistical arbitrage funds, including those related to model risk management, data quality, and valuation of complex instruments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @Compliance Officer to understand the fund's planned compliance program. Gather information on key policies and procedures related to trading, risk management, and investor relations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the checklist, focusing on the specific risks associated with market-neutral strategies. Include considerations for leverage, liquidity, and model dependencies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review audit requirements for UHNWI-targeted funds, focusing on suitability and investor protection requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the first draft of the audit checklist. Circulate it to @Legal Counsel and @Compliance Officer for preliminary feedback."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Review yesterday's backtesting results and identify areas for improvement."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Explore more advanced statistical arbitrage strategies. Implement strategies based on cointegration, pairs trading, or mean reversion. Research relevant academic literature."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the chosen advanced strategy in code. Ensure it's compatible with the existing backtesting framework. Handle missing data and outliers properly."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Backtest the advanced strategy on historical data. Carefully monitor the performance and identify any issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Meet with @legal-1 and @comp-1 to discuss the regulatory requirements for statistical arbitrage funds.  Mostly listening and learning."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Debug any issues with the advanced strategy. Consult with @qres-2 if necessary. Ensure the backtesting results are accurate and reliable."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Compare the performance of the advanced strategy to the simpler strategies. Determine whether the advanced strategy offers a significant improvement in risk-adjusted returns."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the implementation and backtesting results of the advanced strategy. Create a presentation to share with the team next week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Prepare a list of questions for the quant researchers regarding the advanced strategy. Leave work on time \u2013 need to recharge."
+    }
+]

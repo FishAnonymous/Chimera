@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Black coffee, no sugar."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the character blockouts. Have there been any answers on the email?"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assuming there's no feedback from the concept artist yet, start blocking out the environment. Begin with the larger structures like buildings and rock formations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research reference images for the environment. Gather inspiration from real-world architecture and natural landscapes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a new Blender project for the environment. Set up scale and establish the overall scene composition."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin blocking out the main buildings using simple cube shapes. Focus on getting the overall scale and placement correct."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Block out any major terrain features like hills or valleys. Use simple mesh deformation techniques to create these shapes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Need a hearty meal today."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue blocking out the environment. Add details to the buildings like window placements and roof structures."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start placing placeholder assets like trees and rocks to populate the scene. This helps to get a sense of the overall environment density."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save the environment blockout as 'environment_blockout_v01.blend'. Document any issues encountered or design considerations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Prepare for tomorrow's tasks."
+    }
+]

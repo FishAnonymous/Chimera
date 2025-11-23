@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Coffee time! Check emails, address any urgent items from yesterday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review notes from yesterday's playtest and the email feedback from @Ldes-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining the level blockout based on feedback. Focus on addressing the specific issues identified yesterday. Expand the size of cramped areas, add more detail to boring areas."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start prototyping a simple gameplay scenario: enemy encounter. Add some basic AI enemies to a section of the level. Tweak their placement and behavior to create a challenging but fair encounter. Need to email @Sdes-1 later to ask for the enemy information. @Sdes-1 Subject: About the Enemy info for the Game."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab some food with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue prototyping the enemy encounter. Experiment with different enemy types, numbers, and formations. Add cover objects and traversal options for the player."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Time for some visual integration. Begin adding basic lighting to the level. Experiment with different light sources, colors, and intensities to create atmosphere."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Playtest the enemy encounter with the initial lighting setup. Adjust enemy placement, lighting, and gameplay to improve the overall experience."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up work and write a summary of progress. Send an email to @Ldes-1 with an update on level progress and ask for feedback on the enemy encounter."
+    }
+]

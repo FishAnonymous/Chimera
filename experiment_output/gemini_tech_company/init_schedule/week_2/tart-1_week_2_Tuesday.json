@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, emails. Skim through the Unity Asset Store and Unreal Marketplace for inspiration and potential time-saving assets. Not buying anything yet, just browsing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the technical requirements document for art assets. Add more specifics based on yesterday's research and discussions. Include guidelines for animation frame rates and LOD (Level of Detail) implementation. Send to @3dmod-1, @3dmod-2 for review. @PEOPLE: Technical Asset Requirements - Review Requested"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Set up a basic test scene in Unity (or Unreal, depending on our engine choice). Import a sample 3D model (maybe one I find online for free) and start experimenting with lighting and materials."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on the shader graph for the stylized rock material. Add more details and parameters. Try to make it look less generic."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Maybe grab some street food today."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @3dmod-1, @3dmod-2 to discuss their initial feedback on the technical requirements document. Address any concerns or ambiguities. Fine-tune the requirements based on their input."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Explore different texturing techniques. Look into Substance Painter and Designer, and see how they can fit into our workflow."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement a basic LOD system for the sample 3D model in the test scene. Test the performance impact of different LOD levels."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write a quick email to @lpro-1 outlining the technical challenges I foresee with the current art style. Ask for their input and suggestions on how to optimize for performance. @PEOPLE: Art Style Technical Challenges."
+    }
+]

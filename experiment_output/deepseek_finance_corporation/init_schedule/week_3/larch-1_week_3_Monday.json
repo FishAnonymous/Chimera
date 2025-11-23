@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the technical requirements document for fund management software."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdev-1 and @sdev-2 to discuss and finalize technical requirements for fund management software."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review backend development plans submitted by @sdev-1 and @sdev-2. Provide feedback and request revisions if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @devops-1 to ensure infrastructure supports the backend development plans."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on documentation for finalized technical requirements and backend development plans."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any pending queries from the team."
+    }
+]

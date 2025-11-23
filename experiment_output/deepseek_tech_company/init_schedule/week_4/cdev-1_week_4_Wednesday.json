@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review all optimization changes made so far."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Identify and fix bugs found during playtesting. Start with high-priority issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue fixing bugs, focusing on gameplay mechanics issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test fixes and verify with @qtest-1. @qtest-1"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all bug fixes and changes made during the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare initial draft of development progress documentation."
+    }
+]

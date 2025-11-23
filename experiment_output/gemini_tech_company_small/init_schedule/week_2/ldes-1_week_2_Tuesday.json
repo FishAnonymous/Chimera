@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, get that coffee brewing. Time to build upon yesterday's progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails and catch up on any messages from the team. @lpro-1, any thoughts on the animation concept art from yesterday?"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue developing concept art for enemy basic attack animations, focusing on clarity and readability for the animators."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin sketching out UI concepts for health bars and other combat-related information. Think intuitive, clear, and visually appealing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the UI concepts, experimenting with different layouts and visual styles. Considering the information hierarchy to improve readability."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cdev-1 and @lpro-1 to showcase initial UI concepts for feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address UI feedback and do the corresponding changes. Make sure that it's consistent with the game's aesthetic."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up and head home."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the preliminary budget draft for completeness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @devops-1 to confirm technology infrastructure costs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Update the technology budget section based on feedback from @devops-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Cross-check budget figures with industry benchmarks for accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the preliminary budget document, ensuring all sections are complete."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @coo-1 to present the preliminary budget for review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback from @coo-1 into the budget document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized preliminary budget to @ir-1 for investor relations review."
+    }
+]

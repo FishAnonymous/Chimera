@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize responses from @his-1, @mrs-2, and @mrs-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the list of potential storage locations for paper records based on feedback from @mrs-2 and @mrs-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a brief meeting with @his-1 to discuss the feasibility of accessing historical EHR data and any potential challenges. Include @itpm-1 in the meeting to address any IT-related questions. @his-1 @itpm-1 Subject: Meeting Request: Accessing Historical EHR Data"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue developing the data abstraction form. Add sections for vaccination status and diagnosis codes (ICD-10). Research standard coding practices for influenza diagnoses."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work on the symptoms section of the data abstraction form. Include common influenza symptoms with checkboxes or fields for free-text entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review articles on preparing training materials for data abstraction."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the lab results section of the data abstraction form. Specify the types of lab results to be included (e.g., influenza PCR, rapid influenza diagnostic test)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Complete the prescription and hospitalization sections of the data abstraction form. Include relevant data fields for each."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the draft data abstraction form with @clinlead-1 and @rn-1 for review and feedback. @clinlead-1 @rn-1 Subject: Draft Data Abstraction Form for Influenza Project - Review Request"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin outlining the content for the training sessions. Create a list of topics to be covered (protocol overview, EHR data entry, quality control procedures)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review task list and prepare for tomorrow."
+    }
+]

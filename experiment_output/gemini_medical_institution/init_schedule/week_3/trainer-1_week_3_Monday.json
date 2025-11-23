@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar for urgent updates. Grab a cup of coffee and mentally prepare for the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review this week's goal: Document influenza vaccination status & allergies in EHR, refer vaccine questions to providers. Start outlining training modules needed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorming session: What EHR fields are involved? What existing documentation can be leveraged? Draft a high-level outline of training content."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @ehrv-1 EHR Vendor Liaison: Request clarification on specific EHR fields related to influenza vaccination status, allergy documentation, and contraindication capture. Ask about any upcoming system updates that might affect the training materials. @clinlead-1 Clinical Lead: touch base to understand clinical workflows regarding influenza vaccinations and allergy documentation in the EHR. Understand any current challenges or pain points from the clinical perspective."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and browse the CDC and other medical websites for the latest guidelines on influenza vaccinations, allergies, and contraindications. Ensure training materials are up-to-date and evidence-based."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - step away from my desk, maybe socialize with colleagues. Need to recharge!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review responses from @ehrv-1 and @clinlead-1, refine training content outline based on their feedback and EHR specifics."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin drafting the first module of the training: 'Documenting Influenza Vaccination Status in the EHR'. Focus on clarity, conciseness, and step-by-step instructions with screenshots."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Take a break, stretch, maybe grab a snack. Avoid burnout!"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue drafting the first module. Focus on how to accurately record the vaccination date, type of vaccine, and administration route."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review completed sections of module 1 for accuracy and clarity. Make necessary edits."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save all work and log out."
+    }
+]

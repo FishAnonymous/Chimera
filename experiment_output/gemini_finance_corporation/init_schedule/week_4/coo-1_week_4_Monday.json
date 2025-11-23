@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, have a quick breakfast and scan the news headlines."
+    },
+    {
+        "Time": "07:30",
+        "Activity": "Review overnight emails and prioritize urgent items."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check in with my executive assistant."
+    },
+    {
+        "Time": "08:15",
+        "Activity": "Review and refine project plan draft in preparation for final project plan and budget review. Focus on alignment with strategic goals and resource allocation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @PM-1 (Project Manager) to thoroughly review the final project plan and budget. Discuss potential risks and mitigation strategies. Ensure all deliverables are clearly defined and timelines are realistic."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Contact @FACC-1 and @FACC-2 (Fund Accountants) to validate budget figures and funding allocation across different teams. Confirm availability of funds and tracking mechanisms."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review legal and compliance aspects of the project plan with @LEGAL-1 (Legal Counsel) and @COMP-1 (Compliance Officer). Confirm alignment with SEC regulations and internal policies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a quick bite and read industry articles."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Finalize project plan and budget approval. Document all approvals and circulate to relevant stakeholders."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Team lead meeting. Review project plan and budget with team leads, ensuring they have necessary resources. Open discussion for questions and concerns. Send email to @CIO-1 @IR-1 @larch-1 @qres-1 @qres-2 @qres-3 @dsde-1 @dsde-2 about the project kick-off meeting tomorrow morning."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any resource-related issues raised during the team lead meeting. Coordinate with @larch-1 (Lead Software Architect) and @cio-1 (Chief Investment Officer) to resolve conflicts and secure necessary resources."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the team's progress and pending deliverables on JIRA. Check in with @PM-1 (Project Manager) to address any road blocks for each of the teams."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day. Prepare for tomorrow's project kickoff meeting."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

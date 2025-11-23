@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and respond to urgent requests. Put on my favorite playlist to get in the zone."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from @ehrv-1 (EHR Vendor Liaison) regarding customization options. Document any limitations or constraints that may impact the planned EHR system updates."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the design document based on the vendor feedback. Adjust plans for data field creation, workflow customization, and validation rules as needed."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Schedule a meeting with @da-1 and @da-2 (Data Analysts) to discuss data reporting requirements for influenza trends. Topic: 'Data Reporting Requirements for Influenza Trends'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @da-1 and @da-2 to discuss the necessary data points and report formats for analyzing influenza trends. Gather insights on their specific needs and expectations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Try out the new salad bar in the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate the data reporting requirements into the design document. Ensure that the planned EHR system updates will support the generation of necessary reports."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop a detailed plan for creating new data fields. Define the data type, length, and validation rules for each field. Ensure compatibility with existing EHR data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Outline the steps involved in customizing existing workflows. Identify specific points in the workflow where data collection prompts and validation rules should be implemented."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the design document with @itpm-1 (IT Project Manager) to get the project approved and to ensure the plan aligns with the overall project timeline and budget. Topic: 'Review of EHR Update Design Document'."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tasks and plan for tomorrow. Check email and respond to urgent requests."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails for responses from @LEGAL-1 and @COMP-1. Address any urgent matters. Review outstanding questions regarding accounting policies and procedures."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue refining the accounting policies and procedures document. Incorporate any new information received from Legal and Compliance. Focus on clarity and comprehensiveness."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research different accounting software and systems suitable for tracking fund performance and expenses. Consider factors like scalability, integration with existing systems, and reporting capabilities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a shortlist of potential accounting systems. Document the pros and cons of each system, focusing on features relevant to the specific needs of the fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @COO-1 and @CIO-1 to schedule a meeting to discuss the shortlist of accounting systems and gather their input on the selection process. Subject: Accounting System Selection - Input Requested."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on a plan for setting up the selected accounting system. Outline the necessary steps for data migration, user training, and system configuration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a preliminary plan for tracking fund performance and expenses. Include key metrics, reporting frequency, and data sources."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and prioritize tasks for tomorrow. Respond to email and Prepare to leave."
+    }
+]

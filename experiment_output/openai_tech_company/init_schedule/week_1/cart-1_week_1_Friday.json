@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and confirm meeting schedule with the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the mood boards and reference materials to the design team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather feedback from the team during the presentation and discuss further steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the mood boards and prepare a digital file for future reference."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Plan next week's tasks based on feedback and discussions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of the OA system and prepare for the weekend."
+    }
+]

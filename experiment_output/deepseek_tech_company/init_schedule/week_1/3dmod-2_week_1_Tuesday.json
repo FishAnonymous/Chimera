@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's progress and plan today's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining character blockouts based on concept art feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, doodle some character ideas in a sketchbook."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Work on adding more details to the blockouts, ensuring they are ready for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @3dmod-2 to schedule a review session for initial models."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare presentation materials for the review session, including screenshots and notes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize preparations for the review session and save all work."
+    }
+]

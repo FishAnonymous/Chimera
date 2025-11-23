@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prepare for the final review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the final review meeting with the art and development teams, presenting the finalized art style, shaders, and visual effects."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any feedback or concerns raised during the review meeting, making notes for future iterations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update all documentation and asset repositories with the finalized versions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @prod-1 and @lpro-1 with a summary of the review outcomes and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and preparing for next week's tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and review project objectives for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-3 to discuss initial insights on risk-return profiles for market-neutral funds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start working on the statistical model to evaluate risk-return profiles for market-neutral funds."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the statistical model, focusing on integrating relevant datasets."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reach out to @facc-1 for data on past fund performance to incorporate into the model."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Take a break and review concepts related to market-neutral strategies."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Begin drafting the design document for combat mechanics, focusing on core features like shooting mechanics, hit detection, and damage calculation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break to brainstorm ideas for progression systems, such as leveling up, unlocking abilities, and rewards."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue drafting the design document, adding sections on progression systems and how they integrate with combat mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the drafted documents for clarity and completeness. Make any necessary adjustments."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ldes-1 and @sdes-2 to schedule a meeting for reviewing the draft documents."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize notes and prepare for the upcoming review meeting by listing key points to discuss."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by saving all documents and sending a status update to @prod-1."
+    }
+]

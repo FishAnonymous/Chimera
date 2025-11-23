@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review yesterday's progress. Plan the day's tasks, focusing on combat mechanics."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start defining the core combat mechanics. Outline different attack types (e.g., melee, ranged), damage calculation, and hit detection. Document the initial design in the core game mechanics document. @LDES-1 Email Lead Game Designer to discuss initial combat design and get feedback."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research and prototype a simple melee combat system. Implement basic attacks with animations and hit detection. Integrate with the existing movement system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement damage calculation and health management. Design a system that allows for different weapon types and damage modifiers. Write unit tests for the damage calculation system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement hit detection using raycasting or collision detection. Ensure the hit detection is accurate and responsive. Fine-tune the hitboxes for the player and enemies. @3DMOD-1 @3DMOD-2 Email 3D Modelers for the character model's hitboxes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin documenting the combat mechanics. Explain the attack types, damage calculation, and hit detection methods. Include diagrams and code snippets to illustrate the concepts."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the combat system. Identify areas for improvement and optimization. Update the project plan accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up code, check for potential bugs, write daily report and send to team members. Leave work."
+    }
+]

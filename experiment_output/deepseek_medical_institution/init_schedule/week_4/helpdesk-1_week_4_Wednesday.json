@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check help desk system and respond to any high-priority tickets from overnight."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss any informatics-related concerns affecting EHR usability."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Provide remote support to @rn-3 for troubleshooting EHR access issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document resolved issues and update the help desk knowledge base."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a brief survey with @rn-1 and @rn-2 to gather feedback on recent EHR updates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any feedback received and escalate critical issues to @ehrv-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and organize help desk tickets for the week, identifying any patterns or trends."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update @itpm-1 on survey results and any actionable insights."
+    }
+]

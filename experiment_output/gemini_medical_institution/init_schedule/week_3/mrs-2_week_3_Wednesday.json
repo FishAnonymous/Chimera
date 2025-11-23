@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, coffee time, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the progress on data abstraction with @mrs-2 (Grace Ito). Discuss potential bottlenecks and strategize for improvements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on data abstraction from EHRs, prioritizing records with laboratory confirmation of influenza (A or B). Complete 35 EHRs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send an email to @clinlead-1 (Clinical Lead) and @pchmp-1 (Physician Champion) to get insight and discuss the common influenza symptoms based on their knowledge. Subject: Clarification on influenza symptoms. Ask for their advice in identifying less common symptoms in the EHR data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Order takeout and enjoy it in the break room while chatting with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue data abstraction, focusing on patients with comorbidities. Aim to complete 30 EHRs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and validate the abstracted data. Identify and correct any discrepancies or errors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the progress report, including the number of records abstracted and any challenges. Discuss these challenges with @mrs-2 (Grace Ito)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check if I miss any important message, and prepare for tommorrow's plan. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

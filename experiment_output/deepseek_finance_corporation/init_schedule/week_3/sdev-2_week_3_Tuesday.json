@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review the progress on the investor portal UI and plan the day's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on integrating the frontend with the backend APIs. Start with authentication endpoints."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Read a few articles on API best practices."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue API integration, focusing on real-time data access for portfolio metrics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Debug and test the API integrations. Ensure data is being fetched and displayed correctly."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Break. Quick walk around the office."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the API integration process and any issues encountered."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an update email to @pm-1 and @larch-1 regarding the progress."
+    }
+]

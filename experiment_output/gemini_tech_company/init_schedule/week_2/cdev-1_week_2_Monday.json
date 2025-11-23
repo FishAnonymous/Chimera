@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and catch up on emails and messages from the weekend. Check JIRA for any new tasks or updates. Quickly browse some game development blogs for inspiration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: client-side architecture, UI design, project setup, core UI elements, scalable architecture, UI implementation, player feedback systems, and collaboration with Leon @LDES-1 and Naomi @NDES-1. Prioritize tasks based on dependencies and urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create a new project in the game engine (likely Unreal or Unity). Set up the basic folder structure: Assets, Scripts, UI, etc. Initialize version control (Git) and create a new branch for this week's work."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start designing the client-side architecture. Focus on separating concerns: UI, game logic, networking, etc. Sketch out a class diagram or component-based design. Research common architectural patterns like MVC or MVVM for game development."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the basic project structure in code. Create base classes for UI elements, game entities, and managers. Ensure that the code is well-documented and follows coding standards."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head to the cafe with colleagues and chat about the game and other interesting stuff."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin implementing the main menu UI element. Create a basic layout with buttons for 'Start Game', 'Options', and 'Exit'. Add placeholder functionality for button clicks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Reach out to UI/UX Designer @UIUX-1 to discuss the visual design of the main menu. Get feedback on the layout, button styles, and overall aesthetics. Ask for any available mockups or design guidelines."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refactor the main menu code based on feedback from UI/UX Designer @UIUX-1. Update the layout and button styles to match the design. Implement animations for button hover and click events."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system. Write a detailed commit message explaining the changes made."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow, review the completed tasks. Also, browse Reddit for new tech updates or funny memes."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the current clinical workflows for influenza data capture."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @rn-1, @rn-2, @rn-3 to discuss modifications needed for influenza data capture in clinical workflows."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft updated clinical workflow documentation incorporating feedback from the nursing staff."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review draft with @pchmp-1 to ensure physician approval of workflow changes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send finalized workflow modifications to @trainer-1 for staff training preparation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @ehrdev-1 and @ehrdev-2 to ensure EHR system updates align with new workflows."
+    }
+]

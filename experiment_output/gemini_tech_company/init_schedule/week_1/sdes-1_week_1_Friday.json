@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review emails and yesterday's progress report. Check the status of the quest system bug fixes and improvements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Initial playtesting of the crafting system with @QTest-1. Focus on identifying bugs and ensuring that crafting is engaging and rewarding. Send a thank you email to @QTest-1 to thank for their helps in testing."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Analyze the playtesting feedback and prioritize bug fixes and crafting improvements. Adjust crafting recipes, crafting materials, and crafting station requirements based on player feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with all team members involved in the integrated systems (combat, economy, progression, quests, crafting) to discuss the overall progress and identify any remaining integration issues. Define action items for the next week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work on addressing any remaining integration issues identified during the team meeting. Collaborate with relevant team members to resolve conflicts and ensure seamless interaction between systems."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Chat with colleagues about the game."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all changes made this week, including API documentation updates, data flow diagram revisions, and bug fix descriptions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a comprehensive progress report for @LDes-1 and @Prod-1, summarizing the accomplishments of the week, identifying any remaining challenges, and outlining the plan for the next week."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Final code review and submission. Ensure that all code is properly documented and meets the team's coding standards."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up workspace, shut down computer, and leave for the weekend. Reflect on the week's accomplishments and plan for a relaxing weekend."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the overall data collection guidelines for seasonal influenza."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss the current state of EHR integration and ensure data collection protocols are understood."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Supervise data collection process in real-time; address any concerns from team members regarding data entry."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @da-1 and @da-2 on the data collection progress and any preliminary findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the data collected during the first half of the week, identifying any discrepancies or patterns."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @qatest-1 and @qatest-2 to request a quick evaluation of the gathered data focusing on quality assurance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @his-1 and @his-2 to validate data handling protocols in EHR systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Conclude the day by documenting findings and planning follow-up actions for the next day."
+    }
+]

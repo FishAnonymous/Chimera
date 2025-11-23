@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Morning review: Check overnight market activity and relevant news. Review yesterday's work and identify areas needing improvement."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Refactor and optimize the data cleaning pipeline for dataset A based on yesterday's findings. Focus on improving efficiency and readability."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin data cleaning and preprocessing of dataset B (e.g., financial statements). Handle inconsistencies in data representation. Standardize the variable names to be consistent with the project convention."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Write unit tests for the data cleaning and preprocessing functions applied to dataset B."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Listen to a podcast about quantitative finance."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a basic statistical arbitrage strategy based on mean reversion using dataset A and dataset B. Identify potential trading pairs based on correlation analysis."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Backtest the mean reversion strategy on historical data, focusing on the period of 2018-2020. Document the backtesting methodology and assumptions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Analyze the backtesting results. Calculate key performance metrics such as Sharpe ratio, maximum drawdown, and win rate. Save the results into the local files."
+    }
+]

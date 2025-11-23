@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any client queries regarding upcoming meetings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct first introductory meeting with a prospective client, discussing investment strategies."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Debrief with @ir-1 on the first client meeting and note any follow-up actions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for the next client meeting, reviewing their profile and customizing the discussion points."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct second introductory meeting with another prospective client."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update client records and follow up with any additional information requested during meetings."
+    }
+]

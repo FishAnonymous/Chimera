@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Iced coffee today."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the environment blockout and consider the gameplay implications of the level design. Does it offer good cover? Are the pathways clear?"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "@Level Designer Email the level designer to discuss the environment blockout. Schedule a quick meeting to get their feedback on the layout and gameplay possibilities. Topic: Environment Blockout Feedback and Level Design Discussion"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Wait for the level designer's response and then proceed with animation blocking in the meantime."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a new Blender project for animations. Import the first character blockout to be animated."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start creating a 'walk' animation cycle. Focus on getting the basic poses and timing correct. Don't worry about details like finger movement yet."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test the walk cycle by looping it in Blender. Refine the animation to eliminate any jarring transitions or unnatural movements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab something quick from the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a 'run' animation cycle. Use the walk cycle as a starting point and increase the speed and intensity of the movements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create an 'idle' animation. This should be a subtle animation that plays when the character is not moving."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the 'walk', 'run', and 'idle' animations together. Ensure that the transitions between them are smooth and natural."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save the animation project as 'character_animations_v01.blend'. Export the animations in a format suitable for the game engine (e.g., FBX)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day."
+    }
+]

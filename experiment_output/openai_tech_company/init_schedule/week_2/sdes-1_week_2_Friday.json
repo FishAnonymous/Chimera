@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Update the team on the progress of prototype revisions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a follow-up peer review meeting with the same group for revised prototypes feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct a follow-up peer review with the team, gathering additional insights on the revised prototypes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile final feedback from the follow-up review and identify last iteration changes needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize and document the prototypes, detailing core mechanics and interactions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by preparing a summary report of the prototypes and mechanics developed, to share with the team next week."
+    }
+]

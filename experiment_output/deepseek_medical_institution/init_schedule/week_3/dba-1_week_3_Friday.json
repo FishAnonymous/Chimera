@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute concerns."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Deploy the finalized schema to the production environment."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Monitor the deployment and ensure all systems are functioning correctly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a post-deployment review with @qatest-1, @qatest-2, and @ehrdev-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any issues identified during the review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a final report on the schema implementation for @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and emails, and planning for next week's tasks."
+    }
+]

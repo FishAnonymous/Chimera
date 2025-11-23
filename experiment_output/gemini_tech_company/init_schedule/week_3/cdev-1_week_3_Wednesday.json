@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning: Wake up, have a healthy breakfast, and listen to a podcast related to game development or UI/UX design."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office, greet colleagues, and catch up on any news."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the previous day's progress and address any outstanding issues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start working on implementing player feedback systems, beginning with in-game tutorials."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Brainstorm different tutorial approaches. Decide between contextual tooltips, guided walkthroughs, or a combination of both."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft an email to @ldes-1 (Lead Game Designer) to discuss the tutorial design and content. @ldes-1 Topic: Tutorial Design Discussion"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin implementing the tutorial system. Create a manager class to handle the tutorial flow and display messages to the player."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Take a walk outside to get some fresh air and clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the initial tutorial steps for basic player movement and combat mechanics."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the tutorial system to ensure it's functioning correctly and providing clear guidance to the player."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Start implementing error messages. Design a system for displaying informative error messages to the player when something goes wrong (e.g., invalid input, network errors)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Implement a basic error logging system to track and debug errors more effectively."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the day. Review progress, make notes, and head home."
+    }
+]

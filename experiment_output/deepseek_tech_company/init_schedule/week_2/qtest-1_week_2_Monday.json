@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails, and review any updates from the development team regarding core gameplay mechanics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start drafting test cases for core gameplay mechanics, focusing on movement, shooting, and cover systems."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review test cases with @lpro-1 and @ldes-1 to ensure alignment with design and technical specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize test cases for core gameplay mechanics and document them in the QA repository."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare test environment for smoke tests, ensuring all necessary tools and builds are ready."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and planning for tomorrow's smoke tests."
+    }
+]

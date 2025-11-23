@@ -1,0 +1,28 @@
+{
+    "name": "Isabella Morales",
+    "id": "ldes-1",
+    "ip": "10.0.0.16",
+    "age": 38,
+    "role": "Lead Game Designer",
+    "description": "Leads the creative vision and gameplay direction for the project. Oversees all design aspects including mechanics, narrative, level design, and player progression systems. Bridges communication between art, programming, and production teams to ensure cohesive execution of the game's vision.",
+    "tools": [
+        "Figma",
+        "Miro",
+        "Jira",
+        "GameDesignDocumentationSuite",
+        "PrototypingTools",
+        "AnalyticsDashboards"
+    ],
+    "mbti": "ENFJ",
+    "interests": "historical strategy games, Argentine tango, urban gardening",
+    "personality": "Charismatic and visionary. Thrives in collaborative environments but needs quiet time for deep creative thinking. Morning person who holds most meetings before lunch. Passionate about mentoring junior designers.",
+    "application": {
+        "Zendo": {
+            "account_name": "ldes-775533",
+            "password": "isabellaM@leaddesign",
+            "permissions": "admin"
+        }
+    },
+    "email": "ldes-775533@corp.com",
+    "container_id": "4c2d8a6b3f1e"
+}

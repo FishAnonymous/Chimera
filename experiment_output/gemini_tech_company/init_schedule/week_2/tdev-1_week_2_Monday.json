@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails. Prioritize emails based on urgency and relevance."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals and create a detailed task list for Monday, allocating specific time slots for each task."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @ldes-1 (Lead Game Designer) to schedule a meeting to discuss the game design team's current workflow and identify potential pain points where tools could improve efficiency."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @lpro-1 (Lead Programmer) to schedule a meeting to discuss the client and server development teams' workflows and identify any repetitive or time-consuming tasks that could be automated with custom tools."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @ldes-1 (Lead Game Designer) to discuss the current design process, level design pipeline, and narrative integration. Identify areas where tools could assist in level iteration, AI behavior scripting, or dialogue management."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @lpro-1 (Lead Programmer) to discuss client and server development needs. Gather information on code integration processes, build pipelines, and debugging workflows. Specifically, ask about potential tool improvements related to shader management or asset loading."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Read a technical blog about game engine optimization."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the feedback from @ldes-1 and @lpro-1. Identify common themes and prioritize the most impactful areas for tool development."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Brainstorm potential tool solutions for the identified problems. Document the requirements and specifications for each tool. Focus on tools to assist with level building iteration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin prototyping a level building tool. Research existing level editor APIs and SDKs. Focus on tools to assist with level building iteration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue prototyping. Consider the tool's user interface and create mockups for key features."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day - Review progress, update task list, and plan for Tuesday."
+    }
+]

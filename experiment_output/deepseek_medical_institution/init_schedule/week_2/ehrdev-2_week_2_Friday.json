@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Finalize any pending documentation related to the EHR updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pchmp-1 and @rn-1, @rn-2, @rn-3 to present the planned EHR updates and gather feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document feedback from the clinical team and identify any additional requirements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the requirements and implementation plans based on clinical feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review all updated documents with @itpm-1 for final approval."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report of the week's activities and next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the summary report to all relevant stakeholders."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and setting priorities for the next week."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar for any urgent updates or meetings. Prepare a cup of tea (English Breakfast, my favorite!)."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin initial research on SEC regulations related to fund formation. Focus on the Investment Company Act of 1940 and Investment Advisers Act of 1940. Bookmark relevant sections for later review."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review SEC guidance on marketing to UHNWIs. Pay close attention to rules regarding advertising, solicitation, and suitability. I need to understand the nuances of marketing to this specific investor group."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research SEC regulations related to statistical arbitrage strategies. Look for specific rules or guidance that might apply to this type of trading activity, including potential concerns about market manipulation or insider trading."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. I'll probably heat up some leftovers from last night's dinner (Shepherd's Pie) and catch up on some personal reading. Maybe browse a gardening blog \u2013 planning my spring garden."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume research on SEC regulations related to fund formation, focusing on registration requirements (Form ADV, Form N-1A) and ongoing reporting obligations (Form PF)."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft an email to @LEGAL-1 (Legal Counsel) summarizing my initial research on fund formation regulations and requesting a meeting to discuss specific legal implications and interpretations. @LEGAL-1 Fund Formation Regulation Consultation"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin identifying potential compliance hurdles based on initial research. Create a preliminary checklist of areas that will require careful attention and proactive compliance measures. Consider conflicts of interest, cybersecurity, and AML/KYC requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's findings and update the project documentation with key takeaways and potential compliance risks. Organize all the materials I have found for the coming week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities and adjust tasks based on progress and priorities. Final check of emails."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off for the day."
+    }
+]

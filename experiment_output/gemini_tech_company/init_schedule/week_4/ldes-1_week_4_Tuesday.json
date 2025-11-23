@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and calendar. Review yesterday's notes and task list, making any necessary adjustments based on overnight insights or feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check-in meeting with @Sdes-1 and @Sdes-2, System Designers to discuss game mechanics, player progression, and overall game balance. Offer insights from a design perspective to ensure cohesive gameplay."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the discussions with the system designers, I'll dedicate time to refine and document the core game mechanics. This might involve creating flowcharts, diagrams, or written descriptions to ensure clarity and consistency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Focus on the game's core loop and player progression system. Assess its effectiveness in engaging the player and providing a sense of accomplishment. Document potential improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "I will take some time to browse some websites about 'Game Design'. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a brief progress report summarizing accomplishments, challenges, and next steps. Send the report to @Prod-1, @Lpro-1, and relevant team members. @PEOPLE Progress report sent via email."
+    }
+]

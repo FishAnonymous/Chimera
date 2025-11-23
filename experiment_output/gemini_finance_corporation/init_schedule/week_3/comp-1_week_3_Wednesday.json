@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Look for updates from @Legal-1 regarding the compliance checklist."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin researching compliance monitoring systems. Identify potential vendors and platforms that can track trading activity, monitor investor interactions, and ensure adherence to regulatory requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue researching compliance monitoring systems. Focus on systems that can be customized to meet the specific needs of a market-neutral statistical arbitrage fund. Contact compliance monitoring systems vendor to get demo and quotation"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Meet a friend for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule Demo of compliance monitoring systems with vendors. Send invite to team members @QRes-1 @CIO-1 @Legal-1"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on internal document regarding the advantages and disadvantages of each vendor to determine which product to buy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin implementing compliance monitoring systems. Start by configuring alerts and reports to track key trading metrics, such as volume, volatility, and concentration. Ensure alerts are sent to appropriate personnel."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize desk and head home."
+    }
+]

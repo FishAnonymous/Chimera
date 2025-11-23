@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review progression system status, and plan to implement skill point usage and upgrade system."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and address any urgent communications. Check if there is any update regarding the game levels design from @LVDN-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement a basic skill tree or upgrade system where skill points can be spent to improve character stats or unlock new abilities. Discuss the current status of UI design from @UIUX-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Integrate the skill upgrade system with the combat system. Ensure that upgrades have a noticeable impact on combat effectiveness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Playtest the complete combat-economy-progression loop.  Identify any imbalances or areas where the loop feels unrewarding or frustrating."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin implementing the first quest. Define the quest objective, rewards, and any necessary NPC interactions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement the necessary logic for the quest to be tracked and completed. Display quest information in the UI."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the quest from start to finish.  Ensure that it can be completed, rewards are granted correctly, and the quest log updates appropriately. Send email to @QTEST-1 to help with the game testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Review quest implementation, update documentation, and plan for tomorrow's focus on crafting system integration."
+    }
+]

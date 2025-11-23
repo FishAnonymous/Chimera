@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails; prepare for the team presentation later in the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize character animations and ensure they are fully ready for presentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct a self-review of character models and animations to ensure they meet expected quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Rehearse presentation for the design team, focusing on character animations and environment assets."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Present character animations and environment assets to @ldes-1, @3dmod-1, and @uiux-1 for final critiques."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Gather feedback from the presentation and note revisions needed."
+    }
+]

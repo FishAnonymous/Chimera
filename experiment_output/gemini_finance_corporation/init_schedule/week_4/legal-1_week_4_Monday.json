@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and browse the WSJ and maybe a quick peek at Hacker News. Need to prime the brain for the week ahead."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails. Prioritize urgent requests. Flag anything from @comp-1 (Compliance Officer) as high priority. Also, look for any updates from the fund's management team regarding changes to the prospectus. Send an email to @pm-1 to clarify the timeline."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin reviewing the latest draft of the fund prospectus. Focus on the risk disclosures and ensure they accurately reflect the fund's investment strategy. Consider running a few scenarios past @qres-1, @qres-2, and @qres-3 (Quantitative Researchers) to get their input on how potential market events might impact the risk profile. Email to @PEOPLE."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Deep dive into SEC regulations related to market-neutral statistical arbitrage funds. Refresh memory on relevant sections of the Investment Company Act of 1940 and the Investment Advisers Act of 1940. Check for any recent SEC releases or interpretations that could affect the fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab something interesting from the cafe downstairs. Skim through the Economist."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft initial comments and revisions to the prospectus based on regulatory review and input from quantitative researchers. Highlight areas where further clarification or stronger disclosures are needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting with @comp-1 (Compliance Officer) for tomorrow to discuss the prospectus and address any compliance concerns. Prepare a list of specific questions to ensure a productive discussion. Email to @comp-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin reviewing the subscription agreement. Pay close attention to the representations and warranties made by investors, as well as the fund's redemption provisions. Note any areas that need to be adjusted to align with the prospectus."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Make sure all documents are properly saved and organized. Send a quick email to @pm-1 with an update on progress."
+    }
+]

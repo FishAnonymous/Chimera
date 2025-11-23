@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and address any urgent matters. Review the progress made throughout the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the templates for preliminary financial statements. Incorporate any feedback received and ensure all calculations are accurate."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a summary report outlining the progress made on each of the week's goals: establishing accounting policies, setting up systems for tracking performance and expenses, and preparing preliminary financial statements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email the summary report to @PM-1, @COO-1, and @CIO-1. Highlight any key accomplishments, challenges encountered, and next steps. Subject: Week 3 Progress Report - Fund Accounting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and update the plan for setting up the selected accounting system based on any new information or insights gained during the week. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue reviewing the accounting policies and procedures document. Proofread for errors and inconsistencies and send out for final review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start thinking about tasks for the coming week. Start with light planning for those tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete end-of-week tasks such as filing, backing up data, and organizing the workspace. Prepare to leave."
+    }
+]

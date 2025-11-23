@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any final feedback on the budget."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Make any last-minute adjustments to the budget based on final feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Submit the finalized preliminary budget to @pm-1 and @coo-1 for official records."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @facc-1 to discuss next steps and how the budget will be tracked moving forward."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a brief report summarizing the Week 1 budget process and lessons learned."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send the report to the team and schedule a quick debrief meeting for next week."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by organizing all documents and clearing the desk for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Sign off and enjoy the weekend."
+    }
+]

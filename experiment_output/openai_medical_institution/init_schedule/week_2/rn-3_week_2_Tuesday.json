@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails, and prioritize tasks based on feedback received."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend another training session to deepen understanding of EHR\u2019s influenza documentation functionalities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and consolidate notes from training sessions on EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Strategize with @EHR Vendor Liaison on integrating feedback into the EHR system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @Quality Assurance Tester to discuss testing procedures for new EHR updates."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and wrap up tasks for the day."
+    }
+]

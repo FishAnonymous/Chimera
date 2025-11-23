@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from @pm-1 on the cloud infrastructure report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final review of the cloud infrastructure to ensure everything is in place and functioning correctly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hand over the cloud infrastructure documentation to the relevant teams (@sdev-1, @sdev-2, @dsde-1, @dsde-2)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Provide a brief training session to the teams on how to use and maintain the cloud infrastructure."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any last-minute issues or questions from the teams regarding the cloud setup."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the project management system with the completed tasks and status."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for next week's tasks, focusing on any remaining work or new requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize workspace, and prepare for the weekend."
+    }
+]

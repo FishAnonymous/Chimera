@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the movement code implemented yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement basic jumping functionality using the spacebar. Ensure the character can only jump when grounded."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement a simple gravity system to pull the character back down after jumping. Fine-tune the gravity and jump height values to achieve a natural feel."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Introduce basic collision detection to prevent the character from walking through walls or other solid objects. Use raycasting or collider components to detect collisions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a basic animation system to play walking, running, and jumping animations. Find free animation assets online or create simple placeholder animations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Experiment with different camera perspectives and camera movement styles. Try implementing a third-person over-the-shoulder camera or a more dynamic camera that adjusts based on the environment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research the implementation of acceleration and deceleration on character movement to simulate the inertia of an object with mass. Start implementing this feature."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system (Git). Write a descriptive commit message explaining the changes made."
+    }
+]

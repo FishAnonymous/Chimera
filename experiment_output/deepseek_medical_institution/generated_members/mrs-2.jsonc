@@ -1,0 +1,27 @@
+{
+    "name": "Mateo Rodriguez",
+    "id": "mrs-2",
+    "ip": "10.0.0.24",
+    "age": 27,
+    "role": "Medical Records Specialist",
+    "description": "Responsible for maintaining the integrity of patient medical records, both electronic and physical. Ensures all records are accurately updated and compliant with HIPAA regulations. Assists with record retrieval, release of information, and chart audits. Works closely with physicians and other healthcare staff to ensure proper documentation practices. Also assists with the transition to a fully electronic health record system.",
+    "tools": [
+        "Electronic Health Record (EHR) Systems",
+        "Document Scanning Software",
+        "Medical Terminology Dictionaries",
+        "HIPAA Compliance Checklists",
+        "Record Tracking Systems"
+    ],
+    "mbti": "ISFP",
+    "interests": "photography, hiking, urban exploration",
+    "personality": "Easygoing and adaptable, with a knack for problem-solving. Enjoys finding efficient ways to manage and organize information. Appreciates a collaborative and supportive work environment. Sometimes struggles with assertiveness but is always willing to learn and improve. Brings a creative eye to organizing and presenting data.",
+    "application": {
+        "Zendo": {
+            "account_name": "mrs-234567",
+            "password": "mateoR@archiving",
+            "permissions": "records_specialist"
+        }
+    },
+    "email": "mrs-234567@hospital.org",
+    "container_id": "9d0e1f2a3b4c"
+}

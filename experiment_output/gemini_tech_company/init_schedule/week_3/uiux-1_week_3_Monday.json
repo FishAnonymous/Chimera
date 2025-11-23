@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and company announcements. Grab a cup of coffee and mentally prepare for the week. Briefly review the goals for this week: wireframes, mockups, prototyping, visual design, and user testing."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research and gather inspiration. Browse UI designs from other successful third-person shooters, paying attention to their main menu, HUD, inventory, and settings screens. Dribbble and Behance are good starting points."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start sketching wireframes for the main menu. Consider different layout options for accessing game modes, settings, player profiles, and the in-game store."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the main menu wireframes and begin creating digital wireframes using Figma. Focus on the placement of elements and user flow, not visual details."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on wireframes for the in-game HUD. Consider the essential information players need: health, ammo, minimap, objectives, and cooldowns."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @LVDN-1, @LDES-1 to clarify which in-game information is most critical for the HUD design, ensuring alignment with gameplay priorities. Subject: HUD Information Priorities."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue refining the HUD wireframes based on feedback received. Explore different layouts for optimal readability and accessibility."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress of the day, document key decisions, and plan for tomorrow's tasks. Start preparing a basic style guide by gathering inspiration for typography and color palettes."
+    }
+]

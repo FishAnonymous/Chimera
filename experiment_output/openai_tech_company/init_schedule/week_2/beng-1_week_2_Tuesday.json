@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check the status of CI builds from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Establish automated testing procedures that trigger with each build by collaborating with @qtest-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Write scripts for automated tests and ensure they integrate with the CI tool."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Run CI builds with automated tests to validate configurations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document testing procedures and how they integrate with CI."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and review project management tasks."
+    }
+]

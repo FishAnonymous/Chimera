@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Review progress on the high-poly sculpting and texturing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue texturing the high-poly models in Substance Painter. Focus on creating realistic materials and adding wear and tear to the surfaces."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Bake the high-poly details onto a low-poly model. This process will transfer the sculpted details into a normal map, which can be used to create the illusion of high-poly detail on a low-poly asset."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Import the low-poly model and textures into Unreal Engine. Set up the material and lighting to ensure that the asset looks good in the game engine."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the asset in Unreal Engine with @tart-1 and @lvdn-1 to get feedback on the overall look and feel. Discuss any necessary adjustments or optimizations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make necessary adjustments to the textures and materials based on the feedback received. Optimize the asset for performance in Unreal Engine."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review yesterday's progress. Address any outstanding issues or questions. Begin by setting up the initial CI system (e.g., Jenkins). Install the CI server and configure basic authentication."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Configure the CI server to connect to the version control system (Git). Test the connection and ensure the CI server can access the game's codebase."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a basic CI job that triggers automatically whenever changes are pushed to the main branch. Configure the job to execute the code compilation build script created yesterday."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Monitor the CI job execution and address any errors or warnings that arise. Fine-tune the build script based on the CI job results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin integrating the asset pipeline into the CI system. Create a separate CI job to automate the asset conversion and packaging process. Email @Tart-1 for clarification on optimal asset processing steps. Topic: Optimal asset processing steps for integration into CI."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement automated testing using a basic test framework. Research possible frameworks for the project. Contact @Qtest-1 for preferred automated testing framework. Topic: Preferred automated testing framework for integration into CI."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Integrate the automated testing framework with the CI Pipeline. Set up a job to run basic unit tests after compiling the code and converting assets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the CI setup process, including server configuration, job creation, and integration with version control and testing frameworks. Commit the changes to the CI configuration to the version control system."
+    }
+]

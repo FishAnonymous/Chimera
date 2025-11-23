@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review the morning's pre-market reports."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Respond to urgent emails and prepare for the weekly team meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Lead the weekly team meeting with all members. Review progress on key milestones, address any challenges, and set priorities for the coming week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 for a final review of the week's research and modeling efforts. Address any outstanding issues and provide guidance for future research directions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the fund's marketing plan and launch strategy with @mkt-1 and @ir-1. Provide final approvals and ensure all necessary resources are in place."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Celebrate the end of the week with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @audit-1 (External Auditor) to discuss the fund's audit plan and compliance procedures. Address any questions or concerns from the auditor."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review and approve all outstanding invoices and expenses related to the fund's launch."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for the next week's activities. Focus on the fund's launch and initial trading operations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out a weekly progress report to senior management, highlighting key achievements and upcoming milestones."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Enjoy the weekend."
+    }
+]

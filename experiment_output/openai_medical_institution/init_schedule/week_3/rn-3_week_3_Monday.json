@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and review the tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @EHR Vendor Liaison to align on the documentation process for seasonal influenza cases in the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start documenting seasonal influenza cases data into the EHR."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review documentation requirements with @Clinical Lead to ensure accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in training session with @Training Coordinator to enhance understanding of the EHR system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Continue working on documenting seasonal influenza cases in the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check-in with @Data Analyst regarding data integrity and any discrepancies found."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day."
+    }
+]

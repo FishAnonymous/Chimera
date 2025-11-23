@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from the QA team on sound effects."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start composing BGM for the main menu scene. Experiment with different musical themes to match the game's tone."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break, browse music production forums for inspiration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the main menu BGM, focusing on transitions and loops."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qtest-1 to request additional feedback on sound effects from recent builds."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by saving current progress and organizing files."
+    }
+]

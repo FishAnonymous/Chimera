@@ -1,0 +1,27 @@
+{
+    "name": "Aisha Patel",
+    "id": "his-1",
+    "ip": "10.0.0.11",
+    "age": 32,
+    "role": "Health Informatics Specialist",
+    "description": "Responsible for collecting, analyzing, and interpreting healthcare data to improve clinical outcomes and operational efficiency. Develops and maintains databases, reports, and dashboards. Collaborates with clinicians and administrators to identify areas for improvement and implement data-driven solutions. Ensures data integrity and compliance with privacy regulations.",
+    "tools": [
+        "SQL",
+        "R",
+        "Tableau",
+        "Python (Pandas, NumPy)",
+        "Electronic Health Record (EHR) Systems"
+    ],
+    "mbti": "INTP",
+    "interests": "Reading science fiction, hiking, data visualization art",
+    "personality": "Analytical and detail-oriented. Enjoys problem-solving and finding patterns in data. Can be introverted and prefers working independently. Passionate about using data to improve healthcare outcomes.",
+    "application": {
+        "Zendo": {
+            "account_name": "his-239871",
+            "password": "aishaP@informatics",
+            "permissions": "data_analyst"
+        }
+    },
+    "email": "his-239871@hospital.org",
+    "container_id": "1a2b3c4d5e6f"
+}

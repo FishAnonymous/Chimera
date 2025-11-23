@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the existing sound effect library and the environmental sounds collected so far."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on UI Feedback sounds (button clicks, menu navigation, error messages). Brainstorm ideas for UI sounds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research UI sound libraries and identify sounds that match the game's style. Download potential candidates."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "@UIUX-1 (UI/UX Designer) Discuss the specific UI elements that need sound effects. Topic: UI feedback sounds and their integration"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Edit downloaded UI sounds. Modify them to fit the game's aesthetic."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Experiment with creating custom UI sounds using audio editing software."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the edited and created UI sounds within the game engine. Get initial feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Backup UI sounds and update the sound effect list. Note down any changes needed based on the initial testing."
+    }
+]

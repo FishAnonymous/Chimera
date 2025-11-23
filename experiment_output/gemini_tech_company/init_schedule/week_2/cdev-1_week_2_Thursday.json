@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails and messages. Check for updates from Leon @LDES-1 and Naomi @NDES-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Collaborate closely with Leon @LDES-1 and Naomi @NDES-1 to ensure the UI reflects the game's world and narrative. Schedule a meeting to discuss the overall vision for the UI."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend the meeting with Leon @LDES-1 and Naomi @NDES-1. Discuss the game's world, narrative, and target audience. Brainstorm ideas for the UI design."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the meeting, create a mood board for the UI design. Gather inspiration from other games, movies, and art styles. Share the mood board with Leon @LDES-1 and Naomi @NDES-1 for feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start designing the UI elements based on the mood board. Focus on creating a consistent and immersive experience for the player."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go out for a walk with colleagues and enjoy the sunshine."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the new UI designs in the game. Replace the placeholder graphics with the final assets from the art team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Add animations and sound effects to the UI elements. Make sure that the UI is responsive and intuitive to use."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the UI thoroughly to ensure that it is working correctly. Fix any bugs or issues that are found."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system. Write a detailed commit message explaining the changes made."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow, review the completed tasks. Do some documentation for today's codes."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

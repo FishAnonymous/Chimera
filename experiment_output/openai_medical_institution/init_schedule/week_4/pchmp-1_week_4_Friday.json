@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and finalize reports on the week's activities and progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a review session of the week\u2019s progress with the whole team including @pchmp-1, @trainer-1, @helpdesk-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize and distribute the documentation for all changes made to the EHR system during the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for next week by updating project plans and documents based on feedback received."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Spend time reviewing analytics on system usage and outcomes from recent EHR implementations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out for the week, ensuring tasks for next week are organized and prioritized."
+    }
+]

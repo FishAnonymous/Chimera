@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback on the handoff documentation draft."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ndes-1, @aud-1 to ensure narrative and audio systems are properly documented for handoff."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue refining the handoff documentation, focusing on clarity and completeness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review documentation with @uiux-1, @3dmod-1, @3dmod-2 to ensure all assets and UI elements are accounted for."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the handoff documentation and prepare it for submission."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the completed documentation to @prod-1 for final approval."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, check overnight market activity."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Hold a final meeting with all key stakeholders (@Qres-1, @Qres-2, @Qres-3, @Larch-1, @Comp-1, @Legal-1, @Mkt-1, @IR-1, @COO-1) to confirm that all objectives for the fund launch are on track. @PEOPLE: All Key Stakeholders - Final Fund Launch Readiness Review"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the final risk management framework documentation and sign off on the document."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for a potential conversation with UHNWI by rehearsing the speech and main information. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with team members to celebrate the completion of this week's goals."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Catch up on industry news and research reports. Browse Bloomberg, Reuters, and Financial Times."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the progress on the UAT (User Acceptance Testing) with @Sdev-1, @Sdev-2. @PEOPLE: Software Development - UAT Status Check"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize weekly report summarizing accomplishments, challenges, and plans for the upcoming week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Delegate tasks for the next week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

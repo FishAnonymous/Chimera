@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Hopefully, there will be replies from @clinlead-1 and @pchmp-1 regarding the metrics review."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review and analyze the feedback received from @clinlead-1 and @pchmp-1 regarding the data quality metrics."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Revise the data quality metrics based on the feedback received from the clinical team. Address any concerns or suggestions they may have raised."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Update the documentation to reflect the changes made to the data quality metrics. Ensure the documentation is clear, concise, and accurate."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send an email to @da-1 and @da-2 outlining the finalized data quality metrics and weekly targets. Include a summary of the feedback received from the clinical team and the changes made to the metrics. Subject: 'Finalized Data Quality Metrics and Weekly Targets'"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Watch some videos about data quality on Youtube."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start developing a test plan for validating the data quality metrics. The test plan should include a detailed description of the test cases, the expected results, and the steps required to execute the tests."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @qatest-2 to discuss the test plan and solicit their feedback. Subject: 'Review of Data Quality Metrics Test Plan'"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meeting with @qatest-2 to review the test plan. Incorporate their suggestions into the test plan."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the test plan and share it with the relevant stakeholders."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

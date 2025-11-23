@@ -1,0 +1,182 @@
+[
+    {
+        "week": 4,
+        "id": "da-2",
+        "detailed_goals": [
+            "Finalize the report template for seasonal influenza trend analysis.",
+            "Ensure all key performance indicators (KPIs) are accurately calculated and visualized.",
+            "Review and validate data quality metrics for completeness and accuracy."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrv-1",
+        "detailed_goals": [
+            "Ensure EHR system updates are on track with the vendor.",
+            "Monitor system performance post-implementation for any issues.",
+            "Document all interactions with the EHR vendor for future reference."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Review and finalize clinical workflows for influenza data collection.",
+            "Provide feedback on EHR system usability from a clinical perspective.",
+            "Collaborate with nursing staff to ensure smooth workflow integration."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Conduct final data quality audits for influenza-related data.",
+            "Validate data consistency across different sources.",
+            "Document any remaining data quality issues and resolutions."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-2",
+        "detailed_goals": [
+            "Ensure all patient data is accurately entered into the EHR.",
+            "Participate in final training sessions for new workflows.",
+            "Provide feedback on any workflow challenges encountered."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrdev-1",
+        "detailed_goals": [
+            "Complete any remaining EHR system configurations.",
+            "Test and validate new data fields and workflows.",
+            "Provide technical support for any system issues."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "itpm-1",
+        "detailed_goals": [
+            "Monitor overall project progress and address any delays.",
+            "Communicate final project updates to all stakeholders.",
+            "Prepare a summary report for project completion."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "dba-1",
+        "detailed_goals": [
+            "Ensure database schema is fully optimized for influenza data.",
+            "Monitor database performance and resolve any bottlenecks.",
+            "Document all database changes and updates."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "da-1",
+        "detailed_goals": [
+            "Assist in finalizing the influenza trend analysis report.",
+            "Validate all statistical models and predictions.",
+            "Ensure data visualizations are clear and accurate."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Conduct final training sessions for all staff on new workflows.",
+            "Gather feedback on training effectiveness.",
+            "Update training materials based on feedback."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qatest-2",
+        "detailed_goals": [
+            "Perform final validation of data quality checks.",
+            "Ensure all data validation rules are functioning correctly.",
+            "Document any remaining issues and resolutions."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-1",
+        "detailed_goals": [
+            "Ensure all patient data is accurately entered into the EHR.",
+            "Participate in final training sessions for new workflows.",
+            "Provide feedback on any workflow challenges encountered."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrdev-2",
+        "detailed_goals": [
+            "Complete any remaining EHR system configurations.",
+            "Test and validate new data fields and workflows.",
+            "Provide technical support for any system issues."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-3",
+        "detailed_goals": [
+            "Ensure all patient data is accurately entered into the EHR.",
+            "Participate in final training sessions for new workflows.",
+            "Provide feedback on any workflow challenges encountered."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Address any remaining user concerns or issues.",
+            "Document all resolved issues in the help desk system.",
+            "Provide ongoing support for EHR system users."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "his-2",
+        "detailed_goals": [
+            "Finalize the plan for resolving data quality issues.",
+            "Ensure all data quality metrics are met.",
+            "Document all data quality improvements."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "mrs-2",
+        "detailed_goals": [
+            "Complete abstraction of historical influenza data.",
+            "Conduct final quality control audits.",
+            "Document all abstraction processes and findings."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "pchmp-1",
+        "detailed_goals": [
+            "Review final project outcomes and provide feedback.",
+            "Advocate for any remaining clinical needs.",
+            "Communicate project success to clinical staff."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "mrs-1",
+        "detailed_goals": [
+            "Complete abstraction of historical influenza data.",
+            "Conduct final quality control audits.",
+            "Document all abstraction processes and findings."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "his-1",
+        "detailed_goals": [
+            "Finalize the plan for resolving data quality issues.",
+            "Ensure all data quality metrics are met.",
+            "Document all data quality improvements."
+        ]
+    }
+]

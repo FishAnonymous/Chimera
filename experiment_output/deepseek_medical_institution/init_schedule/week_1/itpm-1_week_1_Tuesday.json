@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up on any feedback regarding the communication plan and kick-off announcement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule and prepare for the project kick-off meeting. Draft agenda and key discussion points."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send the kick-off meeting invitation to all team members, including the agenda and pre-read materials."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and organize project documentation for the kick-off meeting."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @ehrdev-1 @ehrdev-2 to discuss technical requirements and integration plans for the EHR project."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation based on technical discussions."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Briefly check social media."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the character's walk cycle animation based on feedback (if any). Focus on smoothing the transitions and adding subtle details like head bob and arm swing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a simple jump animation. Consider the character's weight and momentum during the jump. Save as Jump_v01"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin working on combat animations. Start with a basic punch animation. Focus on conveying power and impact."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Team lunch?"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create another combat animation: a kick. Vary the speed and power of the kick to create different variations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start working on interaction animations. Create an animation for picking up an object. Consider the character's reach and the weight of the object."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the animation library. Ensure all animations are consistent in style and quality. Save all the animation files."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up files and clean workspace."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

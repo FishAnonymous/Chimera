@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, grab coffee. Check emails and respond to feedback from @LDES-1 and @SDEV-1 on the combat system design document. Review feedback and make necessary revisions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin prototyping the basic combat mechanics in the game engine. Focus on player movement, aiming, and firing weapons. Use placeholder assets for now to keep the focus on functionality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Order takeout with @SDES-2 and discuss the challenges of system design."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue prototyping combat mechanics. Implement basic enemy AI and damage calculation. Test the system thoroughly to identify bugs and areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the progress made on the combat system prototype. Share the prototype with @CTEST-1 and @3DMOD-1 for initial feedback on feel and aesthetics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for tomorrow's work. Start researching potential crafting systems for integration into the game. Look at different approaches (recipe-based, skill-based, etc.) and consider which would best fit the game's overall design."
+    }
+]

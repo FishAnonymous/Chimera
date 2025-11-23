@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and address any urgent tasks. Prepare for the final day of the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review Thursday's progress and action items. Prepare for the meeting with @COMP-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @COMP-1 to review the internal controls framework for fund accounting processes. Discuss and incorporate any necessary changes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the internal controls documentation and ensure it aligns with SEC regulations and industry best practices."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consolidate all research and documentation related to SEC reporting requirements, transaction tracking, reconciliation processes, the chart of accounts, transaction recording templates, and internal controls into a comprehensive fund accounting manual."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the fund accounting manual for completeness and accuracy. Ensure all key processes are clearly documented and easily understandable."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Share the fund accounting manual with @FACC-2, @COO-1, and @COMP-1 for final review and sign-off. Topic: Fund Accounting Manual Review and Sign-Off"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any final comments or questions from the review team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Archive all documentation in a secure and easily accessible location."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of accomplishments for the week and outline key goals for the following week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day"
+    }
+]

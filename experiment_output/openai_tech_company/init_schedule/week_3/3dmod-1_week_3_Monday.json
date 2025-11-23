@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the previous week's work. Gather assets and resources needed for rigging the main character model."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up a meeting with @3dmod-1 to discuss any potential challenges with rigging the character model and align on animation workflow."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin rigging the main character model, focusing on bone placement and skin weights."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue rigging the character model and begin creating the idle animation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create the walk animation for the main character, ensuring proper movement mechanics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up work for the day, document the progress made on rigging and animations."
+    }
+]

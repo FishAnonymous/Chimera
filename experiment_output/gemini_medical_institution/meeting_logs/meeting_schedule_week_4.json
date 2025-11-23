@@ -1,0 +1,164 @@
+[
+    {
+        "week": 4,
+        "id": "da-2",
+        "detailed_goals": [
+            "Develop a report template for presenting the seasonal influenza trend analysis. The template will be designed to effectively communicate key findings to various audiences, including hospital administration, clinical staff, and public health agencies (as defined in Subtask 5).",
+            "Incorporate data visualizations, statistical analysis, and predictive modeling to provide a comprehensive overview of influenza activity."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrv-1",
+        "detailed_goals": [
+            "Work with the EHR vendor to discuss necessary system modifications or updates to support influenza data collection. This may involve creating new data fields, customizing workflows, or implementing new functionalities (as outlined in Subtask 7).",
+            "Evaluate the vendor's proposals for system modifications, considering factors such as cost, timeline, and impact on existing workflows."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Modify the physician examination workflow to include prompts for influenza diagnosis and testing.",
+            "Implement order sets for influenza testing (e.g., influenza A/B PCR) and antiviral medications.",
+            "Ensure that physicians are aware of the current influenza guidelines and recommendations."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Cross-validate data elements against source documents (e.g., medical records, lab reports) to ensure accuracy.",
+            "Implement automated validation rules within the EHR system to flag potential errors or inconsistencies during data entry and extraction.",
+            "Perform regular audits of abstracted data to identify and correct inaccuracies."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-2",
+        "detailed_goals": [
+            "Assess patients for influenza symptoms using standardized protocols and tools integrated into the EHR (as defined by Clinical Lead Nadia Silva).",
+            "Enter patient data into the EHR accurately and completely, including demographic information, medical history, vaccination status, symptoms, and lab results."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrdev-1",
+        "detailed_goals": [
+            "Consult with the EHR vendor to discuss the feasibility of implementing the required updates or modifications.",
+            "Obtain cost estimates and timelines for development and implementation."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "itpm-1",
+        "detailed_goals": [
+            "Develop and distribute initial communication materials (e.g., project overview, FAQs).",
+            "Implement the communication plan, track communication effectiveness, and adjust as needed."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "dba-1",
+        "detailed_goals": [
+            "Define data types for each column to ensure data integrity (e.g., numeric, text, date).",
+            "Implement constraints to enforce data quality rules (e.g., NOT NULL constraints for required fields, CHECK constraints for valid value ranges, UNIQUE constraints to prevent duplicate records)."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "da-1",
+        "detailed_goals": [
+            "Develop a report template for presenting the seasonal influenza trend analysis. The template will be designed to effectively communicate key findings to various audiences, including hospital administration, clinical staff, and public health agencies (as defined in Subtask 5).",
+            "Incorporate data visualizations, statistical analysis, and predictive modeling to provide a comprehensive overview of influenza activity."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Training Modules: Introduce the new EHR data elements required for influenza trend analysis (as identified in Subtask 1). Explain the purpose and significance of each data element.",
+            "Data Collection Workflow: Describe the new data collection workflow, including the steps involved in data entry, validation, and reporting (as defined in Subtask 2)."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qatest-2",
+        "detailed_goals": [
+            "Cross-validate data elements against source documents (e.g., medical records, lab reports) to ensure accuracy.",
+            "Implement automated validation rules within the EHR system to flag potential errors or inconsistencies during data entry and extraction.",
+            "Perform regular audits of abstracted data to identify and correct inaccuracies."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-1",
+        "detailed_goals": [
+            "Assess patients for influenza symptoms using standardized protocols and tools integrated into the EHR (as defined by Clinical Lead Nadia Silva).",
+            "Enter patient data into the EHR accurately and completely, including demographic information, medical history, vaccination status, symptoms, and lab results."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrdev-2",
+        "detailed_goals": [
+            "Consult with the EHR vendor to discuss the feasibility of implementing the required updates or modifications.",
+            "Obtain cost estimates and timelines for development and implementation."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-3",
+        "detailed_goals": [
+            "Assess patients for influenza symptoms using standardized protocols and tools integrated into the EHR (as defined by Clinical Lead Nadia Silva).",
+            "Enter patient data into the EHR accurately and completely, including demographic information, medical history, vaccination status, symptoms, and lab results."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Troubleshoot EHR system issues and data collection problems reported by users. This may involve remote assistance, step-by-step guidance, or escalating the issue to senior IT staff or the EHR vendor."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "his-2",
+        "detailed_goals": [
+            "Identify and log all identified data quality issues in a centralized tracking system, including a detailed description of the issue, the affected data elements, the date of detection, and the reporter's information.",
+            "Conduct a thorough root cause analysis for each identified data quality issue to determine the underlying cause(s)."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "mrs-2",
+        "detailed_goals": [
+            "Abstract data from the most recent influenza season (e.g., 2023-2024). Prioritize electronic records if available.",
+            "Target: 200 records per week"
+        ]
+    },
+    {
+        "week": 4,
+        "id": "pchmp-1",
+        "detailed_goals": [
+            "Attend project meetings to stay informed about the project's progress, challenges, and key decisions. I will actively participate in discussions and provide clinical insights and perspectives.",
+            "Gather Feedback from Clinical Staff: I will proactively solicit feedback from physicians, nurses, and other clinical staff regarding the EHR system, data collection processes, and training materials."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "mrs-1",
+        "detailed_goals": [
+            "Abstract data from the most recent influenza season (e.g., 2023-2024). Prioritize electronic records if available.",
+            "Target: 200 records per week"
+        ]
+    },
+    {
+        "week": 4,
+        "id": "his-1",
+        "detailed_goals": [
+            "Identify and log all identified data quality issues in a centralized tracking system, including a detailed description of the issue, the affected data elements, the date of detection, and the reporter's information.",
+            "Conduct a thorough root cause analysis for each identified data quality issue to determine the underlying cause(s)."
+        ]
+    }
+]

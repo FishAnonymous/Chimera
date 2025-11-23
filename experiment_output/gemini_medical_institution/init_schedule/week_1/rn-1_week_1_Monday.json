@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to my computer, and check emails for any urgent updates or messages from @clinlead-1, @itpm-1, or other team members regarding the EHR implementation or influenza data collection."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized protocols and tools for assessing patients for influenza symptoms within the EHR. Familiarize myself with the location of these tools within the system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check the patient schedule for the day and prepare for morning patient assessments. Review patient charts for any pre-existing conditions or relevant medical history that might influence influenza symptoms."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments. Focus on accurately assessing patients for influenza symptoms using the standardized protocols and tools in the EHR. Pay close attention to detail and ask clarifying questions as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Enter patient data into the EHR immediately following each assessment. Ensure all demographic information, medical history, vaccination status, symptoms, and lab results are entered accurately and completely."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Step away from the computer and relax for a bit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry, focusing on accuracy and completeness. Utilize drop-down menus, check boxes, and other data entry tools within the EHR to ensure data standardization and consistency."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break from patient care to review my data entry for the day. Identify any potential errors or inconsistencies and correct them in the EHR. Email @qatest-1 and @qatest-2 to ask for data check issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover, including a summary of patient assessments and any pertinent information for the oncoming nurse. Ensure all EHR entries are complete and up-to-date. Email @rn-1 and @rn-3 to ask for shift handover."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Brief the oncoming nurse on any patients with suspected influenza and provide a detailed overview of their assessment findings and EHR documentation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the computer and leave for the day."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and any updates from the SEC."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 and @audit-1 to discuss any initial feedback from the SEC."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any minor issues raised by the SEC and prepare updated documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit any updated documentation to the SEC."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a weekly summary report for @cio-1 and @coo-1, highlighting achievements and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and setting priorities for next week."
+    }
+]

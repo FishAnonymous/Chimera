@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up my workstation, grab a coffee, and check emails. Skim through industry news on ArtStation and BlenderNation while the machine warms up. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the character concept art provided by @cart-1. Make notes on key proportions and anatomical landmarks for the main characters. @cart-1 Let me know if the main character concepts are completed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Open Blender and create a new project. Set up the scene with basic lighting and a reference plane for scale."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin blocking out the primary character's form using primitive shapes (cubes, spheres, cylinders). Focus entirely on getting the overall proportions correct. This is not about details yet. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Check out some speed sculpting videos on YouTube for inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the blockout for the primary character. Use reference images of human anatomy to guide the placement of major muscle groups. Small adjustments based on the concept art. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break from the primary character and start a quick blockout of the second main character. This will help to compare proportions and ensure consistency between the two. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save the project, back it up, and write down a brief summary of today's progress. Shut down the workstation."
+    }
+]

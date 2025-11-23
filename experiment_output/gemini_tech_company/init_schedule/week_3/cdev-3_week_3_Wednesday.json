@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Respond to @uiux-1's feedback on the main menu UI. Brainstorm ideas for improvements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refactor the main menu UI based on @uiux-1's feedback. Improve button styling, layout, and overall visual appeal."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin implementing basic tutorial system. Design a simple tutorial message display in the HUD."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement the functionality to trigger tutorial messages based on game events (e.g., first time picking up a weapon)."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Play a game of chess with @tdev-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Chat with the team about the game's direction."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Design a basic error message system. Create a UI element to display error messages to the player."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement the functionality to log errors to the console and display them in the error message UI. Add a test error message to ensure the system is working."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement error handling for common scenarios (e.g., failing to load a level, missing assets)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refactor the code, improve the code readability."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out from the OA system. Go home."
+    }
+]

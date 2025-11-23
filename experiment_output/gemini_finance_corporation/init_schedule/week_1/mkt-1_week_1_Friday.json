@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab coffee and review the day's agenda."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of all research materials, investor profile, and marketing messages."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare a presentation summarizing the research findings and the proposed marketing messages to the broader team, including Investor Relations, Client Onboarding, and Compliance."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the research findings and marketing messages to the team. Solicit feedback and suggestions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Enjoy a more extended lunch to celebrate the end of the week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate the feedback received during the presentation into the research document and marketing messages."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with Compliance Officer (@COMP-1) to review the marketing messages and ensure they meet all regulatory requirements, assuming Legal Counsel has responded. @COMP-1 Topic: Marketing Message Compliance Review"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make any necessary adjustments to the marketing messages based on the feedback from the Compliance Officer."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Submit the finalized research document and marketing messages to the Project Manager (@PM-1) for review and approval. @PM-1 Topic: Final UHNWI Investment Research and Marketing Messages"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the week. Celebrate a productive week!"
+    }
+]

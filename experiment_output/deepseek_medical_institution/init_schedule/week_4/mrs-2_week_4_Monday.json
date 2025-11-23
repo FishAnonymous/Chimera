@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the historical influenza data files provided by @da-1 and @da-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin abstraction of historical influenza data, focusing on patient demographics and vaccination status. Cross-reference with @his-1 and @his-2 for any inconsistencies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break. Browse medical forums for any new trends in influenza data collection."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue data abstraction, now focusing on symptom severity and hospitalization rates. Email @clinlead-1 for clarification on any ambiguous entries."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume work on data abstraction, finalizing the day's progress. Organize the abstracted data into a preliminary report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the preliminary report to @da-1 and @da-2 for initial feedback. Check emails for any urgent requests from @itpm-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by updating the abstraction log. Plan for tomorrow's tasks."
+    }
+]

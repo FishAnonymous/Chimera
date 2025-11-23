@@ -1,0 +1,125 @@
+[
+    {
+        "week": 1,
+        "id": "da-2",
+        "detailed_goals": [
+            "Familiarize with historical seasonal influenza data available in the EHR system and current quality issues as highlighted by the Medical Records Specialists' feedback.",
+            "Develop initial metrics to analyze influenza trends ensuring alignment with clinical practices emphasized by Registered Nurses.",
+            "Prepare a draft methodology considering feedback for further discussions in team meetings."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ehrv-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Lead the project, ensuring alignment with clinical standards and guiding the overall strategy for data collection and analysis.",
+            "Develop and oversee the implementation of clinical protocols for EHR data collection specific to seasonal influenza cases.",
+            "Establish feedback mechanisms to assess the effectiveness of EHR data features."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Review current QA protocols and identify gaps within the existing testing methods focused on EHR data related to seasonal influenza.",
+            "Collaborate with Data Analysts to understand the types of influenza-related data being collected and improve verification methods.",
+            "Develop a checklist for testing data quality and accuracy in conjunction with the insights from Registered Nurses."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "rn-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "ehrdev-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "itpm-1",
+        "detailed_goals": [
+            "Conduct a meeting with team members to outline project goals and methodology.",
+            "Review weekly goals and contributions for alignment among team roles."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "dba-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "da-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Develop a consolidated training plan for healthcare staff on how to effectively utilize the EHR for influenza data entry.",
+            "Update support materials available to ensure all training modules address common issues.",
+            "Prepare an FAQ list aimed at addressing concerns raised by all employee feedback."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qatest-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "rn-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "ehrdev-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "rn-3",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Develop a training plan for healthcare staff on how to use the EHR for influenza data entry.",
+            "Review support materials available for the EHR system related to influenza cases and suggest any needed updates.",
+            "Prepare a list of frequently asked questions (FAQs) that address common issues reported by staff."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "his-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "mrs-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "pchmp-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "mrs-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 1,
+        "id": "his-1",
+        "detailed_goals": []
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize tasks for the week. Review the game design document (GDD) thoroughly. @LDES-1, @SDES-1, @SDES-2 Need any clarification regarding the current GDD. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin outlining the test plan. Focus on key areas: functionality, performance, stability, and gameplay experience. Define testing scope and objectives."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Brainstorm potential test cases based on the GDD. Categorize test cases by game features and modules (e.g., character movement, shooting mechanics, UI elements). Prioritize critical path test cases."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine test cases, adding specific steps and expected results. Ensure test cases are clear, concise, and reproducible. Document test environment requirements (hardware, software)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the test plan. Focus on performance testing strategies. Determine key performance indicators (KPIs) like frame rate, memory usage, and load times."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address stability testing. Plan for stress tests, soak tests, and crash testing scenarios. Define procedures for capturing and analyzing crash logs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate gameplay experience testing into the plan. Develop test cases to evaluate game balance, difficulty, and overall enjoyment. @LDES-1 Let's discuss gameplay experience testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the draft test plan with @QTEST-1. Incorporate feedback and finalize the test plan document. Distribute the finalized test plan to the development team."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and follow up on previous communications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on integration code for EHR system, focusing on data retrieval methods."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Health Informatics Specialist to discuss data format compliance and standards."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue coding EHR integration, addressing any feedback provided by the QA team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin drafting documentation for EHR integration processes and data standards."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Contact @Medical Records Specialist to confirm data accessibility and learn about record-keeping."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send out a progress email to the team summarizing coding milestones."
+    }
+]

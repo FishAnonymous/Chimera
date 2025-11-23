@@ -1,0 +1,182 @@
+[
+    {
+        "week": 3,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Continue data cleaning and pre-processing of identified datasets.",
+            "Develop and test basic statistical arbitrage strategies using historical data.",
+            "Evaluate the performance of the initial strategies."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Draft initial UHNWI client documentation, incorporating legal and compliance feedback.",
+            "Refine the onboarding process based on internal review feedback.",
+            "Begin preparing materials for initial client presentations."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Create marketing materials tailored to the identified investment preferences and risk profiles of UHNWIs.",
+            "Develop a preliminary communication strategy for reaching potential UHNWI investors.",
+            "Plan initial outreach activities."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Conduct a comprehensive review of SEC regulations related to marketing a fund to UHNWIs.",
+            "Finalize the compliance checklist for fund operations.",
+            "Implement compliance monitoring systems."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Continue data cleaning and pre-processing of identified datasets.",
+            "Develop and test basic statistical arbitrage strategies using historical data.",
+            "Evaluate the performance of the initial strategies."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Develop a detailed architecture for the data feeds and trading platform.",
+            "Select specific technologies and vendors for key infrastructure components.",
+            "Begin prototyping the data processing pipeline."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Develop a preliminary audit plan based on the fund's structure and investment strategy.",
+            "Identify key risk areas and develop audit procedures to address these risks.",
+            "Coordinate with the fund accountants to establish accounting policies and procedures."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Refine the initial risk management framework based on the performance of tested strategies.",
+            "Develop tools for monitoring and managing risk in real-time.",
+            "Conduct stress tests of the fund's portfolio."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Monitor the progress of each task and identify any potential delays or bottlenecks.",
+            "Facilitate communication between teams and resolve any conflicts.",
+            "Update the project plan as needed to ensure the project remains on schedule."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Refine the investor presentation materials based on feedback from internal stakeholders.",
+            "Identify and research potential UHNWI investors.",
+            "Begin scheduling introductory meetings with potential investors."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Refine the initial risk management framework based on the performance of tested strategies.",
+            "Develop tools for monitoring and managing risk in real-time.",
+            "Conduct stress tests of the fund's portfolio."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Monitor all project activities to ensure they align with the overall fund strategy.",
+            "Address any roadblocks or resource constraints that may arise.",
+            "Prepare a progress report for the CIO."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Establish accounting policies and procedures for the fund.",
+            "Set up systems for tracking fund performance and expenses.",
+            "Prepare preliminary financial statements."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Develop software modules for trade execution.",
+            "Develop software modules for risk management.",
+            "Test and debug the software modules."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Draft legal documentation for fund formation.",
+            "Review marketing materials to ensure compliance with SEC regulations.",
+            "Advise on any legal issues that may arise."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Refine the overall fund strategy based on the results of testing and analysis.",
+            "Oversee the development of the risk management framework.",
+            "Approve the marketing materials."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Refine the initial risk management framework based on the performance of tested strategies.",
+            "Develop tools for monitoring and managing risk in real-time.",
+            "Conduct stress tests of the fund's portfolio."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Develop software modules for trade execution.",
+            "Develop software modules for data analysis.",
+            "Test and debug the software modules."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Establish accounting policies and procedures for the fund.",
+            "Set up systems for tracking fund performance and expenses.",
+            "Prepare preliminary financial statements."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Set up the development environment for the software developers.",
+            "Implement continuous integration and continuous deployment (CI/CD) pipelines.",
+            "Monitor the performance of the infrastructure and make adjustments as needed."
+        ]
+    }
+]

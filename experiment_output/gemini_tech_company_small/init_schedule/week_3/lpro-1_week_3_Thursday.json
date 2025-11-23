@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the current state of the Audio Manager and associated sound effects."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refactor and optimize the Audio Manager code. Improve performance by reducing the number of audio channels and minimizing audio resource loading. Implement audio caching."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the implementation of sound effects for attacks, impacts, and player actions. Ensure that the sound effects are appropriate for the game's art style and tone."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Experiment with different audio mixing techniques to create a more dynamic and immersive soundscape. Adjust volume levels, panning, and reverb to enhance the player's experience."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research different options for implementing more advanced audio features, such as environmental audio and dynamic music. Document potential solutions and their tradeoffs."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Integrate resource system into combat, draining stamina when attacking and mana for special abilities. Implement checks for resource availability to prevent actions if resources are insufficient."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test resource system integration within combat. Verify stamina is drained correctly when attacking and mana is consumed appropriately. Confirm that abilities cannot be used without sufficient mana."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @cdev-1 with a detailed description of the sound and resource system within combat integration, including the performed tests and any observed issues, to ensure adequate testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse Unreal Engine forums for inspiration on audio design in third-person shooters."
+    }
+]

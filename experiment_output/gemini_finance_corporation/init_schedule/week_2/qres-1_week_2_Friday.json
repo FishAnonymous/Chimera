@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Check for any updates or requests from @comp-1, @legal-1 regarding regulatory aspects of the fund."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Reflect on the week's progress and identify areas for improvement in the coming weeks. (Loafing - Self-reflection)"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research index arbitrage strategies. Focus on identifying discrepancies between index prices and the prices of constituent stocks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Explore data sources for index prices and constituent stock prices. Ensure data quality and availability for backtesting purposes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop a preliminary model for identifying and exploiting index arbitrage opportunities. Consider transaction costs and execution delays."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Backtest the index arbitrage model using historical data. Evaluate performance and refine the model based on backtesting results."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document findings on index arbitrage and compare it to pairs trading and mean reversion strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize contributions to the risk management framework document. Ensure all relevant quantitative aspects are addressed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the week's research and findings. Highlight key insights and potential investment opportunities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails, respond to any urgent requests. Plan for next week's research agenda."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review yesterday's notes and emails, prioritize today's tasks."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Check project management system for any new updates or urgent notifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Hold a stand-up meeting with @dsde-1 and @dsde-2 to discuss data pipeline progress, data quality issues, and the availability of data for model training. Facilitate discussion and problem-solving."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Follow up on outstanding items from yesterday's meetings and email communications. Ensure action items are assigned and tracked."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the project budget and track expenses related to software, data subscriptions, and consulting services. Identify any potential overruns or cost-saving opportunities. Communicate with @coo-1 about the latest expense."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Facilitate a brainstorming session with @qres-1, @qres-2, @qres-3 to explore alternative model parameters or trading strategies to improve performance. Encourage open communication and idea sharing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Networking lunch with other project managers in the finance industry."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address conflicts that occurred in the morning brainstorm between @qres-1 and @qres-2 by setting up a one-on-one meeting. Listen to each side of the argument and find a compromise."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Revise project plan with the optimized parameter settings of the strategy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the changes in the project plan and inform all stakeholders of the changes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address questions from @ir-1 regarding fund performance and risks, and update marketing materials and investor presentations accordingly."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

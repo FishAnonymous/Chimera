@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and organize tasks for the week regarding EHR collection and influenza trend analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend training session on EHR system's features for documenting influenza cases."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review and take notes on the EHR system features discussed in the training session."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @clinlead-1 to discuss clinical interactions related to data collection."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Compile feedback from clinical interactions to improve data collection processes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any messages from colleagues, especially regarding EHR issues."
+    }
+]

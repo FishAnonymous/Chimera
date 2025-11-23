@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the game development timeline. Gather initial thoughts on key themes and narrative direction."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 (Lead Game Designer) and @sdes-1 (Systems Designer) to brainstorm narrative themes and discuss overall game mechanics."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft the key themes for the game's narrative direction. Focus on character arcs and emotional resonance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine key themes based on morning session with the design team. Align narrative goals with gameplay mechanics."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create an outline of the narrative direction, specifying how it integrates with gameplay elements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the outline and prepare for a follow-up meeting with @ldes-1 (Lead Game Designer) tomorrow."
+    }
+]

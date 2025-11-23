@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and set up testing environment for character animations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Run tests on animations, focusing on timing and transitions between movements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from the @Lead Game Designer and @QA Tester regarding the performance of the animations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review feedback and create a revision plan to improve animations."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the database management system, check emails and respond to any urgent requests from colleagues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the current status of the Electronic Health Record (EHR) collection project and analyze data integrity issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss integration challenges with EHR systems."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Contact @mrs-1 and @mrs-2 for any missing medical records that need to be input into the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct an audit of the current EHR data entries."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report highlighting issues found during the audit and send it to @clinlead-1 and @itpm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Engage with @his-1 and @his-2 to discuss potential improvements in health informatics related to EHR data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and update database access permissions for team members."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off."
+    }
+]

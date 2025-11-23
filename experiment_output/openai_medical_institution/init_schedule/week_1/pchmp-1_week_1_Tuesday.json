@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a meeting with @rn-1, @rn-2, and @rn-3 to gather input on EHR usability."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Analyze feedback received and outline necessary adjustments in collaboration with @his-2."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @qatest-1 to establish testing protocols for the EHR system."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Deliver an update on EHR development status to @itpm-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assist @helpdesk-1 to resolve any immediate EHR-related issues reported by users."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue coding EHR integration functionalities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log and document progress on EHR integration development."
+    }
+]

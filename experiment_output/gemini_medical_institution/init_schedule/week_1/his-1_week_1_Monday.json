@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and browse the latest articles on data visualization techniques for healthcare data. Also, skim through the news headlines to procrastinate a little."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin identifying specific EHR data elements required for seasonal influenza trend analysis. Start by reviewing the ICD-10 codes related to influenza diagnosis. Reference online databases and coding guidelines."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue identifying necessary EHR data elements, focusing on patient demographics (age, gender, location). Consider the specific data fields within our EHR system that store this information. Investigate how location data is captured (e.g., address, zip code)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and document the data fields for influenza vaccination status and dates of vaccination within the EHR. Consider different scenarios, such as vaccinations administered within our facility versus reported from external sources."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read a chapter of a sci-fi novel."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume identifying EHR data elements. Focus on symptoms reported during visits. Identify relevant standardized terminologies used for symptom documentation (e.g., SNOMED CT). Investigate how free-text symptom descriptions are handled in the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Identify EHR data elements related to lab test results (influenza A/B PCR). Determine the specific lab systems integrated with the EHR and the corresponding data fields for test orders, results, and interpretations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Identify EHR data elements for antiviral medication prescriptions and hospitalization records related to influenza. Determine the data fields that capture medication names, dosages, and dates. Determine the fields for admission dates, discharge dates, and diagnoses related to hospitalizations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile a comprehensive list of all identified EHR data elements, including the specific data fields, data types, and any relevant coding systems (e.g., ICD-10, SNOMED CT). Prepare for tomorrow's discussion with @DA-1, @DA-2, @Clinlead-1."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up on any feedback regarding test cases."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make necessary adjustments to test cases based on feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @lvdn-1 to ensure level designs are ready for testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare test data and scripts for final prototype testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Validate test environment setup for final prototype testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @prod-1, @lpro-1 with readiness status for final prototype testing."
+    }
+]

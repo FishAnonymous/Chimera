@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to the system, and check emails. Address any feedback received from @clinlead-1 Nadia Silva and @his-1 regarding yesterday's summary."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Participate in a training session led by the Training Coordinator @trainer-1 on best practices for EHR documentation and data integrity."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments and EHR documentation, focusing on influenza symptoms. Implement the new best practices learned during the training session."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review data on patients who tested positive for Influenza, discuss patient care management with @rn-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Browse travel websites."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR documentation. Collaborate with colleagues to ensure consistency in data entry practices."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Audit EHR documentation to identify areas for improvement and develop strategies for enhancing data quality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a final summary of patient encounters for the week, highlighting key trends and insights. Send summary to Clinical Lead @clinlead-1 Nadia Silva and Health Informatics Specialist @his-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign out and prepare for the weekend."
+    }
+]

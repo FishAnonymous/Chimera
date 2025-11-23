@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Grab a coffee and quickly check emails. Scan for anything urgent, but mostly ignore it for now. Need caffeine first."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Briefly review the weekly goals: level layouts, pathways, gameplay prototypes, visual integration. Sounds like a fun week."
+    },
+    {
+        "Time": "08:45",
+        "Activity": "Email @Ldes-1, @Cart-1: Subject: Level Design Kick-off. Briefly introduce myself and propose a quick meeting to discuss initial level concepts and artistic direction for the week's goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Browse some online level design portfolios and game environments for inspiration. Check out recent AAA releases and indie games for fresh ideas."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @Ldes-1, @Cart-1 to discuss level design direction. Take notes on desired themes, gameplay focus, and visual style. Contribute ideas based on personal preferences and recent inspirations. Try to get a sense of overall layout concept."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start sketching initial level layouts on paper. Focus on the 'main pathways and areas', experimenting with different shapes, sizes, and connection points. Think about flow and pacing - where do I want the player to go and how fast?"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head out for a quick bite. Grab something fast and easy."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back at desk. Import the rough sketch to the engine and begin blockout phase. Start with the central hub and main pathways."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the blockout. Adjust sizes, shapes, and connections. Run around in the level to get a feel for the flow. Is it fun? Is it engaging? Needs more tweaking!"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Quick playtest of the blockout. Make notes on areas that feel too cramped, too open, or just plain boring. Jot down initial ideas for gameplay scenarios."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Before leaving for the day, back up work and write a summary of progress. Send email to @Ldes-1 with updates on initial progress."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and respond to any urgent requests. Follow up on the meeting request with @larch-1, @sdev-1 and @sdev-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue drafting the preliminary technology infrastructure plan. Elaborate on the data feed requirements, including data frequency, data types, and historical data needs. Contact @dsde-1 and @dsde-2 for data requirements in email for clarification."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @larch-1, @sdev-1 and @sdev-2 to discuss the software architecture and integration possibilities. Focus on the API requirements for connecting the trading platform and risk management system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the meeting outcome, refine the preliminary technology infrastructure plan. Address any integration challenges identified during the meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research and document potential cloud providers (e.g., AWS, Azure, GCP) to host the technology infrastructure. Evaluate the cost, performance, and security features of each provider. I need to get a feel for which one is easiest to manage, honestly."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Draft a section on security considerations for the technology infrastructure plan. Address topics such as data encryption, access control, and vulnerability management. Security always gets deprioritized, but it's critical."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review and refine the preliminary technology infrastructure plan. Prepare a presentation for stakeholders. Plan tasks for tomorrow."
+    }
+]

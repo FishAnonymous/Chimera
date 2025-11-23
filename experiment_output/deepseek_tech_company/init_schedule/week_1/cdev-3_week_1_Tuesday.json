@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review physics implementation from yesterday and plan improvements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine physics system - add jump mechanics and basic collision responses."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @cdev-1 and @cdev-2 to align on coding standards and project structure. Merge any necessary changes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement simple camera follow system for third-person perspective."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test camera system with placeholder character. Adjust smoothing and offset parameters."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @tart-1 to discuss shader requirements for basic materials on placeholder assets."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up basic scene with test environment (simple plane, obstacles) for physics testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document current systems implementation for future reference and team onboarding."
+    }
+]

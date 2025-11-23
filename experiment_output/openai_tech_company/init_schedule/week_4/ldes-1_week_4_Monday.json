@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the feedback report from last week's playtests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule meetings with internal team members (e.g., @qtest-1, @lvdn-1) to discuss playtest results."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qtest-1 to go over documented issues from the QA testing in detail."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @lvdn-1 to analyze level design feedback received from both internal and external playtests."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a report outlining key areas for improvement based on the insights from playtests."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Communicate with @ndes-1 for any narrative adjustments needed in relation to the level design following playtest feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the analysis report and share it with all relevant members including @lpro-1, @sdes-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around, browse design inspiration websites for level design ideas."
+    }
+]

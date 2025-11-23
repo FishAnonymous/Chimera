@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar for urgent updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the project goals for the week: EHR project kick-off announcement, communication materials development and distribution, and hospital-wide information dissemination regarding the project."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a detailed project kick-off announcement. Include project name, objectives (EHR collection and seasonal influenza trend analysis), timeline, and key personnel involved."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @clinlead-1, @pchmp-1 to review the draft announcement and provide feedback on clinical accuracy and messaging."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin compiling a list of frequently asked questions (FAQs) related to the EHR project. Consider questions regarding data entry, system changes, training, and reporting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the project kick-off announcement based on feedback from @clinlead-1 and @pchmp-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Schedule a meeting for Tuesday morning with @trainer-1 and @helpdesk-1 to discuss training plans and support resources for hospital staff."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on the project overview document. Include sections on project goals, benefits, scope, timeline, team members, and contact information."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review project plan and confirm all tasks for Tuesday."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails and prepare for tomorrow's meeting."
+    }
+]

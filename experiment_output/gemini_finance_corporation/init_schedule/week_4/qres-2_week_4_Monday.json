@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, do some light stretching and listen to an upbeat playlist to get energized for the week. Quick scan of market news headlines on Bloomberg to get a feel for the day's potential drivers."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Head to the office, grabbing a coffee on the way. Gotta fuel the brain!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Settle in, check emails. Flag any urgent requests from @CIO and @COO. Quick catch-up with @qres-1 and @qres-2 to see if they've uncovered anything interesting in their strategy testing that might impact risk."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Dive into refining the risk management framework. Start by reviewing the initial strategy testing results. Identify key risk factors that emerged during testing."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @dsde-1 and @dsde-2 to request data on specific market events observed during backtesting. Subject: Data Request - Market Event Analysis for Risk Framework Refinement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Brainstorming session! Start drafting potential model improvements for managing volatility. Look at incorporating GARCH models or implied volatility measures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Grab some food, maybe go for a quick walk outside to clear my head and recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the volatility model. Implement and test the initial version using historical market data. Evaluate performance and identify areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start researching potential liquidity risk management techniques. Look into order book analysis, volume-weighted average price (VWAP) calculations, and other relevant metrics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by documenting progress on the volatility model and initial thoughts on liquidity risk. Prepare a brief summary for tomorrow's tasks."
+    }
+]

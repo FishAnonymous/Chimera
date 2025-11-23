@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up my system, check emails and internal communication channels for urgent requests or updates. Make a cup of coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the project plan for EHR collection and influenza trend analysis, focusing on the tasks assigned to me for this week. Double-check the high-level goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send email to @ehrv-1 to schedule a meeting to discuss necessary system updates/modifications for EHR integration. Include proposed meeting times for Tuesday morning."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research the EHR vendor's documentation and API specifications to prepare for the meeting. Focus on areas related to data field configuration and workflow customization."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start drafting a technical specification document outlining the required system updates/modifications. This will serve as a reference point during the meeting with the EHR vendor."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Check sports news and Reddit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the technical specification document, focusing on the 'Configure new data fields' part of the task.  Investigate available data types and constraints."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start working on the 'customize existing workflows' part. Analyze the current patient admission workflow in the EHR system to identify potential areas for improvement. Consult internal documentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and update task status in the project management system. Prepare a list of questions for the EHR vendor."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and head home."
+    }
+]

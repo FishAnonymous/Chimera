@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback received from the design team and start implementing necessary changes to character animations and environment assets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize any remaining adjustments for character animations and environment models in preparation for final approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Run tests on the final character animations and environment assets to ensure they function as expected."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and prepare a summary report on final tasks completed this week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the workweek."
+    }
+]

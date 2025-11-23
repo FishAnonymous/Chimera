@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the week's goals. Start drafting a checklist for onboarding UHNWIs."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research best practices for onboarding UHNWIs in hedge funds. Compile a list of essential items for the checklist."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @comp-1 to discuss compliance requirements for UHNWIs and align on regulatory checks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the onboarding checklist, incorporating feedback from @comp-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ir-1 to gather insights on typical investment histories of UHNWIs."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize gathered information and update the checklist. Prepare for tomorrow's tasks."
+    }
+]

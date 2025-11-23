@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Spend 30 minutes browsing interesting articles on health tech or project management - gotta keep those skills sharp!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review and organize yesterday's notes from the EHR vendor discussion. Identify areas where clarification is needed or alternative solutions are required."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Draft a follow-up email to the EHR vendor requesting clarification on specific aspects of their proposed system modifications. Include specific technical questions for @ehrdev-1's review. Topic: Clarification Request Regarding System Modifications"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Forward the draft email to @ehrdev-1 for their review and input. Incorporate their technical feedback into the email. Topic: Review of Clarification Request Email"
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Send the finalized clarification request email to the EHR vendor."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Maybe try a new restaurant today?"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research potential alternative EHR vendors and solutions for influenza data collection, in case the current vendor's proposal is not satisfactory. Check online reviews and industry reports."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact three potential alternative EHR vendors to get a preliminary understanding of their capabilities and pricing. Request brochures or presentations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document findings from the alternative vendor research and update the comparison table with the information gathered."
+    }
+]

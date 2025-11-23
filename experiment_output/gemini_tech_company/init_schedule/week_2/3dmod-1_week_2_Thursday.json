@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, coffee, emails. Check the progress of yesterday's rigging."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin creating a basic idle animation for the character. Focus on subtle movements and breathing to give the character life."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create walk and run cycle animations. Focus on conveying the character's weight and gait realistically."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Try a new restaurant with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start working on basic combat animations, such as a punch, kick, and block. Focus on impact and responsiveness."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on creating a library of animations for basic movements, combat, and interactions"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break. Play a quick game of ping pong in the break room."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Create animations for basic interactions, such as picking up an object or opening a door. Focus on fluidity and naturalness. Save the Maya scene and document progress."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails, update the project management tool. Review the animation library and note down the need of more animations."
+    }
+]

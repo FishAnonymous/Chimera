@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check email and address any pressing issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review data collection fields for influenza-related information in the EHR. Ensure that all required fields are present and clearly defined."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Based on clinical feedback and review of the EHR, prepare specific recommendations for changes to the data collection process and/or training materials."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @his-1 and @his-2 to discuss the reporting capabilities of the EHR system for influenza trend analysis. Understand how data is extracted and analyzed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a call with @ehrv-1, @ehrdev-1, and @ehrdev-2 to discuss the feasibility of implementing the recommended changes to the data collection process within the EHR. Advocate for the clinical perspective."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Following the call, document the decisions made regarding the implementation of changes in the EHR. Identify any outstanding questions or concerns."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the hospital's quality assurance processes for EHR data entry. Identify any opportunities to improve data accuracy and completeness."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin drafting a presentation for the next project meeting, summarizing the week's activities and outlining next steps. Focus on the implementation of changes to the EHR and improvements to the influenza data collection process."
+    }
+]

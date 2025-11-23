@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and review the task list for today."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the communication plan for disseminating the data quality metrics and targets to stakeholders. Work with @trainer-1."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to finalize the data quality assurance process, based on the defined metrics. Topic: 'Finalizing Data Quality Assurance Process'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @ehrv-1 to ensure that the EHR vendor provides the necessary support for data quality monitoring and reporting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Browse technical blog."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start working on the data quality dashboard layout. The dashboard should show current data quality status with all the metrics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consult with @dba-1 about the data structure required for implementing the dashboard. Topic: 'Data structure required for data quality dashboard'."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work and update the project plan with progress and any identified risks or issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's tasks and create a detailed task list."
+    }
+]

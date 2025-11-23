@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Procrastinate for a bit by checking out some tech blogs related to game development or reading a few articles on the latest advancements in AI."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the acceleration and deceleration of the character, make it smooth and natural."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Look into blending animations so that the transitions between different actions such as moving and jumping are seamlessly integrated. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research different movement techniques used in popular third-person shooter games (e.g., Gears of War, Uncharted, Tomb Raider)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Focus on cover system movements. Investigate how these games implement cover mechanics and how player movement is affected while in cover."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Specifically analyze games with sliding mechanics like Apex Legends. Check tutorials/blogs regarding these."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize the research findings into a document or spreadsheet. Summarize the different movement techniques and their advantages/disadvantages. Note the games where each technique is used effectively."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system (Git). Write a descriptive commit message explaining the changes made."
+    }
+]

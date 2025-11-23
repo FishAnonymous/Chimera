@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to any follow-up questions from the investment strategy team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Reflect on the week's work, identify areas for improvement in future analyses."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Update personal knowledge base with new insights and techniques learned this week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break, browse quantitative finance forums and blogs."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Plan tasks for next week, aligning with overall project goals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Clean up workspace, archive completed files, and organize data for easy access."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @devops-1 to discuss potential improvements in data pipeline efficiency."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week, ensure all tasks are completed and documented."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off for the week, relax and unwind."
+    }
+]

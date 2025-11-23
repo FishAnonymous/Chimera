@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and OA system, check emails for urgent updates or requests related to influenza assessment protocols or EHR data entry procedures. Respond to any pressing emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized influenza assessment protocol documentation within the EHR. Ensure I am familiar with the latest guidelines and any recent updates to symptom criteria. If there are any confusing points, send emails to @clinlead-1 and @pchmp-1 for clarification on the new updates or unclear criteria of the influenza assessment protocol. @clinlead-1 @pchmp-1 Clarification on Influenza Assessment Protocol."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Familiarize myself with the specific data entry tools and functionalities within the EHR related to influenza assessment. This includes reviewing the location of demographic information fields, medical history sections, vaccination status indicators, and symptom checklists. Practice with dummy patient data in the test environment of the EHR to become comfortable with the data entry process. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @trainer-1 to request a refresher training session on EHR navigation and data entry best practices, specifically tailored to influenza data collection. @trainer-1 EHR Training Request."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the EHR data entry fields and drop-down menus for common influenza symptoms (e.g., fever, cough, sore throat). Ensure that I understand the specific options available and how to accurately record patient symptoms. Identify any missing or unclear options and report them to @his-1 and @ehrdev-1 for review and potential modification. @his-1 @ehrdev-1 Review of EHR symptom entry options."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Shadow another experienced RN (@rn-1 or @rn-2) during patient assessments to observe their EHR data entry techniques and learn best practices for efficient and accurate documentation. Pay close attention to how they utilize the EHR's data entry tools and handle different patient scenarios."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document the learnings from the shadowing experience, and prepare a short summary of best practices observed for future reference. If any problems were found during the shadowing, report to @itpm-1, @qatest-1 to schedule a fixing procedure. @itpm-1 @qatest-1 fixing shadow problems."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's shift, anticipating potential challenges related to influenza assessments and EHR data entry. Review available resources and support contacts in case of technical issues or questions. Prepare any necessary materials or equipment for the shift."
+    }
+]

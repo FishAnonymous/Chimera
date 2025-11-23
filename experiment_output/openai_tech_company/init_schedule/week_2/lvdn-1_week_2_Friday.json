@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and reflect on progress made throughout the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the blockouts for the current week, ensuring all feedback has been implemented."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare a document summarizing the week's work on blockouts, challenges faced, and solutions implemented."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Share the summary document with the entire development team for visibility."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Plan focus areas for the following week based on feedback and progress made."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Take time to relax and browse level design inspiration websites."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check emails and respond to any messages, wrapping up any loose ends before the weekend."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and end the workweek."
+    }
+]

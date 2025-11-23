@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any follow-up questions from the team regarding the data collection workflow."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin drafting a data dictionary for the identified EHR data elements to ensure consistency in data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @his-1 and @his-2 to review the data dictionary and provide input on standardization."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and refine the data dictionary based on feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a test plan for the data collection workflow to ensure accuracy and reliability."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to discuss the test plan and assign testing responsibilities."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update project documentation with the data dictionary and test plan."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a status update for the weekly team meeting."
+    }
+]

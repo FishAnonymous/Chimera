@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails for urgent requests or updates. Briefly browse Reddit for some interesting news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goal plan for the week: 'Continue defining initial data quality metrics for EHR data related to influenza tracking' and 'Set weekly targets for improvement'. Begin brainstorming potential data quality metrics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research existing literature and industry best practices for data quality metrics in healthcare, specifically related to influenza tracking. Focus on metrics like completeness, accuracy, consistency, and timeliness."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document initial data quality metrics ideas and prepare a draft list. Examples include: Percentage of patients with complete vaccination records, accuracy of ICD-10 codes for influenza diagnoses, and consistency of reporting across different departments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @da-1 to discuss the proposed data quality metrics and solicit feedback. Schedule a brief meeting for tomorrow to discuss in detail."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start outlining a methodology for measuring the chosen data quality metrics. Consider data sources, tools (e.g., SQL queries, data analysis software), and reporting frequency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head to the cafeteria for a quick bite and catch up on sports news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the methodology for measuring data quality metrics. Focus on creating clear, actionable steps for data extraction, analysis, and reporting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin drafting SQL queries to extract relevant data fields from the EHR database. Consult with @dba-1 to ensure efficient query design and access to necessary tables."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the SQL queries on a sample dataset to verify their accuracy and efficiency. Troubleshoot any errors or unexpected results."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the SQL queries and their purpose for future reference. Update the data quality metrics document with the finalized methodology."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review progress made today and plan for tomorrow. Respond to any pending emails."
+    }
+]

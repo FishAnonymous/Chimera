@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, settle in, and check emails for any urgent requests or updates. Quickly browse some photography websites for inspiration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: identifying historical medical records, developing a data abstraction form, and training data abstractors."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin identifying locations of historical medical records. Start with electronic records within our existing EHR system. Make a list of potentially relevant databases and file storage locations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @ITPM-1, @DBA-1 to inquire about access protocols and security requirements for accessing historical EHR data. Topic: EHR Data Access Permissions"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Investigate the physical storage locations of paper-based medical records. Locate the archives and record storage rooms. Document the organization system (if any)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head out for a quick walk around the block to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue investigating the physical storage locations. Focus on records pre-dating EHR implementation. Note any challenges (e.g., disorganized files, damaged records)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start drafting a preliminary list of EHR data elements relevant to influenza trend analysis (patient demographics, vaccination status, diagnosis codes, symptoms, lab results, prescriptions, hospitalizations). Refer to past influenza reports for guidance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @HIS-1, @HIS-2 to get the access permission for the historical influenza reports. Topic: Permission for Influenza Historical Reports"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the list of EHR data elements, considering data quality and availability. Prioritize elements that are consistently documented and easily accessible."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary report of the day's activities, outlining progress made in locating medical records and identifying key EHR data elements."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Listen to some music on the way home."
+    }
+]

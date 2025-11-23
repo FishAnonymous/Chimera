@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and set up a task list for drafting the testing strategy document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin drafting the testing strategy document outlining different testing types and methodologies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult @qtest-1 (QA Tester) for input on current testing methodologies being used."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the testing strategy document."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and incorporate feedback from @qtest-1 into the document."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send out a summary email to @ldes-1 and @prod-1 about the progress on the testing strategy document."
+    }
+]

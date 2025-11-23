@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails and messages. Listen to some music to keep me motivated."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on implementing player feedback systems. Start with a basic tutorial system that guides players through the game's core mechanics."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a series of tutorial messages that appear on the screen at specific points in the game. Use placeholder text for now."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email Narrative Designer @NDES-1 to request the final text for the tutorial messages. Explain the context and purpose of each message."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Integrate the final text for the tutorial messages. Add animations and sound effects to make the tutorials more engaging."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Order takeout with colleagues and play table tennis in the lounge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement an error message system that displays helpful information to the player when something goes wrong. Include error codes and potential solutions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a central error logging system that records all errors that occur in the game. This will be helpful for debugging and identifying issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the error message system by intentionally triggering errors in the game. Verify that the error messages are displayed correctly and that the error logs are being recorded."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system. Write a detailed commit message explaining the changes made."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow, review the completed tasks. Discuss with team mates on upcoming tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check for any updates. Prepare for the day's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct influenza symptom assessments for outpatient clinic patients. Document all findings in the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer vaccinations and ensure all documentation is complete. Verify patient records for accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with any patients who missed vaccinations earlier in the week. Update EHR accordingly."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @da-1 and @da-2 with any notable trends in influenza symptoms or vaccination rates."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review and restock vaccination supplies. Ensure EHR is up to date for the week."
+    }
+]

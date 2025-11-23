@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review the day's agenda. Address any outstanding emails or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue refining the environmental audio. Focus on creating seamless transitions between different soundscapes as the player moves through the game world."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement dynamic audio effects that respond to in-game events. For example, increase the intensity of the wind sounds during a storm or add echo to the player's voice in a cave."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @lvdn-1 (Level Designer) to optimize the placement of audio zones and ensure that the environmental audio complements the visual design of each level."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Discussing the project with @lvdn-1 (Level Designer) to get inspirations to help with the development."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on implementing audio occlusion to simulate how sound is blocked by objects in the environment. This will require working with the game engine's audio occlusion system or developing a custom solution."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the audio occlusion system in-game. Verify that sounds are properly muffled or blocked when the player is behind walls or inside buildings. Adjust the occlusion parameters to achieve a realistic effect."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @qtest-1 (QA Tester) to get feedback on the audio implementation. Address any bugs or issues that are identified."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the audio occlusion implementation process. Note any challenges or best practices. Update the sound effect tracking spreadsheet."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up the project and prepare for tomorrow's tasks."
+    }
+]

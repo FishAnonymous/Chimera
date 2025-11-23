@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and browse some tech art articles on Gamasutra to get my brain warmed up. Maybe something about procedural content generation or new shader techniques."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lvdn-1, @ldes-1 and @cart-1 to discuss the overall art style and vision for the game. Need to nail down the specifics - is it gritty realism, stylized cartoon, or something in between? Take detailed notes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review concept art from @cart-1 and level designs from @lvdn-1. Start thinking about how these concepts translate into actual game assets. Consider technical limitations early on."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @3dmod-1, @3dmod-2 about initial technical requirements for 3D models. Specifically polygon counts, texture sizes (start with a range), and naming conventions. @PEOPLE"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - grab something quick and maybe play a round of Apex Legends to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @uiux-1 to discuss the UI elements. Understand the functionality and how they will integrate into the game world. Visual appeal is important, but usability trumps everything."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research shaders and materials that would be appropriate for our art style. Look into Physically Based Rendering (PBR) workflows and see if we can implement them efficiently. Save interesting examples and techniques."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start sketching out a simple shader graph for a basic material (e.g., a stylized rock). Experiment with different nodes and parameters."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @tdev-1 about the art pipeline tools they are working on. See if there's anything I can test or provide feedback on. @PEOPLE: Art Pipeline Tools Update/Feedback."
+    }
+]

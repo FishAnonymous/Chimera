@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Grab a coffee, quick scan of emails. Today, is time to focus on the polish of the work."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from @Ldes-1 on the overall flow and pacing. Address any remaining issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Polish the level. Fix any bugs, smooth out any rough edges, and generally make the level feel as good as possible."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Optimization. Examine the level performance and try to optimize the level to ensure that it runs smoothly on the target hardware."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final playtest. Play through the level one last time to make sure everything is working as intended."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare the level for handoff. Organize the files, write documentation, and generally make sure that the level is easy for others to work with."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Submit the level to the build engineer for integration into the main game. Send Email to @beng-1. Subject: Request to integrate the Level."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the game progress with @Ldes-1. Give out the final remarks and future plan of the level design in the game."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up work and write a final summary of the week's progress. Call it a week!"
+    }
+]

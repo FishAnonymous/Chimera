@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Perform a final audit of patient data in the EHR system. Ensure all records are complete and accurate."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @dba-1 to confirm that all patient data has been successfully migrated and backed up."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Attend a training refresher session with @trainer-1. Focus on advanced features of the new workflows."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide hands-on support to @rn-1, @rn-2, and @rn-3 during their use of the new workflows. Address any immediate concerns."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Compile a report on the training sessions and workflow challenges. Submit to @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review the report with @pchmp-1 and discuss any necessary adjustments to the workflows."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails, and review the QA testing protocols for EHR data collection."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @EHR Vendor Liaison to discuss any recent changes in the EHR system that may affect testing processes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a preliminary review of the EHR data collection process focusing on seasonal influenza cases."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft the QA testing plan, outlining the protocols that will be used for EHR data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Initiate QA testing processes on the EHR data collection for influenza cases."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document initial findings from QA testing and note any immediate issues or discrepancies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a summary email to @Data Analyst and @Clinical Lead regarding the initial testing findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's work, prepare a checklist for tomorrow's QA testing activities."
+    }
+]

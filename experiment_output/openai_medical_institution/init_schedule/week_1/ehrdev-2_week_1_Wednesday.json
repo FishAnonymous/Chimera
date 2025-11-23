@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare for a meeting with the QA team regarding testing protocols for EHR."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Join @QATEST-1 and @QATEST-2 to finalize testing protocols."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin implementing the agreed testing protocols in the EHR system."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Communicate with @TRAINER-1 to discuss training material modifications based on system changes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing testing protocols and document changes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a test script for the new features in EHR."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @RN-1 and @RN-2 to gather clinical insights on new EHR features."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around, browse websites related to EHR integration trends."
+    }
+]

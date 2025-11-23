@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Review project timeline and identify any potential delays."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1, @ehrdev-2, @dba-1 to discuss current progress and address any technical delays in EHR integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Update project dashboard with current status and prepare a brief for the clinical team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @clinlead-1, @pchmp-1, @rn-1, @rn-2, @rn-3 to gather feedback on EHR usability and any clinical workflow issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback from clinical team and prioritize action items with @his-1, @his-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @trainer-1 to ensure training materials are updated based on feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a summary of the day's progress and outline tasks for Tuesday."
+    }
+]

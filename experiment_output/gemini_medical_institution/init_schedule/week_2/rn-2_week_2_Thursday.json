@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review any new updates or system messages. Check emails for urgent communications from colleagues or supervisors."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Quick huddle with @rn-3, @itpm-1, and @da-2 to discuss project progress and potential roadblocks. Share any updates on patient data collection and vaccination efforts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start with patient assessments, emphasizing thorough data entry into the EHR. Make sure that all the relevant information is captured, including patient demographics, medical history, and current medications."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccinations to scheduled patients in the morning. Answer their questions and make them feel at ease regarding the vaccine safety. Document all the vaccination details."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Play board games at the cafeteria with @helpdesk-1 and @rn-2"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments, and make sure you enter data into the EHR. Focus on identifying risks and working on the risks. Collaborate with the healthcare staff as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Administer influenza vaccinations during the afternoon clinic, and document them into EHR system. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review patient charts for completeness, and prepare for the handover notes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails, and prepare for the next shift."
+    }
+]

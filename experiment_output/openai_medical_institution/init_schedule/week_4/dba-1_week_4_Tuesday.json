@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the database, check emails for responses and updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Draft a report outlining findings from the previous day's data analysis related to EHR."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Send the draft report to @Quality Assurance Tester for feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the feedback from @Quality Assurance Tester and make necessary adjustments to the report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the report and share it with the team for further insights."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @EHR Integration Developer to outline the technical requirements for EHR data collection."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct testing of EHR integration processes with assistance from @Quality Assurance Tester."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check and respond to emails, update tasks for the next day."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review feedback and plan adjustments for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on finalizing character blockouts, ensuring all feedback is addressed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse 3D modeling forums for tips and tricks."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue refining models, adding any missing details and polishing shapes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @3dmod-2 and @cart-1 to schedule a follow-up review session."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare updated models for the follow-up review, ensuring they are presentation-ready."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save all work and prepare notes for the follow-up review."
+    }
+]

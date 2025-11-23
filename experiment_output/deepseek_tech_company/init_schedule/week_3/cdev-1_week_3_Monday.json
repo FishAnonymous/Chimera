@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from Week 2 regarding game mechanics and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 and @sdes-1 to discuss feedback on game mechanics and brainstorm refinements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start implementing refinements to game mechanics based on the discussion. Focus on player movement and shooting mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining mechanics. Test changes in the development environment to ensure they meet expectations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qtest-1 to request testing of the refined mechanics and provide a build for their review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document changes made to the mechanics and update the project wiki."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Address any outstanding questions or feedback from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on polishing and refining the weapon sounds created earlier in the week. This will involve adjusting the volume, pitch, and other parameters of the sounds to create a more satisfying and impactful experience for the player. Aim to make the weapons feel powerful and distinct."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin working on the sound effects for explosions and other environmental events. This will involve creating a variety of sounds that convey the scale and intensity of these events."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Experiment with different techniques for creating realistic and immersive explosion sounds. This could involve using software like Adobe Audition to layer and process different sound effects, or recording original sounds in real-world environments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test and refine the newly created environmental sounds and explosions within a relevant game level. Pay attention to the sound propagation and ensure a proper balance in the mix. @cdev-3 can you assist me with the implementation?"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the progress made today, including details of the explosion sounds, environmental event sounds, and any challenges encountered during testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Listen to various gaming podcasts or watch GDC talks about audio design in games to find inspiration."
+    }
+]

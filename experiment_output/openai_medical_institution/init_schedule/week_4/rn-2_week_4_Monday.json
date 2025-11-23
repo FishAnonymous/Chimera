@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review tasks and prioritize for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 and @ehrdev-1 to discuss EHR integration status and any outstanding issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @da-1 and @da-2 to gather data needed for EHR collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Investigate issues reported in the EHR system by QA team. Prepare notes for follow-up."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on EHR data compilation strategy with @his-1 and @his-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop documentation for the EHR integration process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check-in with @clinlead-1 for insights on clinical workflows and how they relate to EHR data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up day, respond to any emails, and review progress made on daily tasks."
+    }
+]

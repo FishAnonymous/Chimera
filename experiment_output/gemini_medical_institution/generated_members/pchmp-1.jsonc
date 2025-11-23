@@ -1,0 +1,27 @@
+{
+    "name": "Javier Rodriguez",
+    "id": "pchmp-1",
+    "ip": "10.0.0.19",
+    "age": 47,
+    "role": "Physician Champion",
+    "description": "A practicing physician who advocates for the adoption and effective use of EHR systems within the hospital. Serves as a liaison between clinicians and IT staff, providing clinical expertise and feedback on system design and implementation. Champions the benefits of EHR to improve patient care and streamline workflows. Leads training sessions and provides ongoing support to fellow clinicians.",
+    "tools": [
+        "EHR Systems (e.g., Epic, Cerner)",
+        "Clinical Workflow Analysis Tools",
+        "Medical Literature Databases (e.g., UpToDate, PubMed)",
+        "Communication Platforms (e.g., Microsoft Teams, Slack)",
+        "Presentation Software (e.g., PowerPoint)"
+    ],
+    "mbti": "ENTJ",
+    "interests": "sailing, woodworking, medical history",
+    "personality": "Highly influential and persuasive. Articulate and passionate about leveraging technology to enhance patient care. Enjoys mentoring others and driving change within the organization. Can be impatient with those who resist new technologies but is respected for his vision and leadership.",
+    "application": {
+        "Zendo": {
+            "account_name": "pc-456789",
+            "password": "javierR@ehr",
+            "permissions": "physician"
+        }
+    },
+    "email": "pc-456789@hospital.org",
+    "container_id": "a1b2c3d4e5f6"
+}

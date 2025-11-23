@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize design documents."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation for the weekly team meeting showcasing character animations, props, and environment assets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Deliver the presentation in the weekly team meeting and gather feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Spend time reviewing feedback and discussing next steps with team members."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing all collected materials and planning for next week."
+    }
+]

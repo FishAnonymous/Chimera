@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails for urgent requests or updates. Briefly review the weekly goal: abstracting data from the 2023-2024 influenza season with a target of 200 records, prioritizing electronic ones."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the established protocol for influenza data abstraction to ensure consistency and adherence to guidelines. Refresh knowledge on data fields needed, including demographics, vaccination status, symptoms, diagnosis codes (ICD-10), lab results, and treatment details."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin accessing the electronic health record (EHR) system. Prepare a list of patient identifiers (medical record numbers) to efficiently pull up patient records for review. Focus initially on patients seen during the 2023-2024 influenza season."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start abstracting data from the first EHR. Systematically review the patient's record, extracting relevant data points and documenting them in a secure spreadsheet. Ensure accurate transcription of information."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue EHR abstraction. Focus on efficiency and accuracy, taking short breaks as needed to maintain concentration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume EHR abstraction. Analyze the first set of 30 records, identifying potential data entry errors or inconsistencies in the EHR system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Communicate with @HIS-1 and @HIS-2 about any potential data entry error. @HIS-1 @HIS-2 Data Error in EHR System "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue with EHR abstraction for another 30 records. Total target 60 for the day."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review today's progress. Verify that at least 60 records have been abstracted. Note any challenges encountered during the data abstraction process."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Organize the day's abstracted data and back up the spreadsheet to a secure server."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and leave for the day."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries. Review the draft operational plans."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @legal-1 and @comp-1 to ensure compliance and legal requirements are incorporated into the operational plans."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the outline of key phases based on feedback from Monday's discussions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @sdev-1 and @sdev-2 to confirm technology resource availability and timelines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the list of required human resources and discuss with @pm-1 for approval."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update the financial resource requirements based on feedback from @facc-1 and @facc-2."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Continue drafting the timeline for fund launch activities, ensuring alignment with all stakeholders."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and prepare for Wednesday's tasks."
+    }
+]

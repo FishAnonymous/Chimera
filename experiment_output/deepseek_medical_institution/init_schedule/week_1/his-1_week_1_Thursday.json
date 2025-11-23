@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Address issues identified in the sandbox testing and refine the workflow."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @helpdesk-1 to ensure support is available for any user issues during testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @trainer-1 to develop training materials for the new workflow."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @rn-1, @rn-2, @rn-3 to gather feedback on usability from a clinical perspective."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and finalize training materials with @trainer-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a dry run of the workflow with @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document any additional feedback from the dry run."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the final review meeting tomorrow."
+    }
+]

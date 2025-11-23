@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review news headlines related to global financial markets and potential arbitrage opportunities. Briefly check overnight performance of relevant asset classes."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review overnight emails and prioritize urgent matters. Check calendar for scheduled meetings."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 (Quantitative Research team) to discuss progress on the fund's investment strategy. Review backtesting results and refine parameters. Ensure the team is on track to finalize the strategy by the end of the week."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review the draft of the fund's investment strategy document. Focus on clarity, completeness, and alignment with the fund's market-neutral mandate."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @Qres-1, @Qres-2, @Qres-3: Topic: Investment Strategy Feedback. Provide specific feedback on the draft investment strategy document, highlighting areas for improvement and further clarification. Set a deadline for revisions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Legal-1 (Legal Counsel) to discuss the regulatory requirements for the fund's investment strategy and ensure compliance with SEC regulations for UHNWI-targeted funds."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read the Wall Street Journal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @COO-1 (Chief Operating Officer) and @PM-1 (Project Manager) to discuss the project timeline for fund launch and identify potential roadblocks. Emphasize the importance of meeting deadlines for regulatory filings."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review proposals from different trading platform vendors. Focus on API availability, execution speed, cost, and support for statistical arbitrage strategies. Make a shortlist of potential vendors."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @larch-1 (Lead Software Architect) and @sdev-1, @sdev-2 (Software Developers) to discuss the integration requirements of the shortlisted trading platforms with the fund's existing infrastructure. Assess the technical feasibility of each option."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review initial risk management framework document prepared by @Qres-2. Identify key risk factors and propose mitigation strategies."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Review personal investment portfolio and market news."
+    }
+]

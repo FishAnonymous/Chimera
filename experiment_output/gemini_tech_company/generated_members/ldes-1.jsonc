@@ -1,0 +1,28 @@
+{
+    "name": "Naomi Walker",
+    "id": "ldes-1",
+    "ip": "10.0.0.16",
+    "age": 45,
+    "role": "Lead Game Designer",
+    "description": "Leads the game design team, responsible for the overall vision and direction of the game's design. Creates and maintains design documentation, including game mechanics, level layouts, and player progression systems. Works closely with programmers, artists, and producers to ensure the game is fun, engaging, and meets the project's goals.",
+    "tools": [
+        "Unreal Engine",
+        "Unity",
+        "Adobe Creative Suite",
+        "JIRA",
+        "Confluence",
+        "Microsoft Office"
+    ],
+    "mbti": "ENFJ",
+    "interests": "board game design, storytelling, world-building",
+    "personality": "Charismatic and inspiring, Naomi is a natural leader with a passion for creating memorable gaming experiences. Known for her ability to foster collaboration and bring out the best in her team. Sometimes struggles with delegating tasks, preferring to be hands-on.",
+    "application": {
+        "Zendo": {
+            "account_name": "gamedesign-195738",
+            "password": "NaomiW@lead",
+            "permissions": "lead_designer"
+        }
+    },
+    "email": "gamedesign-195738@corp.com",
+    "container_id": "f89a4b3c21d0"
+}

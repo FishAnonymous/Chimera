@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback received on data entries from the Clinical Lead."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Engage in data entry for any new seasonal influenza cases reported."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on data entry and begin cross-verifying with previous entries."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a summary email of data entry status and any issues to @Clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare end-of-week summary of tasks completed."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, emails. Check the latest news on AI and machine learning in game development. See if there are any tools or techniques that could be useful for our project. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Experiment with different lighting setups in the test scene. Try different light types (directional, point, spot) and shadow settings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research different techniques for creating visual effects (VFX). Look into particle systems, post-processing effects, and custom shaders."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start prototyping a simple particle effect (e.g., dust motes) in the test scene. Experiment with different particle properties (size, speed, color, lifetime)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Order in today, feel like staying in and watching a quick YouTube video during lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research post-processing effects. Look into techniques like bloom, ambient occlusion, and color grading."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement a basic color grading effect in the test scene. Adjust the contrast, saturation, and hue to achieve a desired look."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @lvdn-1 to review the progress on the test scene and the visual effects. Get their feedback and suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the workflow and the structure for the VFX production, including the format and some example cases."
+    }
+]

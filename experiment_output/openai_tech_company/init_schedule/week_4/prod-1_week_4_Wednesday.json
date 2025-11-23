@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Rehearse the project presentation with @lpro-1 and gather insights on delivery and pacing."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Finalize any last-minute adjustments to slides and handouts with @prod-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Conduct dry runs of the presentation with select team members to polish the performance."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Secure feedback from @aud-1 on the audio elements of the presentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Ensure all materials are ready for the presentation and confirm the meeting logistics with stakeholders."
+    }
+]

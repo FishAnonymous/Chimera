@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review placeholder assets received from 3D modelers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Import placeholder character models into Unity project. Set up basic animations (idle, walk) using Unity's Animator."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Integrate placeholder assets with existing input and physics systems. Test character movement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Debug any issues with asset integration (scale, collisions, etc.)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement basic weapon placeholder system (simple projectile spawning)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @aud-1 to request placeholder sound effects for weapon firing and footsteps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up basic UI placeholder for health and ammo counters. Coordinate with @uiux-1 for design input."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test all integrated systems together. Create checklist of remaining issues."
+    }
+]

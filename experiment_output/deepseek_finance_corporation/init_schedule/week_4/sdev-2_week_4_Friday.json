@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the summary report from Thursday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize all remaining fixes and optimizations for the investor portal."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Relax and browse through some coding forums."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Perform a final round of testing to ensure all issues are resolved and the portal is ready for deployment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @devops-1 to prepare for the deployment of the investor portal to the staging environment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the deployment plan and ensure all documentation is up-to-date."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by sending a status update to @pm-1 and the team, highlighting achievements and next steps."
+    }
+]

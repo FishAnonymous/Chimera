@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check personal emails, and browse travel websites for future vacation ideas."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check work emails and address any outstanding issues or requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Abstract data from another batch of 25 electronic records. Focus on completing the weekly target of 200 records."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break and chat with colleagues about weekend plans."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data abstraction. Push to reach the goal of 200 records completed this week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Enjoy a relaxed lunch with colleagues, celebrating the end of the work week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Final push to complete remaining records needed to reach the weekly target."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Verify that 200 records have been abstracted for the week. If the goal is met, proceed to data quality review. If not, continue abstraction until the goal is reached."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a final quality review of all 200 records abstracted this week. Correct any remaining errors or inconsistencies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the completed dataset of 200 influenza season records to @da-1 and @da-2 for trend analysis."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the week's accomplishments and any lessons learned in the weekly log. Prepare for next week's goals."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home and enjoy the weekend!"
+    }
+]

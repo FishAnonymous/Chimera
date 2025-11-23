@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from @cio-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make necessary adjustments to the fund setup documentation based on feedback from @cio-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @legal-1 to ensure all legal aspects are covered in the fund documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final review of the fund setup documentation, aiming for completion by end of the day."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Distribute finalized documentation to all stakeholders and prepare for the next week's tasks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for the upcoming week by outlining objectives and scheduling necessary meetings."
+    }
+]

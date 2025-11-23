@@ -1,0 +1,45 @@
+{
+    "core_development_team": {
+        "programming_team": {
+          "roles": [
+            {
+              "role_name": "Lead Programmer",
+              "abbr": "lpro",
+              "count": 1,
+              "outsource": 0,
+              "responsibilities": [
+                "Design core technical architecture",
+                "Implement game logic/physics engine",
+                "Optimize network synchronization"
+              ]
+            },
+            {
+              "role_name": "Junior Developers",
+              "abbr": "cdev",
+              "count": 1,
+              "outsource": 0,
+              "responsibilities": [
+                "Third-person camera controller",
+                "Character animation system",
+                "Weapon mechanics & ballistics"
+              ]
+            }
+          ]
+        },
+        "design_team": {
+          "roles": [
+            {
+              "role_name": "Game Designer",
+              "abbr": "ldes",
+              "count": 1,
+              "outsource": 0,
+              "responsibilities": [
+                "Core gameplay loop design",
+                "Combat system balancing",
+                "Cross-department coordination"
+              ]
+            }
+          ]
+        }
+      }
+    }

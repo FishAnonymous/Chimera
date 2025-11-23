@@ -1,0 +1,29 @@
+{
+    "name": "Omar Hassan",
+    "id": "lvdn-1",
+    "ip": "10.0.0.19",
+    "age": 31,
+    "role": "Level Designer",
+    "description": "Crafts engaging and immersive game levels, focusing on creating compelling layouts, encounters, and gameplay opportunities. Works closely with other designers and artists to bring the game world to life, while also optimizing for performance and player experience.",
+    "tools": [
+        "Unreal Engine",
+        "Unity",
+        "3ds Max",
+        "Maya",
+        "Photoshop",
+        "ProBuilder",
+        "Foliage Tools"
+    ],
+    "mbti": "ESTP",
+    "interests": "parkour, photography, urban exploration",
+    "personality": "Action-oriented and adaptable. Enjoys hands-on problem-solving and creating visually stunning environments. Thrives in fast-paced environments and is always looking for new ways to push the boundaries of level design.",
+    "application": {
+        "Zendo": {
+            "account_name": "leveldesign-456789",
+            "password": "OmarH@levels",
+            "permissions": "level_designer"
+        }
+    },
+    "email": "leveldesign-456789@corp.com",
+    "container_id": "6a8b9c0d1e2f"
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Continue abstracting influenza data, focusing on treatment plans and outcomes."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @clinlead-1 to verify treatment protocols used in historical cases."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, browse healthcare news."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Resume data abstraction, ensuring all entries are standardized."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Cross-reference abstracted data with @rn-1 and @rn-2 to ensure accuracy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the EHR system with verified data."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize files and prepare for the next day's tasks."
+    }
+]

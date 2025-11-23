@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any sample assets received from the art team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Integrate the sample assets into the prototype, testing the tool's functionality with real data."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Identify and fix any bugs or performance issues in the prototype."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Expand the prototype to include basic version control features for assets."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @cdev-1 and @cdev-2 to discuss potential integration points with the client-side code."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update documentation with the latest prototype features and known limitations."
+    }
+]

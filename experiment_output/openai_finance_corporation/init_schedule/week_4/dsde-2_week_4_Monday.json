@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the outline and notes for the market research report on investment strategies targeting UHNWIs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather and compile the latest data and trends in investment strategies for UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft the first section of the market research report focusing on market trends."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qres-1, @qres-2, and @qres-3 to request any additional insights or data that may help finalize the report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and revise the drafted section of the report."
+    }
+]

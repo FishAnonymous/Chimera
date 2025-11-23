@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning Routine: Emails and market overview."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "In-Depth Backtesting: Conduct more rigorous backtesting of the selected strategy over different time periods and market conditions. Analyze the strategy's performance under various stress scenarios. Document all backtesting parameters and results."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Risk Model Validation: Validate the risk model by comparing its output to actual portfolio performance. Identify any discrepancies and make necessary adjustments to the model."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Go out for lunch with some colleagues to celebrate the end of the week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Documentation: Document the entire process, including the selection of the statistical arbitrage strategy, the design of the risk management framework, the backtesting results, and the risk model validation. Prepare a presentation summarizing the key findings for the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Presentation Preparation: Prepare a concise and informative presentation summarizing the key findings of the week, including strategy performance, risk model effectiveness, and compliance considerations. Schedule a meeting with @cio-1 to review the presentation. TOPIC: Week 1 Summary & Next Steps"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "EOW Wrap Up: Final review of documentation. Submit progress report. Ensure all work is saved and organized. Shut down computer and prepare to leave for the weekend."
+    }
+]

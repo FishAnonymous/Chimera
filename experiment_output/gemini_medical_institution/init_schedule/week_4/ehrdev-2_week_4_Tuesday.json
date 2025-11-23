@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, review calendar, and check for urgent emails. Quick scan of EHR-related industry news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue drafting the technical specification document, focusing on data mapping and transformation requirements. Website Browsing: Look at public health data dashboards for inspiration."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @his-1 (Health Informatics Specialist) to discuss data standardization and coding requirements for influenza-related data. @PEOPLE: his-1; Topic: Data Standardization for Influenza Data"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Research potential data mapping tools that can automate the process of transforming EHR data into a standardized format."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Refine the data flow diagram, incorporating feedback from @his-1 and @dba-1. Loaf around browsing the internet."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax and read a technical article."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on data mapping specifications for diagnosis codes (ICD-10), medication codes (RxNorm), and lab results (LOINC) related to influenza."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @da-1 (Data Analyst) to discuss the statistical methods and reporting requirements for seasonal influenza trend analysis. @PEOPLE: da-1; Topic: Statistical Methods for Influenza Trend Analysis"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the required data elements for the influenza trend analysis, including patient demographics, vaccination status, and clinical outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review technical specification document. Prepare for EHR vendor meeting by consolidating key questions and anticipated challenges."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and prioritize tasks for tomorrow. Prepare for tomorrow's EHR vendor meeting"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Validate workflows for the new data fields in the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @clinlead-1 and @pchmp-1 to ensure workflows align with clinical needs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse tech news."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Continue workflow validation and document any discrepancies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any system issues reported by @helpdesk-1 or @rn-1, @rn-2, @rn-3."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test and validate any fixes applied to the system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update documentation for the fixes and share with @trainer-1 for training materials."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review progress and plan for the next day."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up with @prod-1 on asset approval status."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any last-minute changes or feedback from @prod-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, relax with some light browsing."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize and submit all assets, ensuring everything is properly documented and stored."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in team meeting to review week's progress and plan for next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize workspace and files, prepare for the upcoming week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, log out of systems, and plan for Monday."
+    }
+]

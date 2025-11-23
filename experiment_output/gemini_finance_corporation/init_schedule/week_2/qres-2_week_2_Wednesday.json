@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Morning coffee and catch up on the overnight market movements. Check Bloomberg for any major headlines."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any urgent emails. Focus on feedback from yesterday's meetings."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the backtesting methodologies document based on the discussion with @larch-1 and @sdev-1. Incorporate their feedback on implementation and infrastructure."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin researching available data sources for backtesting. Focus on identifying high-quality, historical data for the specific assets and strategies we plan to trade."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with the team. Discuss the latest research papers in statistical arbitrage."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue researching data sources. Document the pros and cons of each source, including cost, availability, and data quality."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start developing a prototype backtesting script in Python. Focus on loading data, simulating trades, and calculating basic performance metrics. @sdev-2 @devops-1 Topic: Guidance on Backtesting Script."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review progress and plan for tomorrow."
+    }
+]

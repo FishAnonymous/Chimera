@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the presentation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Present the research findings and recommendations to @coo-1, @cio-1, and @mkt-1 for feedback and approval."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meeting with @coo-1, @cio-1, and @mkt-1: Present the research findings and recommendations on UHNWI investment preferences. Discuss the implications for the fund's marketing strategy and investor communications. Gather feedback and revise the approach as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the feedback received, refine the presentation and research report. Prioritize the key messages that resonate with UHNWI investors."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with @facc-1 and @facc-2 to discuss fund accounting related issues"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a draft investor deck for the statistical arbitrage fund, incorporating the research findings and key selling points for UHNWI investors."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the draft investor deck with @legal-1 and @comp-1 for review and feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address any outstanding questions or concerns raised by @legal-1 and @comp-1 regarding the investor deck. Finalize the presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow."
+    }
+]

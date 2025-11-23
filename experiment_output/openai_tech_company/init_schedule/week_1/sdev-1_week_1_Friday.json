@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on making the necessary adjustments to the network diagrams based on team feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Compile a final report summarizing the week's research, decisions, and documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email the final report to all relevant stakeholders, including @prod-1, @sdes-1, @sdes-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Plan out next week's tasks and projects based on progress made this week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and set aside time to relax and review any interesting articles or resources related to game server technologies."
+    }
+]

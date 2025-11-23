@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review any pending patient cases for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final patient assessments for influenza symptoms. Ensure all data is entered accurately into EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @clinlead-1 to provide a weekly summary of patient assessments and data entry."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue patient assessments and EHR data entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final review of entered patient data for accuracy and completeness. Cross-check with @mrs-1, @mrs-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Enter any remaining patient data into EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @itpm-1 with a summary of the week's progress and any outstanding issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and file all documentation. Prepare for next week's assessments."
+    }
+]

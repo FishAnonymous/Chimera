@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails and messages. Catch up on any industry news or interesting tech art articles online."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lvdn-1 Leon to discuss the overall art style and vision for the game. Take detailed notes and ask probing questions to fully understand the aesthetic goals. @lvdn-1 [Subject: Art Style & Vision Clarification]"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research different rendering techniques and shader approaches that could align with the established art style. Look into examples from other games and tech demos."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Step away from the computer and socialize with colleagues in the break room."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin documenting the initial technical requirements for art assets based on the art style discussion with Leon. Consider target platform performance and memory constraints."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @tdev-1 to discuss the tools developer's progress on art pipeline tools. Understand how these tools can streamline the asset creation and integration process. @tdev-1 [Subject: Art Pipeline Tool Updates]"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up documentation of technical art requirements. Review and refine the document to ensure clarity and completeness. Send to @3dmod-1, @3dmod-2 for initial feedback. @3dmod-1 @3dmod-2 [Subject: Tech Art Requirements - Initial Review]"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities. Clear inbox."
+    }
+]

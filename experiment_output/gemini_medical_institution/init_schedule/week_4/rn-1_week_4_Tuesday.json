@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent requests. Listen to some music to start the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin patient assessments. Prioritize patients presenting with potential influenza symptoms. Focus on accurately documenting patient information into the EHR based on the checklist I created yesterday."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Encountered a challenge entering specific allergy information into the EHR. Email @helpdesk-1 to request assistance with the EHR system. @helpdesk-1 Topic: Issue entering allergy information in EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue patient assessments. Double-check all data entry to ensure accuracy and completeness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read a chapter of a book."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend a brief meeting with the nursing team to discuss any challenges or best practices related to EHR data entry for influenza assessments. Share my allergy information issue with other nurses to see if they have found a solution."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue patient assessments and EHR data entry. Focus on maintaining a consistent and accurate workflow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's EHR entries. Identify any areas where I could improve my documentation or efficiency. Reflecting on the day's interactions with patients."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow by reviewing patient schedules and anticipating potential assessment needs."
+    }
+]

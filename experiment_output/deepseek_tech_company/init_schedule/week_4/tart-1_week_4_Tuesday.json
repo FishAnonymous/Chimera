@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback from yesterday's shader tests. Begin finalizing environmental shaders."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @lvdn-1 to ensure environmental shaders align with level design requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Optimize environmental assets by reducing polygon count and texture sizes where possible."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test optimized assets in-engine to ensure no visual degradation occurs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document optimization steps and share with @beng-1 for build integration."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, reply to questions from @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Read some blog posts on data governance and data quality best practices."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin developing the script/program to automatically calculate the data quality metrics on a weekly basis. Consider using Python with libraries like Pandas or R for data analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the logic to calculate Data Completeness (percentage of records with required data). Test the script with a sample dataset to ensure it produces accurate results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time. Have a chicken salad at a nearby restaurant."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing the data quality metric calculations: Data Accuracy, Data Consistency, Data Timeliness, and Data Validity. Thoroughly test each calculation to ensure accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Integrate the calculated metrics into the data quality report template created on Monday. Add visualizations to effectively communicate the data quality status and progress against targets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Seek input from @his-2 to review the visualizations in the data quality report and refine it per suggestion. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Review the code and plan for tomorrow."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review any feedback received from @LDES-1 and @SDES-1 and adjust the audio plan accordingly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin working on the environmental ambience for the game. This will involve creating a variety of background sounds that convey the overall atmosphere and tone of the different environments in the game. Try to find existing sound assets on freesound.org or other similar sites, but make sure to adhere to copyright requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Experiment with different techniques for creating realistic and immersive environmental ambience. This could involve using software like Ableton, Logic Pro or Pro Tools to layer and process different sound effects, or recording original sounds in real-world environments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Once the environmental ambience is complete, start working on the sound effects for the characters in the game. This could include sounds for footsteps, clothing movement, and other actions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate the new sound effects into the game engine and test them in a mock gameplay environment. This will help to evaluate the effectiveness of the sounds and identify any areas for improvement. @cdev-2, could you support me with this?"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the progress made today, including details of the environmental ambience, character sound effects, and any challenges encountered during testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Research new plugins for audio processing and spatialization in game development. This will help improve the overall quality and realism of the game's soundscape."
+    }
+]

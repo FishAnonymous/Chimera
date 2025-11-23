@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the week's goals: project schedule creation, project management software setup, team meetings, and executive progress reports."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Brainstorm project tasks and dependencies for the Third-Person Shooter game. Consider phases like pre-production, prototyping, core mechanics, content creation, testing, and polishing."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @LDes-1 and @LPro-1 to schedule a meeting to discuss initial project scope, high-level milestones, and resource allocation. @PEOPLE: @LDes-1, @LPro-1, Topic: Project Scope and Milestones"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research project management software options (e.g., Jira, Asana, Trello). Evaluate features, pricing, and ease of use."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Select project management software and create a project workspace for the Third-Person Shooter. Input initial project tasks and dependencies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @LDes-1 and @LPro-1 to discuss initial project scope, high-level milestones. Finalize project tasks and dependencies based on meeting discussion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue inputting tasks, dependencies, and deadlines into the project management software. Assign tasks to relevant team members based on their roles."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @All to announce a project kickoff meeting for tomorrow. Include a brief agenda and expected outcomes. @PEOPLE: @All, Topic: Project Kickoff Meeting"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress, update project schedule, and prepare for tomorrow's kickoff meeting."
+    }
+]

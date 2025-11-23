@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Discuss the last EHR abstration, and report the total EHR abstration progress to @mrs-2 (Grace Ito). "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final push for data abstraction from EHRs to meet the weekly target of 200 records. Aim to complete 30 records."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Communicate with @da-1 and @da-2 for the next week plan about the data analysis work. And try to understand what features should I focus on when extracting data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Enjoy a pizza with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Focus on completing the assigned records and addressing any outstanding questions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Data validation and quality control. Check for any discrepancies and correct errors."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a final progress report for the week, summarizing the number of records abstracted, challenges encountered, and lessons learned. Send it to all the members involved in EHR data collection. @mrs-2, @his-1, @his-2, @da-1, @da-2"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's work and identify opportunities for improvement in the data abstraction process. Organize workspace and prepare for next week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home for the weekend."
+    }
+]

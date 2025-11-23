@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review SEC registration requirements and identify key compliance areas."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft initial compliance documentation for SEC registration, focusing on fund structure and investor protections."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @comp-1 to discuss compliance requirements and ensure alignment with SEC regulations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review existing investor agreements for compliance gaps and draft amendments if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting compliance documentation, focusing on risk disclosures and fund operations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ir-1 to discuss investor agreement clarity and compliance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize draft of compliance documentation and prepare for review with @comp-1 and @cio-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse legal updates on SEC regulations for any recent changes."
+    }
+]

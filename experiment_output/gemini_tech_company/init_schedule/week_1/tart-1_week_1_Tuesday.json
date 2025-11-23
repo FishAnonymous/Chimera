@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up, check emails. See if @Ricardo and @Fatima have replied. Maybe browse Reddit's r/gamedev for interesting discussions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @Ricardo and @Fatima to discuss their workflows, software, and address any initial concerns they might have regarding the preliminary tech requirements. Subject: Meeting Request - 3D Asset Workflow and Tech Requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @Ricardo and @Fatima. Deep dive into the 3D modeling and animation pipeline. Discuss potential bottlenecks and optimization strategies. Take detailed notes and adjust the tech requirements document accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Maybe grab something quick from the cafeteria and browse some tutorials on advanced rigging techniques."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin refining the technical requirements document based on the feedback from @Ricardo and @Fatima. Pay special attention to the animation frame rate and its impact on performance."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @Mei (UI/UX Designer), @Aisha (UI/UX Designer), @Javier (UI/UX Designer) and @David (UI/UX Designer). Subject: UI Element Technical Considerations. Introduce myself and set up a brief introductory meeting to discuss UI asset creation and integration into the game."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research best practices for optimizing UI assets in a third-person shooter. Focus on minimizing draw calls and texture memory usage. Check out some Unreal Engine documentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Review the refined technical requirements document. Make sure it's clear and concise. Prepare for the UI meeting tomorrow."
+    }
+]

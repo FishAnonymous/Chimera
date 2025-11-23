@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review yesterday's progress. Today's focus: Implement Interactions."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Define the interaction system. Outline how the player will interact with the environment, including picking up items, opening doors, and interacting with NPCs. Document the design in the core game mechanics document."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement a basic interaction system using raycasting or collision detection. Allow the player to interact with objects within a certain range. Highlight interactable objects to provide visual feedback to the player. @UIUX-1 Email UI/UX Designer to discuss the visual feedback for interactive objects."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement specific interactions, such as picking up items and opening doors. Create reusable components for different interaction types. Test the interactions in various scenarios."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement interactions with NPCs. Allow the player to initiate conversations and perform actions based on the dialogue choices. Integrate with the narrative design. @NDES-1 Email Narrative Designer to discuss the necessary interaction events for narrative progression."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document the interaction system. Explain the interaction types, the interaction range, and the event system used for handling interactions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the interaction system. Identify areas for improvement and optimization. Update the project plan accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up code, check for potential bugs, write daily report and send to team members. Leave work."
+    }
+]

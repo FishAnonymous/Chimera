@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review schedule and prepare for the day. Check emails. "
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Focus on EHR data quality issues, particularly those flagged by clinical staff feedback. Investigate specific cases reported in the feedback forms. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 (EHR Integration Developers) to discuss the data quality issues identified and explore potential solutions through system modifications or data validation rules. Prioritize fixes based on clinical impact."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the proposed dashboard design from @da-1 and @da-2 for visualizing influenza trends. Provide feedback on the layout, data representation, and functionality. Ensure it meets the needs of clinical users."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Attend the weekly IT Department meeting to discuss project updates, resource allocation, and potential roadblocks. Advocate for the necessary resources to address the identified data quality issues and system improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @qatest-1 and @qatest-2 (Quality Assurance Testers) to develop a test plan for validating the data quality fixes and system modifications implemented by the EHR developers. Define clear acceptance criteria for each fix."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the feedback received from physicians and nurses regarding the training materials. Brainstorm ideas with @trainer-1 on how to improve the clarity, relevance, and accessibility of the materials. Consider incorporating more hands-on exercises and real-world scenarios."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Communicate to the clinical staff that the feedback has been actively read and processed, and that a systematical solution is underway. @PEOPLE. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare materials for tomorrow's meeting with the physicians. Summarize key findings and potential solutions. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update Project Plan with progress made during the week and revise the plan for next week"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

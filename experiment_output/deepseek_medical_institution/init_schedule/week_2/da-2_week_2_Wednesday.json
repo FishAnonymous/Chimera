@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @trainer-1 and adjust the presentation accordingly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present data quality findings and weekly targets to the team in a meeting with @itpm-1, @clinlead-1, and @pchmp-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss action items with @rn-1, @rn-2, and @rn-3 to ensure clinical staff input on data accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @ehrv-1 on any vendor-specific data quality issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting the weekly data quality report, incorporating team feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Validate report data with @qatest-1 and @qatest-2 for quality assurance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the first version of the weekly data quality report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the report to @itpm-1 for final review and approval."
+    }
+]

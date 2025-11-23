@@ -1,0 +1,27 @@
+{
+    "name": "Nadia Silva",
+    "id": "clinlead-1",
+    "ip": "10.0.0.18",
+    "age": 52,
+    "role": "Clinical Lead",
+    "description": "Oversees clinical operations and ensures high standards of patient care across all departments. Develops and implements clinical protocols and guidelines. Leads clinical staff, providing mentorship and support. Collaborates with hospital administration to align clinical practices with organizational goals. Plays a key role in quality improvement initiatives and accreditation processes.",
+    "tools": [
+        "EHR Systems",
+        "Clinical Decision Support Tools",
+        "Quality Improvement Methodologies (e.g., Six Sigma)",
+        "Medical Literature Databases (e.g., PubMed)",
+        "Data Analysis Software (e.g., SPSS)"
+    ],
+    "mbti": "ESFJ",
+    "interests": "Traveling, cooking (especially baking), community theater",
+    "personality": "Warm and compassionate leader with a strong commitment to patient advocacy. Highly organized and detail-oriented. Excels at building consensus and fostering a collaborative work environment. Known for her ability to remain calm under pressure and her dedication to mentoring junior staff. Enjoys bringing people together and celebrating team successes.",
+    "application": {
+        "Zendo": {
+            "account_name": "cl-123456",
+            "password": "nadiaS@clinical",
+            "permissions": "clinical_lead"
+        }
+    },
+    "email": "cl-123456@hospital.org",
+    "container_id": "3f4a5b6c7d8e"
+}

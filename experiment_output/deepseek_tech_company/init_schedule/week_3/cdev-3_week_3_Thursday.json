@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight feedback. Begin integrating finalized assets from the art team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss asset integration and any technical requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start integrating character models and animations into the game. Ensure they work correctly with existing mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue asset integration. Test in-game to ensure no performance issues or bugs are introduced."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document integration progress and prepare a report for the team. Send update email to @prod-1 and @lpro-1."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, prepare a cup of coffee, and check emails for urgent requests or updates from the team. Briefly review the week's goals: investor relations strategy, presentation materials, marketing coordination, and initial outreach."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review previous meeting notes and action items related to UHNWI targeting. Identify any outstanding questions or tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @coo-1 and @cio-1 to discuss the overall investor relations strategy for targeting UHNWIs. Email: [To: @coo-1, @cio-1 Subject: UHNWI Investor Relations Strategy Discussion]"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research successful investor relations strategies employed by similar quantitative hedge funds targeting UHNWIs. Focus on messaging, channels, and relationship-building tactics."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Attend the meeting with @coo-1 and @cio-1 to brainstorm and finalize the investor relations strategy. Take detailed notes and assign responsibilities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting the investor relations strategy document, incorporating feedback from the meeting with @coo-1 and @cio-1. Outline key objectives, target audience profile, communication channels, and success metrics."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the draft strategy with @legal-1 to ensure compliance with SEC regulations and relevant legal considerations. Email: [To: @legal-1 Subject: Review of Investor Relations Strategy Draft]"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Start outlining the presentation materials for potential investors. Define the key message points, and identify relevant data and visuals to support the fund's strategy, risk profile, and team. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a summary of the investor relation strategy to @coo-1 and @cio-1 for final comments. Prepare the to-do list for tomorrow"
+    }
+]

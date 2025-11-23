@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in, and check emails. Address any overnight requests or issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Dedicate the morning to comprehensive documentation of all data type definitions and constraints implemented this week. Create a detailed data dictionary that includes table names, column names, data types, constraints, and descriptions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review the data dictionary with @his-1, @his-2, @clinlead-1, @qatest-1, and @qatest-2 via email to ensure it is accurate and complete. Topic: Review of Data Dictionary for EHR Database."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any feedback received on the data dictionary. Update the data dictionary as needed. Ensure that the data dictionary is easily accessible to all relevant stakeholders."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a summary report of the work completed this week. Highlight any challenges encountered and lessons learned. Identify any remaining tasks or issues that need to be addressed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @itpm-1 (IT Project Manager) to discuss the week's progress and plan for the next week. Review the overall project timeline and milestones. Ensure that the data type definitions and constraints are aligned with the project goals."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin preparing for the migration of the data type definitions and constraints to the production database. Develop a detailed migration plan that includes rollback procedures and testing steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting with @ehrv-1 (EHR Vendor Liaison) to discuss the migration plan and ensure that it aligns with the EHR vendor's best practices. Topic: Migration Plan for Data Type Definitions and Constraints."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the migration plan and schedule the migration for the following week. Communicate the migration plan to all relevant stakeholders. Update the project documentation with the migration plan."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Read emails and wrap up."
+    }
+]

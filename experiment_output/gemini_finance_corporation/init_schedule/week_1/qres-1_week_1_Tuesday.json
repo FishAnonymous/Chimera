@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review overnight market data. Update notes from yesterday's research."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Team Meeting Preparation: Review yesterday's notes and structure thoughts for the collaborative discussion on fund strategy and risk management framework."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Team Meeting: Collaborative session with @qres-1, @qres-2, @cio-1 to discuss potential statistical arbitrage strategies, aligning them with the UHNWI target market and SEC regulations. Discuss initial ideas for the risk management framework with @qres-1, @qres-2, @cio-1, focusing on volatility, liquidity, and correlation risks. @comp-1 should be included to ensure alignment with SEC regulations. TOPIC: Fund Strategy and Risk Framework Discussion"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Post-Meeting Analysis: Document the outcomes and decisions made during the team meeting. Identify areas that require further investigation or clarification."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Grab lunch and browse some interesting articles about machine learning applications in finance."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Framework Detailing: Based on the team meeting, start creating a detailed outline of the risk management framework, specifying the key components and methodologies for each risk type (volatility, liquidity, correlation)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Data Requirements Identification: Determine the data sources and data requirements necessary for backtesting the selected strategies and implementing the risk management framework. Consider both internal and external data sources."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "EOD Check: Review progress, organize notes. Plan for tomorrow: data source investigation, deeper risk metric analysis."
+    }
+]

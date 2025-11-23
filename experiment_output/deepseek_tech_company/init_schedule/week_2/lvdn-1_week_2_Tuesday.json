@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Finalize gameplay elements in levels, ensuring they are functional and balanced."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @aud-1 for placeholder sound effects in key gameplay areas."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Sketch rough ideas for future level expansions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Polish level layouts based on morning feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up internal playtesting session with @qtest-1 @cdev-1 @cdev-2 @cdev-3. Prepare test build and documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Observe playtesting session, take notes on player behavior and pain points."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Compile initial playtest findings for review tomorrow."
+    }
+]

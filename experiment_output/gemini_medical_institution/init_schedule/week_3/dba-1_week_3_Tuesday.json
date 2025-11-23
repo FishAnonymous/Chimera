@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Respond to any overnight requests. Review yesterday's progress and notes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meeting Preparation: Review the list of gaps in required data elements identified yesterday. Prepare talking points and potential solutions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend meeting with relevant stakeholders (@itpm-1, @ehrdev-1, @da-2, @clinlead-1) to discuss the gaps in required data elements. Present the list of gaps and proposed solutions. Topic: Addressing Gaps in Required Data Elements in EHR Schema"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @ehrv-1 to discuss the details about the connection between EHR and the new database. Topic: technical details about the connection to the new database"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback from the meeting into the schema design. Modify the schema to include the missing data elements and ensure data integrity."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - A good meal helps with focus."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue modifying the schema based on feedback. Ensure all data types are appropriate and consistent across the database."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin documenting the changes made to the schema. Update the schema documentation to reflect the new data elements and their definitions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the changes made to the schema by inserting sample data. Verify that the new data elements are correctly stored and retrieved."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the test results. Document any issues or errors encountered and plan for resolution tomorrow. Contact @qatest-1 and @qatest-2 to discuss a comprehensive testing plan. Topic: Comprehensive testing plan."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check of emails and project management tools. Prepare for tomorrow's tasks."
+    }
+]

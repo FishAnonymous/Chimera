@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any urgent messages or updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Set up the vaccination station and prepare supplies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Administer influenza vaccinations and ensure all details are documented in the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Educate patients on influenza prevention and treatment, addressing any concerns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with vaccinations and patient education."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review EHR entries for completeness and accuracy."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @trainer-1 to request additional educational materials for patients."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and restock supplies for the next day."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check in with @clinlead-1 to discuss any issues or observations."
+    }
+]

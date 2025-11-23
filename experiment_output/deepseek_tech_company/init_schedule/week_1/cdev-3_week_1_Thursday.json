@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Prioritize remaining tasks based on yesterday's testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine weapon system - add recoil, reload mechanics, and ammo management."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement basic enemy AI placeholder (simple patrol behavior)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test enemy AI with player interactions. Debug any issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @sdev-1 to discuss future networking requirements for multiplayer."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Optimize existing systems based on performance profiling results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all implemented systems for the rest of the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare demo build with all placeholder systems for Friday review."
+    }
+]

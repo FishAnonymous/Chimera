@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review feedback from @comp-1 on the prospectus."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Revise the prospectus draft based on feedback from @comp-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the prospectus draft."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @ir-1 to discuss investor expectations for the prospectus."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate insights from @ir-1 into the prospectus."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and wrap up for the day."
+    }
+]

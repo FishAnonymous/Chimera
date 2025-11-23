@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and manage priority tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Host a recap meeting with the entire team to review progress and next steps."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Present the EHR development report to key stakeholders."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Receive feedback and adjust project plans as necessitated by stakeholder input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize documentation and update all team members on changes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consolidate feedback from the week and track action items for follow-up."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan leisure time for the weekend to recharge."
+    }
+]

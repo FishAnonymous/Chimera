@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize presentation materials for the development team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the improved blockouts to the development team, focusing on highlights and challenges faced."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather additional feedback from the team members during the presentation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin incorporating new feedback into the blockouts, focusing on the most critical aspects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue iterating on the blockouts, implementing changes from the latest feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct a self-review of the latest blockouts, assessing performance and design."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @ldes-1 and @sdes-1 to discuss any unresolved issues or further improvements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any messages before logging out."
+    }
+]

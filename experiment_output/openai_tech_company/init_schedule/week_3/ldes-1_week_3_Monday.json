@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with the art team (@cart-1, @3dmod-1, @3dmod-2, @tart-1) to discuss the integration of detailed assets for level design."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review current assets available and plan out necessary assets that need to be developed for levels."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a detailed asset list and collaborate with the art team on deadlines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from the art team and finalize the detailed asset plan."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start organizing the integration process of assets into the game engine."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in on progress with the art team on asset development and address any issues."
+    }
+]

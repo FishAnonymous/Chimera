@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback notes from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Plan iterations on the prototype based on user feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the first round of iterations on the prototype for key improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consult with @QA Tester to ensure testing criteria are met with the prototype."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out and reflect on the progress of the week."
+    }
+]

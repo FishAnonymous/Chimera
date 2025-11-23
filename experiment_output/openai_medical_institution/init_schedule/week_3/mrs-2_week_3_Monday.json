@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the electronic health record (EHR) system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review current medical records for integrity and identify areas that need attention during data collection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @da-1 and @da-2 to discuss discrepancies in documentation, analyze data quality, and set a plan for resolution."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing medical records and begin compiling findings from discussions with Data Analysts."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft an email to @ehrv-1 for updates regarding any tools required for ensuring data integrity."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Evaluate any feedback received from Data Analysts and update documentation accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and reflect on the day's progress."
+    }
+]

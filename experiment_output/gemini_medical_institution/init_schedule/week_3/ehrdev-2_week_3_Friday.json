@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee and check system. Respond to emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any urgent bug fixes or issues reported by the QA team @qatest-1 and @qatest-2. Prioritize critical issues that impact workflow functionality."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the overall progress of the EHR integration project with the @itpm-1. Discuss any potential roadblocks or delays and propose solutions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue on any bug fixes raised by @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Read Hacker News."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on documentation, make sure that all the data fields, workflow configuration are correctly documented."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research potential future enhancements to the EHR system, focusing on areas related to data analytics and reporting. Look for new features that could be implemented in the next phase of the project. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Create a list of potential future enhancements and share it with the IT Project Manager and Data Analyst for their feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the weekly report and submit it to the IT Project Manager. Back up all configuration files and documentation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and head home. Happy Friday!"
+    }
+]

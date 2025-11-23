@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's progress on main menu UI."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining main menu UI, add interactive elements (buttons, transitions)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, check design trends on Behance or Dribbble."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin designing the inventory screen UI, focusing on usability and aesthetics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate feedback from @ldes-1 on main menu UI and make necessary adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize inventory screen mockup, ensure it aligns with game's visual style."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Save work, update task tracker, and plan for next day."
+    }
+]

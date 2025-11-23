@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the notes from Monday and finalize the list of changes to compliance documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @Quantitative Researcher to ensure that any quantitative aspects related to compliance are updated."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Chief Investment Officer to discuss fund registration strategy and confirm compliance documentation aligns with strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Revise compliance documentation based on discussions and notes from the morning."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare draft of compliance documents ready for submission review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send draft of compliance documents to @Chief Operating Officer for initial feedback."
+    }
+]

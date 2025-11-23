@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent messages."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Host a check-in meeting with @Quantitative Researchers to discuss any ongoing project analyses."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Provide feedback on the research outputs and align next steps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and update project documentation to reflect timeline adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a progress report highlighting achievements and areas for improvement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send draft progress report to @Head of Investor Relations for insights."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work collaboratively with @Marketing & Communications Specialist to prepare updates for external stakeholders."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day with a review of team deliverables."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Follow up on my previous email to @LPRO-1, @LDES-1, @PROD-1 regarding weekly priorities if I haven't received a response yet."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the character customization prototype to the team (@LPRO-1, @LDES-1, @3DMOD-1, @3DMOD-2, @UIUX-1). Gather feedback and discuss potential improvements. Take detailed notes on the discussion."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the team's feedback, identify key areas for improvement in the character customization system. Prioritize tasks based on their impact on gameplay and visual quality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the first round of improvements to the character customization system. Focus on addressing the most critical issues raised during the team presentation, such as performance bottlenecks or visual artifacts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Grab a quick sandwich and watch a YouTube video on advanced shader techniques."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the character customization system. Explore different options for handling character clothing and armor, such as using modular meshes or cloth simulation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with @UIUX-1 to integrate the character customization system into the game's UI. Define the user interface elements and functionality required for players to customize their characters."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the integrated character customization system with the game's UI. Identify any usability issues or bugs and report them to the UI/UX designer. @UIUX-1 Issue reports for UI/UX in custom character system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made to the character customization system and update the team on the progress. Prepare a new build for testing."
+    }
+]

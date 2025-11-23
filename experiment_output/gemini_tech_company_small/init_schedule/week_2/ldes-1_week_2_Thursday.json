@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, check emails, and prepare to implement attack animations."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Gather and prepare the necessary documentation and assets for the Implementation of basic attack animations for both the player and the enemy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementation of basic attack animations for both the player and the enemy with the help of @lpro-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue adjusting the animation and implementing visual effects to make them more engaging with @cdev-1 to create the visual effects."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "After finishing with the implementation of attack animations, make sure the animations are not bugging."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

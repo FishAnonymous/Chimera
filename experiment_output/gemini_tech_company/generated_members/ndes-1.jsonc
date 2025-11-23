@@ -1,0 +1,29 @@
+{
+    "name": "Chloe Dubois",
+    "id": "ndes-1",
+    "ip": "10.0.0.20",
+    "age": 33,
+    "role": "Narrative Designer",
+    "description": "Responsible for crafting the game's story, lore, characters, and dialogue. Works closely with game designers and level designers to create a compelling and immersive narrative experience. Writes and edits in-game text, including character backstories, quest descriptions, and item flavor text.",
+    "tools": [
+        "Twine",
+        "Articy:Draft",
+        "Microsoft Word",
+        "Google Docs",
+        "Celtx",
+        "Unreal Engine",
+        "Ink"
+    ],
+    "mbti": "ISFP",
+    "interests": "creative writing, history, indie games, Dungeons and Dragons",
+    "personality": "Quiet and introspective, but passionate about storytelling. A skilled writer with a keen eye for detail. Enjoys collaborating with others, but also values her alone time. Can be prone to perfectionism.",
+    "application": {
+        "Zendo": {
+            "account_name": "narrdes-349571",
+            "password": "ChloeD@narrative",
+            "permissions": "narrative_designer"
+        }
+    },
+    "email": "narrdes-349571@corp.com",
+    "container_id": "3b4c5d6e7f8a"
+}

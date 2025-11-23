@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review final feedback on the GDD from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @prod-1 @lpro-1 @ndes-1 @lvdn-1 to discuss any remaining issues or adjustments needed in the GDD."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make final refinements to the GDD based on the team's feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Ensure all sections of the GDD are aligned and coherent, with no contradictions between gameplay, narrative, and level design."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @sdes-1 @sdes-2 to confirm that the gameplay mechanics are feasible within the system design constraints."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final review of the GDD, checking for typos, clarity, and completeness."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the finalized GDD to @prod-1 and notify the team of its completion."
+    }
+]

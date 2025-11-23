@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails; finalize any last-minute changes to the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present to stakeholders with @Clinical Lead, providing an overview of EHR progress and flu trends."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from stakeholders and notes on action items."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @Registered Nurse and @Medical Records Specialist for immediate next steps in data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on implementing changes based on stakeholder feedback received."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize and submit reports regarding EHR collection and seasonal influenza analysis."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan next week's objectives based on this week's progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off and take some time to relax."
+    }
+]

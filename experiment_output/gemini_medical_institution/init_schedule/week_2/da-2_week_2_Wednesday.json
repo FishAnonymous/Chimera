@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and review the task list for today."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the presentation summarizing the proposed data quality metrics, weekly targets, and methodology."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Present the data quality metrics and targets proposal to @clinlead-1, @his-1, and @itpm-1. Gather feedback and address any concerns. Topic: 'Data Quality Metrics and Targets Proposal'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback received during the presentation into the data quality metrics and targets proposal. Make any necessary revisions and adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the final data quality metrics and weekly targets, including definitions, calculation methods, and rationale for the chosen targets."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @ehrdev-1 and @ehrdev-2 to explore how the data quality metrics can be integrated into the EHR system for ongoing monitoring and reporting. Topic: 'Integration of Data Quality Metrics into EHR System'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Develop a plan for communicating the data quality metrics and targets to relevant stakeholders, including clinicians, nurses, and medical records staff. @trainer-1 to assist with the plan."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work and update the project plan with progress and any identified risks or issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's tasks and create a detailed task list."
+    }
+]

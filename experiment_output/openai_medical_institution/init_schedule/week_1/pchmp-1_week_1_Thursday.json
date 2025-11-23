@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any inquiries from the clinical team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a team meeting with all developers (@ehrdev-1, @ehrdev-2) for progress updates."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Plan a review session of the EHR features to ensure alignment with requirements gathered."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Code review with @qa-test-1 to ensure quality and adherence to standards."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the EHR feature list and functionality enhancements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft a report summarizing the week\u2019s progress on EHR integration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an email to @pchmp-1 to provide weekly updates and next week\u2019s tasks."
+    }
+]

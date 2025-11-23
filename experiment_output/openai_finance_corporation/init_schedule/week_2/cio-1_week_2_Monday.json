@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails regarding asset managers and investment strategies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1 and @qres-2 to discuss the selection criteria for asset managers."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Analyze data related to potential asset managers and start assessing them against the selection criteria."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue the assessment of potential asset managers and compile findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report on the asset managers assessed so far."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the summary report to @CIO, @qres-1, and @qres-2 for review."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and company communication channels. Since the meeting minutes are empty for my goals, I'll start by reviewing the overall project documentation and previous weeks' progress to identify potential areas where technical art support is needed. @LPRO-1, @LDES-1, @PROD-1 Email to ask for clarification on the week's priorities and any specific technical art tasks that need attention. Topic: Week 4 Technical Art Priorities."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research and catch up on the latest Unreal Engine features and tools relevant to our third-person shooter project. Specifically, I'll be looking into new shader techniques and performance optimization tools that could benefit the game. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Brainstorm potential technical art solutions for character customization. Given that we're building a third-person shooter, visual customization will be key. Explore possibilities for modular character components, material variations, and dynamic shader effects. Take notes and sketch out initial ideas."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start prototyping a basic character customization system in Unreal Engine. Focus on setting up a skeletal mesh with different material slots and explore how to dynamically swap materials at runtime using Blueprints or C++. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Grab some sushi and browse Reddit for the latest game dev news and memes."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue prototyping the character customization system. Experiment with different methods for handling material variations, such as material instances and parameter collections. Document the pros and cons of each approach."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consult with @3DMOD-1 and @3DMOD-2 to discuss the art pipeline for character assets and how they will integrate with the customization system. Get their feedback on the technical constraints and potential challenges."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Based on the feedback from the 3D modelers, refine the character customization prototype and adjust the material setup accordingly. Test the system with different character meshes to ensure compatibility."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the character customization prototype, including the Blueprint setup, material parameters, and any code snippets. Prepare a brief presentation to showcase the prototype to the team tomorrow. "
+    }
+]

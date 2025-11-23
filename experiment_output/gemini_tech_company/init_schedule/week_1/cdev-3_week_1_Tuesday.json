@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and respond."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the previous day's progress and address any outstanding issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement the HUD (Heads-Up Display) UI element. Display player health, ammo, and score."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Style the HUD to match the game's aesthetic. Get the related material by emailing @UIUX-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement player feedback for taking damage. This could include a visual effect (e.g., screen flash) and a sound effect. I will email @AUD-1 to see whether he has generated the proper music."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement error messages for common issues (e.g., 'Not enough ammo', 'Cannot perform action')."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a basic tutorial system. Display helpful messages to guide the player through the initial levels. I will email @LVDN-1 to see whether I can have some supports here."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the HUD, player feedback, error messages, and tutorial system. Fix any bugs or usability issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to the version control system with a descriptive commit message."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

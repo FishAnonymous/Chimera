@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review progress reports from Weeks 1-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule and send meeting invites to all team members for progress review. @ALL"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ldes-1 and @lpro-1 to discuss major challenges faced in Weeks 1-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile a list of unresolved issues and bottlenecks from the discussion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review project timeline with @sdes-1 and @sdes-2 to identify areas needing adjustment."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an updated project timeline based on feedback and challenges."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the updated timeline to @ALL for review and feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Follow up with @qtest-1 and @beng-1 on any pending build or QA issues."
+    }
+]

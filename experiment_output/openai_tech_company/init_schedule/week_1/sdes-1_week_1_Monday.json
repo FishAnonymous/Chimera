@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and organize the week's tasks based on the development goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research best practices in system architecture relevant to third-person shooter games. Focus on network architecture, game state synchronization, and entity management."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue research on system architecture. Gather articles, documentation, and any relevant academic papers that inform on system performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile research findings. Start taking notes on key architectural patterns and techniques that can be implemented in our game."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @lpro-1 and @sdev-1 via email to get their input on system architecture challenges they foresee in developing a third-person shooter game."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up research and save all findings for review."
+    }
+]

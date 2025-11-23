@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review any pending tasks from last week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to discuss current EHR capabilities for influenza data collection and gather clinical input."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze existing EHR system documentation to assess current capabilities for influenza data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue analyzing EHR system capabilities and document findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ehrv-1 to schedule a consultation meeting for later in the week to discuss feasibility of updates."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

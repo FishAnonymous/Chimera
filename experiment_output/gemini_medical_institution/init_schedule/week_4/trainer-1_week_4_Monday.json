@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review the week's goals: Training modules for new EHR data elements and data collection workflow for influenza trend analysis.  Prioritize tasks and mentally prepare for a productive week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Brainstorm initial ideas for structuring the training modules. Consider different learning styles and how to present the information in an engaging and accessible way. Jot down key points and potential visual aids."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research and gather information on the specific EHR data elements required for influenza trend analysis (identified in Subtask 1). Consult EHR documentation and relevant medical literature. If necessary, email @his-1 and @his-2 to request clarification on any unclear data elements. @HIS-1 @HIS-2 Topic: Clarification on EHR data elements for influenza trend analysis training module."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin outlining the training module on EHR data elements. Structure the module logically, introducing each data element, explaining its purpose and significance, and providing examples of its use in influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the EHR data elements training module. Focus on writing clear and concise explanations for each data element. Include screenshots and real-world examples to enhance understanding. Add some humor."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin drafting a quiz to assess understanding of the EHR data elements after completing the module. Focus on creating questions that are challenging but fair, and that cover the key concepts covered in the module."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and make a list of tasks for tomorrow.  Ensure all materials related to EHR data elements are organized and accessible."
+    }
+]

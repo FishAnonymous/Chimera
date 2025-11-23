@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the current state of initial tools and gather notes on functionalities that require finalizing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1, @sdes-2, and @lpro-1 to discuss the coding requirements for the tools and ensure alignment on performance expectations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize coding for the initial tools based on feedback from the meeting. Focus on critical functionalities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue finalizing the coding for the initial tools, ensuring that the core functionalities are fully implemented and documented."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a self-testing session on the tools to identify any bugs and performance issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any outstanding issues related to the tools development."
+    }
+]

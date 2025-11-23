@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any feedback on requirements specifications. Begin preparing a technical design document based on approved requirements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 @qatest-2 to discuss testing strategies for the upcoming updates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue working on the technical design document, outlining system architecture and integration points."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review design with @ehrdev-2 for technical alignment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @trainer-1 to discuss training needs for staff once updates are implemented."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize technical design document and share with @itpm-1 @ehrv-1 for review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any feedback on the technical design and make necessary revisions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send final technical design document to all relevant stakeholders."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Review yesterday's notes and plan for today's tasks. Another coffee is a must."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin prototyping gameplay scenarios within the level. Start with enemy placement. Experiment with different enemy types and patrol routes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Introduce basic cover mechanics. Ensure the player has opportunities to engage enemies strategically. Iterate on enemy placement based on the new cover positions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @sdes-1 and @cdev-2 to discuss implementing a simple enemy AI and combat system for prototyping. @sdes-1 @cdev-2, could you help me implement the enemy AI."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Grabbing some fast food with @3dmod-2 and @cdev-3."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a simple puzzle element. Something to break up the combat and challenge the player's thinking. Keep it straightforward for now."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Playtest the gameplay scenarios with enemy placement and the puzzle. Refine the difficulty and pacing. Make notes on what works and what doesn't."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "More playtesting and tweak. Fix any obvious bugs."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the animation list with @3dmod-1, and confirm if they meet the current level design. @3dmod-1, Does your work meet the current level design? "
+    }
+]

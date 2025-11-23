@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up and check email. Get motivated!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Addressing visual feedback from yesterday's playtesting session. Prioritize the most common complaints and begin implementing solutions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Bug fixing and visual polish of the game world. Focus on addressing any remaining visual glitches or inconsistencies. Make sure the world feels polished and complete."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on marketing materials. Polish the screenshots from yesterday and start assembling footage for the trailer."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "More optimization! Focus on optimizing any areas that are still causing performance problems. Push for a smooth and consistent frame rate throughout the game."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the trailer footage and refine the storyboard. Identify any gaps or weaknesses and plan for additional shots."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a cohesive and visually appealing game experience. Ensure that all the visual elements work together to create a unified and immersive world. The goal is a feast for the eyes!"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a mid-week progress report and share it with the team. Get feedback and brainstorm solutions to any remaining challenges. Topic: Mid-Week Visual Progress Report"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the work. Go home."
+    }
+]

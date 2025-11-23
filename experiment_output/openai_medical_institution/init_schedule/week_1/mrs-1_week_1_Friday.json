@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails for any last-minute issues from training."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct follow-up Q&A session with end users on the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collect questions and feedback from Q&A session, document for future reference."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review all collected feedback from the week and summarize findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a final report on EHR implementation feedback and training outcomes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email the final report to @itpm-1, @pchmp-1, and @trainer-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for next week's activities based on this week\u2019s findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off and relax for the weekend."
+    }
+]

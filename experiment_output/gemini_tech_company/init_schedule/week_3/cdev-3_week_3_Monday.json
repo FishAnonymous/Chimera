@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and company announcements. Grab a cup of coffee and chat with @cdev-1 and @cdev-2 about their weekend."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: client-side architecture, UI design, project setup, core UI elements (menus, HUD, settings), and player feedback systems (tutorials, error messages)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start researching common client-side architectures for third-person shooters. Look into MVC, MVVM, and ECS patterns. Browse gamedev.net for insights."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @lpro-1, @sdes-1, @sdes-2: Topic - Client-Side Architecture Discussion. Ask for their recommendations on architecture and any existing code style guides we should follow."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Based on initial research, begin sketching out a potential architecture diagram for our game. Consider scalability and maintainability."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare for lunch. Check social media for a few minutes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Go to the cafeteria with @cdev-3 and discuss the architecture plan."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review responses from @lpro-1, @sdes-1, @sdes-2 regarding architecture preferences. Document the chosen architecture pattern, including rationale and potential drawbacks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start setting up the basic project structure in Unity/Unreal (depending on the chosen engine). Create folders for Scripts, UI, Assets, Prefabs, etc."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up basic git repository. Commit initial project structure and .gitignore file."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin working on the main menu UI. Create a placeholder scene and add basic UI elements (buttons for New Game, Options, Exit)."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out from the OA system. Go home."
+    }
+]

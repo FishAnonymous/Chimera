@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Quick check of emails and project management system for overnight updates."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Start creating detailed task breakdowns for each team, focusing on the initial phase of the project (e.g., data acquisition, model development, infrastructure setup)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @dsde-1 and @dsde-2 : Discuss data acquisition strategy, data quality requirements, and data validation procedures. Define the scope of the initial data set for model development."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meeting with @larch-1 and @sdev-1, @sdev-2: Review infrastructure requirements for the data pipeline and model deployment. Define the scope of the initial software development sprint."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Quick read of Bloomberg for market news."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @onbd-1: Clarify the client onboarding requirements and any specific reporting/data needs for UHNWI investors."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the detailed task breakdowns with input from data science, development, and onboarding teams."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the risk register with @legal-1 and @comp-1 to identify any new potential regulatory risks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Consolidate all updated task breakdowns and risks into the project management system. Send out weekly project status report draft to @cio-1 and @coo-1"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave Office. Dinner with family"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any feedback from QA and address critical issues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @qtest-1 to discuss initial test results and prioritize bug fixes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Fix high-priority bugs identified by QA. Test fixes locally before submitting for re-testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue addressing QA feedback. Update documentation to reflect any changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of the week's work, including integration progress, deployment readiness, and QA feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the weekly report to @prod-1 and @lpro-1. Plan for next week's tasks."
+    }
+]

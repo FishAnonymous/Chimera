@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and make a cup of coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalizing the draft test plan with @qatest-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the test plan to the development team for review and feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Order food for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with @trainer-1 to plan training sessions for the new features."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check emails and deal with last minute issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update documentation and create a report on the work done this week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the week. Maybe look for a new car online."
+    }
+]

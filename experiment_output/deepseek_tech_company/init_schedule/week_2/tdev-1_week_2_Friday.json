@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any additional feedback from @uiux-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the prototype, ensuring all features are stable and documented."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct a final round of testing with the art team (@3dmod-1, @3dmod-2) to validate the tool's usability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any last-minute issues or feedback from the art team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation for @prod-1 and @lpro-1, showcasing the prototype and its features."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the finalized prototype and documentation for review."
+    }
+]

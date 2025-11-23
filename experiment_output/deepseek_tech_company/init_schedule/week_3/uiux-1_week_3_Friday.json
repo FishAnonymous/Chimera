@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the final prototypes and prepare for the team review."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the final interactive prototypes to the entire team (@prod-1, @ldes-1, @sdes-1, @sdes-2, @cdev-1, @cdev-2, @cdev-3, @qtest-1, @3dmod-1, @3dmod-2, @tart-1, @tdev-1, @aud-1, @sdev-1, @lvdn-1, @ndes-1, @cart-1, @beng-1, @lpro-1). Gather final feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, reflect on the week's progress and feedback received."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Incorporate any final feedback from the team review into the prototypes, ensuring all stakeholders are satisfied."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Export the final prototypes and share them with the development team (@cdev-1, @cdev-2, @cdev-3) for implementation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the design process, including iterations and feedback, for future reference."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for next week's tasks, considering any upcoming design challenges or new features."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and sending a summary email to @prod-1 with the week's accomplishments and next steps."
+    }
+]

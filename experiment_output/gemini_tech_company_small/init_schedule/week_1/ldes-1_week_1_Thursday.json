@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Get to the office. Check emails, grab some coffee and mentally prepare for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the character concept based on yesterday's feedback. Explore different color schemes for the character's clothing and equipment. Consider the character's role in the game and choose colors that reflect their personality and abilities. Focus: Concept art for the player character."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin initial exploration of character animations. Start with the walk cycle. Study reference videos of people walking and analyze the key poses and timing. Focus: Initial exploration of character animations (walk cycle)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a simple walk cycle animation using a 3D animation software (e.g., Blender, Maya). Focus on creating a smooth and natural-looking movement. Ensure the character's feet are planted firmly on the ground. Show the walk cycle to @lpro-1 and @cdev-1. Get some suggestions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to create the walk cycle based on the advice."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyse the idle pose and prepare the motion."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create idle pose using the 3D animation software. Focus on creating a relaxed and natural-looking posture. The character should appear alert and ready for action. Focus: Initial exploration of character animations (idle pose)."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home. "
+    }
+]

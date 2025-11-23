@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails, and review current QA protocols related to EHR data."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Analyze existing testing methods for seasonal influenza data and begin identifying gaps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft notes on identified gaps in current QA protocols."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up a meeting with @da-1 and @da-2 to discuss types of influenza-related data collected."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with Data Analysts to understand the data collection process and verification challenges."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document insights gained from the Data Analysts' meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and log out."
+    }
+]

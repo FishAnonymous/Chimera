@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review the completed combat system architecture and the tasks for AI implementation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Create a base AIController class. This class will handle the AI logic for all enemy characters. Implement basic movement functions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement a simple Behavior Tree for the enemy AI. The Behavior Tree will define the enemy's behavior, such as chasing the player and attacking."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Create a Blackboard component to store information about the enemy's environment, such as the player's location and health."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Check Reddit for game development news and discussions."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a chase behavior in the Behavior Tree. The enemy should move towards the player when the player is within a certain range."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement an attack behavior in the Behavior Tree. The enemy should attack the player when the player is within attack range."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Integrate the AIController with the enemy character. Ensure that the enemy character is controlled by the Behavior Tree."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Test the enemy AI in the test environment. Ensure that the enemy chases and attacks the player correctly."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Commit changes to Git. Prepare for implementing basic attack animations tomorrow."
+    }
+]

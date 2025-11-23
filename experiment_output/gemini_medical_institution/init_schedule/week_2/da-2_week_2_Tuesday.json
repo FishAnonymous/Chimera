@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and review the task list for today."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the preliminary proposal for weekly data quality targets. Refine the targets based on yesterday's research and initial assessment."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Reach out to @da-1 to discuss potential synergies and collaboration opportunities on data quality improvement initiatives. Topic: 'Collaboration on Data Quality Improvement'."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with @qatest-1 and @qatest-2 to discuss the data quality metrics and how they can be implemented in the data quality assurance process. Topic: 'Implementation of Data Quality Metrics in QA Process'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze historical EHR data to establish a baseline for current data quality. Focus on the metrics defined on Monday."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read articles on data analytics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the baseline data quality analysis, revise the proposed weekly data quality targets to ensure they are realistic and achievable."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the methodology used for data quality assessment, including data sources, data cleaning steps, and calculation methods."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation summarizing the proposed data quality metrics, weekly targets, and methodology for presentation to stakeholders. @clinlead-1, @his-1, @itpm-1. Topic: 'Data Quality Metrics and Targets Proposal'."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work and update the project plan with progress and any identified risks or issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's tasks and create a detailed task list."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the status report with @itpm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 and @da-2 to analyze the impact of the corrective actions on data quality."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Identify any remaining gaps in data quality and plan for additional corrective actions if needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @clinlead-1 and @pchmp-1 to discuss the results and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all documentation and ensure all changes are properly recorded in the EHR system."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a final review of the week's work with @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary of the week's achievements and challenges for the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the summary to the team and plan for the next week's tasks."
+    }
+]

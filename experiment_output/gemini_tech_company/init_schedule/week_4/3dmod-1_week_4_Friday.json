@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, quickly check the emails. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Arrive at the office. Attend the daily stand-up meeting. Present the progress on environment designing. "
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @CART-1, discuss the current design and seek assistance."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the design based on professional support from @CART-1. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Have a lunch with @CART-1"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Check all the resources and fix the potential bugs, and make sure the environment asset can run fluently. "
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the basic movement in environment."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save all the progress and prepare to leave. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day and leave. "
+    }
+]

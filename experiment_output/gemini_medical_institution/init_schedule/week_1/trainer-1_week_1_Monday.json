@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and prioritize urgent requests related to the EHR collection and influenza trend analysis project. Respond to any immediate queries from staff regarding training schedules or materials."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review project documentation and the overall timeline for EHR collection and seasonal influenza trend analysis to ensure a clear understanding of the project goals and deliverables."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin planning the needs assessment. Draft a preliminary questionnaire to identify knowledge and skill gaps among staff related to the new data collection procedures. Focus on clarity and conciseness to ensure high response rates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to discuss the draft needs assessment questionnaire. Gather feedback on its relevance to clinical workflows and data collection processes. Incorporate their suggestions to refine the questionnaire."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Revise the needs assessment questionnaire based on feedback from @clinlead-1 and @pchmp-1. Ensure that all questions are aligned with the learning objectives for the training program."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up on news and social media."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the needs assessment questionnaire and prepare a distribution plan. Determine the most effective method for distributing the questionnaire to all relevant staff members (e.g., email, online survey platform)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out the needs assessment questionnaire to all identified staff members involved in influenza data collection, including nurses (@rn-1, @rn-2, @rn-3), physicians (@pchmp-1), medical assistants, lab technicians, and data entry personnel (@mrs-1, @mrs-2). Include a clear deadline for completion."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin compiling a list of all staff members who will be involved in influenza data collection. Consult with department heads and supervisors to ensure the list is comprehensive and accurate."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Research different online survey platforms (e.g., SurveyMonkey, Google Forms) that can be used to collect and analyze the needs assessment data. Evaluate features, pricing, and ease of use."
+    }
+]

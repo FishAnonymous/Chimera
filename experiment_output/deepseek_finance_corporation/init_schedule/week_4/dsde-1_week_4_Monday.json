@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the historical performance data of market-neutral funds."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin data analysis on historical performance trends, focusing on key metrics like Sharpe ratio, drawdowns, and volatility."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, browse financial news websites for any relevant market updates."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data analysis, identifying patterns and anomalies in the historical data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Summarize findings from the morning session and prepare a preliminary report."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qres-1, @qres-2, @qres-3 to discuss initial findings and potential implications for statistical models."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the report based on feedback from quantitative researchers."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, save all work, and plan for tomorrow."
+    }
+]

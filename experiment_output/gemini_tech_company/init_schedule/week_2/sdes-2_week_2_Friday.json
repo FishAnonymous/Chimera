@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Reflect on the week's accomplishments and set priorities for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing the crafting system. Design a simple crafting interface that allows players to combine resources to create new items."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and gather information about different crafting systems used in other games. Identify best practices and potential pitfalls."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up with friends and family over a video call."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing the crafting system. Add support for different crafting recipes and resource requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start planning next week's tasks, focusing on character customization and further playtesting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final documentation of the week's progress. Backup all work and prepare for the weekend."
+    }
+]

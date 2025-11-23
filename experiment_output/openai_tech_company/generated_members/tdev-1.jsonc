@@ -1,0 +1,27 @@
+{
+    "name": "Tara Singh",
+    "id": "tdev-1",
+    "ip": "10.0.0.16",
+    "age": 27,
+    "role": "Tools Developer",
+    "description": "Responsible for creating and maintaining development tools that enhance productivity and streamline the workflow for the programming team. Works closely with developers to understand their needs and implement effective solutions.",
+    "tools": [
+        "Python",
+        "C++",
+        "Visual Studio",
+        "Git",
+        "Blender"
+    ],
+    "mbti": "ENTJ",
+    "interests": "game design, hiking",
+    "personality": "Driven and ambitious, enjoys leading projects and optimizing processes. Prefers to work collaboratively and is unafraid to take initiative in group settings.",
+    "application": {
+        "ToolBox": {
+            "account_name": "tdev-845678",
+            "password": "taraS@tools",
+            "permissions": "tools_developer"
+        }
+    },
+    "email": "tdev-845678@corp.com",
+    "container_id": "f3478b1e39be"
+}

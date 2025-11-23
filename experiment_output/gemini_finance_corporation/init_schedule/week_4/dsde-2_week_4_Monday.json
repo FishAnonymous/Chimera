@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, have a light breakfast and review the week's goals: statistical analysis, data pipeline refinement, strategy development, and presentation preparation."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and internal communication channels for urgent updates or requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin working on the statistical analysis of the primary dataset. Focus on identifying potential mean reversion and correlation opportunities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Deep dive into the identified mean reversion opportunities, specifically focusing on the statistical significance of the findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read academic papers related to statistical arbitrage."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue statistical analysis of the primary dataset, checking for cointegration within specific asset pairs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings and preliminary conclusions from the statistical analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review code for data cleaning and preprocessing pipelines. Identify areas for improvement based on the morning's analysis."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare email draft to @DSDE-1 and @QRES-1 outlining data quality concerns and proposed pipeline modifications."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, have breakfast."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Arrive at the office. Attend the daily stand-up meeting. Present the progress on all animations. "
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @LVDN-1 to discuss the style and design for the environment asset, Topic: Environment Asset Style and Design"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start drafting a design graph for the environment asset."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a sandwich with @LVDN-1 and discuss the design process."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start designing the base mesh based on the draft design, including building, and terrain etc."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reach out to @CART-1 to seek professional support on design, Topic: Environment Asset Support."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue designing the environment, and make sure everything is correctly connected to each other."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day, and list out the tasks for tommorrow"
+    }
+]

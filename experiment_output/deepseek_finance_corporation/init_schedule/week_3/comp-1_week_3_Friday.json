@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize any remaining compliance tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Submit final compliance documentation to the SEC. Confirm receipt with @pm-1 and @cio-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare a weekly compliance report summarizing activities, training sessions, and process improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @comp-1 to review the week's work and plan for any upcoming compliance requirements."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Organize and archive all compliance-related documents and emails for the week."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by setting reminders for any follow-up tasks next week."
+    }
+]

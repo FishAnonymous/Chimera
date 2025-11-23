@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system. Check for any weekend patient assignments or follow-ups."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final patient assessments for the week. Ensure all documentation is complete."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Administer any remaining vaccinations. Double-check all EHR entries for accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss any data discrepancies or trends noticed during the week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Complete any pending EHR entries. Organize and restock vaccination supplies for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a weekly summary report to @clinlead-1 and @itpm-1, highlighting any issues or successes."
+    }
+]

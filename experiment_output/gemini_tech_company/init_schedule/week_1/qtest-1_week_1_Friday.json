@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and system notifications. Review the overall testing progress for the week and identify any remaining tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Execute any remaining test cases that were not completed earlier in the week. Focus on areas that require further testing or investigation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a final round of ad-hoc testing, trying to uncover any remaining bugs or issues. Explore the game with a fresh perspective."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze bug trends and patterns. Identify common bug types or areas of the game that are prone to errors. Discuss these findings with the development team. @LPRO-1 and @LDES-1 I need to discuss the bug trends."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a comprehensive test summary report for the week. Include the number of test cases executed, the number of bugs found, and the overall quality of the game."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Discuss the test summary report with the producer and lead programmer. Provide recommendations for future testing efforts and areas that require further attention. @PROD-1 Summary Report Discussion"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Clean up the test environment. Remove any temporary files or configurations that were created during testing. Prepare the environment for the next round of testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the test summary report and any other relevant documentation. Log off the system and prepare for the weekend."
+    }
+]

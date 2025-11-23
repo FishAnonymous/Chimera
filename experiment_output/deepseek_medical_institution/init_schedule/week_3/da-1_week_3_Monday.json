@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review EHR data quality metrics documentation from previous projects."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 @his-2 to discuss initial data quality metrics for EHR data related to influenza."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft initial data quality metrics based on discussion and previous documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review draft with @clinlead-1 for clinical relevance and accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine data quality metrics based on feedback from @clinlead-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send finalized data quality metrics to @itpm-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start setting weekly targets for data quality improvement based on approved metrics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day, update task tracker."
+    }
+]

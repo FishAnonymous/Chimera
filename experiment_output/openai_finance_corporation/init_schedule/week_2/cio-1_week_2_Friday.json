@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails regarding investor interests and concerns."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a report summarizing the week's findings and progress on asset manager selection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the investor relations strategy associated with potential asset managers."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and send the weekly report to @CIO and @ir-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct a final review of strategy documents and prepare for investor meetings next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off from the system and prepare for the weekend."
+    }
+]

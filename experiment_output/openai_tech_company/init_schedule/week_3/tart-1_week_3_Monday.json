@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the project requirements and set up a workspace for research and prototyping visual effects."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research current visual effects techniques used in similar third-person shooter games, focusing on particle systems and shaders."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create initial sketches and concept ideas for visual effects that align with the game's art style."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start prototyping simple particle systems in the game engine, testing basic functionalities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on prototyping particle systems and shaders, focusing on performance optimization."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document findings and progress in the project management tool to keep the team updated."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Set up a meeting with @lpro-1 to discuss the current progress on visual effects and gather insights."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day's work by checking emails and planning tasks for the next day."
+    }
+]

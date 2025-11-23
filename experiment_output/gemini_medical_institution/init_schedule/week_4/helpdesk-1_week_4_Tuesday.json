@@ -1,0 +1,70 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, make tea (Earl Grey today!). Review overnight tickets and emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up with @trainer-1 regarding the data entry issues reported by @mrs-1 yesterday. Discuss whether the training materials need to be updated or if additional training sessions are required."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin addressing new tickets. One user, @rn-2, is reporting an error message when trying to generate a specific report in the EHR. Attempt to replicate the error message on a test system."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "After replicating the error, research the error message in the EHR vendor's documentation. Identify a possible cause related to user permissions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Check the user's permissions in the EHR system. Discover that @rn-2 does not have the necessary permissions to generate that specific report. Email @itpm-1 and @rn-2 to adjust the permissions for the user. @PEOPLE"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "While waiting for the permissions to be updated, begin working on another ticket. A user, @pchmp-1, is reporting issues with exporting data from the EHR to a spreadsheet. Ask him more specific details about his issue."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Troubleshoot the export issue with @pchmp-1. Guide him through the export process, ensuring he selects the correct data range and file format. Discuss the potential for file corruption, and ask him to send the corrupted file to @qatest-2 for inspection."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Receive confirmation from @itpm-1 that the permissions for @rn-2 have been updated. Follow up with @rn-2 to ensure they can now generate the report successfully. Update the ticketing system and close the ticket."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read a bit of a fantasy novel."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Receive feedback from @qatest-2 on the corrupted exported file. Confirm that the file export functionality needs to be improved by the EHR Vendor. Email @ehrv-1 to report a potential bug related to data export functionality."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Monitor the ticketing system and address new incoming tickets. Prioritize based on severity and impact."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "A user, @his-1, is reporting difficulty accessing a specific module in the EHR. Research the module and common access issues."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Discover the module requires a specific software plugin to be installed. Guide @his-1 through the installation process. Ensure the plugin is compatible with their operating system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Confirm the installation was successful and the user can now access the module. Document the solution in the knowledge base for future reference. Update the ticketing system and close the ticket."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on the knowledge base article, focusing on data export issues and module access problems."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails one last time. Prepare for the next day's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

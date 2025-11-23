@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check emails. Look for feedback from QA Tester and 3D modeler."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorming and design documentation for the crafting system. Define resources, recipes, and crafting stations.  Consider how crafting will tie into the economy and progression systems.  How will it affect the player's combat efficiency?"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss the crafting system with @LDES-1 to ensure it aligns with the game's overall vision. Adjust the design based on their feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Try new restaurant near company."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start implementing the basic crafting interface. Use placeholder UI elements for now, focusing on functionality. Consult with @UIUX-1 to ensure the UI is user-friendly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement basic resource gathering mechanics. Start with a simple system where players can collect resources from the environment."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the crafting and resource gathering systems to identify bugs and balance issues. Adjust resource spawn rates and crafting recipes as needed."
+    }
+]

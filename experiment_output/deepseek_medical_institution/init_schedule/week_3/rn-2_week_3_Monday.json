@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, review patient records for the day. Prioritize patients with flu-like symptoms for data entry."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Accurately enter patient data into the EHR, focusing on symptoms and vaccination status. Cross-check with @mrs-1 and @mrs-2 for any discrepancies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse healthcare news for updates on seasonal influenza trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Resume data entry, ensuring all patient information is up-to-date and correctly logged."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in training session on new EHR functionalities for influenza tracking with @trainer-1 and @ehrv-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Practice using new EHR functionalities with mock patient data. Discuss any issues with @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up data entry for the day, ensure all records are saved and backed up."
+    }
+]

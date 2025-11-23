@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails regarding the EHR collection project and seasonal influenza analysis tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make initial contact with @EHR Vendor Liaison to discuss the EHR integration timelines and any challenges faced."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @Clinical Lead and @Registered Nurse team members to gather necessary documentation and protocols for the EHR collection process."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Participate in a team meeting with all staff to discuss the main goals for the week regarding EHR and influenza analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the data collection methods and ensure they are compliant with medical standards."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send an email to @Health Informatics Specialist and @Medical Records Specialist to request data samples for initial analysis."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on analyzing the seasonal influenza data collected previously and prepare initial findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @Quality Assurance Tester to discuss the quality check process for the data collected."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up daily work, organize notes, and plan for the next day."
+    }
+]

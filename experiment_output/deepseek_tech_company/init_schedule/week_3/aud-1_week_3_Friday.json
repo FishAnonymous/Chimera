@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, finalize any pending tasks. Review feedback from @prod-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize and polish all BGM tracks. Ensure consistency in style and quality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break, browse for new sound libraries."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test all sound effects in-game. Make final adjustments based on playtesting feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qtest-1 for final sound effect validation before weekend."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Backup all work, update documentation, and prepare for next week's tasks."
+    }
+]

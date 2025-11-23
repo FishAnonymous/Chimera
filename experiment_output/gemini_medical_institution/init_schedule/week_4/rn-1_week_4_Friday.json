@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address urgent requests. Reflect on the week's accomplishments."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Patient assessments and EHR data entry. Maintain focus on accuracy, completeness, and adherence to standardized protocols."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss any potential quality issues or data entry errors identified during the week. @qatest-1 @qatest-2 Topic: EHR Data Quality Review."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Based on the discussion with @qatest-1 and @qatest-2, implement any necessary corrective actions to improve data quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Celebrate the end of the week with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Complete a final review of all EHR data entries for the week. Ensure all data is accurate and complete."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit a summary report to @clinlead-1 Nadia Silva outlining the week's progress on influenza assessments and EHR data entry. Include any key observations or recommendations for improvement. @clinlead-1 Topic: Weekly Report on Influenza Assessments."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week and prepare for the weekend. Congratulate myself for a week well done!"
+    }
+]

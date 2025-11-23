@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work. Check news websites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any urgent user inquiries or follow-up questions received overnight. Prioritize based on severity and impact."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Revise the SOP based on feedback from @HIS-1 and @HIS-2. Incorporate suggestions for clarification, efficiency, and compliance."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop a communication plan for informing users about the new support channels and the online help desk portal. This could include email announcements, website updates, and internal newsletters."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work on setting up email auto-responses and canned responses within the chosen ticketing system. This will help provide quicker replies to common inquiries."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Get out of the office."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Prepare a presentation for the rest of the team to demonstrate the new ticketing system and the support process. Schedule the meeting with @ITPM-1 for next week. @ITPM-1 Ticketing System Demo"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue creating training materials for users, focusing on creating video tutorials that visually demonstrate how to submit tickets, access the knowledge base, and troubleshoot common issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine the system for tracking response times to user inquiries. Ensure the system is accurately capturing data and generating reports that can be used to monitor performance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reach out to @EHRV-1 to discuss potential integrations between the ticketing system and the EHR system. This could help streamline the support process and provide more context for troubleshooting. @EHRV-1 Ticketing System Integration"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, organize notes, and plan for tomorrow's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

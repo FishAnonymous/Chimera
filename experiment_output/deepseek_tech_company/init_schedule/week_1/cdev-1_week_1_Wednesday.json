@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from @prod-1. Prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine physics system based on feedback. Add more complex interactions (e.g., jumping, sliding)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Test input handling with different control schemes (gamepad support). Coordinate with @uiux-1 for UI feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimize project structure. Clean up unused assets and scripts. Ensure version control is up-to-date."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @qtest-1 to discuss testing plans for foundational systems. Provide test builds."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's work, commit changes to Git, and update task progress."
+    }
+]

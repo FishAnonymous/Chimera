@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review yesterday's work, and plan the day's tasks. Listen to some upbeat music to get energized."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the resource system UI and visual effects designs to the team (@lpro-1 and @cdev-1). Gather feedback and incorporate suggestions. Be open to new ideas and improvements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin brainstorming concept art for special abilities and power-ups. Generate a list of possible abilities that fit the game's mechanics and themes. Think about visual cues for each ability. Consider the power budget for each ability to maintain game balance. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Sketch rough thumbnails for each special ability, focusing on visual clarity and impact. Iterate on the designs based on team feedback. Consider color palettes and visual style consistency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play some online chess."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the chosen concept art for the special abilities. Create detailed sketches and color studies. Prepare a presentation to get the team to review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Present concept art to the team, gather feedback. Refine based on feedback from team members."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare updated concept art to be passed to art team."
+    }
+]

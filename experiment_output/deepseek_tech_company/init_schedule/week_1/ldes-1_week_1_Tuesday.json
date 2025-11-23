@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback from the team on the GDD draft."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1 @sdes-2 to align gameplay mechanics with system design requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the Gameplay section based on feedback and discussions, ensuring clarity and feasibility."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft the Level Design section, focusing on level progression, enemy placement, and environmental storytelling."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @3dmod-1 @3dmod-2 to discuss asset requirements for level design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue refining the Level Design section, incorporating feedback from the 3D modelers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an updated draft to @prod-1 @lpro-1 @ndes-1 @lvdn-1 for further review."
+    }
+]

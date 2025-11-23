@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review any responses from yesterday\u2019s emails, prioritize actions based on urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to discuss the integration of the medical records overview in training sessions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an update on the training progress and prepare to share this progress with upper management later this week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @pnmp-1 to incorporate the physician champion's input into the training materials on clinical best practices."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a session with @qa-1 and @qa-2 to review training materials for accuracy and completeness."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize updates to training materials based on the QA team's feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ehrv-1 to discuss any technical requirements for incorporating EHR access in the training sessions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan and outline the next training session to ensure all materials are ready and logistics are arranged."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

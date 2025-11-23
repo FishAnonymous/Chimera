@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and look for feedback from @ir-1 about the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback from @ir-1 into the presentation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare for a meeting with the Chief Operating Officer @coo-1 regarding the onboarding process and its implementation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the meeting with @coo-1 to discuss the onboarding process and any additional compliance needs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "After-meeting notes, summarize action points and changes to be made in the onboarding process."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check for any other projects needing attention before the week's end."
+    }
+]

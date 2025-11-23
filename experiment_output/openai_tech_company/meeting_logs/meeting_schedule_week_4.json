@@ -1,0 +1,181 @@
+[
+    {
+        "week": 4,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Incorporate feedback into the environment and character designs.",
+            "Create polished final artworks ready for presentation.",
+            "Prepare a presentation showcasing the development process and final designs for stakeholders."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Coordinate the final QA testing and ensure all features meet the quality standards.",
+            "Finalize UI adjustments and ensure consistency across all game screens.",
+            "Prepare documentation for the features implemented and support materials for marketing."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Coordinate the final QA testing and ensure all features meet the quality standards.",
+            "Finalize UI adjustments and ensure consistency across all game screens.",
+            "Prepare documentation for the features implemented and support materials for marketing."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Conduct final testing and prepare features for launch.",
+            "Final check on backend functionalities necessary for user interactions.",
+            "Ensure seamless integration of UI elements with backend functionalities."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Ensure new mechanics are seamlessly integrated with existing systems, maintaining system coherence.",
+            "Create comprehensive documentation outlining mechanics design decisions, system interactions, and balance strategies.",
+            "Conduct a final review meeting with the design and programming teams to align on the next steps for implementation."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Ensure new mechanics are seamlessly integrated with existing systems, maintaining system coherence.",
+            "Create comprehensive documentation outlining mechanics design decisions, system interactions, and balance strategies.",
+            "Conduct a final review meeting with the design and programming teams to align on the next steps for implementation."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Monitor build and deployment success rates, identifying any bottlenecks or failures.",
+            "Optimize build scripts and CI configurations for speed and reliability.",
+            "Provide training sessions for development teams to ensure proper use of the build pipeline and integration processes."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Perform regression testing to verify that previously tested features remain unaffected by new changes.",
+            "Validate that identified bugs have been fixed and implement test cases to confirm resolutions.",
+            "Prepare a quality assurance report summarizing testing outcomes, bug status, and recommendations for future iterations."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Improve the character model\u2019s textures and details, and finalize the character animations for presentation.",
+            "Polish the environment assets and props, ensuring they meet the visual quality standards of the game.",
+            "Prepare for a presentation to showcase character animations and environment assets to the design team for final critiques."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Improve the character model\u2019s textures and details, and finalize the character animations for presentation.",
+            "Polish the environment assets and props, ensuring they meet the visual quality standards of the game.",
+            "Prepare for a presentation to showcase character animations and environment assets to the design team for final critiques."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Conclude presentation of the project progress to stakeholders.",
+            "Finish playtesting and document gameplay refinements."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Refine UI designs based on feedback from testing sessions, ensuring usability and aesthetics are aligned.",
+            "Prepare a presentation that demonstrates the design process, showing before and after comparisons for stakeholders.",
+            "Implement any necessary changes before preparing the final UI kit for developers to use during game development."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Implement additional game systems like inventory, combat mechanics, or environmental interactions.",
+            "Optimize code and improve performance based on profiling results from the previous weeks.",
+            "Begin preparing for integration of new UI elements with feedback from UI/UX Designer and Client Developers."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Ensure all art assets and visual effects are properly integrated into the game and functioning as intended.",
+            "Create a comprehensive technical documentation that outlines integration procedures, optimization techniques, and visual effect guidelines for the development team.",
+            "Present finalized assets and effects to stakeholders, showcasing their impact on the overall game experience."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Make necessary adjustments to the tools based on user testing feedback to enhance functionality and user experience.",
+            "Create user documentation and training materials to assist teams in integrating new tools into their workflows.",
+            "Present the finalized tools and their benefits to the entire development team, gathering any last-minute feedback before deployment."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Conduct thorough playtests with both internal team members and external players to identify and document issues or areas for improvement.",
+            "Analyze feedback and determine necessary adjustments to level design, including pacing, difficulty, and player interactions.",
+            "Finalize level layout revisions based on testing outcomes before preparing for the next iteration or integration into the game."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Refine and edit sound effects and music based on feedback from testing sessions.",
+            "Ensure that all audio assets are balanced correctly to avoid overpowering other game elements.",
+            "Prepare a presentation for stakeholders showcasing the audio experience in the game, including before-and-after examples and player feedback."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Implement security measures (e.g., encryption, firewalls) to protect user data and server integrity.",
+            "Create detailed documentation outlining server architecture, API endpoints, and security practices for onboarding new team members.",
+            "Present the network and backend architecture to stakeholders for validation and feedback."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Conduct thorough playtests with both internal team members and external players to identify and document issues or areas for improvement.",
+            "Analyze feedback and determine necessary adjustments to level design, including pacing, difficulty, and player interactions.",
+            "Finalize level layout revisions based on testing outcomes before preparing for the next iteration or integration into the game."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Collaborate closely with writers and developers to incorporate narrative elements into the gameplay without disrupting flow.",
+            "Organize narrative playtest sessions to assess player engagement and identify areas for improvement.",
+            "Create a narrative document summarizing key story elements, character arcs, and dialogue for consistent reference throughout development."
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week. Prepare to construct 3D blockouts for level layouts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lvdn-1 (Level Designer) to discuss promising level layouts and gather input for blockout construction."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin the initial construction of 3D blockouts for the selected level layouts based on discussions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the 3D blockouts for the level layouts."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and refine the first blockouts created, making adjustments based on initial visualization."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the progress made on blockouts and prepare to present them to the team."
+    }
+]

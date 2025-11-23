@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review the agenda and any last-minute questions. Prepare for a meeting with the training team. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with the training team (@rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2) to gather feedback on the training modules and address any questions or concerns. Refine training materials based on feedback received. @RN-1 @RN-2 @RN-3 @MRS-1 @MRS-2 Topic: Feedback on Training Modules"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop training session materials for upcoming training."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work to resolve problems arising from training. Call other coworkers or hold a meeting to help."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a summary of the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft a training for the week and plan to send to all the members to make them prepare."
+    }
+]

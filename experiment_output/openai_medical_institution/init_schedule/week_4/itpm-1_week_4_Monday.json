@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital's management system, check emails, and review the project status from last week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss the updates on EHR system integration, gather feedback and identify any blockers."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @his-1 and @his-2 to gather necessary data for seasonal influenza trend analysis."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and organize the latest data collected by @da-1 and @da-2 for EHR implementation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule and prepare for training sessions with @trainer-1 for hospital staff regarding EHR system use."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @clinlead-1 to address any clinical concerns regarding the EHR system and its integration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @qatest-1 and @qatest-2 for quality assurance testing to ensure data integrity in the EHR system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Consolidate all feedback from meetings and prepare a summary report."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

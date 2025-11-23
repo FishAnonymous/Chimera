@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from @trainer-1 on training materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct one-on-one meetings with @rn-1, @rn-2, and @rn-3 to understand their experiences using the EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile user feedback into a report and share with @ehrdev-1 and @clinlead-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @itpm-1 on project timelines and resource management for the EHR implementation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Assess data quality concerns with @da-1 and @da-2 and strategize on next steps."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update the project management system with all findings from the day."
+    }
+]

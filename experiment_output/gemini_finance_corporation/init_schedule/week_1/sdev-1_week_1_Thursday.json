@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Based on yesterday's meeting to improve the code quality, continue to revise the Trade execution module."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start working on the data analysis module. First determine the needs for data analysis from @qres-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Communicate with @qres-1 to confirm the needs for data analysis module."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Brainstorm the data analysis module design based on the need from the quant researchers."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write the details for the data analysis module design including the function and input/output. Share it with @qres-1 and @larch-1 to ask for feedbacks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the work done and plan for tomorrow."
+    }
+]

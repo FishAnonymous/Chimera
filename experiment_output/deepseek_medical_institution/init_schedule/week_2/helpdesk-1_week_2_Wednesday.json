@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and help desk tickets for any new inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up on any unresolved tickets and prioritize them based on urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @trainer-1 to discuss training sessions for hospital staff on how to use the new ticketing system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop training materials, including step-by-step guides and FAQs, for the ticketing system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @trainer-1 to schedule training sessions for different departments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Respond to any new help desk inquiries, ensuring prompt resolution within 1-2 business hours."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the online portal for the ticketing system to ensure it is user-friendly and functional."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document any issues found during testing and report them to @ehrdev-1 and @ehrdev-2 for resolution."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and tickets one last time before ending the day."
+    }
+]

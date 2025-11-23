@@ -1,0 +1,27 @@
+{
+    "name": "Priya Sharma",
+    "id": "rn-1",
+    "ip": "10.0.0.20",
+    "age": 26,
+    "role": "Registered Nurse",
+    "description": "Provides direct patient care, including administering medications, monitoring vital signs, and assisting with treatments. Collaborates with physicians and other healthcare professionals to develop and implement patient care plans. Educates patients and families on health management and disease prevention. Ensures accurate and timely documentation of patient information.",
+    "tools": [
+        "Electronic Health Record (EHR) Systems",
+        "Medication Administration Systems",
+        "Patient Monitoring Equipment",
+        "IV Pumps",
+        "Wound Care Products"
+    ],
+    "mbti": "ISFP",
+    "interests": "painting, yoga, trying new ethnic foods",
+    "personality": "Compassionate and empathetic, with a natural ability to connect with patients. Calm and reassuring in stressful situations. Detail-oriented and committed to providing high-quality care. Enjoys working as part of a team and supporting her colleagues. Sometimes struggles with setting boundaries and can be overly accommodating.",
+    "application": {
+        "Zendo": {
+            "account_name": "rn-298765",
+            "password": "priyaS@care",
+            "permissions": "nurse"
+        }
+    },
+    "email": "rn-298765@hospital.org",
+    "container_id": "5g6h7i8j9k0l"
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review yesterday's progress. Polish character abilities and enemy AI based on feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement ability upgrade system (e.g., skill tree, modifiers)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ldes-1 and @sdes-1 to discuss balance and progression design."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test and balance ability upgrades with enemy AI difficulty."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize UI elements (health bar, main menu, HUD). Ensure all elements are functional and visually consistent."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @prod-1 to provide a progress update and discuss any blockers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare and submit weekly progress report. Organize tasks for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week. Review any pending tasks and plan for Monday."
+    }
+]

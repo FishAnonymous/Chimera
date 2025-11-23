@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and get ready for a productive day. Coffee and a smile."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the data analysis plan and the database schema based on feedback from the data analysts and the database administrator."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Check with @trainer-1 on their feedback regarding to the training material and the training plan for the staff regarding on how to use the EHR with the new information."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work with @ehrdev-1 and @ehrdev-2 to answer their questions on the development questions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @mrs-1, @mrs-2 and ask for a discussion of the plan and procedure of the data cleaning."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Lunch with colleagues at the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the training material with the feedback from @trainer-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start working with @ehrv-1 on the schedule of the EHR set-up."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Communicate with @helpdesk-1 about the potential questions or problems of the new EHR setup, and try to create some solutions in advance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's accomplishments, update the project plan, and respond to emails."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check on the current affairs related to clinical events."
+    }
+]

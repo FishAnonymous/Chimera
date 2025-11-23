@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from team members on identified core mechanics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue developing the prototype for the first key mechanic."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss animations needed for the first prototype."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start sketching out the second key mechanic and its interactions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin developing the prototype for the second key mechanic."
+    }
+]

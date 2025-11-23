@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Log in and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize presentation to share with @ehrv-1, @clinlead-1, and @itpm-1"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @ehrv-1, @clinlead-1, and @itpm-1 to present the data quality assessment and remediation plan."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document the meeting with @ehrv-1, @clinlead-1, and @itpm-1"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue the action plan based on the meeting with @ehrv-1, @clinlead-1, and @itpm-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Reviewing documentation related to EHR structure."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue documenting potential solutions or corrective actions for each data quality issue in the tracking system based on the meeting with @ehrv-1, @clinlead-1, and @itpm-1. Include a description of the proposed solution, the resources required, and the expected outcome."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @trainer-1 via email to discuss the potential for a training plan. Topic: Data Quality Training Plan"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @mrs-1 and @mrs-2 to discuss the current data entry approaches and the potential modification. Topic: Data Entry Modification."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the work log and plan for tomorrow."
+    }
+]

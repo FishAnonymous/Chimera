@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries. Begin defining UI requirements for the dashboard and client portal."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @mkt-1 and @onbd-1 to gather client-facing UI requirements and ensure alignment with user experience goals."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Create wireframes and mockups for the dashboard and client portal, focusing on usability and data visualization."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine UI wireframes based on feedback. Document detailed UI requirements, including responsive design and accessibility standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @pm-1 with the updated UI requirements document for review and approval."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Research best practices for financial dashboards and integrate findings into the UI requirements."
+    }
+]

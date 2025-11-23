@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review the current asset management and determine a strategy of integration into our build pipeline."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Investigate the current process of assets creation of the game and try to understand the assets directory."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @3dmod-1 and @Tart-1, to align with the asset integration and automated versioning pipeline. @3dmod-1 @Tart-1 Topic: Asset pipeline and automated versioning"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement a system that keeps track of the asset versions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Automate the validation of the assets using the automated validation and version system. Set up validation rules to ensure that every time the model gets changed a new version is validated automatically."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Set up a test and evaluate whether the assets are correctly validated and the versioning system works as expected."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write up the new asset management system documentation."
+    }
+]

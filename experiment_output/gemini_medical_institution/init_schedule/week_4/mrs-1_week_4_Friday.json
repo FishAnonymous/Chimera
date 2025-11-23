@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any emails or updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize any remaining data abstraction tasks to reach the 200-record goal. Prioritize any readily available electronic records."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a thorough review of all 200 abstracted records to ensure data quality and consistency. Correct any errors or omissions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any challenges encountered during the week's data abstraction process. Prepare a brief summary of lessons learned or suggestions for improvement in future data collection efforts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a report summarizing the week's data abstraction activities, including the number of records abstracted, any challenges encountered, and recommendations for future improvements. Send the report to @HIS-1 and @DA-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Back up all abstracted data to a secure location to prevent data loss. Ensure that the backup is properly labeled and organized for easy retrieval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Attend weekly team meeting (if scheduled) to discuss progress, challenges, and next steps. Share any relevant findings or insights from the week's data abstraction activities."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete all administrative tasks, such as updating time sheets and submitting expense reports. Prepare for the weekend."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Logout and leave work."
+    }
+]

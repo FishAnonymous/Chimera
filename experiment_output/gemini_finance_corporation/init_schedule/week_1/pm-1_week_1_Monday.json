@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, quick workout, prepare for the week ahead. Mentally prioritize project goals."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and calendar for urgent updates. Scan financial news for relevant market trends."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Individual work: Brainstorming session - define major project tasks and sub-tasks required for the fund launch. Focus on dependencies between teams."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @larch-1 and @devops-1: Discuss the infrastructure and software development roadmap. Define clear deliverables and timelines for the development team. Get a preliminary estimate on the database infrastructure needs."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review meeting notes and update the draft project plan with insights from the tech team meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Casual browsing of Wall Street Journal for market updates and industry trends."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @qres-1, @qres-2, @qres-3 and @dsde-1, @dsde-2: Discuss the quantitative research and data science pipeline. Understand their model development process and data requirements. Define milestones for model backtesting and validation. Discuss the strategy for market neutrality and statistical arbitrage. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the research and data pipeline milestones. Integrate the timelines provided by the quant research team into the overall project plan."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an initial communication to @legal-1 and @comp-1 outlining the planned project scope and requesting initial consultations to identify potential regulatory hurdles early on."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the draft project plan with all collected information. Prepare for tomorrow's executive review."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Gym."
+    }
+]

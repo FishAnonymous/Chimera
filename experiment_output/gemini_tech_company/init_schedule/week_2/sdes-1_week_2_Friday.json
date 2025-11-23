@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review prioritized task list and plan for a focused day of bug fixing and iteration."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and address any urgent communications. Review the progress from @CDEV-1, @CDEV-2, @CDEV-3, @3DMOD-1, @3DMOD-2 to know the progress for the crafting functionalities and 3D modeling."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on addressing the highest-priority bugs identified during playtesting. Work closely with other team members (@CDEV, @3DMOD) to resolve issues quickly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Iterate on existing systems based on feedback. Adjust combat balance, economy rewards, progression rates, or crafting recipes as needed to create a more engaging experience. Focus on quick iterations and testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct a final playtest of the integrated systems and mechanics with the latest changes. Document any remaining issues or concerns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a demonstration of the integrated systems and mechanics for the entire team. Highlight key features, improvements, and remaining challenges. @PROD-1 need to confirm the demo requirement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the demonstration to the team. Gather final feedback and answer questions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all findings from the demonstration and final playtests. Create a detailed report summarizing the week's progress, achievements, and remaining tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week. Submit the final report. Plan for the next week."
+    }
+]

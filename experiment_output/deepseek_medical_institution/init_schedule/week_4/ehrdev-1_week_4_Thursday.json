@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any overnight system issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Perform a final validation of all EHR system configurations, ensuring no gaps remain."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @dba-1 to ensure database integrity and confirm all data fields are correctly mapped."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @his-1 and @his-2 to verify that health informatics requirements are fully met."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide technical support, addressing any last-minute system issues before the weekend."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @itpm-1 to provide a status update and discuss any remaining risks or concerns."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a detailed report on the week's progress, including completed tasks and outstanding issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the report and send it to the relevant stakeholders, including @itpm-1 and @clinlead-1."
+    }
+]

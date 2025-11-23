@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the tasks for the week. Prioritize backend development tasks for the fund management software."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @larch-1 to discuss backend architecture and align on the development approach for the fund management software."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start coding the initial backend structure for the fund management software, focusing on core modules and database integration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue backend development, ensuring proper documentation and version control using git."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress with @sdev-2 and discuss any blockers or additional requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's work, commit changes to the repository, and update the task tracker."
+    }
+]

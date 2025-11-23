@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Catch up on any overnight communications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue experimenting with lighting and visual effects in the 'Urban Ruins' blockout. Focus on creating a sense of atmosphere and mood."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any outstanding feedback or concerns from the previous playtest session. Implement any necessary adjustments to the 'Urban Ruins' blockout."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Going out for a Ramen."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back from lunch. Begin working on the documentation for the 'Urban Ruins' level design, including a detailed description of the level's layout, encounters, and objectives."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @ldes-1 and @3dmod-1 to discuss the possibility of adding destruction elements to the 'Urban Ruins' level. Discuss feasibility and scope of the implementation. @lDes-1 thinks it is a good idea, and promises to talk about it in the meeting."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Share the 'Urban Ruins' level design documentation with the development team for review and feedback. Encourage team members to provide comments and suggestions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the feedback on the 'Urban Ruins' level design documentation and incorporate any necessary revisions."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out. Time to go to the bar."
+    }
+]

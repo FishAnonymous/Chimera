@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the EHR system, and check emails for any urgent updates or announcements. Respond to any immediate queries from @Helpdesk-1 regarding EHR access issues encountered by other nurses."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized protocols and tools for influenza symptom assessment within the EHR. Pay close attention to any recent updates or modifications implemented by @Clinlead-1 and documented by @his-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare for the day's patient load by reviewing scheduled appointments and anticipating potential influenza cases based on current seasonal trends reported by @da-1 and @da-2."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments. Accurately assess the first patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Assess the second patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address the third patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review recent articles on Nursing."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments. Accurately assess the fourth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Enter patient data into the EHR for patients seen this morning, ensuring all demographic information, medical history, vaccination status, symptoms, and lab results are accurately and completely recorded."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Assess the fifth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's documentation, ensuring accuracy and completeness. Address any discrepancies or missing information. Send an email to @mrs-1 and @mrs-2 to clarify if any medical history is not clear in the database, with @PEOPLE."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary report of potential influenza cases seen today and share it with @Clinlead-1 to assist with ongoing seasonal influenza trend analysis."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Log out of the EHR system and prepare for departure."
+    }
+]

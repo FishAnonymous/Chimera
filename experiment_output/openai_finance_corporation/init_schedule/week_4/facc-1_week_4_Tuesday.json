@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on feedback received from @comp-1 regarding the draft outline of financial accounting processes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback into the draft outline and finalize the initial financial accounting processes for the fund."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present finalized financial accounting processes to @pm-1 for project alignment."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin developing the preliminary budget structure that aligns with operational needs of the fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @qres-2 to gather data on projected operational costs and income forecasts for the preliminary budget."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft the preliminary budget based on collected data, including expected costs for staffing, technology, and compliance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the preliminary budget draft with @onbd-1 to ensure client onboarding requirements are included."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send preliminary budget draft to @ir-1 for insight on aligning with investor expectations."
+    }
+]

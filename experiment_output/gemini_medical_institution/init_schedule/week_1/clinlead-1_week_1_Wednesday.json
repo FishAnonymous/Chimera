@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and mentally prepare for the day. Drink a cup of green tea."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @itpm-1 to discuss project timelines, resource allocation, and potential risks. Collaborate on a detailed project schedule with milestones and deadlines."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Finalize the workflow diagram and technical specifications based on input from the IT Project Manager and the EHR vendor liaison."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Present the proposed changes and the workflow diagram to @clinlead-1 to get approval. Highlight the benefits of the new data collection process for influenza trend analysis."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address any concerns or questions from the Clinical Lead and make any necessary adjustments to the plan."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Meet up with some colleagues at the cafe."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting training materials for the patient registration staff on how to administer the new influenza questionnaire and enter the data into the EHR system. Send the draft to @trainer-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @da-1 and @da-2 to discuss the data analysis plan for the collected influenza data. Determine the key metrics to track and reporting requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @dba-1 to design the database schema for storing the new influenza data. Ensure data integrity, security, and efficient retrieval."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's accomplishments, update the project plan, and respond to emails."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Look at some funny video online."
+    }
+]

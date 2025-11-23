@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks. Review pending KYC/AML verifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with clients who have incomplete documentation. Send reminders and assist with any queries."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @mkt-1 to discuss client feedback and potential improvements to the onboarding process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a training session for new team members on the onboarding process and KYC/AML requirements."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and finalize the onboarding checklist. Ensure all steps are documented and streamlined."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a progress report to @coo-1 and @pm-1."
+    }
+]

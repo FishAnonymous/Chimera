@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Scan for important updates from @lpro-1 and @ldes-1 regarding overall project direction or specific requests. Briefly review the goals for this week: core combat mechanics, basic AI, and a functional combat loop."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Quick research on common approaches to hit detection in third-person shooters. Focus on performance considerations and potential issues with different methods (raycasting, collision meshes, etc.)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin implementing basic hit detection. Start with raycasting from the player's weapon towards the enemy. Create a simple debug visualization to see the raycasts in action."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the hit detection with a static enemy model. Verify that the raycast accurately detects collisions and registers hits."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement basic damage application. Define a health property for the enemy and reduce it upon successful hit registration. Add a visual indicator (e.g., a flash effect) to show when the enemy takes damage."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement the logic for Enemy death. Make the character disappear after their health gets to zero"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document today's progress, including any challenges encountered and solutions implemented. Commit the code with clear and descriptive commit messages."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up on any pending compliance issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss any operational needs for quantitative research."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review IT infrastructure with @devops-1 and @larch-1 to ensure seamless operations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @facc-1 and @facc-2 to review fund accounting processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @mkt-1 to align on any marketing needs affecting operations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check in with @sdev-1 and @sdev-2 to ensure software development is on track."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review operational budget with @pm-1 and adjust as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for next day's meetings and wrap up tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback on UI requirements. Begin specifying functional requirements for investment management."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cio-1 and @qres-1 to discuss investment management functionalities, including portfolio tracking and risk assessment."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document functional requirements for investment management, detailing features like real-time analytics, trade execution, and reporting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Specify compliance management functionalities, including audit trails, regulatory reporting, and alerts."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @comp-1 and @legal-1 to validate compliance management requirements and ensure regulatory alignment."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review and consolidate all functional requirements into a comprehensive document."
+    }
+]

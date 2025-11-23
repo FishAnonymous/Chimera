@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and responses from the asset managers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Engage with @ir-1 to align on communication with potential investors regarding asset manager selection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review investment strategies received from the asset managers."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assess the alignment of investment strategies with our fund's goals."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a comparative analysis of the investment strategies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send comparative analysis to @CIO and @qres-3 for feedback."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review the existing EHR database schema for influenza data storage, focusing on tables related to patient demographics, diagnoses, and vaccinations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Document any gaps or inconsistencies in the current schema that may affect influenza data storage. Organize findings for discussion with the team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @his-1 and @his-2 to request clarification on specific EHR data elements related to influenza. Include questions about required fields and data types."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin drafting a preliminary design for new tables to store influenza-related data, including fields for patient ID, vaccination status, diagnosis date, and symptoms."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the table design, ensuring alignment with the hospital's data standards. Cross-reference with existing tables to avoid redundancy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to discuss potential integration points for the new tables within the EHR system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review feedback from the Health Informatics team and update the table design accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the day's progress and prepare a summary for tomorrow's tasks."
+    }
+]

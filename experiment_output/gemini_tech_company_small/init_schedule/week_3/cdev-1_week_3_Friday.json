@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review all implemented systems (health, stamina, UI, sound effects). Identify any areas that need improvement or further polish."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct playtesting with the integrated resource system. Gather feedback on the feel of the game. Analyze whether the resource system enhances the gameplay experience. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any critical bugs or issues identified during playtesting. Prioritize fixing problems that significantly impact gameplay. Refactor code for better clarity."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the resource system based on playtesting feedback. Adjust stamina costs, regeneration rates, and other parameters. Improve the UI for better readability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final review of all code and documentation. Ensure that everything is well-organized and easy to understand. Remove unnecessary comments or code."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write release notes summarizing the work completed this week. Describe the implemented features, bug fixes, and improvements. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Perform final testing to ensure that the release is stable and ready to be deployed. Fix any last-minute bugs or issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare the release for deployment. Package the code and assets into a deployable format. Submit the release for approval."
+    }
+]

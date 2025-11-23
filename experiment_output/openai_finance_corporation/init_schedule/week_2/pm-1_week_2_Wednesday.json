@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and do final checks on the presentation materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present findings from the market research and statistical model analysis to stakeholders."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather feedback from stakeholders and make notes on possible improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up on any action items or questions raised during the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review notes from the meeting and update the project plan accordingly."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consolidate feedback from stakeholders and prepare a summary report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss next steps with @cio-1 and @coo-1 regarding future projects and expectations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and document any tasks completed or outstanding for the week."
+    }
+]

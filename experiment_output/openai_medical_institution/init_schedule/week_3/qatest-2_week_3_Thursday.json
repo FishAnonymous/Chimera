@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails, and review updates from colleagues regarding ongoing tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a report encapsulating all findings from the week, including trends and areas for improvement based on QA checks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @IT Project Manager for any technological support needed to improve the data entry processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Complete the report and send it to the management team for review."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Participate in any necessary meetings scheduled for team updates."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up on any additional responsibilities or action items needed for the upcoming week."
+    }
+]

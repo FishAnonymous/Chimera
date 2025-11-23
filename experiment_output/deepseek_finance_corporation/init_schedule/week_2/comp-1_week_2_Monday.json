@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review SEC regulatory requirements for market-neutral funds, focusing on compliance documentation and internal controls."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a checklist of SEC regulatory requirements to ensure all necessary documentation is prepared. Cross-reference with existing internal controls."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @legal-1 to discuss SEC compliance requirements and any potential gaps in documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update compliance documentation based on feedback from @legal-1. Ensure all sections are aligned with SEC regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review internal controls for audit readiness. Identify any areas that need strengthening or additional documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @audit-1 to schedule a preliminary review of internal controls and compliance documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize compliance files and ensure all documents are properly labeled and stored in the shared drive."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of the day's progress and outline tasks for the next day."
+    }
+]

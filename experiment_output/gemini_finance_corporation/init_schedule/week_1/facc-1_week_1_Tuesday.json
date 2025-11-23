@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab coffee. Check news and emails. Maybe watch a quick sports highlight."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review Legal Counsel's response (if received). Adjust research focus based on their input. If no response, send a reminder email."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Focus on establishing a preliminary framework for tracking fund expenses. Identify categories of expenses (management fees, performance fees, legal fees, audit fees, etc.). Determine how each expense will be allocated and tracked."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @coo-1 (Chief Operating Officer) via email. Subject: Fund Expense Tracking Framework - Input Needed. Ask for their input on the proposed expense categories and allocation methods. Request any historical data or relevant policies."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue developing the fund expense tracking framework. Research best practices for expense allocation in similar funds. Document assumptions and methodologies clearly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play some foosball in the break room with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the combined performance and expense tracking framework. Ensure the two frameworks are integrated and consistent."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start exploring software options for tracking fund performance and expenses. Research commercially available fund accounting software and potentially explore building a custom solution (if necessary)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the preliminary tracking framework. Prepare a brief presentation outlining the key components, data sources, and reporting requirements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Respond to any outstanding emails. Plan for tomorrow's tasks."
+    }
+]

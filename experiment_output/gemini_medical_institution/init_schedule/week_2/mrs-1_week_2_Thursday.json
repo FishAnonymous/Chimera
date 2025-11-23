@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and compile the feedback received from the data abstractor training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Analyze the feedback collected from the training participants to identify areas for improvement in future training sessions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the training materials based on the feedback received from the participants. Update the data abstraction protocol, EHR data entry instructions, and quality control procedures to reflect any necessary changes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Take a walk in the nearby park."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address individual questions that raised during the training session via emails."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Help colleagues to solve problems regarding the new protocol. @HIS-1, @DA-1"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the work. Plan and set up goal for tomorrow."
+    }
+]

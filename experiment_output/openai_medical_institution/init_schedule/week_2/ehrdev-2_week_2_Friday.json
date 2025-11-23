@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, review emails and check in with @helpdesk-1 for any user issues reported."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize and submit the documentation for the EHR seasonal influenza integration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the seasonal influenza trends analysis to the team and gather feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for the upcoming week's tasks and make a checklist of pending items."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a feedback email to the team regarding the week\u2019s progress and set expectations for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out and enjoy the weekend."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Wake up, quick review of the presentation."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and team communication. Finalize the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the weapon and player movement system designs to @LDES-1, @LPRO-1, @PROD-1, @3DMOD-1, @3DMOD-2, @LVDN-1. Gather feedback and address concerns."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Based on the feedback received, identify areas in the system designs that require revision or further clarification. Prioritize the most critical feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin working on revisions to the weapon and player movement system designs based on the feedback. Focus on addressing concerns regarding balance and player feel."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Investigate the AI system requirements for the game. Since it's a third-person shooter, enemy AI is a crucial component."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @LPRO-1 and @SDES-2 to discuss the current AI system plans and architecture. Topic: AI system planning and architecture"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Read technical blogs related to the game, such as codingame.com."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the revisions and prepare them for review."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the EHR system updates required for influenza data collection."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss the EHR vendor's specifications for the updates needed for influenza data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start configuring the EHR system updates based on the vendor's specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue configuring the EHR system updates. Document the changes made for future reference."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qatest-1 and @qatest-2 to schedule testing for the new EHR functionalities later in the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and plan for tomorrow's tasks."
+    }
+]

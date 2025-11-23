@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @legal-1 to go over the draft audit framework and assess legal compliance."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Revise audit framework based on feedback from @legal-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the risk assessment process with @comp-1 for any adjustments needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the audit framework and prepare documentation for compliance checks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to important communications."
+    }
+]

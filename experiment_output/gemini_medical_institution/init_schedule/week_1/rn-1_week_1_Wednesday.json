@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in, and check emails. Look for any updates on the EHR system from @ehrdev-1 or @ehrdev-2, or any important announcements from @clinlead-1. Reply to emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review standardized protocols for assessing influenza symptoms. Refresh my knowledge of the specific symptoms to watch out for."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the patient schedule and patient charts, with attention to patients at high risk for influenza complications."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments, focusing on thoroughness and accuracy in assessing influenza symptoms."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Enter patient data into the EHR, paying close attention to detail and utilizing the available data entry tools to ensure accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Chat with colleagues in the break room."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @trainer-1 to ask if any training opportunities related to EHR usage or influenza assessment are available."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Loaf around and do nothing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover. @rn-1 and @rn-3 for shift handover."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete shift handover."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out and leave for the day."
+    }
+]

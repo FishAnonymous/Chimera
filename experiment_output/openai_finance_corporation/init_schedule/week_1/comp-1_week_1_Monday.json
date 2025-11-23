@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the detailed goal for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research SEC regulations regarding market-neutral funds. Focus on understanding compliance requirements for fund setup."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile notes and summarize key SEC regulations relevant to fund setup."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue research on SEC regulations. Identify any potential compliance issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an overview of findings regarding SEC regulations for internal review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and finalize the overview draft."
+    }
+]

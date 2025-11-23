@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any updates or alerts regarding patients on antiviral medications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Round on patients to monitor for adverse reactions. Focus on high-risk patients identified by @clinlead-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide targeted patient education to high-risk patients. Document in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @rn-3 to ensure all patient education and adverse reaction monitoring is up to date."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Attend a team meeting with @clinlead-1 and @pchmp-1 to discuss progress and any issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the weekly summary report with new data from today."
+    }
+]

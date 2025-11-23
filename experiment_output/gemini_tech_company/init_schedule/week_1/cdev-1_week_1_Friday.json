@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Last day of the week! Arrive, coffee, check emails. Friday feeling!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final bug fixes and polish for the UI elements and feedback systems. Ensure everything is working smoothly and looks presentable."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a demo scene to showcase the implemented UI elements and feedback systems. This will be used for the end-of-week review."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the demo to the team. Get feedback and suggestions for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch! Celebrate the end of the week with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate the feedback from the team into the UI elements and feedback systems. Make any necessary adjustments."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Final commit to Git. Write a comprehensive commit message summarizing the work done this week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update project documentation with details on the implemented UI elements and feedback systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks. Identify areas for improvement and new features to implement."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up my desk and prepare to leave for the weekend!"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Weekend time! Woohoo! Maybe a concert or a chill night in with a book."
+    }
+]

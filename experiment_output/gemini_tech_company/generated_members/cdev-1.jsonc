@@ -1,0 +1,27 @@
+{
+    "name": "Aisha Sharma",
+    "id": "cdev-1",
+    "ip": "10.0.0.11",
+    "age": 26,
+    "role": "Client Developer",
+    "description": "Focuses on developing features and systems that directly interact with the player, such as character controls, UI elements, and visual effects. Works closely with designers and artists to bring the game to life for the end-user.",
+    "tools": [
+        "C++",
+        "Unreal Engine",
+        "Blueprints",
+        "Visual Studio",
+        "Git"
+    ],
+    "mbti": "ENFP",
+    "interests": "yoga, indie music, game jams",
+    "personality": "Enthusiastic and creative, enjoys experimenting with new gameplay mechanics and pushing the boundaries of what's possible. A strong communicator who thrives in collaborative environments.",
+    "application": {
+        "Zendo": {
+            "account_name": "cldev-681943",
+            "password": "AishaS@client",
+            "permissions": "client_developer"
+        }
+    },
+    "email": "cldev-681943@corp.com",
+    "container_id": "b759e26d31a5"
+}

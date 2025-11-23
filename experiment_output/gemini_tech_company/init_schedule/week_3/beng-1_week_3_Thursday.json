@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review yesterday's work. Check the testing environment."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Configure build reports and notifications. Integrate tools to generate build reports and send notifications to the development team (e.g., email, Slack). "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Test build reports and notifications. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up a rollback mechanism to revert to previous versions in case of deployment failures. "
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document the CI/CD pipelines, automated testing frameworks, and deployment procedures. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share the documentation with the development team @cdev-1, @cdev-2, @cdev-3, @sdev-1, @lpro-1. (Topic: CI/CD Pipeline Documentation)."
+    }
+]

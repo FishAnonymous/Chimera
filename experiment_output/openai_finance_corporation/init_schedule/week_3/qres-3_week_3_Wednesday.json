@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare materials for the meeting."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @pm-1 to finalize the time and agenda for the presentation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Rehearse the presentation, ensuring all key points are covered and clear."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch."
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Present findings to the team, focusing on the implications for future strategy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collect feedback from the team and discuss potential further research needed."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Address any questions or clarifications needed based on the feedback from the presentation."
+    }
+]

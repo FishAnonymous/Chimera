@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare for the team review meeting by reviewing notes and presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Team review meeting with @ldes-1 @prod-1 @3dmod-1 @3dmod-2 @uiux-1. Present story and character outlines, gather feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break to process feedback and note down key points for revision."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin implementing feedback into the story beats and character bios. Prioritize major changes first."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue revising narrative elements based on team feedback. Ensure all changes are documented."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @aud-1 to discuss potential audio cues and themes for key narrative moments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the revised story beats for pacing and emotional impact. Make minor adjustments as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send updated drafts to @ldes-1 and @prod-1 for final approval before proceeding."
+    }
+]

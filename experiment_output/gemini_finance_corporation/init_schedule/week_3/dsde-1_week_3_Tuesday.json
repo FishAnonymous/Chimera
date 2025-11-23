@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office. Check emails. Continue reading an article on stock market anomalies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Complete the data cleaning and pre-processing for the second dataset. Pay special attention to data alignment and time zone handling to ensure data consistency. Save to disk."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start developing the first basic statistical arbitrage strategy using the cleaned historical data. Choose a simple strategy based on mean reversion of a specific pair of assets. Implement the strategy logic in Python using a suitable backtesting framework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go outside for a walk, find some inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the initial statistical arbitrage strategy using historical data. Run backtests with different parameter settings to optimize the strategy's performance. Analyze the backtesting results to identify strengths and weaknesses."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the first strategy. Implement stop-loss and take-profit orders to manage risk. Explore different position sizing techniques to optimize profitability while controlling risk exposure. Write code comments explaining the code."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Leave the office to enjoy the evening."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the detailed goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a survey to gather insights on player experiences, focusing on what players enjoy in third-person shooter games."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare email with survey draft and send to @qtest-1 for feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct preliminary research on user experience studies in similar games."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review survey feedback from @qtest-1 and make necessary adjustments."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Launch the user research survey, and share the link with the team for distribution."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start analyzing existing UI elements in the current prototype of the game."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Write notes about initial findings and issues identified in the current UI."
+    }
+]

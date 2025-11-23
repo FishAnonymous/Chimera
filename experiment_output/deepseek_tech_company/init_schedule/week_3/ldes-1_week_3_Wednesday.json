@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Continue updating the GDD, focusing on the 'Combat Systems' section with input from @sdes-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to align character and asset requirements with the GDD's 'Art Style' section."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the 'Audio Design' section of the GDD, incorporating feedback from @aud-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send updated GDD draft to @prod-1 for preliminary review before final submission."
+    }
+]

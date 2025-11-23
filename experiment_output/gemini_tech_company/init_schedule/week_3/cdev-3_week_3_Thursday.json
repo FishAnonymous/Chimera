@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Discuss the error message system with @qtest-1. Ask for suggestions on potential error scenarios to test."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Add more error handling scenarios based on feedback from @qtest-1. Implement more specific error messages for different situations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Integrate the tutorial and error message systems with the main game loop. Ensure messages are displayed correctly and at the appropriate times."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collaborate with @ldes-1 and @ndes-1 to define the content of the initial tutorial messages."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Browsing some websites related to UI design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Get lunch with @lvdn-1 and discuss Level Design."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the new tutorial messages provided by @ldes-1 and @ndes-1. Test the tutorial flow to ensure it is clear and informative."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine the error message UI based on feedback. Make the messages more user-friendly and easier to understand."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the overall progress on UI elements and player feedback systems. Identify areas that need further improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write test cases for the UI elements and player feedback system. Prepare for testing and debugging."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out from the OA system. Go home."
+    }
+]

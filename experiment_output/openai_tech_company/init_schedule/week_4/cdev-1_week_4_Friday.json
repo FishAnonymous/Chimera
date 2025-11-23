@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in for a wrap-up week session, checking all documentation and marketing materials are finished."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a feedback session with the team to discuss the completed work and gather insights."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any last comments on the documentation or marketing material received during the feedback session."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize any loose ends in documentation and emails for the week."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Plan and organize tasks for the next week related to the project's continuation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, respond to any outstanding emails, and log off for the weekend."
+    }
+]

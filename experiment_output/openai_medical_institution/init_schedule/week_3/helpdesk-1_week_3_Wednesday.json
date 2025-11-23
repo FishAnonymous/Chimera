@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review any responses from @Trainer or @Quality Assurance Tester regarding the updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a follow-up with @EHR Vendor Liaison to gather feedback on EHR data input processes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break for a short walk to recharge."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Move forward with identifying any remaining issues not captured in previous analyses."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @Clinical Lead to gather additional insights on clinician experiences with EHR data input."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue compiling findings and organizing them into a presentation format for upcoming discussions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check for training session dates and organize a schedule to roll out new training material."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Conclude the workday by addressing any additional support tickets."
+    }
+]

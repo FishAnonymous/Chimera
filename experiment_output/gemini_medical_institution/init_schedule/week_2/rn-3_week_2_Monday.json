@@ -1,0 +1,62 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any new updates or notifications. Review hospital-wide announcements regarding EHR implementation progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the EHR data entry guidelines and protocols, focusing on required fields for patient assessment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare my workstation with necessary supplies for patient assessments (e.g., stethoscope, thermometer, blood pressure cuff, alcohol wipes)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments: Patient 1 - Vitals, medical history review, medication reconciliation. Accurately record all information directly into the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Patient Assessments: Patient 2 - Vitals, medical history review, medication reconciliation. Accurately record all information directly into the EHR."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review EHR documentation with @ClinLead-1, specifically focusing on any areas where data entry completeness could be improved."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments: Patient 3 - Vitals, medical history review, medication reconciliation. Address patient concerns and record everything in the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Patient Assessments: Patient 4 - Vitals, medical history review, medication reconciliation. Address patient concerns and record everything in the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare influenza vaccination station: gather vaccines, syringes, alcohol wipes, bandages, and sharps container. Confirm vaccine expiration dates."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Administer influenza vaccination to Patient 5 and accurately document the date, time, vaccine lot number, and injection site in the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document any adverse reactions of vaccines of the day in the EHR. Ensure proper disposal of used syringes and other materials."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review all EHR entries from the day to ensure accuracy and completeness. Flag any discrepancies for follow-up."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Email @Helpdesk-1 and @ITPM-1 to report an issue I found when entering patient allergy details; include screenshots and steps to replicate."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end work."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and compile any additional reference materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on initial environment mood board using references gathered."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue working on the mood board, focusing on setting and atmosphere."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating a mood board for character designs based on references and research conducted."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Refine character design visuals and integrate with the mood board."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Gather feedback on mood boards from peers, if available."
+    }
+]

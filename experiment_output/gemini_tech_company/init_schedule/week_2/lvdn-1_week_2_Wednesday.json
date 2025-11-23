@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee, emails, and a quick check on the progress of the AI implementation. Is @sdes-1 and @cdev-2 on track?"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start integrating basic lighting into the level. Focus on creating atmosphere and guiding the player's eye."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Experiment with different lighting techniques. Use spotlights to highlight key areas and create a sense of drama."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Meeting with @cart-1 and @tart-1 to brainstorm ideas for visual elements."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin adding basic set dressing to the level. Use props and environmental details to enhance the atmosphere and tell a story."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Iterate on the lighting and set dressing based on player feedback. Refine the atmosphere and visual storytelling."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Playtest the level with lighting and set dressing. Make sure the visual elements support the gameplay and narrative."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final checks and preparations for tomorrow's meeting with @Ldes-1 to review the level's progress."
+    }
+]

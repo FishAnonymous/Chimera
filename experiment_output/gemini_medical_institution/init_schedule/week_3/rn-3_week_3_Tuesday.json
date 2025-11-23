@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the EHR system, and check emails for updates and new communications. Pay special attention to any alerts related to EHR downtime or scheduled maintenance. Contact @Helpdesk-1 for clarification if anything is unclear."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized protocols and tools for influenza symptom assessment within the EHR. Focus on any updates related to lab result interpretation or differential diagnosis criteria."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient assessments. Accurately assess the first patient for influenza symptoms. Document all findings in the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address the second patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Assess the third patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break, Browse the lastest fashion."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assess the fourth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address the fifth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Enter patient data into the EHR for patients seen today, ensuring accuracy and completeness. Cross-reference lab results with documented symptoms to identify potential discrepancies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review patient data entered by colleagues to ensure consistency and accuracy. Provide constructive feedback to @rn-1, @rn-2, and @rn-3 on areas for improvement in EHR documentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's activities, highlighting any challenges encountered with the EHR system or assessment protocols. Share this summary with @itpm-1 and @ehrv-1."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Log out of the EHR system and prepare for departure."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Quickly scan through industry news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the interaction animation for picking up an object. Add more subtle movements and details to make it more believable."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a simple animation for opening a door. Consider the type of door and the character's method of opening it."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue working on environmental models. Add more details to the ruined building, such as broken furniture, pipes, and wires."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Looking forward to the weekend!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a smaller environmental asset, such as a destroyed car. Model the car's basic shape and then add details like dents, scratches, and broken glass."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Place the destroyed car within the ruined building environment. Adjust its position and rotation to create a believable scene."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review all assets created this week, ensuring consistency and quality. Prepare a brief progress report for the Producer (@Prod-1 in email). Subject: Weekly Progress Update"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final file backup. Clean the work environment. Check emails one last time."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home. Start planning for the weekend."
+    }
+]

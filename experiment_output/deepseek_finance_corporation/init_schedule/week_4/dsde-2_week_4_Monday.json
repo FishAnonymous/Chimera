@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the statistical models developed so far for evaluating risk-return profiles."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the statistical models by incorporating additional risk metrics such as Value-at-Risk (VaR) and Conditional VaR (CVaR)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @qres-1, @qres-2, @qres-3 to discuss any discrepancies or improvements needed in the models."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin correlation analysis with benchmark indices (e.g., S&P 500, NASDAQ) to assess diversification benefits."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document preliminary findings from the correlation analysis in a structured format."
+    }
+]

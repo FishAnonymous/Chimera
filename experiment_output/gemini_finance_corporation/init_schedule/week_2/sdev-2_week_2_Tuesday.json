@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, grab coffee. Check emails and skim Reddit's r/programming for interesting discussions."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the technical design document for the trade execution module. Identify areas that need further clarification or refinement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue developing preliminary code for the order management system. Implement basic order placement, cancellation, and modification functionalities."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Research and evaluate different message queue technologies for inter-module communication. Consider factors like performance, reliability, and ease of use. Send out an email @devops-1 for the existing choice of message queue."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Refactor the code for the order management system to incorporate the chosen message queue technology."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Check out a new cafe nearby with @sdev-2."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin developing the market data interface. Connect to a sample market data feed and parse real-time price data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement error handling and logging mechanisms for the market data interface. Ensure that errors are properly logged and handled to prevent system crashes."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Write unit tests for the order management system and market data interface. Ensure that the code is functioning correctly and that edge cases are handled properly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and identify any roadblocks or challenges. Plan for tomorrow's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Push code and head home."
+    }
+]

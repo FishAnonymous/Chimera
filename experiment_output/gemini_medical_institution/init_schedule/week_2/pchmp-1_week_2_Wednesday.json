@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review emails and address urgent requests. Scan relevant healthcare publications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with the Training Coordinator @trainer-1 to discuss the effectiveness of current EHR training programs and identify areas for improvement. Explore options for personalized training based on user roles."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @trainer-1 to discuss the effectiveness of the current EHR training program."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review data from help desk tickets @helpdesk-1 related to the EHR to identify common user issues and potential training gaps. Summarize findings for the Training Coordinator @trainer-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work with the Database Administrator @dba-1 to optimize data extraction processes for the influenza trend analysis. Ensure data security and privacy are maintained."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Listen to a podcast about healthcare innovation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Shadow a physician using the EHR system to observe their workflow and identify any usability challenges. Ask for their feedback on the system's impact on their practice."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document physician feedback and share it with the EHR Vendor Liaison @ehrv-1 and Clinical Lead @clinlead-1. Prioritize issues that directly impact patient safety and clinical efficiency."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the progress of EHR integration with other hospital systems (e.g., laboratory, radiology) with the EHR Integration Developers @ehrdev-1, @ehrdev-2. Identify and address any integration issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft a communication to all clinical staff emphasizing the importance of accurate and complete EHR documentation for patient care and public health reporting."
+    }
+]

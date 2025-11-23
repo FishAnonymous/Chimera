@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails. Review the to-do list for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue implementing automated validation rules within the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Break. Browse industry news related to EHR systems."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Test the implemented validation rules in a test environment and document any issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qatest-2 to discuss the initial data accuracy checks through random chart audits."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a sample set of charts for the random audits and share with @qatest-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the feedback from @qatest-2 and adjust the validation rules if necessary."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a status update to @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day's work and prepare a to-do list for Wednesday."
+    }
+]

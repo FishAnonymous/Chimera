@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and organize my tasks for the week based on the goals outlined."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review previous playtesting feedback received and identify areas for improvement in level design."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @sdes-1 and @sdes-2 to discuss the systems needed for playtesting sessions and gather input on player interactions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Apply adjustments to level designs based on feedback. Make quick sketches or notes for any enhancements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a schedule for internal playtesting sessions, including participant listings and session times."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Contact @qtest-1 to coordinate availability of testers and confirm the setup for playtesting."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Finalize the playtesting schedule and send confirmations to all participants."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wind down by checking email responses and preparing for tomorrow's playtesting."
+    }
+]

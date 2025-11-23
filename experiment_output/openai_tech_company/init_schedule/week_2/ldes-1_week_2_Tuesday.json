@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails, respond to any relevant communication regarding level design."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lvdn-1 again to finalize the list of blockouts to be tested for flow and pacing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Set up a testing session for the blockouts created; gather a group of @qtest-1 (QA Tester) and volunteer playtesters."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct testing on blockouts to evaluate flow and pacing; gather feedback from testers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze feedback and identify key areas of improvement noted during the testing session."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Compile notes on the testing outcomes and prepare to share with the development team."
+    }
+]

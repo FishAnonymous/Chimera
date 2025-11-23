@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prioritize revisions based on the feedback received."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make adjustments to animations based on design team feedback (refining movements)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test revised animations in the engine and ensure proper environmental interaction."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @Technical Artist to ensure animations work well with the current game assets."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

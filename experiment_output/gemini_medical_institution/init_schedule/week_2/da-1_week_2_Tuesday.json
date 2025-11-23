@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, quick email check, and grab coffee. Read news about sport games."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the data quality metrics document based on yesterday's review. Add more details on the rationale behind each metric."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @his-1 and @his-2 to schedule a meeting to discuss data governance and data quality improvement processes within the organization."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin outlining a plan for measuring the baseline performance of the proposed data quality metrics. Identify data sources and extraction methods."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @his-1 and @his-2 to discuss data governance and improvement processes. Understand their existing processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Grab a quick lunch. Socialize with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on the data extraction plan. Determine the specific SQL queries needed to retrieve the data for each metric. Consult @dba-1 if needed about database structures."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start writing the SQL queries for data extraction. Test the queries on a development database to ensure they return the correct results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine and optimize the SQL queries. Document the queries and their purpose."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress on the data extraction plan and SQL queries. Prepare for tomorrow."
+    }
+]

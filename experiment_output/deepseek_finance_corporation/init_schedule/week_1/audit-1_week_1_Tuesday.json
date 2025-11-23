@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from @comp-1 and @legal-1 on regulatory compliance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Update the risk assessment report with regulatory compliance inputs. Ensure all SEC requirements are addressed."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @pm-1 to schedule a meeting to discuss the updated risk assessment report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin drafting a framework for internal control evaluations. Focus on key control points such as trade execution, valuation, and compliance monitoring."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting the internal control evaluation framework. Include sections on risk identification, control activities, and monitoring procedures."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @larch-1 and @sdev-1 to discuss IT controls and their integration into the internal control framework."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update the internal control framework based on IT controls discussion. Ensure alignment with overall risk management strategy."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's work and prepare for tomorrow. Send any pending emails to relevant stakeholders."
+    }
+]

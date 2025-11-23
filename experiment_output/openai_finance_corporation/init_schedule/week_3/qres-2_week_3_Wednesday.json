@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from @qres-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the strengths and weaknesses analysis based on feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare slides to present the findings to the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the presentation with @qres-1 to ensure clarity and coherence."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the competitor analysis report based on team input."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the completed competitor analysis report to @pm-1 for review."
+    }
+]

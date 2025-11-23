@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for any overnight build updates from @beng-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin initial smoke tests on the latest prototype build, focusing on basic functionality and stability."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document any critical issues found during smoke tests and report them to @lpro-1 and @cdev-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue smoke testing, paying special attention to collision detection and AI behavior."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review test results with @prod-1 and discuss priority fixes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update QA documentation with today's findings and prepare for further testing."
+    }
+]

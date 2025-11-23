@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the tasks for the week. Prioritize backend development tasks for the fund management software."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @larch-1 to discuss the architecture and requirements for the backend development of the fund management software."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start setting up the development environment for the backend, including necessary frameworks and libraries."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin drafting the initial structure for the API endpoints for user authentication."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the API endpoints for user authentication, focusing on secure token generation and validation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @sdev-2 to review the progress and align on the implementation details."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the API endpoints developed so far and prepare for a code review session."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's work, update task tracker, and check emails before logging off."
+    }
+]

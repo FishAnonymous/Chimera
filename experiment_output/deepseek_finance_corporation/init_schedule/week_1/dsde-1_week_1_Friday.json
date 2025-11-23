@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the entire master report for consistency, accuracy, and completeness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation summarizing key findings for the leadership team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Rehearse the presentation and refine slides based on self-review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to @cio-1, @coo-1, and @pm-1. Discuss next steps for fund design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback from the presentation into the final report. Archive raw data and code."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and planning for next week\u2019s tasks."
+    }
+]

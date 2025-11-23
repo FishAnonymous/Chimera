@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any final feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Perform a final round of testing with @qatest-2 to ensure all functionalities are working correctly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare the system for deployment, including final documentation and release notes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @dba-1 and @itpm-1 for the deployment of the new functionalities."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Monitor the deployment process and address any immediate issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a final update email to all stakeholders confirming successful deployment and next steps."
+    }
+]

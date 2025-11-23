@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize the comprehensive bug report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Complete the final QA report, including recommendations for the development team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Review final QA report for accuracy and completeness."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @prod-1 @lpro-1 @ldes-1 with the final QA report and recommendations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @prod-1 to discuss the QA report and next steps."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Archive all testing documentation and reports for future reference."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Clean up and organize workspace. Prepare for the next sprint."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week. Reflect on testing outcomes and personal performance."
+    }
+]

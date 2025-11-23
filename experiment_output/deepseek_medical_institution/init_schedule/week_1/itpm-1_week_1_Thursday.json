@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review progress on action items from the kick-off meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @trainer-1 to discuss training plans for end-users on the new EHR system."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft initial project status update for stakeholders, highlighting progress and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and finalize the project status update."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send the project status update to key stakeholders via email."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @qatest-1 @qatest-2 on QA plans for the EHR integration."
+    }
+]

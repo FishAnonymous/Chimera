@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Final review of the week's progress and plan for next week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Present the findings from the data source analysis and statistical arbitrage strategy backtesting to the entire team (including @qres-1, @qres-2, @qres-3, @cio-1, @pm-1). Solicit feedback and suggestions for improvement. @ALL Team: Data Source & Strategy Backtesting Review"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on feedback, identify the next steps for the data analysis and strategy development. Prioritize tasks for next week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Potentially explore other data sources or revisit previous ones, depending on the feedback from the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Team lunch to celebrate the end of the week. Get to know colleagues better outside of work."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on documenting all the code and experiments done this week. Ensure that everything is properly organized and accessible for future reference."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Brainstorm potential improvements to the existing data pipeline with @devops-1, focusing on scalability and efficiency. @devops-1 Topic: Data Pipeline Improvement Ideas"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Create a detailed plan for next week's tasks, including specific goals, timelines, and resources required."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week, and prepare for the weekend."
+    }
+]

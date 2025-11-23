@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback from @3dmod-1 and @3dmod-2 regarding placeholder assets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Integrate placeholder assets into the prototype to test movement and basic interactions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @tart-1 to ensure technical art requirements are met for the placeholder assets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the integrated assets with the movement system, making adjustments as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qtest-1 to schedule an internal playtest for later in the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document any issues or improvements needed based on today's testing."
+    }
+]

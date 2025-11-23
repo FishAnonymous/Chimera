@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute issues. Review the summary report from Thursday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @dba-1 to ensure database updates align with finalized clinical workflows."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct a final walkthrough of the updated workflows with @rn-1, @rn-2, @rn-3 to ensure readiness for implementation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send a final confirmation email to all stakeholders (@itpm-1, @clinlead-1, @ehrdev-1, @ehrdev-2, @pchmp-1, @rn-1, @rn-2, @rn-3) that workflows are finalized and ready for implementation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Reflect on the week's progress and note any lessons learned for future projects."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and plan for any follow-up tasks next week."
+    }
+]

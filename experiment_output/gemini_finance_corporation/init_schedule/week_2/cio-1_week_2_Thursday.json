@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review market news and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Briefly review the fund strategy and risk management framework."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Communicate with @sdev-1 and @sdev-2 to discuss the execution platform of the fund. @PEOPLE: sdev-1, sdev-2 Topic: Execution Platform."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Communicate with @larch-1 to discuss the integration of the fund into the corporation. @PEOPLE: larch-1 Topic: Integration of Fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review the paper from Harvard Business Review."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Contact @facc-1 and @facc-2 to discuss the fund accounting procedures. @PEOPLE: facc-1, facc-2 Topic: Fund Accounting Procedures"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Revise the fund strategy and risk management framework based on the discussion in the afternoon."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Contact @ir-1 to discuss the investor relations for the fund. @PEOPLE: ir-1 Topic: Investor Relations"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

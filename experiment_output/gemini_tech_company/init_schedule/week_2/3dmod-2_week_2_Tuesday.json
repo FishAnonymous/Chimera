@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Spend 15 minutes browsing Blender subreddit."
+    },
+    {
+        "Time": "08:15",
+        "Activity": "Address to-do list from yesterday. Start with refining the character's anatomy based on feedback (if any) from yesterday's email to @Concept Artist. Re-save to new version: Character_Blockout_v02"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin planning the character's rigging. Research joint placement for optimal deformation, particularly around the shoulders and hips. Make notes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start placing the initial joints for the character's skeleton in Maya. Focus on the spine, pelvis, and shoulders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab food with colleagues, discuss weekend plans."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue joint placement for the character's limbs, paying close attention to the knees, elbows, wrists, and ankles. Adjust placement based on anatomical considerations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the initial joint placement with basic rotations. Identify any areas where the mesh deforms poorly and adjust joint positions accordingly."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Return to the environment model and add more detail to the ruined building. Start defining the shape of broken walls and adding details like rubble piles."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review progress, identify areas for improvement on rigging and environment. Back up files and clean workspace."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

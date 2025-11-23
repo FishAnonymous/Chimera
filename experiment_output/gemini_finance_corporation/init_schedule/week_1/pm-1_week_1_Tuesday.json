@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Quick review of the project plan before heading to the office."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Respond to urgent inquiries. Prepare materials for executive review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @cio-1 and @coo-1: Present the draft project plan, highlighting key milestones, dependencies, and potential risks. Get feedback and approval on the overall strategy and timelines. Address concerns regarding resource allocation and budget."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate feedback from the CIO and COO into the project plan. Refine timelines and milestones based on their input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Networking call with a contact in another hedge fund to discuss project management best practices."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @facc-1 and @facc-2: Discuss fund accounting and reporting requirements. Establish a timeline for setting up the necessary accounting infrastructure."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Meeting with @mkt-1 and @ir-1: Discuss marketing and investor relations strategy. Gather information about target UHNWI investor profiles and communication preferences. Set preliminary deadlines for marketing material creation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update project plan with accounting and marketing/IR milestones. Prepare a presentation for the team kickoff meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out a company-wide email inviting all members in the company to the project kickoff meeting for tomorrow @PEOPLE."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office. Dinner with industry colleagues."
+    }
+]

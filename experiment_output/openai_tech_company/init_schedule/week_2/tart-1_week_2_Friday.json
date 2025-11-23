@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct final review of all optimized assets and LOD models with the team."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collate feedback from the team during the final review for documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Make necessary adjustments to LOD models and texture atlases based on feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @3D Modeler/Animator and @Lead Game Designer with finalized assets for approval."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up by reflecting on the week's accomplishments and planning for next steps."
+    }
+]

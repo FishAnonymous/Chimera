@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee and check emails. Briefly browse some interesting articles on behavioral finance to get my brain warmed up for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the weekly goals: risk management framework and defining fund strategy. Start brainstorming initial ideas for risk factors to consider for our statistical arbitrage strategies. Jot down notes on potential volatility metrics, liquidity constraints, and correlation scenarios."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @qres-1, @qres-2 and @cio-1 to discuss the preliminary risk management framework. The topic is 'Initial Discussion: Risk Management Framework for Statistical Arbitrage Fund' "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin the meeting with @qres-1, @qres-2 and @cio-1. Present my initial ideas and solicit feedback. Discuss different approaches to measuring and managing volatility, liquidity, and correlation risks. Record key decisions and action items."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Refine the risk management framework based on the meeting discussion. Research specific risk models and methodologies that are commonly used in statistical arbitrage strategies. Document the chosen approaches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break! Grab a bite with colleagues and chat about non-work-related stuff \u2013 maybe catch up on the latest movies or sports."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start drafting a preliminary document outlining the risk management framework. Include sections on risk identification, risk measurement, risk mitigation, and risk monitoring. Focus on clarity and conciseness, ensuring it's easily understandable for all stakeholders."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review existing literature and academic papers on statistical arbitrage strategies. Focus on strategies suitable for UHNWIs and compliant with SEC regulations. Highlight key findings and potential opportunities."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an email to @legal-1, @comp-1 regarding the compliance requirements of statistical arbitrage strategies. The topic is 'Inquiry: SEC Regulations and Statistical Arbitrage Fund'."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by organizing notes, outlining next steps, and preparing for tomorrow's tasks."
+    }
+]

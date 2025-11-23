@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Address high-priority feedback from playtest."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine movement system based on feedback. Adjust controls and responsiveness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @cdev-3 to discuss technical adjustments for improved interactions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update placeholder assets with improved versions from @3dmod-1 and @3dmod-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test updated prototype. Ensure all fixes are implemented correctly."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document updates and prepare for follow-up playtest."
+    }
+]

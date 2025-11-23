@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for feedback on the presentation outline and address any outstanding items."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @larch-1 and @sdev-1 to discuss technical aspects that can be included in the presentation, focusing on statistical arbitrage methodologies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate technical input from @larch-1 and @sdev-1 into the presentation outline."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Connect with @facc-1 and @facc-2 to gather expected financial returns and performance data for inclusion in the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the outline with financial data and refine the narrative to highlight returns."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft a few slides based on the finalized outline to visualize the strategy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting for the following day with the executive team to present the investor presentation outline."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress on the investor presentation and set goals for completion by the end of the week."
+    }
+]

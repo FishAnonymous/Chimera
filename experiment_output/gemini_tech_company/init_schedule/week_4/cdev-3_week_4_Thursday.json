@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Review the tasks assigned to me in JIRA and prioritize them based on the schedule I created earlier."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend the daily stand-up meeting with the development team and provide a brief update on my progress, challenges, and plans for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue working on the current task. If it involves performance optimization, I will use profiling tools to identify bottlenecks and implement solutions to improve the game's performance. If it involves networking, I will focus on implementing efficient and reliable communication protocols between the client and the server. "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "If the current task requires me to integrate with external libraries or APIs, I will carefully review the documentation and follow best practices to ensure a smooth integration process. If the current task requires me to test with the QA team, I'll contact @qtest-1 to discuss the detailed testing schedule and test cases. Subject: Testing Schedule Request for [Feature Name]"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Have a nice lunch with my teammates and discuss some interesting things happening these days."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the current task. If I encounter any technical challenges, I will leverage online resources, forums, and communities to seek solutions and learn from others. If I encounter disagreement with other team members, I will discuss with them patiently and carefully."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "If the current task is nearing completion, I will conduct thorough code reviews to ensure that the code is clean, maintainable, and adheres to coding standards. If the current task is not nearing completion, continue to work on it."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by documenting the progress made on the current task and identifying any remaining steps. Also, prepare for tomorrow's work by organizing my tasks and resources."
+    }
+]

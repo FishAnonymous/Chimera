@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. More coffee is needed."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's character blockout. Identify areas that need improvement or refinement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining the first main character blockout. Focus on anatomy, particularly muscle flow and skeletal landmarks. Use reference images extensively."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin blockout of the second main character. Use the first character as a base but make necessary adjustments for unique proportions and features."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head out for a proper lunch. Need to recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the second character blockout. Focus on distinguishing features and ensuring accurate proportions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Evaluate both character blockouts side-by-side. Ensure consistency in style and level of detail."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "@Concept Artist Email the concept artist asking for feedback on the character blockouts. Include screenshots from multiple angles. Topic: Character Blockout Feedback Request"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save the character blockouts as 'character_blockout_v02.blend'. Document any areas of concern or questions for the concept artist."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day."
+    }
+]

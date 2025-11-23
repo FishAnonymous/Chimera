@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any updates from the art team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 to discuss any technical challenges related to asset implementation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Finalize the art style and technical constraints documentation and archive it for future reference."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send a summary email to the team (@prod-1, @ldes-1, @cart-1, @3dmod-1, @3dmod-2) outlining the completed tasks and next steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Experiment with new rendering techniques in the game engine to push visual quality."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by organizing files and notes, and plan for the next week's tasks."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and follow up on operational readiness status with @facc-2 (Fund Accountant)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 (Compliance Officer) to finalize compliance checklists and discuss regulatory requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the market-neutral statistical arbitrage model with @qres-1 (Quantitative Researcher)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collect and analyze data supporting fund strategies, discussing findings with @qres-2 (Quantitative Researcher)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop communication strategies for internal briefings with the team about the fund launch."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send a reminder email to the team regarding upcoming deadlines for the fund launch preparations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss technological infrastructure readiness with @sdev-1 (Software Developer) and @devops-1 (DevOps Engineer)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up activities and prepare for tomorrow's tasks."
+    }
+]

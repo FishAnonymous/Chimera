@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue conducting stress tests to assess the fund's resilience to adverse market conditions. Focus on refining the scenarios and methodologies based on feedback from the CIO."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the results of the stress tests and quantify the potential impact on the fund's performance. Identify key risk drivers and develop strategies to mitigate those risks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a comprehensive report summarizing the stress testing results and proposed risk mitigation strategies. Include clear and concise explanations of the scenarios, methodologies, and findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin preparing the presentation for the CIO and COO on the risk management framework. Focus on highlighting the key elements of the framework, including the risk identification, assessment, and mitigation processes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the presentation with @QRES-2 and @QRES-3 to ensure clarity, accuracy, and completeness. Incorporate their feedback and make any necessary revisions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Practice the presentation to ensure a smooth and confident delivery. Anticipate potential questions and prepare concise and informative answers."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Organize tasks for the next day."
+    }
+]

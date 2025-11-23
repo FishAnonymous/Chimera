@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to the system, and check emails. Prioritize emails related to EHR updates and influenza protocols."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the updated standardized protocols and tools for influenza symptom assessment in the EHR as defined by @clinlead-1 Nadia Silva. Ensure understanding of any changes."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare my nursing station for patient flow. Gather necessary supplies, including PPE and updated influenza assessment forms (even though the EHR is primary, having paper backups is wise)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin patient assessments. Prioritize patients presenting with respiratory symptoms. Accurately document all findings in the EHR, including demographic information, medical history, vaccination status, current symptoms, and vital signs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up on news and social media."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR documentation. Pay close attention to detail to ensure data integrity and completeness."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review EHR documentation from the day to ensure accuracy and completeness. Identify any gaps in data and address them promptly."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of patient encounters related to influenza-like illnesses for the day, noting any trends or concerns. Send summary to Clinical Lead @clinlead-1 Nadia Silva."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign out and prepare for tomorrow."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from @RN-1 and @RN-2 about new EHR features."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin iterating on EHR based on RN feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @PHC-1 to discuss issues and improvements needed in the EHR system."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue iterating on features and outputs from the meeting with @PHC-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize enhancements and prepare for deployment."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @HIS-2 to ensure data fields are prepared for inflation trend analysis."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @DATA_ANALYST to synchronize on data analysis reports required."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Spend the hour continuing to review latest EHR integration techniques."
+    }
+]

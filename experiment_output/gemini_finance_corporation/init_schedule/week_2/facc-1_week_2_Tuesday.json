@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning check-in: emails and market news. Grab a coffee, of course."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the fund performance tracking framework. Focus on the data inputs needed from the trading system and data science team to calculate the KPIs. @qres-1, @qres-2, @qres-3 (Quantitative Researchers) should be considered when collecting required parameters."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Check out the latest car reviews online. Maybe upgrade soon..."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start building a preliminary framework for tracking fund expenses. Categorize likely expense types (management fees, performance fees, legal fees, audit fees, custody fees, brokerage fees, etc.)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Pizza today."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the expense tracking framework. Define the accounting treatment for each expense type (e.g., accrual accounting for management fees)."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send an email to @legal-1 (Legal Counsel) outlining the planned expense categories and asking for input on any specific legal requirements or limitations regarding expense allocation. Topic: Fund Expense Categories - Legal Review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Integrate fund performance and expense tracking framework together. Identify dependencies and potential data flow issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final review of the combined framework. Make a short version for presenting on the meeting tomorrow."
+    }
+]

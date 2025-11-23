@@ -1,0 +1,27 @@
+{
+    "name": "Elena Rodriguez",
+    "id": "cdev-1",
+    "ip": "10.0.0.11",
+    "age": 28,
+    "role": "Client Developer",
+    "description": "Responsible for developing and optimizing client-side applications, ensuring a seamless player experience. Works closely with the design and backend teams to implement features that enhance gameplay.",
+    "tools": [
+        "Visual Studio Code",
+        "React",
+        "Node.js",
+        "WebGL",
+        "Postman"
+    ],
+    "mbti": "ESFP",
+    "interests": "streaming, cosplay",
+    "personality": "Energetic and outgoing, loves working in collaborative environments. Enjoys engaging directly with the community and brings enthusiasm to team projects.",
+    "application": {
+        "DevHub": {
+            "account_name": "cdev-668392",
+            "password": "elenaR@dev",
+            "permissions": "client_developer"
+        }
+    },
+    "email": "cdev-668392@corp.com",
+    "container_id": "3a57e76b7e0f"
+}

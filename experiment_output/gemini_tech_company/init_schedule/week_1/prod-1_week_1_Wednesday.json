@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project schedule for potential delays or issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Contact @SDes-1 and @SDes-2 to discuss the system design progress and confirm whether it follows the schedule. @PEOPLE: @SDes-1, @SDes-2, Topic: System Design Progress"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Monitor task progress in the project management software. Follow up with team members who are behind schedule."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any questions or roadblocks reported by the team members. Provide guidance and support as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a draft of the weekly progress report for executive leadership. Include key accomplishments, challenges, and upcoming milestones."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with @LDes-1 to review the progress report and obtain feedback. @PEOPLE: @LDes-1, Topic: Weekly Progress Report Review"
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Meeting with @LDes-1 to review the progress report and obtain feedback. Incorporate feedback from @LDes-1 into the progress report."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Analyze project data in the project management software to identify trends and areas for improvement."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document lessons learned from the first week of the project. Share these lessons with the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress, update project schedule, and finalize the weekly progress report for executive leadership."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Follow up with @pm-1 and @coo-1 regarding the prospectus."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make any final adjustments to the prospectus based on feedback from @pm-1 and @coo-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare the final submission package for SEC submission including all required documents."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Submit the final package to SEC via appropriate channels."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check emails and begin preparing for the next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day and reflect on the week's achievements."
+    }
+]

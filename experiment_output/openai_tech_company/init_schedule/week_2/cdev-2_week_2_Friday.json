@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review the week's accomplishments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Discuss with team members about potential improvements in the development process."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Have a weekly meeting with @prod-1 to discuss progress and upcoming tasks for the next week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize any pending tasks for the week and document progress in project management tools."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review personal goals for next week based on feedback from the playtesting sessions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up work for the week and engage in some leisure activities before logging off."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize the wireframe presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 @sdes-1 @sdes-2 @prod-1 to review the low-fidelity wireframes for main menu and HUD."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document feedback received during the review meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse UI design trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start implementing feedback into the wireframes, focusing on the main menu first."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the main menu wireframes based on feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin updating the HUD wireframes with the team's suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the updated wireframes, ensure all feedback has been addressed."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review project documentation and outline high-level technical requirements for fund management software."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdev-1 and @sdev-2 to discuss initial technical architecture and gather input on fund management software requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a preliminary document outlining the technical requirements for fund management software, focusing on core functionalities and system integration points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and refine the technical requirements document. Cross-reference with compliance and security standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @comp-1 and @legal-1 to ensure technical requirements align with regulatory and compliance standards."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Research and document scalability requirements for the software, considering future growth and high-frequency trading needs."
+    }
+]

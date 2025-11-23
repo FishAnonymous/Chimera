@@ -1,0 +1,115 @@
+```python
+import pandas as pd
+
+# Create a DataFrame with the detailed expected goals for each employee for the next 4 weeks
+data = {
+    "Role": [
+        "Data Analyst", 
+        "Data Analyst", 
+        "Quality Assurance Tester", 
+        "Quality Assurance Tester", 
+        "Help Desk Support", 
+        "Help Desk Support", 
+        "Medical Records Specialist", 
+        "Medical Records Specialist", 
+        "Health Informatics Specialist", 
+        "Health Informatics Specialist", 
+        "Clinical Lead", 
+        "Clinical Lead", 
+        "Registered Nurse", 
+        "Registered Nurse", 
+        "EHR Vendor Liaison", 
+        "EHR Vendor Liaison", 
+        "EHR Integration Developer", 
+        "EHR Integration Developer", 
+        "IT Project Manager", 
+        "Training Coordinator"
+    ],
+    "Week 1": [
+        "Familiarize with historical seasonal influenza data available in the EHR system and current quality issues as highlighted by the Medical Records Specialists' feedback. Develop initial metrics to analyze influenza trends ensuring alignment with clinical practices emphasized by Registered Nurses. Prepare a draft methodology considering feedback for further discussions in team meetings.",
+        "Familiarize with historical seasonal influenza data available in the EHR system and current quality issues as highlighted by the Medical Records Specialists' feedback. Develop initial metrics to analyze influenza trends ensuring alignment with clinical practices emphasized by Registered Nurses. Prepare a draft methodology considering feedback for further discussions in team meetings.",
+        "Review current QA protocols and identify gaps within the existing testing methods focused on EHR data related to seasonal influenza, aligning findings with health informatics needs. Collaborate with Data Analysts to understand the types of influenza-related data being collected and improve verification methods. Develop a checklist for testing data quality and accuracy in conjunction with the insights from Registered Nurses.",
+        "Review current QA protocols and identify gaps within the existing testing methods focused on EHR data related to seasonal influenza, aligning findings with health informatics needs. Collaborate with Data Analysts to understand the types of influenza-related data being collected and improve verification methods. Develop a checklist for testing data quality and accuracy in conjunction with the insights from Registered Nurses.",
+        "Develop a consolidated training plan for healthcare staff on how to effectively utilize the EHR for influenza data entry, incorporating suggestions from all roles. Update support materials available to ensure all training modules address common issues and utilize examples provided by Registered Nurses. Prepare an FAQ list aimed at addressing concerns raised by all employee feedback.",
+        "Develop a consolidated training plan for healthcare staff on how to effectively utilize the EHR for influenza data entry, incorporating suggestions from all roles. Update support materials available to ensure all training modules address common issues and utilize examples provided by Registered Nurses. Prepare an FAQ list aimed at addressing concerns raised by all employee feedback.",
+        "Coordinate with Data Analysts to ensure data collection processes align with record-keeping practices. Review training materials for accuracy and effectiveness. Prepare reports on data entry challenges faced during seasonal influenza documentation.",
+        "Coordinate with Data Analysts to ensure data collection processes align with record-keeping practices. Review training materials for accuracy and effectiveness. Prepare reports on data entry challenges faced during seasonal influenza documentation.",
+        "Facilitate discussions among team members that highlight challenges associated with data integration for seasonal influenza analysis. Provide feedback on data collection methodologies presented by Data Analysts. Suggest improvements for EHR systems based on usability testing results.",
+        "Facilitate discussions among team members that highlight challenges associated with data integration for seasonal influenza analysis. Provide feedback on data collection methodologies presented by Data Analysts. Suggest improvements for EHR systems based on usability testing results.",
+        "Oversee project coordination and ensure that roles are clear and deadlines are being met. Help draft protocols for the EHR data collection process and assist in identifying patient records relevant for analysis. Establish communication channels between roles.",
+        "Oversee project coordination and ensure that roles are clear and deadlines are being met. Help draft protocols for the EHR data collection process and assist in identifying patient records relevant for analysis. Establish communication channels between roles.",
+        "Familiarize with EHR system features for capturing seasonal influenza cases and provide feedback on EHR functionality. Participate in training sessions to ensure comprehensive understanding of requirements for accurate data entry.",
+        "Familiarize with EHR system features for capturing seasonal influenza cases and provide feedback on EHR functionality. Participate in training sessions to ensure comprehensive understanding of requirements for accurate data entry.",
+        "Assist in stakeholder communications providing technical support and updates regarding EHR development for influenza data collection. Review project timelines and offer input on scheduling and resource allocation for IT needs.",
+        "Assist in stakeholder communications providing technical support and updates regarding EHR development for influenza data collection. Review project timelines and offer input on scheduling and resource allocation for IT needs.",
+        "Assess integration points for EHR data collection and develop documentation to support data entry during training. Collaborate with Data Analysts to identify necessary data entry fields for seasonal influenza.",
+        "Assess integration points for EHR data collection and develop documentation to support data entry during training. Collaborate with Data Analysts to identify necessary data entry fields for seasonal influenza.",
+        "Coordinate meetings with hospital leadership and clinical leads to continuously refine project goals. Monitor project deliverables and ensure staff are trained on new EHR features. Facilitate communication between clinical and IT teams.",
+        "Coordinate meetings with hospital leadership and clinical leads to continuously refine project goals. Monitor project deliverables and ensure staff are trained on new EHR features. Facilitate communication between clinical and IT teams."
+    ],
+    "Week 2": [
+        "Initiate data collection from EHR for influenza cases from the last three years using standardized formats requested for better integration. Collaborate with Clinical Lead and Medical Records Specialists to ensure data relevance and collection methodology aligns with operational needs. Start preliminary data cleaning processes to ensure data quality and adherence to compiled data integrity guidelines.",
+        "Initiate data collection from EHR for influenza cases from the last three years using standardized formats requested for better integration. Collaborate with Clinical Lead and Medical Records Specialists to ensure data relevance and collection methodology aligns with operational needs. Start preliminary data cleaning processes to ensure data quality and adherence to compiled data integrity guidelines.",
+        "Implement QA testing processes on the EHR data collection for influenza cases based on established protocols, integrating concerns raised by Medical Records Specialists. Document QA findings and work with Data Analysts to address any issues or discrepancies found during testing, ensuring ongoing communication is established. Prepare reports that highlight identified gaps and necessary improvements collaboratively.",
+        "Implement QA testing processes on the EHR data collection for influenza cases based on established protocols, integrating concerns raised by Medical Records Specialists. Document QA findings and work with Data Analysts to address any issues or discrepancies found during testing, ensuring ongoing communication is established. Prepare reports that highlight identified gaps and necessary improvements collaboratively.",
+        "Conduct onboarding training sessions tailored specifically for the EHR tools relevant to influenza data collection ensuring all team members receive integrated support. Provide on-the-ground support during the data collection, acting on immediate feedback to troubleshoot issues as they happen. Gather insights from sessions to fine-tune resources for improved usability.",
+        "Conduct onboarding training sessions tailored specifically for the EHR tools relevant to influenza data collection ensuring all team members receive integrated support. Provide on-the-ground support during the data collection, acting on immediate feedback to troubleshoot issues as they happen. Gather insights from sessions to fine-tune resources for improved usability.",
+        "Assist Data Analysts in ensuring consistency in documentation practices during the influenza data collection. Conduct reviews of data entries for accuracy and completeness. Provide updates on any training needs expressed by staff during data entry.",
+        "Assist Data Analysts in ensuring consistency in documentation practices during the influenza data collection. Conduct reviews of data entries for accuracy and completeness. Provide updates on any training needs expressed by staff during data entry.",
+        "Support the Clinical Lead in assessing EHR functionalities for influenza tracking. Participate actively in the meetings for project updates and feedback sessions to refine planning methodologies.",
+        "Support the Clinical Lead in assessing EHR functionalities for influenza tracking. Participate actively in the meetings for project updates and feedback sessions to refine planning methodologies.",
+        "Coordinate with team members to monitor project timelines and ensure project milestones are met. Facilitate training sessions for staff, ensuring they fully understand the EHR system protocols. Address any emergent technical issues during data collection.",
+        "Coordinate with team members to monitor project timelines and ensure project milestones are met. Facilitate training sessions for staff, ensuring they fully understand the EHR system protocols. Address any emergent technical issues during data collection.",
+        "Collect feedback from various roles involved in EHR documentation for influenza cases. Compile findings and recommend solutions to improve documentation processes, ensuring ease of use for clinical staff.",
+        "Collect feedback from various roles involved in EHR documentation for influenza cases. Compile findings and recommend solutions to improve documentation processes, ensuring ease of use for clinical staff.",
+        "Ensure that integration processes align with EHR objectives by collaborating with IT teams and providing updates on the progress of EHR implementations. Address training gaps that may arise during the data collection phase.",
+        "Ensure that integration processes align with EHR objectives by collaborating with IT teams and providing updates on the progress of EHR implementations. Address training gaps that may arise during the data collection phase.",
+        "Work collaboratively with other departments to ensure all project milestones are achieved as scheduled. Assist in organizing rapport for meetings with hospital leadership to convey project progress.",
+        "Work collaboratively with other departments to ensure all project milestones are achieved as scheduled. Assist in organizing rapport for meetings with hospital leadership to convey project progress."
+    ],
+    "Week 3": [
+        "Complete data collection for seasonal influenza cases, addressing any discrepancies identified by Quality Assurance Testers. Conduct first round of data analysis on collected data to identify trends and present preliminary findings in a structured meeting format for feedback. Prepare to collaborate closely with Help Desk Support to gain insights on data documentation issues.",
+        "Complete data collection for seasonal influenza cases, addressing any discrepancies identified by Quality Assurance Testers. Conduct first round of data analysis on collected data to identify trends and present preliminary findings in a structured meeting format for feedback. Prepare to collaborate closely with Help Desk Support to gain insights on data documentation issues.",
+        "Enhance testing protocols based on feedback from the previous week, ensuring a preventative approach based on the FAQ data collected by Help Desk Support. Execute further rounds of QA checks on the influenza data entries focusing on reliability and effectiveness of data collection. Summarize findings for team presentations, emphasizing collaborative recommendations with Data Analysts.",
+        "Enhance testing protocols based on feedback from the previous week, ensuring a preventative approach based on the FAQ data collected by Help Desk Support. Execute further rounds of QA checks on the influenza data entries focusing on reliability and effectiveness of data collection. Summarize findings for team presentations, emphasizing collaborative recommendations with Data Analysts.",
+        "Analyze patterns from support tickets related to EHR data input for influenza cases, addressing recurring challenges specified by other team members. Collaborate closely with Quality Assurance Testers to address technical issues impacting effective data entry based on real-time feedback from users. Revise training materials and support documents based on the analysis results and share them in team meetings.",
+        "Analyze patterns from support tickets related to EHR data input for influenza cases, addressing recurring challenges specified by other team members. Collaborate closely with Quality Assurance Testers to address technical issues impacting effective data entry based on real-time feedback from users. Revise training materials and support documents based on the analysis results and share them in team meetings.",
+        "Review collected data for consistency with entered records during analysis. Collaborate closely with Data Analysts during the trend analysis while aligning findings with medical record standards. Prepare reports on data discrepancies for further discussion.",
+        "Review collected data for consistency with entered records during analysis. Collaborate closely with Data Analysts during the trend analysis while aligning findings with medical record standards. Prepare reports on data discrepancies for further discussion.",
+        "Analyze feedback from team members surrounding project implementations about EHR data collection. Provide actionable insights into improving the processes based on user experience.",
+        "Analyze feedback from team members surrounding project implementations about EHR data collection. Provide actionable insights into improving the processes based on user experience.",
+        "Analyze collected data and address any deficiencies noted in previous meetings. Provide insights on refining project processes based on stakeholder feedback. Solidify communications with team members for optimizing project success.",
+        "Analyze collected data and address any deficiencies noted in previous meetings. Provide insights on refining project processes based on stakeholder feedback. Solidify communications with team members for optimizing project success.",
+        "Collaborate with the Clinical Lead to ensure documentation of all procedures during data collection. Confirm that EHR functionalities meet all necessary requirements for accurate seasonal influenza tracking.",
+        "Collaborate with the Clinical Lead to ensure documentation of all procedures during data collection. Confirm that EHR functionalities meet all necessary requirements for accurate seasonal influenza tracking.",
+        "Assess completed integrations against outlined objectives, suggesting future enhancements for usability improvements. Gather user feedback to refine support materials associated with EHR usage.",
+        "Assess completed integrations against outlined objectives, suggesting future enhancements for usability improvements. Gather user feedback to refine support materials associated with EHR usage.",
+        "Participate in deciding regarding project pivots or reassignments as needed for targeted results. Ensure all project deliverables are met according to timelines set out in initial meetings.",
+        "Participate in deciding regarding project pivots or reassignments as needed for targeted results. Ensure all project deliverables are met according to timelines set out in initial meetings."
+    ],
+    "Week 4": [
+        "Finalize detailed analysis of seasonal influenza trends based on team feedback, ensuring accuracy as ensured by QA findings. Prepare a summary report detailing findings, trends, and insights for presentation to clinical leads and stakeholders, ensuring the report meets the documentation standards emphasized by Medical Records Specialists. Collaborate with Quality Assurance Testers to ensure full alignment on the collected data accuracy.",
+        "Finalize detailed analysis of seasonal influenza trends based on team feedback, ensuring accuracy as ensured by QA findings. Prepare a summary report detailing findings, trends, and insights for presentation to clinical leads and stakeholders, ensuring the report meets the documentation standards emphasized by Medical Records Specialists. Collaborate with Quality Assurance Testers to ensure full alignment on the collected data accuracy.",
+        "Conduct a final review of collected data ensuring it meets all required standards for accuracy with assistance from Help Desk Support. Collaborate intensively with Data Analysts to adjust data collection strategies based on QA feedback correlating to the requirements specified by Clinical Leads. Assist in compiling the documentation necessary for the final report on seasonal influenza trends ensuring clarity for all stakeholders.",
+        "Conduct a final review of collected data ensuring it meets all required standards for accuracy with assistance from Help Desk Support. Collaborate intensively with Data Analysts to adjust data collection strategies based on QA feedback correlating to the requirements specified by Clinical Leads. Assist in compiling the documentation necessary for the final report on seasonal influenza trends ensuring clarity for all stakeholders.",
+        "Conduct follow-up training sessions or refresher courses based on outstanding challenges noted during the data entry process, ensuring continual support. Finalize updated user manuals and FAQs addressing complex concerns from both RNs and Medical Records Specialists. Prepare a detailed report on Help Desk Support's impact on the data collection phase, ensuring recognition of collaborative efforts across departments.",
+        "Conduct follow-up training sessions or refresher courses based on outstanding challenges noted during the data entry process, ensuring continual support. Finalize updated user manuals and FAQs addressing complex concerns from both RNs and Medical Records Specialists. Prepare a detailed report on Help Desk Support's impact on the data collection phase, ensuring recognition of collaborative efforts across departments.",
+        "Summarize reflections and insights gained from data collection, reporting any emergent practices that may have improved EHR utilization. Prepare a final report outlining conclusions drawn from seasonal influenza data and providing recommendations for future analysis.",
+        "Summarize reflections and insights gained from data collection, reporting any emergent practices that may have improved EHR utilization. Prepare a final report outlining conclusions drawn from seasonal influenza data and providing recommendations for future analysis.",
+        "Finalize the documentation of feedback and analyses gathered throughout the four weeks. Present findings related to EHR usability and influenza data collection efficacy during a final stakeholder meeting.",
+        "Finalize the documentation of feedback and analyses gathered throughout the four weeks. Present findings related to EHR usability and influenza data collection efficacy during a final stakeholder meeting.",
+        "Review all project deliverables and ensure project outcomes align with initial goals. Prepare a report summarizing the project performance compared to pre-established objectives. Facilitate a closing meeting for stakeholders to discuss the next steps.",
+        "Review all project deliverables and ensure project outcomes align with initial goals. Prepare a report summarizing the project performance compared to pre-established objectives. Facilitate a closing meeting for stakeholders to discuss the next steps.",
+        "Facilitate the review of changes made during the project timeline to ensure engagement of all staff. Document key lessons learned from the project and provide recommendations for future initiatives regarding EHR usage.",
+        "Facilitate the review of changes made during the project timeline to ensure engagement of all staff. Document key lessons learned from the project and provide recommendations for future initiatives regarding EHR usage."
+    ]
+}
+
+# Converting the data into a DataFrame
+df = pd.DataFrame(data)
+
+# Display the DataFrame
+print(df)
+```
+
+This DataFrame summarizes the detailed expected goals for each of the company's employees over the next four weeks, ensuring all teams are aligned with the overarching goal of completing the EHR collection and seasonal influenza trend analysis.

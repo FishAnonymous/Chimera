@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Review project plan and presentation for the kickoff meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final preparations for the kickoff meeting: Confirm meeting room, presentation setup, and attendee list."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Project Kickoff Meeting: Present the finalized project plan, outlining goals, timelines, roles, and responsibilities for each team. Facilitate a Q&A session to address concerns and ensure alignment across all departments. @PEOPLE"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Post-kickoff meeting: Compile feedback and action items from the meeting. Update the project plan accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Read an article about the current SEC regulatory environment."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @legal-1 and @comp-1: Discuss regulatory compliance requirements for registering a market-neutral statistical arbitrage fund. Establish a timeline for preparing and submitting required documentation to the SEC. Understand the role of @audit-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update project plan with regulatory compliance milestones. Create a separate risk register to track potential regulatory hurdles."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule individual meetings with team leads for the following week to deep-dive into specific task breakdowns and resource allocation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and consolidate all project documentation. Ensure everything is readily accessible in the project management system."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office. Relax and catch up on personal emails."
+    }
+]

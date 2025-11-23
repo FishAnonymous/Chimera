@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and await confirmation from @External Auditor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare an internal review meeting agenda for the compliance documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Conduct the internal review meeting with the team to finalize compliance documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement any final changes suggested during the internal review meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize and submit the document for fund registration under SEC regulations."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, grab coffee. Catch up on tech news from various sources including The Verge and Wired."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any code review comments from yesterday's commits. Refactor code as needed."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin developing the trade routing module. Implement logic for selecting the appropriate exchange or venue for order execution."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and evaluate different order routing algorithms. Consider factors like latency, fill rate, and market impact."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab sushi with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a basic order routing algorithm based on the research findings. Focus on simplicity and efficiency."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Integrate the trade routing module with the order management system. Ensure that orders are routed correctly based on the selected algorithm."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Write unit tests for the trade routing module. Ensure that the routing logic is functioning correctly and that orders are being routed to the appropriate venues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Conduct a code review with @sdev-1 to get feedback on the trade routing module."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Commit changes, and make a note of feedback from @sdev-1 for tomorrow's improvements."
+    }
+]

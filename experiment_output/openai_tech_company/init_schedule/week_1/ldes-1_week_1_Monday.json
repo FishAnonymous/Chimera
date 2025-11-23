@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the game\u2019s narrative document to understand the thematic requirements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research various level designs that align with the game\u2019s narrative. Look for inspiration from similar games and document findings."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile notes and images related to researched level designs for reference."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating rough sketches of multiple level layouts based on the research."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Identify key gameplay areas within the sketches. Make annotations for reference."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the rough sketches to @lvdn-1 (Level Designer) for initial comments and feedback."
+    }
+]

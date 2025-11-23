@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the previous week's progress and align with the team on the week's objectives."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss and define the investment strategy for market-neutral approaches."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review existing quantitative models and identify gaps for market-neutral strategies. Document findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @larch-1 and @sdev-1, @sdev-2 to discuss the technical implementation of the investment strategy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft the selection criteria for asset managers focusing on alternative investments for UHNWIs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the draft with @legal-1 and @comp-1 to ensure compliance with SEC regulations."
+    }
+]

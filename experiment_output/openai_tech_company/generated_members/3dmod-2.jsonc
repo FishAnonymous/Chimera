@@ -1,0 +1,27 @@
+{
+    "name": "Lucas Bennett",
+    "id": "3dmod-2",
+    "ip": "10.0.0.24",
+    "age": 26,
+    "role": "3D Modeler/Animator",
+    "description": "Specializes in creating high-quality 3D models and animations for game characters and environments. Collaborates with the design team to ensure that assets fit the aesthetic style of the game and meet technical requirements.",
+    "tools": [
+        "Maya",
+        "Blender",
+        "ZBrush",
+        "Substance Painter",
+        "Photoshop"
+    ],
+    "mbti": "INFP",
+    "interests": "digital art, hiking",
+    "personality": "Imaginative and detail-oriented, enjoys the process of creating art that tells a story. Prefers a quiet work environment but loves brainstorming creative ideas in small groups.",
+    "application": {
+        "ModelingToolkit": {
+            "account_name": "mmdl-123456",
+            "password": "lucasB@model",
+            "permissions": "3d_modeler_animator"
+        }
+    },
+    "email": "mmdl-123456@corp.com",
+    "container_id": "f39f8d2e7b34"
+}

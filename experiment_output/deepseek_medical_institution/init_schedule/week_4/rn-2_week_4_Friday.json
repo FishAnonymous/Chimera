@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any loose ends from the week. Review the completed patient data entries."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 @da-2 to discuss any data analysis needs for the influenza trend analysis project."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break and chat with colleagues about the week's progress and any fun plans for the weekend."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize any remaining documentation and ensure all patient data is correctly entered and reviewed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a meal with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend a team meeting with all members to discuss the week's achievements and next steps. Provide your input on the EHR and training sessions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Wrap up the week by organizing your tasks and preparing for next week. Send a final email to @itpm-1 summarizing the week's work."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Relax and browse some nursing forums or websites to unwind before the weekend."
+    }
+]

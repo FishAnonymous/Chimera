@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the workstation and review the schedule for the day. Refresh memory on the agenda for the meeting with the clinical and health informatics team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare a concise presentation summarizing the proposed data quality metrics and the rationale behind them. Anticipate potential questions and prepare answers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @clinlead-1, @rn-1, @his-1 to discuss the proposed data quality metrics. Actively listen to their feedback and incorporate their suggestions into the metric definitions. Take detailed notes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Update the data quality metric definitions based on the feedback received in the meeting. Document any changes made and the rationale for those changes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin working on the methodology for calculating the data quality metrics. Define the specific SQL queries or scripts needed to extract the required data from the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read some articles related to data analysis."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the SQL queries for data extraction. Test the queries on a sample dataset to ensure they are accurate and efficient. Iterate as needed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @dba-1 to discuss access permissions for the EHR database and any potential performance issues related to running the data extraction queries. @PEOPLE: ['dba-1'] Topic: EHR Database Access and Performance Considerations"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Refine the SQL queries based on feedback from @dba-1 and adjust for any database limitations or performance constraints."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Start drafting the initial weekly data quality report template. Incorporate the agreed-upon visualizations and data elements. Focus on clarity and conciseness."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress. Make a list of remaining tasks for the week."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any urgent requests. Review progress from yesterday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue refining the character blockouts. Focus on anatomical accuracy. Use online anatomy tools as reference."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin roughing out the environment. Consult with @lvdn-1 on the level design to understand the key areas that need environmental models. The @lvdn-1, do you have the preliminary level design?"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start with blocking out the largest structures first. In Blender, add cubes and scale them into the desired size and rough placement. No details, just basic forms."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Listen to a podcast about game development."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue blocking out environment, focusing on establishing scale and composition within the game world. Use basic materials to differentiate the structures."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address the scale problem that might come up during environment modeling by creating a character model and placing it into the environment to compare the scale. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save, backup, document, shutdown. Look for some good coffee shops near by to visit tomorrow."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and catch up on any overnight notifications. Start with a strong coffee and mentally prepare for the week ahead."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: Character blockout, environment modeling, animation library. Prioritize character blockout as it informs the rest."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Gather Leon's character designs to understand his vision for the main characters. Pay close attention to proportions and key features."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Open Blender (my preferred tool) and create a new project file. Set up basic scene parameters like units and grid size."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start blockout of the first main character. Use simple shapes like cubes, spheres, and cylinders to define the head, torso, limbs, and key joints. Focus solely on getting the overall proportions correct."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Periodically step back and visually assess the blockout. Rotate the model to check proportions from different angles. Make adjustments as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a quick bite and take a walk to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the character blockout. Refine the shapes to better represent the character's anatomy, focusing on muscle groups and joint placement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Take a short break to browse Polycount forums for character modeling tips and tricks. Check for any new software updates or plugins that might be useful."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Resume character blockout. Start defining the secondary forms like the clavicle, scapula, and pelvis. Aim for a believable skeletal structure."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save the character blockout as 'character_blockout_v01.blend'. Document any issues encountered or adjustments needed for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Respond to emails and prepare for tomorrow's work."
+    }
+]

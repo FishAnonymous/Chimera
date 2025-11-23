@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the medical institution's OA system, check emails, and gather any updates related to the EHR data collection for influenza cases."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the established QA testing protocols for EHR data collection and prepare necessary tools or scripts for testing."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss implementation of QA testing processes and ensure alignment on EHR functionalities."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin implementing QA testing processes on the EHR data collection for influenza cases as per established protocols."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing QA testing processes and document initial findings."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Contact @Data Analysts to request current influenza case data for testing and analysis."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review any received data from Data Analysts and prepare for further testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the OA system and prepare for the next day's tasks."
+    }
+]

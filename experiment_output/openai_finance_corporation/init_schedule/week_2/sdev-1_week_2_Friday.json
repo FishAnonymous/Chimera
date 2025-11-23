@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review any outstanding tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize development on the transaction history component and ensure integration with backend."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in a code review session for all frontend components developed this week with @sdev-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Complete final testing of the developed components ensuring functionality."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Submit all documentation and code changes to the repository."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "End of week wrap-up, plan tasks for next week, and check in with teammates on their progress."
+    }
+]

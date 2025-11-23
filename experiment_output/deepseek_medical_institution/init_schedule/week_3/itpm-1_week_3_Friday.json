@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the week's progress and identify any outstanding tasks or issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to review the final testing results for the EHR system before the weekend."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @dba-1 to ensure all data backups are completed and secure for the weekend."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a weekly summary report for the EHR collection and influenza trend analysis projects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the weekly summary report to all stakeholders, including @clinlead-1, @pchmp-1, and @ehrv-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with the project team to review the week's achievements and plan for the next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the project timeline and risk register based on the week's progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week's work and ensure all tasks are documented and assigned for the following week."
+    }
+]

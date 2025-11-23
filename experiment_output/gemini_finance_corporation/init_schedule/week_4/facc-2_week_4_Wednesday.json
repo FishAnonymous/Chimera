@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue preparing the audit checklist. Review accounting standards and regulatory requirements to ensure completeness."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Gather and organize the documents and information listed on the audit checklist. Identify any gaps or missing information."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @AUDIT-1 (External Auditor) to schedule an introductory call. Provide a brief overview of the fund and its investment strategy. @PEOPLE (AUDIT-1) Topic: Introductory Call and Audit Planning"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Introductory call with @AUDIT-1. Discuss the audit scope, timeline, and required documentation. Answer any questions they may have about the fund."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Based on the discussion with @AUDIT-1, refine the audit checklist and prioritize the preparation of key documents."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the accounting and reporting framework document again to ensure that it is consistent with the audit requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin drafting a memo summarizing the fund's accounting policies and procedures for the auditor's review."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day. Review completed tasks and plan for tomorrow."
+    }
+]

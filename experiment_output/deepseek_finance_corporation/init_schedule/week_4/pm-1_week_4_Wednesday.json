@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight updates. Prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct stakeholder presentation dry run with @ir-1, @mkt-1, and @cio-1. Gather feedback and make necessary adjustments."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Follow up with @onbd-1 to ensure client onboarding processes are aligned with fund setup progress."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review final compliance and regulatory updates with @comp-1 and @legal-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @sdev-2 and @larch-1 to review software development progress and address any blockers."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @audit-1 to ensure external audit requirements are being met."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare and send daily progress report to @coo-1 and @cio-1."
+    }
+]

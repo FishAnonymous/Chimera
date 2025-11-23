@@ -1,0 +1,27 @@
+{
+    "name": "Felix Zhang",
+    "id": "uiux-1",
+    "ip": "10.0.0.27",
+    "age": 29,
+    "role": "UI/UX Designer",
+    "description": "Responsible for creating intuitive and engaging user interfaces that enhance player experience. Works closely with the design and development teams to ensure a seamless interaction between gameplay and UI elements.",
+    "tools": [
+        "Figma",
+        "Adobe XD",
+        "Sketch",
+        "InVision",
+        "Zeplin"
+    ],
+    "mbti": "ISFP",
+    "interests": "graphic design, urban exploration",
+    "personality": "Creative and empathetic, enjoys crafting experiences that resonate with users. Prefers a flexible work environment where ideas can flow freely and collaboration is encouraged.",
+    "application": {
+        "DesignHub": {
+            "account_name": "udsg-873294",
+            "password": "felixZ@uiux",
+            "permissions": "uiux_designer"
+        }
+    },
+    "email": "udsg-873294@corp.com",
+    "container_id": "c8f7b420ed5a"
+}

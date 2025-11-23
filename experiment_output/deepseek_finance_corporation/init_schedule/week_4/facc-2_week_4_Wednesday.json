@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks. Review the draft financial statements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Complete the income statement and start on the cash flow statement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @pm-1 to provide an update on the financial statements' progress."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Monitor daily cash flows and update investment valuations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the cash flow statement and compile all sections into a complete monthly financial report."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ir-1 and @coo-1 to review the financial statements before final submission."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any feedback or corrections required on the financial statements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for the next day's tasks and organize files."
+    }
+]

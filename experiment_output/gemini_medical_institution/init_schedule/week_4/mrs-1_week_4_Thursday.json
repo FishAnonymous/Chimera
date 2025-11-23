@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any emails or updates, including responses from @MRS-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any outstanding queries or issues related to data abstraction."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue data abstraction, aiming for at least 45 records today to ensure the weekly goal is met. Prioritize the easiest and most accessible electronic records first."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the abstracted records from the morning batch."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue with data abstraction, striving to complete the majority of today's target before lunch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Continue focusing on identifying and retrieving electronic health records for influenza patients from the 2023-2024 season."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the abstracted records of the afternoon batch, checking for consistency and accuracy in data entry. Make any necessary corrections or clarifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "If approaching the weekly goal, begin reviewing all abstracted records to identify any potential gaps or inconsistencies in the data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update progress tracker. Assess progress against weekly goal. Prepare for tomorrow's work."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow. Review the SOP for influenza data abstraction to ensure adherence to guidelines and data integrity."
+    }
+]

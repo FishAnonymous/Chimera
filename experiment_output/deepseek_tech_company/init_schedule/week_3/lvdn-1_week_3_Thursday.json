@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prioritize feedback from yesterday's review."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on adjusting lighting based on art team feedback. Ensure it aligns with the game's mood."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @tart-1 to troubleshoot any technical issues with lighting or props."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine environmental storytelling elements based on narrative team feedback. Coordinate with @ndes-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the level again after adjustments. Ensure performance is stable."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @qtest-1 to discuss any potential bugs or issues found during testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Fix any identified bugs and optimize further if needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse through photography websites for lighting inspiration."
+    }
+]

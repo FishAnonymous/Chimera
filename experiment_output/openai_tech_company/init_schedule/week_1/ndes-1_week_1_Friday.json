@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize the presentation materials based on the week's progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the week\u2019s narrative themes, one-page synopsis, and integration plan to the entire team for feedback and discussion."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss any remaining questions or concerns with team members and gather additional insights to refine the narrative."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a final checklist covering all narrative elements that need to be addressed moving forward into the next week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a summary email to the team outlining tasks for the next week based on discussions and decisions made during the presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Reflect on the week\u2019s accomplishments, jotting down any personal notes for improvement and ideas for the next phase of narrative development."
+    }
+]

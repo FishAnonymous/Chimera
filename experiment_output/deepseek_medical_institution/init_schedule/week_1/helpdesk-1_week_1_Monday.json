@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review any pending help desk tickets from the weekend."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research and evaluate potential help desk ticketing systems suitable for EHR-related issues. Take notes on features and pricing."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email to @itpm-1 and @ehrv-1 to discuss the requirements and budget for the ticketing system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break and browse creative websites for inspiration on user-friendly interfaces."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Draft a proposal for the help desk ticketing system, including potential channels for user support (email, phone, chat)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft proposal and refine it based on initial feedback from the morning."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Set up a test environment for one of the ticketing systems to evaluate its functionality."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document findings from the test environment and prepare a summary for the team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by organizing notes and sending a follow-up email to @itpm-1 about the progress."
+    }
+]

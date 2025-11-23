@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Address any last-minute feedback on the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present findings to the team. Discuss next steps and potential action items."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Celebrate the week's progress with a coffee."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up on action items from the presentation. Assign tasks if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all findings and processes for future reference."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @comp-1 and @legal-1 to ensure all documentation complies with SEC regulations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize documentation and submit for review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week by planning tasks for the next week."
+    }
+]

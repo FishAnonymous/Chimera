@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to review yesterday's meeting notes and set objectives for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Contact @Quality Assurance Tester to discuss upcoming testing phases and any needs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare the EHR system for the next round of testing by refining integration points."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Participate in meetings with @Physician Champion to gather insights on clinical requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the seasonal influenza trend data and integrate findings into EHR."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test data collection functionalities in EHR for bugs and inconsistencies."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @Help Desk Support regarding user-reported issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document any testing results and prepare for the next day."
+    }
+]

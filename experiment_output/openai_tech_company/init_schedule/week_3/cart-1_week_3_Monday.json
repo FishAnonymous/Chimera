@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from previous week's sketches."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Select the initial sketches that will be refined into detailed concept art."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start refining the first environment concept sketch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the first environment concept sketch."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin refining the second environment concept sketch."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the work and log out."
+    }
+]

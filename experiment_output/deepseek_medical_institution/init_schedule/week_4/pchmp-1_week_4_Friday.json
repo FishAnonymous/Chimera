@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any final feedback on the summary report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the project success summary to hospital leadership, including key outcomes and next steps."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @trainer-1 to discuss any additional training needs for clinical staff based on project outcomes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all project documentation and archive relevant files."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send a thank-you email to all team members for their contributions to the project."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and plan for any follow-up activities in the coming weeks."
+    }
+]

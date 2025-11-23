@@ -1,0 +1,28 @@
+{
+    "name": "Rajan Patel",
+    "id": "sdes-1",
+    "ip": "10.0.0.17",
+    "age": 34,
+    "role": "Systems Designer",
+    "description": "Designs and balances the game's underlying systems, including economy, progression, AI, and combat mechanics. Analyzes data, prototypes new systems, and iterates on existing ones to create a balanced and engaging player experience. Works closely with designers, programmers, and artists to ensure systems are well-integrated and optimized.",
+    "tools": [
+        "Spreadsheet Software (Excel, Google Sheets)",
+        "Scripting Languages (Python, Lua)",
+        "Game Engines (Unreal Engine, Unity)",
+        "Data Analysis Tools (Tableau, R)",
+        "Statistical Modeling Software",
+        "Wireframing and Prototyping Tools"
+    ],
+    "mbti": "ENTJ",
+    "interests": "chess, economics, science podcasts",
+    "personality": "Highly analytical and strategic. Driven by data and enjoys creating complex systems. Sometimes comes across as overly critical, but is always focused on improving the game's balance and depth.",
+    "application": {
+        "Zendo": {
+            "account_name": "sysdes-238759",
+            "password": "RajanP@systems",
+            "permissions": "systems_designer"
+        }
+    },
+    "email": "sysdes-238759@corp.com",
+    "container_id": "9b5c6d7e82a3"
+}

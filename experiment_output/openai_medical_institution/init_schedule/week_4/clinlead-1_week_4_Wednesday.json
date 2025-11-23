@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review feedback from @ehrv-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Discuss the feedback with @ehrdev-1 and @ehrdev-2 to make necessary adjustments to the proposal."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on incorporating the feedback into the testing proposal."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @his-1 and @his-2 to align on how health informatics can support the feedback mechanism."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Launch a survey among clinical staff to gather initial feedback on EHR data features."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review survey questions with @clinlead-1 to ensure clarity and relevance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize survey details and send it out to clinical staff."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document responses and plan for follow-up analysis."
+    }
+]

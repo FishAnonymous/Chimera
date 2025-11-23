@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Log in and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the centralized tracking system for data quality issues logged so far. Identify any patterns or trends in the types of issues being reported."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Contact @ehrdev-1 and @ehrdev-2 via email to schedule a meeting to discuss potential data integration issues that could be contributing to the data quality problems. Topic: Data Integration Issues and EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @ehrdev-1 and @ehrdev-2 to discuss data integration and extract, transform and load."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the discussion with @ehrdev-1 and @ehrdev-2. Update the centralized tracking system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Reviewing documentation related to EHR structure."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin conducting root cause analysis for the data quality issues identified. Start with the most frequently occurring or most impactful issues. Use the '5 Whys' technique or other root cause analysis methods."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @dba-1 to discuss data storage and potential corruption. Topic: Root Cause Analysis for Data Corruption"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the root cause analysis process and findings for each data quality issue. Include the steps taken, the data reviewed, and the conclusions reached. Update the tracking system with the root cause findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Contact @qatest-1 and @qatest-2 to ask about suggestions regarding the identification of the issues. Topic: Data Quality Assurance Suggestions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the work log and plan for tomorrow."
+    }
+]

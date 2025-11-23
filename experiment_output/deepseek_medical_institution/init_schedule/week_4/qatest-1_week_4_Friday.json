@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback on the report from @itpm-1 or @clinlead-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback and finalize the data quality audit report."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break, relax with a coffee."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Submit the final report to all stakeholders via email."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a debrief meeting with @itpm-1 and @clinlead-1 to discuss lessons learned."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update personal notes and document key takeaways from the week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Clean up workspace and organize files for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks and set personal goals."
+    }
+]

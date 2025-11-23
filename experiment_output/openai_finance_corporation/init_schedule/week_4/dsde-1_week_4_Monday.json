@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the company system, check emails for any updates, and review the weekly objectives."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Gather necessary data for the statistical model. Contact @qres-1 and @qres-2 for any additional data sources or assistance needed."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start analyzing the gathered data, focusing on risk-return profiles."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the statistical model, implementing necessary algorithms for data evaluation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the initial results of the model and make necessary adjustments."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day and document findings."
+    }
+]

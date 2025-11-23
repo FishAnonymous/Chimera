@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, check calendar for the day."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and respond to important requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on researching news sentiment data. Explore different providers and their methodologies for sentiment scoring."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Evaluate the accuracy and reliability of the news sentiment data. Compare sentiment scores from different providers."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Design data cleaning procedures for the news sentiment data. Handle different text formats, languages, and potential biases."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break, read articles about state-of-art tech in data science"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a data cleaning script for the news sentiment data. Remove irrelevant information and standardize the data format."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Integrate the cleaned news sentiment data with the stock price and macroeconomic data. Align the data based on timestamps and company identifiers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the integrated dataset and evaluate its quality. Identify any data inconsistencies or alignment issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Refine the data integration process based on the testing results. Incorporate data validation checks and error handling."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Review feedback received from testing and plan tweaks for blockouts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @3dmod-1 and @3dmod-2 (3D Modeler/Animators) to enhance visual fidelity in blockouts based on feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate changes into the blockouts and adjust level design to better meet pacing needs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation of the updated blockouts for sharing with the development team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Draft an email to share updated blockouts with the development team for feedback @cdev-1, @cdev-2, @cdev-3, @sdes-1, @sdes-2, @prod-1."
+    }
+]

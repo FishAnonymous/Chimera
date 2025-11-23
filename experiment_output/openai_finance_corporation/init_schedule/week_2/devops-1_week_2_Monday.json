@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project's requirements for cloud infrastructure setup."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @larch-1 to discuss architecture requirements for the cloud infrastructure."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research suitable cloud platforms for fund management applications."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a cloud infrastructure design proposal based on the research findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the cloud infrastructure design proposal to @pm-1 for feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start setting up the initial cloud environment for fund management applications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @sdev-1 regarding any potential integration issues with the current systems."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day."
+    }
+]

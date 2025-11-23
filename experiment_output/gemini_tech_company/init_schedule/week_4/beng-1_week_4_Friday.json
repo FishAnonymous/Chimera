@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Finish the new asset management system documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the entire week and evaluate the progress in terms of automated build pipelines and asset versioning systems."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Identify any issues encountered during the week and document them for further investigation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the identified issues create a list of tasks and prioritize them."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research on how to distribute builds to testers. HockeyApp and TestFlight are potential options."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Present the accomplishments to @Lpro-1 and discuss the plans for the upcoming week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the weekly task list and prepare to shut down for the weekend."
+    }
+]

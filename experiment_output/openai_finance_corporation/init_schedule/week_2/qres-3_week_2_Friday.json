@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the risk factors documentation and investment themes report."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send final reports to @audit-1 and @comp-1 for compliance checks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a follow-up meeting for revisions with @legal-1 to review compliance outputs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare for a weekend review and reflection on the week's work."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and begin weekend."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the presentation for the executive team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the investment strategy and selection criteria to the executive team, including @coo-1, @pm-1, and @legal-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate feedback from the executive team into the strategy document."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @dsde-1 and @dsde-2 to discuss data requirements for backtesting the investment strategy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review backtesting results and refine the strategy as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the compliance documentation with @comp-1."
+    }
+]

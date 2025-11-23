@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm scheduled meetings with prospective investors."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the first investor meeting, presenting the fund\u2019s strategy and addressing questions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Debrief with @cio-1 and @coo-1 on the investor meeting outcomes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the second investor meeting, adjusting the presentation based on earlier feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with investors via email, providing additional information as requested."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the CRM system with meeting notes and next steps."
+    }
+]

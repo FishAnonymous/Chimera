@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check the project dashboard for any overnight updates or alerts."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Respond to any urgent emails or messages from stakeholders."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to review the resolution of any bugs or issues identified during testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @trainer-1 to finalize the training schedule for staff on the new EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send a reminder email to all staff about upcoming training sessions and the importance of attendance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the latest influenza trend analysis report and prepare a summary for the clinical team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to discuss any clinical concerns or feedback regarding the EHR system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with @ehrv-1 regarding any pending vendor issues or updates needed for the EHR system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project documentation and prepare for the next day's tasks."
+    }
+]

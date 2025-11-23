@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review schedule and prepare for the day. Check emails for urgent requests."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Review project documentation related to EHR collection and influenza trend analysis, focusing on clinical workflows. Prepare preliminary questions for clinical staff."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 (Clinical Lead) to discuss the best approach for gathering feedback from physicians and nurses. Brainstorm specific questions to address current challenges and pain points in data entry and reporting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft email invitation to physicians and nurses, @rn-1 @rn-2 @rn-3, requesting feedback on EHR usability, data collection clarity, and training effectiveness. Clearly state the purpose and benefits of their participation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a structured feedback form (digital and paper versions) focusing on specific areas: ease of data entry, clarity of data fields, perceived value of training, and suggestions for improvement. Send draft to @clinlead-1 and @qatest-1 for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback on the feedback form from @clinlead-1 and @qatest-1. Make necessary revisions and finalize the forms. Distribute the forms via email and place physical copies in strategic locations (nurse stations, physician lounges)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Attend the regularly scheduled Project Meeting. Pay close attention to discussions around data quality issues, integration challenges, and potential roadblocks to EHR collection. Take detailed notes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze notes from the project meeting. Identify action items relevant to my role and prioritize them. Follow up with @itpm-1 (IT Project Manager) on a key decision discussed regarding data storage capacity."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review initial responses to the feedback form. Identify trends and common themes. Prepare a preliminary summary to share with @clinlead-1 tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's tasks: Review the detailed schedule and prepare for the next day. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

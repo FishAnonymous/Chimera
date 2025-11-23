@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails, analyze data from influenza case documentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @Data Analysts to discuss trends and patterns in influenza cases."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue providing feedback regarding clinical interactions to the Clinical Lead."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Assist @Medical Records Specialist with any discrepancies found in documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails for responses to prior communications and plan for the next day's tasks."
+    }
+]

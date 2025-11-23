@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute queries. Review the finalized operational plans."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @dsde-1 and @dsde-2 to ensure data science requirements are integrated into the operational plans."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a final review of all documents (operational plans, resource requirements, timeline) with @pm-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email all team members to confirm readiness for the fund launch and provide updates on next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of the week's achievements and next steps for the executive team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Present the summary report to @cio-1 and @ir-1 for final approval."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by organizing all documents and ensuring they are stored in the shared drive."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for the following week and set personal goals based on this week's progress."
+    }
+]

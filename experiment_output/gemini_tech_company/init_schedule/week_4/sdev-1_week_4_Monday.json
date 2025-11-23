@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and relevant documents for meeting minutes. Since no specific goals were outlined for me in week 4 meeting minutes, I'll need to clarify priorities. I will start by writing up a plan to propose."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft an email to @PROD-1 (Producer) and @LPRO-1 (Lead Programmer) requesting clarification on server-side priorities for week 4. The email will inquire about ongoing tasks, potential roadblocks, and any new features or bug fixes requiring immediate attention. Subject: Week 4 Server-Side Priorities - Clarification Needed"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "While awaiting a response, I will review the existing codebase, focusing on areas identified as potentially problematic in previous weeks or those undergoing recent modifications. I will be using vim."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing the codebase, and potentially identifying areas for optimization or refactoring. Explore the possibility of implementing some automated tests for current server functions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Assuming a response from @PROD-1 or @LPRO-1 has been received, I'll analyze the provided information and formulate a detailed plan for the rest of the week. This plan will include specific tasks, estimated time commitments, and potential dependencies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the week's plan and share it with @PROD-1 and @LPRO-1 for final approval. Subject: Week 4 Server-Side Plan - Proposed"
+    }
+]

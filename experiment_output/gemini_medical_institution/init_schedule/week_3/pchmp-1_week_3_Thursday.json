@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review schedule and prepare for the day. Check emails."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Finalize the presentation for this afternoon's meeting with the physicians, highlighting feedback received and system updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check in with @trainer-1 about progress on the update of the training material."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @his-1 (Health Informatics Specialist) to discuss the regulatory requirements and reporting standards for influenza data. Ensure that the data collection and analysis processes comply with all applicable guidelines. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the test plan developed by @qatest-1 and @qatest-2. Ensure that it adequately covers all critical functionalities and potential areas of failure."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with physicians @PEOPLE (selected physicians from Tuesday) to discuss feedback and potential solutions. Facilitate discussion and encourage open communication. Capture key insights and action items."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue the Meeting with physicians @PEOPLE (selected physicians from Tuesday) to discuss feedback and potential solutions. Facilitate discussion and encourage open communication. Capture key insights and action items."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Debrief with @clinlead-1 following the physician feedback meeting. Discuss key takeaways and next steps. Refine the action plan based on the feedback received."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the key insights, action items, and decisions made during the physician feedback meeting. Share the documentation with @itpm-1 and relevant team members. @PEOPLE"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow: Review feedback, summarize key learnings from the week, and plan tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

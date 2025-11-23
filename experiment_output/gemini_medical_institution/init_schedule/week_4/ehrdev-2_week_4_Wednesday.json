@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, review final preparations for the EHR vendor meeting. Double-check all documentation and talking points."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize questions for the EHR vendor, focusing on development options, cost estimates, and potential integration challenges. Prepare backup questions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @ehrv-1 (EHR Vendor Liaison) to discuss the feasibility of implementing the required updates or modifications and obtain cost estimates and timelines for development and implementation. Record meeting minutes and key decisions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Reflect on the morning's meeting."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the key takeaways from the meeting with the EHR vendor, including cost estimates, timelines, and any identified risks or limitations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Share the meeting summary with @itpm-1 (IT Project Manager) and @clinlead-1 (Clinical Lead) to obtain their feedback and approval on the proposed approach. @PEOPLE: itpm-1, clinlead-1; Topic: EHR Vendor Meeting Summary and Next Steps"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin evaluating different integration options based on the information gathered from the EHR vendor. Website Browsing: Research different integration frameworks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the technical specification document with the latest information from the EHR vendor. Identify potential risks and mitigation strategies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and prepare a summary of the day's accomplishments."
+    }
+]

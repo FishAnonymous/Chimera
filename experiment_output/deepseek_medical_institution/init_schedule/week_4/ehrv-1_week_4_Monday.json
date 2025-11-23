@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review any updates or communications from the EHR vendor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a call with the EHR vendor to discuss the progress of system updates. Prepare a list of questions and concerns to address during the call."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Call with the EHR vendor to ensure updates are on track. Take detailed notes on the discussion for documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @ehrdev-1 and @ehrdev-2 to discuss any technical issues or updates needed based on the vendor call."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review system performance metrics post-implementation. Identify any anomalies or issues that need attention."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @itpm-1 and @clinlead-1 with a summary of the vendor call and any system performance concerns."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all interactions with the EHR vendor in the shared drive for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse industry news and updates on EHR systems to stay informed."
+    }
+]

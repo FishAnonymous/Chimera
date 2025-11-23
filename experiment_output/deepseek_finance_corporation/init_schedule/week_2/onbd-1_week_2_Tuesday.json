@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries from prospective clients."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule introductory meetings with prospective clients, confirming dates and times."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare personalized agendas for each client meeting, highlighting investment strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @cio-1 to discuss key investment strategies to present during client meetings."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and finalize meeting materials, ensuring all compliance and legal aspects are covered."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out meeting confirmations and agendas to scheduled clients."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by updating the client onboarding tracker."
+    }
+]

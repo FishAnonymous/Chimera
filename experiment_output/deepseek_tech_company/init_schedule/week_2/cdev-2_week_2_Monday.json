@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the core gameplay features requirements and create a task breakdown."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start prototyping character abilities. Implement basic movement mechanics (e.g., sprinting, crouching)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ldes-1 to discuss and align on character ability design and enemy AI behavior expectations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue implementing character abilities, focusing on jump and melee attack mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review enemy AI requirements. Begin setting up basic AI behavior (e.g., patrol, chase)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @sdes-1 and @sdes-2 to discuss enemy AI logic and integration with gameplay systems."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Debug and refine AI behavior. Test interactions between player abilities and enemy AI."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and issues. Plan for next day's tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Summarize risk-reward profiles of market-neutral strategies. Review literature and internal models."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Calculate risk metrics (e.g., VaR, CVaR) and reward metrics (e.g., CAGR) for different strategies."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Compare profiles across strategies (e.g., pairs trading, mean reversion) using Python/Pandas."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary table and visualizations for risk-reward profiles. Highlight trade-offs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @pm-1 and @coo-1 with the summary and request feedback on strategic alignment."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the summary based on feedback and integrate into the master report."
+    }
+]

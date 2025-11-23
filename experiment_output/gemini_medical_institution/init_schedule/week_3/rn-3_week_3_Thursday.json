@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the EHR system, and check emails. Review any communication from @ehrdev-1 and @ehrdev-2 regarding upcoming EHR integration enhancements or modifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized protocols and tools for influenza symptom assessment within the EHR. Pay attention to any reminders or prompts related to patient education materials available within the EHR."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address the first patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Enter patient data into the EHR for patients seen this morning, ensuring accuracy and completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address the second patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break, browse the lastest news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assess the third patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the standardized protocols and tools for influenza symptom assessment within the EHR. Address the third patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Assess the fourth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review EHR documentation from other nurses, specifically focusing on cases where influenza was ruled out. Identify any potential inconsistencies or areas where documentation could be improved."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Log out of the EHR system and prepare for departure."
+    }
+]

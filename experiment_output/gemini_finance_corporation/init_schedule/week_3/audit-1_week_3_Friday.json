@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar. Review the status of all tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the document outlining recommended changes to the fund's accounting policies and procedures. Share this document with @facc-1 (Fund Accountant) and @coo-1 (Chief Operating Officer)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a follow-up meeting with @facc-1 (Fund Accountant) to discuss the recommended changes in more detail and address any questions or concerns."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Finalize the preliminary audit plan based on all feedback received. Prepare a summary of the plan for presentation to senior management."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a brief presentation summarizing the key elements of the preliminary audit plan, including the scope, objectives, risk assessment, and audit procedures."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out the finalized audit plan to all relevant members"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all documentation prepared during the week to ensure accuracy and completeness. Organize files and prepare for storage."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's activities, prioritizing tasks and setting realistic deadlines."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Tidy up my workspace and leave for the weekend."
+    }
+]

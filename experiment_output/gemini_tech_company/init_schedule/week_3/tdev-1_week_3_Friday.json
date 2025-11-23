@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review Thursday's work."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize documentation for the automated build pipeline, including instructions for usage and troubleshooting. Create a wiki page or shared document for the team."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare a short presentation or demo of the automated build pipeline for the development team. Schedule a meeting to showcase its features and benefits with @lpro-1 and @beng-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Present the automated build pipeline to the development team. Gather feedback and address any questions or concerns."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Based on feedback, make any necessary adjustments to the automated build pipeline. Prioritize bug fixes and usability improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Review the overall tooling roadmap for the project."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on documentation and a user guide for the level editor prototype. Focus on explaining the core features and workflows."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a training session for the level designers on how to use the level editor prototype. Schedule a meeting with @lvdn-1 and @ldes-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct the training session for the level designers. Gather feedback and identify areas for improvement in the level editor prototype."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the feedback from the training session and outline the next steps for the level editor development. Submit weekly progress report."
+    }
+]

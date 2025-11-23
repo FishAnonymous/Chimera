@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize the budget presentation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Present the preliminary budget to the team in a meeting with @pm-1, @coo-1, and @cio-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any questions or concerns from the team and make real-time adjustments to the budget."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the budget based on team feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a detailed summary of the total preliminary budget for Week 1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send the finalized budget and summary to @pm-1 and @coo-1 for approval."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @legal-1 and @comp-1 to ensure all compliance-related costs are accounted for."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize files and notes, and prepare for the next week's tasks."
+    }
+]

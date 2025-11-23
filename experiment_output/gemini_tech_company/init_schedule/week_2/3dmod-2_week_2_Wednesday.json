@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Look at new posts on a game development forum."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue rigging the character. Add finger joints and facial joints (basic for now). Test the range of motion for each joint."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start creating control curves for the rig. Begin with the spine and pelvis, allowing for smooth and intuitive control over the character's posture."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Connect the control curves to the joints using constraints. Test the controls to ensure they function as expected. Start documenting the rigging process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Maybe order takeout today."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin creating the first animation: an idle pose. Focus on conveying the character's personality and stance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Animate a simple walk cycle. Break it down into key poses and focus on getting the timing and weight shift correct. This will be iterated on later. Save it as WalkCycle_v01"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Record a basic running animation. Start by copying the walk cycle animation and adjusting it to suit the faster speed and more energetic movement."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review animations. Save the character file as Character_Rig_Animation_v01. Back up all files."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

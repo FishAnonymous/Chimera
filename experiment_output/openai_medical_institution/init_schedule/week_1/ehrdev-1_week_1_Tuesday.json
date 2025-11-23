@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review emails; prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Training Coordinator to discuss training needs for end-users regarding new EHR features."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement additional functionalities for EHR based on feedback from training discussions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Send an email update to @IT Project Manager about the integration progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend a project update meeting with the entire team to discuss milestones."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a code review of the integration features done so far."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any identified code issues or suggestions from the code review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day's progress and prepare a summary report."
+    }
+]

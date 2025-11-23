@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and respond to any queries regarding the testing strategy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation summarizing the testing strategy for an upcoming team meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Practice presenting the testing strategy to build confidence."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the testing strategy in the team meeting and gather additional feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a follow-up email summarizing feedback and next steps."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update personal task list based on feedback received during the presentation."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the previous day's progress and prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @helpdesk-1 to discuss any user-reported issues with the EHR system and ensure they are being addressed."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @mrs-2 and @his-1 to ensure all medical records are being accurately captured in the EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation for the weekly stakeholder meeting, highlighting key progress and challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the weekly stakeholder meeting with @clinlead-1, @pchmp-1, @ehrv-1, and other key stakeholders to discuss project updates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up on action items from the stakeholder meeting and assign tasks to relevant team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the influenza trend analysis data with @da-1 and @da-2 to ensure it aligns with seasonal expectations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project plan and timeline based on feedback from the stakeholder meeting."
+    }
+]

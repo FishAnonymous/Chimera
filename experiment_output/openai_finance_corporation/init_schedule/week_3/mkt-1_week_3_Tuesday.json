@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for feedback from @comp-1 and @legal-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback into the communication strategy and prepare the final version."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the final version of the communication strategy to the team for implementation, including @qres-3 and @pm-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research potential venues for the networking event by checking availability and capacity."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @larch-1 to discuss any technical requirements for the networking event."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a list of potential stakeholders to invite to the networking event."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send invitation drafts to @ir-1 for review before sending them out."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and document wins from the day."
+    }
+]

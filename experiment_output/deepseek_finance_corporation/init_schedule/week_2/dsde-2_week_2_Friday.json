@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review both completed reports."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare a presentation summarizing the key findings from both reports for the team."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Rehearse the presentation. Ensure all data points are clear and visually appealing."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Break. Relax and browse financial news."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the findings to the team via a virtual meeting. Discuss next steps and gather feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @pm-1 and @coo-1 with the finalized reports and presentation slides for archival."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the week's work. Document lessons learned and areas for improvement."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week's work. Plan for the next week's tasks."
+    }
+]

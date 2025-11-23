@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails for bug tracking system access requests and grant permissions. Check for the latest build from @BENG-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Download and install the latest build provided by @BENG-1. Familiarize yourself with the current state of the game."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin executing test cases from the 'Core Mechanics' section of the test plan. Start with basic movement and shooting mechanics."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document any bugs or issues encountered in the bug tracking system. Provide detailed steps to reproduce the issue, expected results, and actual results."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue executing test cases for the 'Core Mechanics' section, focusing on the cover system and any other advanced mechanics. Take breaks if the work intensity is high."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin executing test cases from the 'UI' section of the test plan. Test the main menu, HUD, and inventory system."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document any bugs or issues encountered in the bug tracking system. Prioritize issues based on severity and impact on gameplay."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Move to ad-hoc testing, exploring the game in unexpected ways to uncover hidden bugs. Focus on areas that are not explicitly covered by the test plan."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue ad-hoc testing, paying attention to performance, stability, and overall gameplay experience."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Review the day's testing progress. Ensure all identified bugs and issues are documented in the bug tracking system. Prepare a brief progress report for the team."
+    }
+]

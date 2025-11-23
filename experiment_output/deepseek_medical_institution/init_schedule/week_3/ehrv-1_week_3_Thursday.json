@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Follow up with vendor on unanswered questions from meeting. Escalate pressing issues to @itpm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @trainer-1 on training needs arising from new EHR configurations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @mrs-1 and @mrs-2 to assess impact on medical records workflows. Include @rn-2 and @rn-3 for frontline input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a vendor performance report highlighting responsiveness and alignment with project goals."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Informal chat with @helpdesk-1 about potential support tickets post-implementation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Research innovative EHR features from other vendors for future roadmap discussions."
+    }
+]

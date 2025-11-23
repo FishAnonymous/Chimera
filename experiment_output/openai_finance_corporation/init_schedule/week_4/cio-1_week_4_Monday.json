@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the current investment strategies and asset manager selection criteria."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 to discuss and confirm the investment strategy based on data analysis and previous research."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a summary report on the selected investment strategies for internal review."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @pm-1 to schedule a meeting for the final approval of investment strategies by the management team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare presentation materials for the upcoming meeting with the management team regarding investment strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review feedback from the management team on the draft investment strategies and update the report accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End of day preparation and check for any pending emails."
+    }
+]

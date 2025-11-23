@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and respond to any urgent requests or questions. Check the documentation from @ehrdev-1 and @ehrdev-2 and think how to use it to finish my job"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the completed database schema design document. Pay close attention to data types, relationships between tables, and overall consistency."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a presentation summarizing the influenza database schema design, including the table structures, data types, and key considerations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the database schema design to @itpm-1, @da-1, @da-2, @clinlead-1, @ehrdev-1, @ehrdev-2, @his-1, @his-2. Solicit feedback and suggestions for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a discussion with the team to address any concerns or questions regarding the database schema design. Clarify any ambiguities and make note of suggested changes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Based on the feedback received, identify areas in the database schema design that need to be revised or refined."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin implementing the necessary changes to the database schema design, incorporating the team's feedback and suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the database schema design document with the revised table definitions and data type specifications."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Backup the updated database schema design document and prepare for tomorrow's final review."
+    }
+]

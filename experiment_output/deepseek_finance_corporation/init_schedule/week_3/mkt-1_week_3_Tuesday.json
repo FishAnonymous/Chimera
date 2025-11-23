@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check email engagement metrics from the previous day. Identify trends and adjust the campaign if necessary."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with non-responsive UHNWIs via a secondary email. Coordinate with @onbd-1 for any direct outreach needed."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Rehearse the webinar presentation with @cio-1 and @ir-1. Incorporate feedback and refine the content."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the webinar with the technical team (@devops-1, @sdev-2) to ensure smooth execution."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review digital marketing metrics (website traffic, social media engagement). Prepare a report for @coo-1 and @pm-1."
+    }
+]

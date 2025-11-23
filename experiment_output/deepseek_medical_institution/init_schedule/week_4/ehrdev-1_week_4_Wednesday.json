@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent system issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize any remaining EHR system configurations, ensuring all settings are optimized."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a comprehensive test of all new data fields and workflows, simulating real-world scenarios."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to share test results and discuss any unresolved issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide technical support, focusing on training and guiding @rn-1, @rn-2, and @rn-3 on new workflows."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @trainer-1 to align on training materials and ensure they reflect the latest system updates."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update documentation and prepare a summary of completed configurations for @itpm-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day and plan for Thursday's tasks."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and calendar. Respond to any urgent messages. Grab a cup of coffee and mentally prepare for the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: Initial game concept, core mechanics/narrative, level layout sketch, and progression system definition. Prioritize tasks based on dependencies and impact."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @NDES-1 (Narrative Designer) and @SDES-1 (Systems Designer) to brainstorm the narrative hook and core game mechanics. @PEOPLE: @NDES-1, @SDES-1 Topic: Narrative and Mechanics Brainstorm"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Initial meeting with @NDES-1 and @SDES-1. Discuss potential settings, characters, and story arcs. Explore different gameplay mechanics focusing on innovation and player engagement. Document all the ideas in a shared document."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Individually review the notes from the meeting. Start outlining potential core game mechanics based on the discussion. Focus on mechanics that are unique, fun, and fit the envisioned narrative."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research existing third-person shooters to identify what works well and where there's room for improvement and innovation. Focus on the game mechanics."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft the initial game concept document. Include a brief overview of the game's genre, target audience, setting, and core gameplay loop. Emphasize the unique selling points. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the game concept document and send it to @PROD-1 (Producer) for initial feedback. @PEOPLE: @PROD-1, Topic: Game Concept Review"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow. Review the schedule."
+    }
+]

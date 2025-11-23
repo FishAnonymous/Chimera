@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review emails for any final updates before the week closes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Execute final test cases on additional game features, focusing on performance stability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile the week\u2019s testing results into a comprehensive report including bugs discovered and recommendations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the report to the team, including @Lead Game Designer and @Client Developer for review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Reflect on the week's testing activities and plan for next week's priorities."
+    }
+]

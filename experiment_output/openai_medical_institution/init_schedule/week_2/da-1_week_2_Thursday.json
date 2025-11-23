@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prepare for the meeting with @trainer-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @trainer-1 and outline the training plan for staff involved in data collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue the data cleaning processes on the remaining datasets gathered."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review cleaned data sets with @qatest-2 to ensure compliance with quality assurance standards."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin compiling a report summarizing the findings from the data cleaning process."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Close up and review feedback from colleagues regarding the training plan."
+    }
+]

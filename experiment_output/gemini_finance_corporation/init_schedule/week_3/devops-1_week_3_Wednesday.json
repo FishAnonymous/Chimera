@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the previous day's CI/CD pipeline setup. Identify areas for improvement."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Expand the CI/CD pipeline to include automated integration tests, testing the interaction between different components of the system."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Integrate the CI/CD pipeline with the development environment created earlier, ensuring seamless code deployment to the development environment."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Research and select a suitable monitoring tool for the infrastructure (e.g., Prometheus, Grafana, Datadog), focusing on metrics relevant to a quant fund."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start setting up the chosen monitoring tool. Focus on collecting basic infrastructure metrics like CPU usage, memory utilization, and disk I/O."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Configure alerts based on predefined thresholds for the collected infrastructure metrics. Ensure timely notification of potential issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Integrate application-level monitoring into the infrastructure monitoring setup. Work with @sdev-1 and @sdev-2 to identify key application metrics to track. @PEOPLE Topic: Application-Level Monitoring Requirements"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Configure dashboards to visualize the collected infrastructure and application metrics. Create views tailored to different stakeholders (developers, researchers)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the monitoring setup by simulating infrastructure issues and verifying that alerts are triggered correctly."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from @qatest-1 or @qatest-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a dry run of the data collection workflow with a small sample dataset to identify potential issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the results of the dry run and document any discrepancies or errors."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to discuss necessary adjustments to the workflow based on the dry run."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement adjustments to the data collection workflow as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @rn-1, @rn-2, and @rn-3 to ensure they are familiar with the data collection process."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @mrs-1 and @mrs-2 to confirm their roles in the data collection process."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update the project tracker and prepare for the weekly team meeting."
+    }
+]

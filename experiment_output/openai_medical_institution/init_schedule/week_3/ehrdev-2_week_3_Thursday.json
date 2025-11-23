@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails for any updates from QA testers about scheduled testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend the testing session with @qatest-1 and @qatest-2, observing and assisting as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any issues identified during the testing session in collaboration with QA testers."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Modify the EHR functionalities based on the feedback received during testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct regression testing on the modified features to ensure stability and performance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document issues encountered and solutions derived from testing and code modifications."
+    }
+]

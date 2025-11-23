@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Briefly browse ArtStation for character and environment modeling inspiration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start blocking out the basic shapes for the main character model. Focus on the primary forms and proportions using Maya. I'll start with the torso and work outwards. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the blockout of the character's limbs, paying close attention to the relative lengths and thicknesses. Double-check against character designs (@Concept Artist in email). Topic: Character Model Proportions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Initial pass on the head and facial features, focusing on overall shape rather than detail. Ensure it matches the concept art.  Save a new iteration: Character_Blockout_v01."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Probably grab a sandwich from the cafe downstairs."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin blocking out the environment's largest structure, a ruined building. Focus on the overall silhouette and scale using simple cubes and planes in Maya."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Refine the building blockout, adding basic shapes for windows, doors, and large debris. Consider the composition and how it will frame the gameplay area."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress, identify areas for improvement on both character and environment blockouts. Create a to-do list for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up the workspace and back up files. Check emails again."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Karla Nguyen",
+    "id": "3dmod-1",
+    "ip": "10.0.0.23",
+    "age": 28,
+    "role": "3D Modeler/Animator",
+    "description": "Creates detailed 3D models and animations for characters and environments, ensuring they meet gameplay and visual standards. Collaborates closely with artists and designers to bring concepts to life through animation.",
+    "tools": [
+        "Maya",
+        "Blender",
+        "3ds Max",
+        "ZBrush",
+        "Substance Painter"
+    ],
+    "mbti": "ESFJ",
+    "interests": "video games, pottery",
+    "personality": "Social and supportive, enjoys working in teams and values feedback from coworkers. Loves creating an enjoyable atmosphere and sharing ideas to enhance creative output.",
+    "application": {
+        "ModelingToolkit": {
+            "account_name": "mmdl-564321",
+            "password": "karlaN@model",
+            "permissions": "3d_modeler_animator"
+        }
+    },
+    "email": "mmdl-564321@corp.com",
+    "container_id": "c3f395b8b9da"
+}

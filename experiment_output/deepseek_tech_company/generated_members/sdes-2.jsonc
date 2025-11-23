@@ -1,0 +1,28 @@
+{
+    "name": "Nadia Al-Farsi",
+    "id": "sdes-2",
+    "ip": "10.0.0.18",
+    "age": 27,
+    "role": "Systems Designer",
+    "description": "Specializes in designing and balancing game economies, progression systems, and reward structures. Creates data-driven models to ensure fair and engaging player experiences. Collaborates closely with analytics teams to validate system performance.",
+    "tools": [
+        "GameBalanceAnalyzer",
+        "Python",
+        "Tableau",
+        "EconomySimulationTools",
+        "JupyterNotebooks",
+        "StatisticalModelingSoftware"
+    ],
+    "mbti": "INFP",
+    "interests": "indie RPGs, Arabic calligraphy, urban exploration photography",
+    "personality": "Thoughtful and detail-oriented. Prefers working in quiet environments with ambient music. Most creative during late evenings. Enjoys finding elegant solutions to complex design problems through iterative experimentation.",
+    "application": {
+        "Zendo": {
+            "account_name": "sysdes-889922",
+            "password": "nadiaA@systems",
+            "permissions": "designer"
+        }
+    },
+    "email": "sysdes-889922@corp.com",
+    "container_id": "2c7e9a1d4f6b"
+}

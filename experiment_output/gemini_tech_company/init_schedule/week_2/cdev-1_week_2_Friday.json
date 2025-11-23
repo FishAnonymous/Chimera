@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails and messages. Read through a news article about video game UI design."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review all the UI elements implemented this week (menus, HUD, settings, tutorial, error messages). Ensure they are consistent and visually appealing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a playtest with other team members (e.g. QA Tester @QTEST-1). Observe their reactions to the UI and gather feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on playtest feedback, identify areas for improvement in the UI. Prioritize the most important issues to address."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refactor the UI code to improve its performance and maintainability. Remove any unnecessary code or dependencies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Company lunch to celebrate the end of the week!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement any necessary changes to the UI based on the playtest feedback. Update the layout, graphics, or functionality as needed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write unit tests for the UI code to ensure that it is working correctly. This will help prevent regressions in the future."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a demonstration of the UI for the rest of the team. Showcase the features and functionality of the UI."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the final changes to the version control system. Write a detailed commit message summarizing the work done this week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send summary email to Lead Programmer @LPRO-1 regarding the progress of this week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Happy Friday!"
+    }
+]

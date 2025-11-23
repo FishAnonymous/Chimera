@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review the progress from yesterday. Begin working on the data collection workflow training module."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research the new data collection workflow, including data entry, validation, and reporting steps (defined in Subtask 2). Review process documentation, diagrams, and flowcharts. Reach out to @clinlead-1 and @itpm-1 via email to request a walk-through of the new workflow. @CLINLEAD-1 @ITPM-1 Topic: Data Collection Workflow Walkthrough Request."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Outline the data collection workflow training module. Focus on a step-by-step explanation of the process, highlighting key responsibilities and potential challenges. Consider incorporating interactive elements or simulations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @ehrv-1 to gain a deeper understanding of the technical aspects of the EHR system and data collection process. Schedule a brief meeting to discuss specific questions and concerns. @EHRV-1 Topic: Technical aspects of EHR data collection workflow"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create visual aids for the data collection workflow module. Design flowcharts, diagrams, and screenshots to illustrate the process. Use color-coding and clear labeling to enhance understanding."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a script for a short video demonstrating the data collection workflow. Include a narrator explaining each step and a visual demonstration of the process within the EHR system. If necessary, coordinate with @helpdesk-1 for access to a test EHR environment. @HELPDESK-1 Topic: Access to test EHR environment for training video."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress on both training modules and identify any gaps or areas that need further development. Prepare a list of questions for @clinlead-1 related to the clinical relevance of the data collection workflow. @CLINLEAD-1 Topic: Clinical relevance of data collection workflow"
+    }
+]

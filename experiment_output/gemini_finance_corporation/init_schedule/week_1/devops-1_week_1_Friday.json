@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and address any urgent requests. Final coffee of the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the preliminary technology infrastructure plan. Incorporate all feedback, revisions, and updates. I want this done before lunchtime."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Share the preliminary technology infrastructure plan with @cio-1, @coo-1, @pm-1 and relevant stakeholders for final review. Solicit final feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document lessons learned from the planning process. Identify areas for improvement in future technology infrastructure projects. This might be useful down the line."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin creating a detailed project timeline for implementing the technology infrastructure. Include milestones, deadlines, and resource assignments. Project timelines are boring, but necessary for the PMO."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update the project plan with progress made this week. Note any roadblocks or delays."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Clean up workspace and organize files. Backup all important documents."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a brief summary of accomplishments for the week and plans for the following week for the team update. Send it to @pm-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Leave for the weekend. Maybe grab a beer."
+    }
+]

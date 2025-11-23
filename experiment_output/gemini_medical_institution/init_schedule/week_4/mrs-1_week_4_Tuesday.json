@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any urgent emails or updates from @HIS-1 or @HIS-2 regarding the data point clarification query."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review any responses from @HIS-1, @HIS-2 regarding data point clarification and adjust abstraction process accordingly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue data abstraction, focusing on electronic records for influenza patients (2023-2024 season). Target 35 records today."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the first batch of abstracted records, paying close attention to the clarified data points. Correct any inconsistencies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue with data abstraction, aiming to complete another 15-20 records before lunch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Continue focusing on identifying and retrieving electronic health records for influenza patients from the 2023-2024 season."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the abstracted records of the afternoon batch, checking for consistency and accuracy in data entry. Make any necessary corrections or clarifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze today's abstraction rate and identify any potential bottlenecks or areas for improvement in the process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update progress tracker. If behind schedule, identify strategies to catch up in the coming days. Prepare for tomorrow's work."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow. Review the SOP for influenza data abstraction to ensure adherence to guidelines and data integrity."
+    }
+]

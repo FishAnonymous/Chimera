@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to check emails and review feedback from last day's meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the presentation slides and rehearse the delivery."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings from the influenza trend analysis to the whole team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Facilitate a feedback session based on the presentation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document the key takeaways from the feedback session."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an action plan based on team feedback."
+    }
+]

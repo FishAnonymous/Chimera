@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and gather user feedback regarding the EHR functionality."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Analyze the collected user feedback to identify areas for enhancement in the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an initial plan for integrating the user feedback and propose changes to the EHR functionality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send an email to @qatest-1 and @qatest-2 to discuss the technical challenges they have encountered with the EHR system."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @qatest-1 and @qatest-2 to understand the details of the reported technical challenges."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin working on addressing the technical challenges as discussed with the QA testers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress made on technical challenges and document any solutions implemented."
+    }
+]

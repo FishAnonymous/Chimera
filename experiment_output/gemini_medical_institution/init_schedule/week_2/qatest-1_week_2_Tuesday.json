@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to any queries from yesterday's meeting participants."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the finalized list of data quality metrics for influenza data. Begin brainstorming specific data quality checks that can be implemented within the database schema."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research database constraints and validation rules that can enforce data quality. Focus on techniques like CHECK constraints, triggers, and stored procedures. Consider different database systems. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Go for a walk in the park."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft an email to @dba-1 to schedule a meeting to discuss incorporating data quality checks into the database schema. Subject: Meeting Request: Data Quality Checks in Database Schema."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a detailed document outlining proposed data quality checks for the database schema. Include specific examples of SQL constraints and validation rules that can be used to enforce each metric. Explain the rationale behind each check."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around by browsing hacker news. "
+    }
+]

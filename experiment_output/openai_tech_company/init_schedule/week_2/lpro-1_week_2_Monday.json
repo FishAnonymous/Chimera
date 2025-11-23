@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the design specifications for player movement controls."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start coding the player movement controls based on design specifications, focusing on player speed and agility."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test player movement controls in a local environment to ensure response accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine player movement controls based on test feedback. Prepare for a sync meeting with the client developers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @cdev-1, @cdev-2, and @cdev-3 to discuss integration of movement controls with UI elements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the coding and testing process for player movement controls in the project wiki."
+    }
+]

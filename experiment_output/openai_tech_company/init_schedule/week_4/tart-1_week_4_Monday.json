@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review project updates related to art asset integration."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss the status of art assets and visual effects integration."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin integration of finalized art assets into the game engine, ensuring all materials and textures are applied correctly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with the integration of visual effects, verifying that animations and effects trigger correctly in-game."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document integration progress and issues encountered for future reference."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and wrap up for the day."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails for any updates or urgent patient data entries. Review the list of patients whose data needs to be entered."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start entering patient data into the EHR, focusing on accuracy and completeness. Cross-check with physical records if necessary."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, grab a coffee, and chat with colleagues @rn-1 @rn-2 @rn-3 about any patient data discrepancies noticed."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue entering patient data into the EHR. Flag any inconsistencies or missing information for follow-up."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Relax and recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend a training session on new workflows with @trainer-1 and @clinlead-1. Participate actively and ask questions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Provide feedback on the new workflows to @trainer-1 and @clinlead-1, highlighting any challenges or suggestions for improvement."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the day by reviewing the patient data entered and ensuring all tasks are completed. Send a summary email to @mrs-1 @mrs-2."
+    }
+]

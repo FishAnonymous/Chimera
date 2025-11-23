@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning coffee and email triage. Respond to any feedback received on the Gap Analysis report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a follow-up meeting with the EHR vendor (@EHRVendor) to discuss the findings of the Gap Analysis report and explore potential solutions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with the EHR vendor (@EHRVendor) to present the Gap Analysis report and discuss potential solutions to address the identified limitations. Explore options for customization, integration, or alternative workflows."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the key takeaways from the meeting with the EHR vendor, including proposed solutions, timelines, and cost estimates. Share this information with internal stakeholders. @ITPM-1, @ClinLead-1, @HIS-1, @HIS-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch! Maybe browse some open-source EHR projects for inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a detailed communication plan outlining how the hospital's specific requirements for influenza data collection, reporting, and analysis will be communicated to the EHR vendor. Define communication channels, frequency, and key stakeholders."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft a formal communication to the EHR vendor (@EHRVendor) clearly articulating the hospital's requirements for influenza data. Include specific examples, use cases, and reporting expectations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the draft communication with @ITPM-1 and @ClinLead-1 to ensure it accurately reflects the hospital's requirements and aligns with the project goals."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the communication to the EHR vendor based on feedback received from @ITPM-1 and @ClinLead-1. Ensure clarity, conciseness, and accuracy."
+    }
+]

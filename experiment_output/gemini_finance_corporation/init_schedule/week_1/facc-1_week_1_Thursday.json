@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office. Check email and financial news."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue evaluating the potential for building a custom solution for tracking fund performance and expenses. Assess the feasibility and cost-effectiveness of this option."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @larch-1 (Lead Software Architect) and @sdev-1 and @sdev-2 (Software Developers) via email. Subject: Custom Fund Accounting Solution - Feasibility Assessment. Request a preliminary estimate of the time and resources required to build a custom solution. Briefly outline the key requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Based on SEC requirements and the tracking framework, create a data dictionary defining all the fields needed for fund accounting. Include field names, data types, descriptions, and source systems."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Quick run to the gym for a workout."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the preliminary framework based on the cost/benefit analysis. Solidify the key data elements and reporting processes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on the presentation for tomorrow's meeting. Incorporate feedback from the various discussions and finalize the recommendation on software vs. custom development."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Practice the presentation. Prepare answers for potential questions from stakeholders."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Double check the presentation is ready."
+    }
+]

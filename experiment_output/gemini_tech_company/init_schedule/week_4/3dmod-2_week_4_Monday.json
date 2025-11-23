@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and company communication channels. Since there are no specific goals mentioned in the meeting minutes, I'll dedicate this time to catching up on industry news and new 3D modeling techniques. Browsing ArtStation and other relevant websites for inspiration."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review existing 3D models and animations within the project. Identify areas for improvement or optimization. Maybe some older assets can be updated with newer techniques I've learned."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @LVDN-1, @LDES-1 to inquire about the level design direction for the game. Understanding the environments will help me anticipate the types of assets I might need to create in the future."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing the existing assets, start experimenting with retopology on existing high-poly models to create better optimized game assets. This will involve reducing polygon count while maintaining visual fidelity."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the retopology workflow used in the project. This ensures consistency across the team and makes it easier for others to learn the process. Update the team Wiki with this information."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse Blender Market for useful plugins or tools that could speed up the modeling and animation workflow."
+    }
+]

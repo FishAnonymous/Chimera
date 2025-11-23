@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project plan for the investor portal UI development."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ir-1 and @mkt-1 to gather requirements for the investor portal UI and discuss client needs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft initial wireframes for the investor portal UI based on the feedback from the meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the wireframes with @larch-1 to get input on the technical feasibility of the designs."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start coding the frontend interface for the investor portal using the approved wireframes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a code review with @sdev-1 to ensure coding standards are met and gather constructive feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the frontend code based on feedback received from the code review."
+    }
+]

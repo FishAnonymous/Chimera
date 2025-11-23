@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office and check emails. Respond to any urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's work and refine the initial game concept document based on feedback from @prod-1 (Producer) and @lpro-1 (Lead Programmer)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @sdes-1 (Systems Designer) and @sdes-2 (Systems Designer) to brainstorm core game mechanics. Discuss different weapon types, movement systems, and combat strategies. @PEOPLE: sdes-1, sdes-2 Topic: Core Game Mechanics Brainstorm"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Attend the meeting with @sdes-1 (Systems Designer) and @sdes-2 (Systems Designer). Document all the ideas discussed and create a list of potential mechanics to prototype."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin sketching out a basic level layout on paper. Focus on creating a sense of flow and pacing for the gameplay. Experiment with different environmental elements and cover positions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @lvdn-1 (Level Designer) to discuss the level layout sketches and get feedback on the design. Refine the sketches based on their expertise. @PEOPLE: lvdn-1 Topic: Level Layout Feedback"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Transfer the refined level layout sketch to a digital format (e.g., using a simple drawing tool). Add annotations and notes to clarify design intentions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and outline the tasks for tomorrow. Send an updated level layout sketch to @lvdn-1 (Level Designer) and @3dmod-1 (3D Modeler/Animator) for preliminary feedback. @PEOPLE: lvdn-1, 3dmod-1 Topic: Level Layout Sketch for Feedback"
+    }
+]

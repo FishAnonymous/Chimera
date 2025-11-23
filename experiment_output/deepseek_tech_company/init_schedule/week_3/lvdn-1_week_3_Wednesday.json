@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the optimized level and ensure all changes are correctly implemented."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation of the current level state for the art and programming teams."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @prod-1 to schedule the review session with the art and programming teams."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the level for review. Make any last-minute adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the review session with @3dmod-1, @3dmod-2, @cart-1, @lpro-1, and @sdev-1. Gather feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document all feedback received during the review session."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin implementing the most critical feedback points."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Take a walk outside to clear the mind."
+    }
+]

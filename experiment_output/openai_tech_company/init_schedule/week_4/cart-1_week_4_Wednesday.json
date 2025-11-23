@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and gather any additional information needed for presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue polishing and finalizing character designs based on team input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize artwork files and prepare them to be included in the presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Complete the draft layout of the presentation, ensuring all important points are covered."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

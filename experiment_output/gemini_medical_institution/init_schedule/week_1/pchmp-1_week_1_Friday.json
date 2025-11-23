@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review feedback from @clinlead-1 regarding the presentation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Incorporate @clinlead-1's feedback into the presentation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting for next week with the key clinical staff to hold the presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send an email to all the members in the project group to deliver the week's report on the progress and the key issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a detailed plan for next week. Include all the meetings needed, issues that need to be followed-up on, and the key milestones for the project."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Catch up on industry news and developments related to EHR systems and seasonal influenza data collection. Browse relevant websites and journals."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final check on emails and calendar. Ensure that all tasks are complete."
+    }
+]

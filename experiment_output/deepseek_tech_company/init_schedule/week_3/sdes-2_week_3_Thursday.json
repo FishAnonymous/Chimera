@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare for the playtest by ensuring all refined mechanics and secondary systems are integrated."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 and @ldes-1 to discuss the playtest plan and objectives."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct the playtest with a small group of testers. Observe and take notes on player interactions and feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the playtest data and feedback. Identify any balancing issues or bugs that need immediate attention."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the findings and prepare a report for the team. Send an update email to @prod-1 and @ldes-1."
+    }
+]

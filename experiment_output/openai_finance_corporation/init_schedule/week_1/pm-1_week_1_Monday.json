@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project scope for the fund setup task."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Organize an introductory team meeting with all members to confirm roles and responsibilities for the fund setup task. Send calendar invites to @dsde-1, @dsde-2, @onbd-1, @mkt-1, @comp-1, @larch-1, @audit-1, @qres-1, @qres-2, @qres-3, @pm-1, @ir-1, @coo-1, @facc-1, @facc-2, @sdev-1, @sdev-2, @legal-1, @cio-1, @devops-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct the introductory team meeting, clearly outlining each team member's roles and responsibilities related to the fund setup task."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft and distribute meeting notes summarizing key takeaways and action items from the introductory meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin compiling data and insights from market research relevant to strategy discussions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @qres-1, @qres-2, and @qres-3 to gather statistical analysis data needed for the strategy discussions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by reviewing progress and setting priorities for the next day."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the detailed goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin working on improving the character model\u2019s textures, focusing on high-resolution maps and material definitions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining character model details, adding finer elements such as facial features and clothing fabric textures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start finalizing character animations for presentation; focus on polishing key frames and smooth transitions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all character animations and make necessary adjustments while considering feedback from the previous week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any relevant communications."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the workday."
+    }
+]

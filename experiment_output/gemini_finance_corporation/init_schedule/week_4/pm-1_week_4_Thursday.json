@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office, check emails, and prioritize tasks based on urgency. Looking through the social media."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Meeting with the software development team (@larch-1, @sdev-1, @sdev-2, @devops-1) to review the status of the trading platform. Provide guidance and support to the team to ensure they meet their deadlines."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address project roadblocks identified in the morning meetings. Collaborate with relevant team members to find solutions and implement corrective actions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hold a meeting with the quantitative research team (@qres-1, @qres-2, @qres-3) to review the model performance and backtesting results. Provide guidance and support to the team to ensure they meet their deadlines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @onbd-1, @mkt-1, and @ir-1 to align them on the project's progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Casual lunch with team members to foster camaraderie."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Drafting the final project report. Begin writing the final project report, summarizing accomplishments and lessons learned."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare the final project report summarizing accomplishments, challenges, and lessons learned. Include detailed analysis of the project's impact on the organization."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Addressing all the emails."
+    }
+]

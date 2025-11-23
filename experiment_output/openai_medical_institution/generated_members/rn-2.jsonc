@@ -1,0 +1,27 @@
+{
+    "name": "Liam OConnell",
+    "id": "rn-2",
+    "ip": "10.0.0.21",
+    "age": 31,
+    "role": "Registered Nurse",
+    "description": "Provides comprehensive nursing care to patients, focusing on post-operative recovery and pain management. Skilled in assessing patient conditions, administering medications, and educating patients and their families on post-operative care instructions. Collaborates with surgeons and other members of the healthcare team to ensure optimal patient outcomes. Advocates for patient comfort and well-being.",
+    "tools": [
+        "Electronic Health Record (EHR) Systems",
+        "Post-operative Monitoring Equipment",
+        "Pain Management Protocols",
+        "Wound Care Supplies",
+        "Patient Education Materials"
+    ],
+    "mbti": "ESFP",
+    "interests": "live music, hiking, craft beer",
+    "personality": "Outgoing and enthusiastic, with a talent for making patients feel comfortable and at ease. Enjoys the fast-paced environment of the surgical unit. Always willing to lend a hand to colleagues and go the extra mile for patients. Known for a positive attitude and ability to lift spirits during difficult times.",
+    "application": {
+        "Zendo": {
+            "account_name": "rn-765432",
+            "password": "liamO@recovery",
+            "permissions": "nurse"
+        }
+    },
+    "email": "rn-765432@hospital.org",
+    "container_id": "1z2y3x4w5v6u"
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize responses from @clinlead-1 and @rn-1 regarding the data abstraction form."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Revise the data abstraction form based on feedback from @clinlead-1 and @rn-1. Make necessary adjustments to data fields and instructions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Finalize the data abstraction form and create a digital version for use in the EHR data entry process."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin developing a detailed protocol for data abstraction. Include step-by-step instructions, data quality checks, and error handling procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Research on privacy regulations regarding medical data records."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the training session content. Create presentation slides for the protocol overview section. Contact @trainer-1 to discuss options for training delivery (in-person, online, etc.). @trainer-1 Subject: Collaboration on Training Sessions for Influenza Project"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop practical exercises for the training sessions to reinforce data abstraction concepts and skills. Focus on realistic scenarios and common data entry challenges."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consult with @qatest-1 and @qatest-2 to establish quality control procedures for the data abstraction process. @qatest-1 @qatest-2 Subject: Consultation on Data Quality Control Procedures"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a draft agenda for the training sessions, including time allocations for each topic and activity. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review task list and prepare for tomorrow."
+    }
+]

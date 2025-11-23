@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the week's progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Monitor daily cash flows and finalize any pending transactions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @pm-1 to provide a weekly summary of accounting and financial activities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the investment valuation report and share it with @cio-1 and @qres-3."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and archive all financial documents and reports for the week."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @comp-1 and @legal-1 to confirm all compliance requirements have been met for the week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary of the week's achievements and any pending tasks for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of the OA system and wrap up for the week."
+    }
+]

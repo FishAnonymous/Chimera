@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Address any follow-up questions from @itpm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize documentation and archive test scripts."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Read about upcoming trends in healthcare data QA."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Participate in a team meeting to discuss week's findings and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assist @qatest-2 with any pending tasks or peer reviews."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Clean up workspace and organize files."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for the next week's tasks based on project timeline."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and log off."
+    }
+]

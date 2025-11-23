@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review the week's progress. Address any remaining emails or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address feedback and bugs from the QA report. Prioritize critical issues that impact gameplay or immersion."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the sound effect list and ensure that all required sounds have been sourced or created. Fill any gaps in the sound design."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Optimize the audio assets to reduce file size and improve performance. This may involve compressing audio files or using streaming techniques."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Enjoy a relaxing lunch and reflect on the week's accomplishments."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a backup of the entire audio project. Store the backup in a safe location in the google drive in case any thing goes wrong in the near future."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a presentation summarizing the week's audio development progress. Include examples of the implemented sound effects and environmental audio."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Present the audio development progress to the team. Gather feedback and discuss next steps. Prepare some cookies before the presentation, and let the office smell nice."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the week's accomplishments and challenges. Identify areas for improvement in the audio development pipeline."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete the weekly timesheet and submit it to the OA system. Clean up workspace and prepare for the weekend."
+    }
+]

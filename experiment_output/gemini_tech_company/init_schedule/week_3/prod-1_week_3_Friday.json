@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to project management software and check for overnight notifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check email and respond to urgent requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a company-wide team meeting to review the project schedule, address challenges, and ensure everyone is aligned on goals and deadlines."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from team members during the meeting and make necessary adjustments to the project schedule."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the project schedule based on feedback received during the team meeting. Distribute the final version to all stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the weekly progress report for executive leadership. Include key accomplishments, challenges, and upcoming milestones."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the weekly progress report to executive leadership. @PEOPLE"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all deliverables to ensure they are completed on time and to the required quality standards. Follow up with team members on any outstanding items."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for the next week's tasks and objectives. Review the project schedule and identify any potential roadblocks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Address any remaining emails and complete any administrative tasks. Prepare for the weekend."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review previous day's work and address any flagged discrepancies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Abstract additional data points, such as comorbidities and treatment protocols."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Validate abstracted data against lab results and immunization records."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile a preliminary report of abstracted data for review by @clinlead-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @his-1 and @his-2 to ensure data aligns with health informatics standards."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update documentation on data abstraction progress."
+    }
+]

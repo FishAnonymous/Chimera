@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Prioritize tasks based on urgency and impact."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Review project plan from Week 1, noting progress and any deviations. Identify areas requiring immediate attention."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @COO-1, @CIO-1 seeking alignment on project priorities for Week 2. Request a brief meeting to discuss overall strategic direction."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare agenda for meeting with COO and CIO, focusing on key achievements from Week 1, potential roadblocks, and adjustments to the overall project plan."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @COO-1 and @CIO-1 to discuss project progress, challenges, and strategic alignment for Week 2. Document key decisions and action items."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send email to all team leads (@larch-1, @qres-1, @dsde-1, @comp-1, @ir-1, @onbd-1) summarizing the meeting with COO and CIO. Request individual team leads to cascade information to their respective teams."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Draft a template for SMART goals to be used by all team members. Ensure template includes sections for specific tasks, measurable outcomes, achievable targets, relevance to project goals, and defined timelines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Catch up on industry news related to quantitative finance and statistical arbitrage."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Send email to all team members with the SMART goal template. Emphasize the importance of individual goals aligning with overall project objectives. Set a deadline of EOD Tuesday for submission."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule individual brief meetings with each team lead (@larch-1, @qres-1, @dsde-1, @comp-1, @ir-1, @onbd-1) for Wednesday to discuss and refine SMART goals."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review Week 1 deliverables from each team. Identify any gaps or areas needing improvement. Document findings for discussion with team leads."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the project plan document with refined timelines, resource allocation, and risk assessments based on Week 1 progress and discussions with COO/CIO."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report for COO and CIO outlining the refined project plan, key decisions from today's meetings, and upcoming activities for Week 2."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize daily tasks and prepare for tomorrow's schedule."
+    }
+]

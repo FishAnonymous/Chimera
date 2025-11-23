@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office, grab a coffee, and respond to any emails. Read some articles about model risk management."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Based on the identified vulnerabilities from the stress tests, refine the risk management tool to cover those events. Consult with @SDEV-2 to integrate the tool into risk management strategies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a meeting with @CIO and @QRES-2 to discuss the integration plan. Ask for suggestions and advice about further improving the tool."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue to work on the real-time monitoring tools, develop ways of visualizing them in order to give portfolio managers a more intuitive sense on portfolio risks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play table tennis in the entertainment area with other colleagues. Talk about some trendy topics and jokes."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the suggestions, implement the revised version into the real-time monitoring tools. Conduct a simulation to see the effectiveness."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the refined tool to @CIO, @QRES-1 and @QRES-2, discuss the potential usage of it and make it well prepared for formal launch."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check the effectiveness of the visualization tool and its performance. Revise some of the plots to make them more elegant."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a report to summarize all the changes and modifications regarding the monitoring tools. Get ready for tomorrow's tasks."
+    }
+]

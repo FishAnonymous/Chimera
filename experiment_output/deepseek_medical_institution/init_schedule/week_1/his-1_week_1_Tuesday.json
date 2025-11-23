@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from EHR developers and adjust the data collection workflow accordingly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @dba-1 to discuss database requirements for storing extracted EHR data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Map out the data flow from EHR system to the analysis platform, identifying potential bottlenecks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @itpm-1 to provide an update on progress and discuss any project risks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the finalized list of EHR data elements and the data collection workflow."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @da-1 and @da-2 to align on data analysis requirements and ensure the workflow supports their needs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review documentation for clarity and completeness."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation for the team meeting tomorrow to review the workflow."
+    }
+]

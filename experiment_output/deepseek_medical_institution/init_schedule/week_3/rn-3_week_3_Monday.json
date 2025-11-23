@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review patient records for those on antiviral medications. Check for any documented adverse reactions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Round on patients to monitor for any signs of adverse reactions to antiviral medications. Document findings in the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide patient education on antiviral medications, including potential side effects and when to seek help. Document education in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @rn-1 and @rn-2 to discuss any observed adverse reactions and ensure proper documentation in the EHR."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review EHR documentation for completeness and accuracy regarding patient education and adverse reactions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of adverse reactions observed and patient education provided for the week. Send to @clinlead-1."
+    }
+]

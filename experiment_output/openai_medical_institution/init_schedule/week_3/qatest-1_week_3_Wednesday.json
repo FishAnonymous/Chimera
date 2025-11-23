@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and send finalized status report to the team, including @Clinical Lead, @Data Analysts, and @EHR Integration Developers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Gather feedback from the team regarding the status report."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Plan for adjustments to testing protocols based on team feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement agreed adjustments to testing protocols."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct additional QA checks to verify adjustments made."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document findings from the new round of QA checks."
+    }
+]

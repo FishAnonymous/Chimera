@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review any updates from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 to discuss the fund's investment strategies and gather key insights for the investor presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft the outline for the investor presentation focusing on target UHNWIs, incorporating their investment goals and preferences."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send the draft outline to @mkt-1 for feedback on communication strategies and visuals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback received from @mkt-1 and make necessary adjustments to the presentation outline."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @comp-1 to ensure that the outlined strategies align with SEC regulations and compliance guidelines."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the investor presentation outline and prepare to share with the rest of the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email the final outline to the entire team for review and additional feedback."
+    }
+]

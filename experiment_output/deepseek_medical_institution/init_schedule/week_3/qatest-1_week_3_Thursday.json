@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review responses from @clinlead-1 and @pchmp-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Update automated checks to incorporate clinical feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Explore new data visualization tools."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Run final automated checks on the entire dataset."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a comprehensive report on data quality issues and resolutions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @itpm-1 with the final report and recommendations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all test cases, scripts, and findings for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's work and identify areas for improvement."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the documentation from Monday and prepare for sound adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Modify sound effect placements based on previous testing results."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @lpro-1 and @sdev-1 to confirm audio syncing with game mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with further adjustments of sound effects, optimizing them for gameplay experience."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a preliminary sound experience package for playtesting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Share the sound experience package with @qtest-1 for feedback on the audio testing plan."
+    }
+]

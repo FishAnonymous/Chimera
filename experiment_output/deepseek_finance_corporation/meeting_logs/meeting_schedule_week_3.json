@@ -1,0 +1,182 @@
+[
+    {
+        "week": 3,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Finalize the statistical model for evaluating risk-return profiles of market-neutral funds.",
+            "Integrate historical performance data into the model for backtesting.",
+            "Prepare a report summarizing findings for the investment team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Complete the onboarding checklist for UHNWIs.",
+            "Schedule and conduct introductory meetings with prospective clients.",
+            "Ensure all KYC/AML documentation is collected and verified."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Launch personalized email campaigns targeting UHNWIs.",
+            "Organize a private webinar to discuss investment strategies.",
+            "Monitor engagement metrics from digital marketing efforts."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Review and finalize compliance documentation for SEC submission.",
+            "Conduct internal training on updated regulatory requirements.",
+            "Ensure all KYC/AML processes are fully operational."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Analyze competitor data to refine investment strategies.",
+            "Develop visualizations for competitor performance metrics.",
+            "Present findings to the investment team for strategy adjustments."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Finalize technical requirements for fund management software.",
+            "Review and approve backend development plans.",
+            "Ensure API integrations are aligned with frontend development."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Conduct risk assessments for fund operations.",
+            "Review internal controls and compliance checks.",
+            "Prepare audit reports for regulatory submission."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Complete the statistical model for risk-return evaluation.",
+            "Backtest the model with historical data.",
+            "Prepare a detailed report on model performance."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Review progress on all project timelines.",
+            "Adjust project goals based on mid-project review outcomes.",
+            "Schedule stakeholder meetings to present updates."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Finalize the investor presentation deck.",
+            "Conduct mock presentations for team feedback.",
+            "Schedule initial meetings with prospective investors."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Analyze market data for potential investment themes.",
+            "Prepare a report on emerging trends and opportunities.",
+            "Present findings to the investment strategy team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Ensure all operational plans are on track.",
+            "Review resource allocation and adjust as needed.",
+            "Coordinate with compliance and IT teams for seamless operations."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Finalize the preliminary budget for fund operations.",
+            "Monitor daily cash flows and expense tracking.",
+            "Prepare financial reports for internal review."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Develop the user interface for the investor portal.",
+            "Integrate backend APIs for real-time data access.",
+            "Conduct usability testing with a focus group."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Review and finalize compliance documentation.",
+            "Ensure all legal agreements are ready for client onboarding.",
+            "Conduct a compliance check with the SEC regulations."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Finalize the investment strategy and selection criteria.",
+            "Review asset manager performance metrics.",
+            "Present the strategy to the executive team for approval."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Complete the analysis of market data for investment themes.",
+            "Prepare a report on viable investment opportunities.",
+            "Present findings to the investment committee."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Collaborate on backend development for the fund management software.",
+            "Implement API endpoints for user authentication and data access.",
+            "Conduct security testing on developed features."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Establish accounting procedures for the new fund.",
+            "Set up the chart of accounts and transaction recording systems.",
+            "Prepare for monthly financial reporting."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Set up cloud infrastructure for data analysis and fund management.",
+            "Implement security protocols for data protection.",
+            "Conduct performance testing on the infrastructure."
+        ]
+    }
+]

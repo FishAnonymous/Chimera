@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prepare a summary of the training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with team members who were not present during the training session to provide necessary resources and assist them with the bug tracking tool."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin developing a FAQ document addressing common issues and questions about the bug tracking system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a summary of the training session along with the FAQ document to the whole team for reference."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review any new bugs reported by team members and ensure they are filed correctly in the new system."
+    }
+]

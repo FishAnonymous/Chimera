@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize preparations for the internal playtest."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct internal playtest with @qtest-1, @ldes-1, and @lpro-1 to gather feedback on core mechanics."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review feedback from the playtest and identify key areas for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement adjustments based on playtest feedback, focusing on movement and interactions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @prod-1 with a summary of playtest results and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document all changes made and prepare for final review on Friday."
+    }
+]

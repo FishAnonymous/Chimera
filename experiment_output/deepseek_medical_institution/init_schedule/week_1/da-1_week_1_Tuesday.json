@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to any feedback on data quality metrics document."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 @da-2 to align on data quality improvement targets."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine weekly targets based on team input."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss targets with @pchmp-1 for physician perspective."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize weekly targets document."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email targets to @itpm-1 and @clinlead-1 for final review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin preliminary data analysis to establish baseline metrics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document findings and prepare for next steps."
+    }
+]

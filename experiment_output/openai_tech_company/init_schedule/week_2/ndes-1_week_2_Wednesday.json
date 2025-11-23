@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review drafted character profiles and compile feedback from yesterday's review."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present character profiles to the team for feedback and revisions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather feedback from @Lead Game Designer and incorporate changes into character profiles."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Engage with @Concept Artist to align character designs with narrative elements discussed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on integrating narrative elements with the design team's visuals for character design."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out an update email to the team with character motivation insights and design alignment."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End the day by compiling all insights and adjustments for tomorrow's agenda."
+    }
+]

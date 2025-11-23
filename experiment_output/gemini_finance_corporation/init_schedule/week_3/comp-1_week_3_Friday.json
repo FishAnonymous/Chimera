@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review the performance of the compliance monitoring systems. Respond to any urgent emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a comprehensive review of the SEC regulations related to marketing a fund to UHNWIs. Focus on advertising rules, suitability requirements, and disclosure obligations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with the marketing team (@Mkt-1) and investor relations (@IR-1) to discuss the compliance requirements for marketing materials. Review planned marketing strategies and provide guidance on how to ensure compliance with SEC regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go to lunch with coworkers"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide training to fund staff on the compliance monitoring systems. Explain how to use the system to track trading activity, monitor investor interactions, and ensure adherence to regulatory requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of the week's compliance activities, including the SEC regulation review, the compliance checklist finalization, and the implementation of the compliance monitoring systems. Submit the report to the Chief Operating Officer (@COO-1)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address any remaining tasks or emails. Ensure all compliance documentation is properly organized and filed. Prepare for the next week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize desk and head home for the weekend."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the list of 3D models and animations that need polishing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start polishing the first set of 3D models, focusing on texture details and rigging adjustments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, then continue polishing the models. Ensure all textures are seamless and properly mapped."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume work on polishing animations, ensuring smooth transitions and natural movements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress with @3dmod-1 to align on quality standards and make any necessary adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made and prepare a status update for the team."
+    }
+]

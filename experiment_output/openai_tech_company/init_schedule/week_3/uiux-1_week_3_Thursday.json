@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from testing and prioritize changes needed for mockups."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start revising mockups based on the feedback received."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue revisions on the mockups, focusing on HUD elements and navigation menus."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare revised mockups for a second round of feedback."
+    }
+]

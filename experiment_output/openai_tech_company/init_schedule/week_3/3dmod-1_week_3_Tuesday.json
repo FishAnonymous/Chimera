@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Continue working on the run animation for the main character."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the idle, walk, and run animations in the engine, ensuring that they blend properly and function as expected."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather initial feedback on the animations from @ldes-1 and @uiux-1, focusing on how the movements feel within the game context."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Make necessary adjustments to the animations based on feedback received."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made and prepare for further testing."
+    }
+]

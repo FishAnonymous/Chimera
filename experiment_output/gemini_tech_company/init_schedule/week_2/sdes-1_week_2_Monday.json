@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review the week's goals: Integrate game systems (combat, economy, progression), ensure seamless system interaction, integrate game mechanics into levels, begin implementing core gameplay features (quests, crafting, customization), and prioritize playtesting/iteration."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review project management board (e.g., Jira, Trello) for any updates or urgent issues.  @PROD-1 for a general project status update since I wasn't here last week to know the progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @LDES-1 and @LVDN-1 to discuss level design progress and how it impacts system integration. Need to understand specific level constraints that might affect combat, economy, or progression balancing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin initial integration of the combat system into the current level design prototype. Focus on basic movement, attack animations, and hit detection. Need to get a feel for the current implementation state."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document preliminary observations on combat system integration.  What works well? What immediately feels off? What are the most pressing technical challenges that need to be addressed now? Create a Jira ticket with 'High' priority."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @CDEV-1, @CDEV-2 and @CDEV-3 to discuss the implementation of character customization and the current status of the related code."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin integrating the character customization system into the combat system prototype to test the functionalities."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Playtest the initial combat integration with the character customization. Focus on responsiveness, visual feedback, and identify any immediate bugs or animation issues. Document findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Send an email to @CDEV-1, @CDEV-2 and @CDEV-3 with feedback on character customization integration. Update Jira tickets. Plan for tomorrow."
+    }
+]

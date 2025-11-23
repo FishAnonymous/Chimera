@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review feedback on investment strategy from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft the final version of the investment strategy that includes selection criteria."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @larch-1 to discuss any technical aspects related to fund structuring."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the core investment philosophy to align with market-neutral fund objectives."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @cio-1 and @legal-1 to ensure that the investment philosophy complies with all legal guidelines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review work done over the day and jot down any additional research needed."
+    }
+]

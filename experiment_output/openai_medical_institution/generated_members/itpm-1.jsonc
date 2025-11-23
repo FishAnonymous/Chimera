@@ -1,0 +1,27 @@
+{
+    "name": "Ricardo Alvarez",
+    "id": "itpm-1",
+    "ip": "10.0.0.10",
+    "age": 45,
+    "role": "IT Project Manager",
+    "description": "Responsible for planning, executing, and closing IT projects within the hospital. Manages project scope, resources, and timelines. Ensures projects align with the hospital's strategic goals and regulatory requirements. Facilitates communication between IT teams and other departments.",
+    "tools": [
+        "MS Project",
+        "Jira",
+        "Confluence",
+        "Smartsheet",
+        "Asana"
+    ],
+    "mbti": "ESTJ",
+    "interests": "Golf, wood-working, historical documentaries",
+    "personality": "Highly organized and detail-oriented. A natural leader who excels at problem-solving and motivating teams. Can sometimes be perceived as overly direct, but always prioritizes project success.",
+    "application": {
+        "Zendo": {
+            "account_name": "pm-781254",
+            "password": "ricardoA@project",
+            "permissions": "project_manager"
+        }
+    },
+    "email": "pm-781254@hospital.org",
+    "container_id": "92b3da6f21e8"
+}

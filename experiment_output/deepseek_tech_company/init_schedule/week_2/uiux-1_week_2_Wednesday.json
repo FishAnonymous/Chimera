@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review all mockups created so far for consistency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine all mockups based on internal review, polish visual details."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break, browse UI design articles for additional insights."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare presentation slides for mockup approval meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize presentation slides, rehearse key points for team meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present mockups to the team (@prod-1, @ldes-1, @sdes-1, @sdes-2) for approval."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Gather feedback from the team, note down required changes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update mockups based on feedback, save progress."
+    }
+]

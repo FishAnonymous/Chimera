@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, email check. Today: Bug fixing and game balancing."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address the most critical bugs reported in the issue tracker. Prioritize bugs that affect gameplay significantly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Investigate and fix any bugs related to player movement, such as collision issues or movement glitches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play a quick round of a competitive shooter to get some inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Balance the combat system. Adjust weapon damage, fire rates, and reload times to ensure a fair and engaging combat experience."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the game with the updated combat balance. Gather feedback from other team members to identify any remaining balance issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Implement further adjustments to the combat balance based on the feedback received. Log the modified parameters into the balance sheet."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit the bug fixes and balance changes to the repository."
+    }
+]

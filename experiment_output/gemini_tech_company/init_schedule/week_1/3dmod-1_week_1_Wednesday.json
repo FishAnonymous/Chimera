@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee, emails. Scan through more reference images for the environment, focusing on the architectural style and level of detail."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue refining the environmental blockout. Add more detail to the larger structures and start blocking out the smaller buildings and objects."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @lvdn-1 the lead level designer, Subject: Environment Blockout Feedback Request Body: 'Hi, i finished the environment blockout. Can you give me some feedback?'"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "After the feedback, incorporate the feedback from the lead level designer to the environment blockout. Refine the shapes and proportions of the buildings and adjust the layout as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start working on the animation library. Begin with the most basic movement animations, such as walking, running, and jumping. Create a simple rig for one of the character blockouts to test the animations."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save and backup all the work. Check emails. "
+    }
+]

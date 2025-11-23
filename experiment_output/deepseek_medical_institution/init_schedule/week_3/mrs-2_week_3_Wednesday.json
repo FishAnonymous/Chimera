@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Begin abstracting data on patient comorbidities related to influenza cases."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @pchmp-1 for insights on common comorbidities observed during flu seasons."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break, listen to music."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue data abstraction, focusing on comorbidities and their impact on treatment outcomes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Verify abstracted data with @mrs-2 for consistency."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the EHR system and document any discrepancies found."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary of the week's progress for the team meeting tomorrow."
+    }
+]

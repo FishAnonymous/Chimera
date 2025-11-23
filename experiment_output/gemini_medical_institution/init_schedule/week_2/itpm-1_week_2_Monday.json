@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office, prepare coffee, and review the weekly goals: Communication materials and influenza data abstraction support."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and respond to urgent messages from @helpdesk-1 and @rn-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start drafting the project overview document for EHR collection and influenza trend analysis, focusing on key objectives and benefits."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review the draft project overview with @clinlead-1 and @pchmp-1 to ensure clinical accuracy and relevance. Include their feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin working on the FAQs document. Anticipate common questions regarding data privacy, workflow changes, and training opportunities. Discuss with @his-1 @his-2 regarding the potential questions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Consult with @trainer-1 to determine the best channels for distributing the communication materials (email, intranet, town hall meeting)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the project overview and FAQs documents based on feedback. Proofread for accuracy and clarity."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email the project overview and FAQs documents to @trainer-1 and @ehrv-1 for distribution and review respectively."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Check in with @ehrdev-1 and @ehrdev-2 on the progress of the historical influenza data abstraction. Identify any roadblocks."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Address any immediate issues or questions from @ehrdev-1 and @ehrdev-2. Schedule a brief meeting for tomorrow to review progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the project timeline and resource allocation. Update the project plan as needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's accomplishments and plan for tomorrow's activities."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day"
+    }
+]

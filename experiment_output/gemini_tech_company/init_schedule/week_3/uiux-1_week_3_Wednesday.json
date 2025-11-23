@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review progress. Review the draft test plan for UI user testing."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the user testing plan and schedule a testing session with @qtest-1. Define the testing objectives, tasks, and metrics for evaluating the UI."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create interactive prototypes for the main menu and inventory screens using Figma's prototyping tools."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct the user testing session with @qtest-1. Observe users interacting with the prototypes, collect feedback, and identify areas for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the user testing feedback and identify key usability issues and areas for improvement. Document the findings and prioritize changes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Based on the feedback, iterate on the main menu and inventory screen mockups and prototypes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made based on user feedback and plan for tomorrow's tasks. Start working on mockups for the settings screen."
+    }
+]

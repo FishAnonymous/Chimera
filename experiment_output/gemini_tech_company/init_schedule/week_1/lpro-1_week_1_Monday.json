@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the weekly goals. Organize the tasks into smaller, manageable sub-tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Create a project plan with detailed timelines and milestones for each sub-task related to core game mechanics, physics engine and documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin defining the core game mechanics document. Specifically, start outlining the player movement system. Research different movement models (e.g., character controller, physics-based movement) and their pros and cons. @SDES-1 @SDES-2 Email to Systems Designers to get their input on suitable movement models based on their game design documentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research and select a suitable character controller for the player character, considering factors like responsiveness, collision detection, and ease of implementation. Document the chosen character controller and its rationale in the core game mechanics document."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start implementing the basic player movement system using the chosen character controller. Focus on forward, backward, and strafing movement. Write unit tests to ensure movement is accurate and responsive."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing and refining the player movement system. Add jumping functionality and ensure it integrates smoothly with the existing movement. Write corresponding unit tests."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin drafting the documentation for the player movement system. Include detailed explanations of the code, the character controller used, and the rationale behind design decisions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress of the player movement system. Identify any areas that need further refinement or optimization. Update the project plan accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up code, check for potential bugs, write daily report and send to team members. Leave work."
+    }
+]

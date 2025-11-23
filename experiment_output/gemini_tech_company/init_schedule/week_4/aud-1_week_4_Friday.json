@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Prepare a summary of the week's accomplishments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on optimizing the existing sound assets to reduce file size and improve performance. This will involve compressing the audio files, reducing the sample rate, and removing any unnecessary data. Consult @beng-1 if needed on any build performance issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a final review of all the sound assets created this week to ensure they meet the required quality standards. This will involve listening to each sound carefully, checking for any errors or inconsistencies, and making any necessary adjustments."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @QTest-1 to test the newly created soundscape and identify any areas for improvement. This is a crucial step in ensuring that the game's audio is as immersive and engaging as possible."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the feedback received from the QA tester, make any necessary adjustments to the sound assets and retest them in the game. This iterative process will help to ensure that the game's audio is as polished and refined as possible."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a detailed report summarizing the week's accomplishments, challenges, and lessons learned. This report will be shared with the rest of the team to keep them informed of the progress made on the audio front."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Backup all audio files and project files to a secure server."
+    }
+]

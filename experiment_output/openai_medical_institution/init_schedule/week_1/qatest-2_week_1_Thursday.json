@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and review to-do list from previous days."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @IT Project Manager to discuss project timelines and deliverables."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct regression testing on the EHR to ensure existing functionalities remain intact."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze testing results and prepare feedback for developers."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and update documentation for testing processes and protocols."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @Quality Assurance Tester for peer review of testing results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan next week's testing based on this week\u2019s outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and conclude the day."
+    }
+]

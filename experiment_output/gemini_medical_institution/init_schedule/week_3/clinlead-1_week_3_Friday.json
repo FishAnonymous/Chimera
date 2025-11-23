@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review emails. Address any urgent matters."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to discuss data capture from medical records. Ensure alignment on data extraction and consistency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the progress on system deployment and the training schedule. Make sure everyone has the necessary support and resources."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in a dry run of the training session to ensure everything flows smoothly and is comprehensive. Provide feedback to the trainer on improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any remaining defects or issues in the system. Verify with the developers that all modifications have been properly deployed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with key stakeholders (e.g., physicians, nurses) to present the new workflow and gather feedback for continuous improvement. @PEOPLE send invitation to key stakeholders"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a final report summarizing the week\u2019s activities, accomplishments, and challenges. Suggest future enhancements for influenza data capture."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the overall project plan with the IT Project Manager. Ensure that all tasks are on schedule and that the project is aligned with the institution\u2019s goals."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the weekly report and distribute it to all stakeholders. Ensure everyone is updated on the progress and upcoming activities."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute issues. Finalize preparations for the training sessions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the first training session for nursing staff, focusing on influenza data collection procedures."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from participants during the session and address any questions or concerns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review feedback and make any necessary adjustments to the training materials."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the second training session for any staff who couldn't attend the first session."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Compile all feedback and prepare a summary report for @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the training modules and materials based on the feedback received."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing all materials and planning for any follow-up actions."
+    }
+]

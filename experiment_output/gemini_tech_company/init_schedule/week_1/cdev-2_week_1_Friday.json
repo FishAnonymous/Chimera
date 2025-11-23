@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Address any outstanding issues or questions from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue implementing changes to the UI based on feedback from Leon and Naomi. Focus on the visual aspects of the UI, such as colors, fonts, and animations. Pay attention to detail and consistency."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement a basic save/load system for player settings. Allow players to save and load their video, audio, and gameplay settings. This will be expanded upon later."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Integrate the UI elements with the game's input system. Ensure that the UI can be navigated using both mouse/keyboard and gamepad. Consider input focus issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Relax and de-stress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on polishing the user experience of the tutorial system. Make sure the tutorials are clear, concise, and easy to understand. Get the Lead Game Designer Ldes-1's suggestions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement a system for displaying contextual help messages in the UI. Provide players with helpful information about the UI elements and game mechanics. Think about how to integrate this with the Narrative."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a final round of testing on all the UI elements. Pay close attention to performance, usability, and visual appeal. Ask the QA tester for help."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write a summary of the week's accomplishments and challenges. Identify areas for improvement and plan for the next week. Prepare for the sprint review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit all changes to Git. Write a comprehensive commit message summarizing the week's work."
+    }
+]

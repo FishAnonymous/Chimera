@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the computer, and check emails. Review any overnight communications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @itpm-1 to discuss the integration of the data quality issue reporting process with the current IT service management system."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Based on the meeting with @itpm-1, revise the data quality issue reporting process to align with the capabilities of the existing system."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Develop a training plan for staff on how to use the new data quality issue reporting process and template. This will be passed to the training coordinator. "
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Draft an email to @trainer-1 with the training plan. @PEOPLE Data Quality Training Plan."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read a healthcare IT trade publication."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to review the documentation from the data quality issues. Start to format the documentation so it is easily readable."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @clinlead-1 to get buy-in on the data quality issue reporting process and template. Discuss the importance of accurate data for clinical decision-making and reporting of influenza trends. @PEOPLE Clinician Feedback on Reporting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback from @clinlead-1 into the data quality issue reporting process and template."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the data quality issue reporting process and template. Create a final version for distribution."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any outstanding emails and complete administrative tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

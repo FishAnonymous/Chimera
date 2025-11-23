@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up with @comp-1 on the status of the compliance documentation sign-off."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation for the leadership team (@cio-1, @coo-1, @pm-1) summarizing the compliance and contract status."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the compliance and contract status to the leadership team, addressing any questions or concerns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin compiling all necessary documents for SEC submission, ensuring everything is in order."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Double-check the audit preparation checklist and ensure all supporting documents are accessible."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @facc-1 and @facc-2 to discuss any financial documentation needed for the audit."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review any recent legal precedents or SEC updates that might impact the fund's registration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize all documents and notes for the next day's tasks."
+    }
+]

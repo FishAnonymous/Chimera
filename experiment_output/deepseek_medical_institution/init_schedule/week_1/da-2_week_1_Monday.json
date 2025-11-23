@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review project goals and objectives for the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research and identify specific EHR data elements required for seasonal influenza trend analysis (e.g., patient demographics, vaccination records, diagnosis codes)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft a preliminary list of required EHR data elements and cross-reference with clinical guidelines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @clinlead-1 and @pchmp-1 to validate the identified EHR data elements for accuracy and completeness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback from @clinlead-1 and @pchmp-1 and refine the list of EHR data elements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin outlining the data collection workflow for extracting relevant EHR data elements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to discuss technical feasibility of the proposed data collection workflow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the day's progress and update the project tracker."
+    }
+]

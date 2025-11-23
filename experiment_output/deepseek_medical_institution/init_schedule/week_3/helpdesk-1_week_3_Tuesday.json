@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and help desk tickets for any overnight concerns related to EHR data collection."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Provide remote support to @rn-1, @rn-2, and @rn-3 for any EHR data entry issues they are facing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @mrs-1 and @mrs-2 to verify data accuracy in the EHR system and address discrepancies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the training materials based on recent user concerns and share with @trainer-1 for review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Escalate unresolved technical issues to @ehrv-1 and @dba-1 with detailed documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a quick check-in with @his-1 and @his-2 to ensure data collection aligns with health informatics standards."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review feedback from users and document common pain points for future system enhancements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End the day by organizing notes and preparing for the next day's tasks."
+    }
+]

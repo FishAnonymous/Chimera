@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check for any urgent updates. Prepare for the day's patient assessments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on pediatric patients for influenza symptom assessments and vaccinations. Ensure all EHR entries are complete and accurate."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @trainer-1 to review any new EHR features or updates that may affect documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and vaccinations. Pay special attention to elderly patients for any atypical influenza symptoms."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss any data collection issues or EHR integration challenges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work, ensuring all patient data is accurately recorded in the EHR."
+    }
+]

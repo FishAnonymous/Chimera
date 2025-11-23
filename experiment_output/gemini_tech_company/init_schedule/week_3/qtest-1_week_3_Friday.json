@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and bug tracking system for new bug reports or updates from the development team. Prioritize testing based on bug fixes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue executing test cases from the 'Levels' section of the test plan. Focus on level flow, collision detection, and objective completion."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Document any bugs or issues encountered in the bug tracking system. Provide detailed steps to reproduce the issue, expected results, and actual results."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin executing test cases from the 'Character Interactions' section of the test plan. Test player-NPC, player-enemy, and enemy-enemy interactions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Document any bugs or issues encountered in the bug tracking system. Prioritize issues based on severity and impact on gameplay."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct performance testing, monitoring FPS, memory usage, and load times. Identify any performance bottlenecks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document any performance issues encountered in the bug tracking system. Provide detailed information about the hardware and software configuration used for testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct stability testing, running long play sessions and performing repetitive actions. Monitor for crashes, freezes, and errors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile a detailed report summarizing all testing activities performed during the week. Include a list of all identified bugs and issues, their severity, and their impact on gameplay."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Share the testing report with the development team, highlighting key findings and prioritizing issues based on severity. Distribute this report to @LDES-1, @LPRO-1, @PROD-1, and @BENG-1. Subject: Weekly Testing Report."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Finalize all documentation and prepare for the weekend. "
+    }
+]

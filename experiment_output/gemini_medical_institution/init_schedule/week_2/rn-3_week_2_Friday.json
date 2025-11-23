@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any updates or notifications. Review previous day's notes and address any follow-up items."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Confirm that the EHR updates accurately reflect the change."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Patient Assessments: Patient 22 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Administer influenza vaccination to Patient 23 and document the information into the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Administer influenza vaccination to Patient 24 and document the information into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Patient Assessments: Patient 25 - Focused assessment based on presenting complaint, ensuring accurate and thorough documentation in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @ClinLead-1 to review the progress of EHR data collection and discuss any challenges encountered."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report of patient assessments and influenza vaccinations administered during the week for @ClinLead-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Participate in a team meeting to discuss best practices for EHR documentation and share tips for improving efficiency and accuracy. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries from the day and for the week to ensure accuracy and completeness. Address any identified issues promptly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the EHR system and complete end-of-week tasks, such as restocking supplies and cleaning the vaccination station."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end work."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Elena Vasquez",
+    "id": "cdev-1",
+    "ip": "10.0.0.11",
+    "age": 28,
+    "role": "Client Developer",
+    "description": "Focuses on the front-end aspects of the game, including UI implementation, client-side gameplay logic, and ensuring smooth player interactions. Works closely with designers to bring visual elements to life.",
+    "tools": [
+        "Unity",
+        "VisualStudioCode",
+        "Git",
+        "UIAnimationTools",
+        "PerformanceDebuggers"
+    ],
+    "mbti": "ENFP",
+    "interests": "indie game development, hiking, digital art",
+    "personality": "Energetic and collaborative. Thrives in team environments and enjoys brainstorming sessions. Prefers flexible working hours.",
+    "application": {
+        "Zendo": {
+            "account_name": "cdev-557812",
+            "password": "elenaV@clientdev",
+            "permissions": "developer"
+        }
+    },
+    "email": "cdev-557812@corp.com",
+    "container_id": "6d2e4f1a9c83"
+}

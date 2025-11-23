@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on requests made yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Trainer to discuss training improvements based on feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Provide suggestions for future training sessions based on my experiences."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze seasonal influenza data trends from the collected EHR data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a brief report on analysis findings to share with @DataAnalysts."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email findings to @DataAnalysts and @ClinicalLead."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up tasks for the day and check off completed items."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

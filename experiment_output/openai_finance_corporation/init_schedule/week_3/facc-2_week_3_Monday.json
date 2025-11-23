@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prioritize the tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review daily cash flow activities from the previous week to prepare for monitoring this week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @facc-2 to discuss any unfinished tasks related to cash flow monitoring."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin monitoring daily cash flow activities, noting any discrepancies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue monitoring and recording daily cash flow activities."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Compile the recorded cash flow data for review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of daily cash flow activities to send to @coo-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any urgent matters."
+    }
+]

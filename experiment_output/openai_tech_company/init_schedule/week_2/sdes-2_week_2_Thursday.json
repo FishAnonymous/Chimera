@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Analyze feedback and identify areas for improvement in both prototypes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement changes and refinements based on feedback for the first prototype."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement changes and refinements based on feedback for the second prototype."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a presentation to share the prototypes and mechanics with the entire team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Host a team meeting to present the prototypes and gather group feedback."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the finalized compliance documentation from Monday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a detailed analysis of regulatory requirements for fund registration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email to @comp-1 for additional clarifications on regulatory requirements."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Incorporate additional regulatory aspects into compliance documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a summary report on compliance documentation progress."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @qres-1 for insights on relevant financial regulations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Integrate feedback and insights from the quantitative researcher into compliance docs."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to any outstanding emails."
+    }
+]

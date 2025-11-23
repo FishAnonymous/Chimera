@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and catch up on any overnight communications. Brew a cup of coffee \u2013 gotta start the week right!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: Client-side architecture, UI design, project setup, and core UI implementation. Make a detailed plan for tackling each task."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the basic project structure in the engine. Create folders for UI, scripts, assets, and other necessary modules. Ensure proper version control setup with Git."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "@Leon @Naomi Email them to introduce myself (Mei Lin, cdev-3) and schedule a brief meeting to discuss the game's world, narrative, and how the UI should reflect these elements. Suggest a collaborative approach."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start implementing the main menu UI elements: title, options, start game, quit game. Placeholder buttons for now."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head to the cafeteria to socialize with colleagues. Maybe grab some dessert after!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @Leon and @Naomi. Discuss the game's artistic vision, narrative themes, and how to translate them into the UI design. Take detailed notes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue implementing the main menu, adding basic functionality to the buttons (e.g., click animations, visual feedback)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up a basic HUD (Heads-Up Display) framework. Include placeholder elements for health, ammo, and a crosshair. Focus on initial layout and positioning."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Research UI best practices and design patterns in third-person shooter games. Look for inspiration and examples of effective UI/UX."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document progress and plan for tomorrow's tasks: focusing on settings panel implementation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off and head home. Time to relax!"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review all animations and ensure they meet quality standards."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Polish animations, adding subtle details like secondary motion and facial expressions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break. Reflect on the week's progress and personal growth."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a presentation or demo of the animations for the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present animations to the team during the weekly meeting and gather final feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Make any last-minute adjustments based on team feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document all changes and finalize files for submission."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks and relax."
+    }
+]

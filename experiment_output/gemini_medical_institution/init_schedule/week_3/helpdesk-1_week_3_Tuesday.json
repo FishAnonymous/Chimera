@@ -1,0 +1,62 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, get settled, and enjoy a cup of green tea. Listen to a calming nature sounds playlist."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check the help desk system for updates on the escalated issues from yesterday (@RN-1 data sync, @MRS-2 archived record). Review any new tickets that came in overnight."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up on the @RN-1 data syncing issue. If @EHRDEV-1 has provided a fix or workaround, test it thoroughly in a test environment before deploying it to the live system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "If the fix works, schedule a convenient time with @RN-1 to implement it on their workstation. Provide clear instructions on how to verify that the syncing is now working correctly."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document the solution to the data syncing issue in the internal knowledge base for future reference. Close the help desk ticket."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address a new ticket from @CLINLEAD-1 reporting that a specific report is failing to generate in the EHR. Try to generate the report myself to reproduce the issue."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Troubleshoot the report generation failure. Check the EHR system's error logs, review the report's configuration, and verify the data source is available. Perhaps this would be a good time to ask @DA-1 if they have seen similar issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Take a walk outside in the hospital garden."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue investigating the report generation issue. If the problem persists, gather detailed information about the report (name, parameters, error messages) and escalate it to @DA-2 and @ITPM-1."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Follow up on the @MRS-2 archived record access issue. If @DBA-1 has identified a permission problem, work with them to grant the appropriate access to @MRS-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Once access is restored, verify with @MRS-2 that they can now access the record. Document the solution in the knowledge base and close the ticket."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "A new ticket has arrived. @RN-2 reports a problem with the patient portal login. Guide the user through resetting their password and verifying their account information."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address smaller, quick-fix tickets to keep the queue moving."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check for any announcements or updates from the EHR vendor (@EHRV-1) regarding system maintenance or known issues. Share this information with relevant team members if necessary."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's activities and plan for tomorrow."
+    }
+]

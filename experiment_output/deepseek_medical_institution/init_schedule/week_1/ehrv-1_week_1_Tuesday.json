@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize presentation slides based on feedback from @itpm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct call with EHR vendor to communicate hospital's specific requirements for influenza data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document vendor's responses and any additional questions or clarifications needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrdev-1, @ehrdev-2, and @itpm-1 with summary of vendor call and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with vendor on any pending questions or clarifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update requirements document based on vendor feedback and share with @clinlead-1 and @pchmp-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research best practices for influenza data collection in EHR systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize findings and share with @his-1 and @his-2 for input."
+    }
+]

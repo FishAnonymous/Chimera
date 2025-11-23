@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system. Check for any updates from @ehrv-1 regarding system improvements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assess patients for influenza symptoms. Focus on pediatric patients today."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Administer vaccinations. Document all details, including any adverse reactions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend a training session with @trainer-1 on new EHR features or updates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue patient assessments and vaccinations. Ensure all EHR entries are accurate."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's progress and prepare for Friday's tasks."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Finalize any remaining tasks for the investor portal."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the completed investor portal to the team for review and feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Relax and recharge."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any last-minute feedback or changes from the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare the portal for deployment, ensuring all dependencies and configurations are correct."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Deploy the portal to the staging environment for final testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a summary of the week's work and lessons learned."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week. Plan for next week's tasks and goals."
+    }
+]

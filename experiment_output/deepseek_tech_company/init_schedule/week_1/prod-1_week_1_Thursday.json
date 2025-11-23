@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent issues from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Host a sync meeting with @lpro-1, @sdev-1, and @cdev-1 to discuss technical blockers."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review and adjust core mechanics outline based on technical feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @ldes-1 and @sdes-2 to finalize systems design documentation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @aud-1 to align audio design with core mechanics."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check in with @lvdn-1 on level design progress and alignment with mechanics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update project management tools and redistribute tasks as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for Friday's stakeholder progress review meeting."
+    }
+]

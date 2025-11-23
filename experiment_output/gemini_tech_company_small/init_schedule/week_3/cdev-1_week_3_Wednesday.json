@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Plan the UI implementation for health and stamina. Research UI frameworks or libraries available in the game engine."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement a basic UI for displaying the health resource. Use progress bars or similar visual elements to represent health. Position the UI elements on the screen appropriately. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement a basic UI for displaying the stamina resource. Use progress bars or similar visual elements to represent stamina. Position the UI elements on the screen appropriately. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "@Designer Email discussion about UI design feedback, like position or banner size, color"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the UI based on feedback from @ldes-1. Adjust the appearance and positioning of the health and stamina bars."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Ensure that the UI updates correctly in real-time as health and stamina change. Add animations or visual effects to make the UI more responsive. Test the UI thoroughly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write unit tests and review code to improve code quality. Make the UI more robust and less prone to errors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the UI implementation. Push the changes to the remote repository."
+    }
+]

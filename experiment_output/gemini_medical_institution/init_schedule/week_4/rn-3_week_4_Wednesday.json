@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in to the system, and check emails. Respond to urgent emails and prioritize tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the EHR for any system updates or known issues related to data entry for influenza symptoms. Contact @helpdesk-1 if any issues are observed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient assessments and EHR documentation, focusing on influenza symptoms. Pay close attention to patients presenting with co-morbidities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with the Medical Records Specialist @mrs-1 to ensure accuracy of patient demographic information and medical history within the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Talk with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR documentation, paying attention to proper coding for diagnoses and procedures."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the accuracy of lab results entered into the system. If necessary, contact the lab for clarification on discrepancies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an updated summary of patient encounters, including any challenges encountered with EHR data entry or system functionality. Send summary to Clinical Lead @clinlead-1 Nadia Silva and Health Informatics Specialist @his-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Sign out and prepare for tomorrow."
+    }
+]

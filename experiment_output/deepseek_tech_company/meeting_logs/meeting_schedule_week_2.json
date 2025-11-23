@@ -1,0 +1,168 @@
+[
+    {
+        "week": 2,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Submit refined character designs (first pass).",
+            "Submit rough environment sketches (key locations).",
+            "Review environment sketches with the team and gather feedback."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Develop core gameplay features (e.g., character abilities, enemy AI).",
+            "Prototype UI elements (e.g., health bars, menus)."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Develop core gameplay features (e.g., character abilities, enemy AI).",
+            "Prototype UI elements (e.g., health bars, menus)."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Begin prototyping core mechanics (e.g., movement, basic interactions).",
+            "Integrate placeholder assets for testing.",
+            "Conduct internal playtest and gather feedback."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Implement core CI systems for automated builds and testing.",
+            "Set up initial monitoring for build performance."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Define test cases for core gameplay mechanics.",
+            "Conduct initial smoke tests on prototype builds."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Refine character models based on feedback.",
+            "Begin rigging and basic animations for key characters."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Monitor progress against Week 1 milestones.",
+            "Schedule and facilitate cross-team sync meetings."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Begin prototyping core mechanics (e.g., movement, basic interactions).",
+            "Integrate placeholder assets for testing.",
+            "Conduct internal playtest and gather feedback."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Develop core gameplay features (e.g., character abilities, enemy AI).",
+            "Prototype UI elements (e.g., health bars, menus)."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Develop high-fidelity mockups for key UI elements.",
+            "Integrate feedback from Week 1 and refine mockups.",
+            "Present mockups to the team for approval."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Refine character models based on feedback.",
+            "Begin rigging and basic animations for key characters."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Review and refine core gameplay mechanics with the team.",
+            "Ensure technical feasibility of proposed features."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Gather input on art style and assets needed.",
+            "Define technical constraints for asset creation."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Research and plan tools needed for art and code integration.",
+            "Begin prototyping key tools for the pipeline."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Review and refine mechanics established with Systems Designers.",
+            "Ensure mechanics are fun, balanced, and technically feasible."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Create sound effects (SFX) for core gameplay actions.",
+            "Begin composing initial background music (BGM) tracks."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Set up initial server environment (e.g., cloud instances, databases).",
+            "Implement core server functionalities (e.g., matchmaking, player authentication)."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Refine blockouts based on feedback.",
+            "Add basic gameplay elements to levels.",
+            "Conduct internal playtesting and identify pain points."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Write dialogues for key scenes and interactions.",
+            "Expand on worldbuilding (e.g., lore documents, faction details).",
+            "Review dialogues and worldbuilding with the team."
+        ]
+    }
+]

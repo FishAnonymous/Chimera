@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize the UI style guide."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Share the style guide with @cdev-1 @cdev-2 @cdev-3 for implementation reference."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from the development team on the style guide."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, relax."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address any feedback from the development team and update the style guide accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary of the week's work, including finalized wireframes and style guide."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send the weekly summary to @prod-1 and the team for review."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Plan tasks for the next week based on the current progress."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week, organize files, and log out."
+    }
+]

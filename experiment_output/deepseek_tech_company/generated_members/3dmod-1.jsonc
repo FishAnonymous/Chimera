@@ -1,0 +1,28 @@
+{
+    "name": "Javier Morales",
+    "id": "3dmod-1",
+    "ip": "10.0.0.22",
+    "age": 31,
+    "role": "3D Modeler/Animator",
+    "description": "Creates high-quality 3D models, textures, and animations for characters, weapons, and environments. Specializes in bringing concept art to life while optimizing assets for real-time rendering. Collaborates closely with concept artists and technical artists to ensure visual fidelity meets gameplay requirements.",
+    "tools": [
+        "Maya",
+        "ZBrush",
+        "Substance Painter",
+        "Blender",
+        "Marvelous Designer",
+        "Unreal Engine"
+    ],
+    "mbti": "ISFJ",
+    "interests": "sculpting, luchador wrestling films, street food culture",
+    "personality": "Meticulous and patient. Prefers working in focused blocks with minimal interruptions. Most productive in mid-morning hours. Enjoys mentoring junior artists and sharing modeling techniques. Dislikes rushed deadlines that compromise quality.",
+    "application": {
+        "Zendo": {
+            "account_name": "mod-334466",
+            "password": "javierM@3dmodel",
+            "permissions": "artist"
+        }
+    },
+    "email": "mod-334466@corp.com",
+    "container_id": "8a7b6c5d4e3f"
+}

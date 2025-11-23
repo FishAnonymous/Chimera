@@ -1,0 +1,27 @@
+{
+    "name": "Anika Sharma",
+    "id": "helpdesk-1",
+    "ip": "10.0.0.29",
+    "age": 24,
+    "role": "Help Desk Support",
+    "description": "Provides technical assistance and support to hospital staff for computer systems, hardware, and software. Responds to inquiries, troubleshoots problems, and resolves issues in a timely manner. Logs and tracks calls using a problem management database. Escalates complex issues to senior IT staff. Contributes to the IT knowledge base and documentation.",
+    "tools": [
+        "Help Desk Ticketing Systems (e.g., Zendesk, ServiceNow)",
+        "Remote Desktop Software (e.g., TeamViewer, Remote Desktop Connection)",
+        "Active Directory",
+        "Microsoft Office Suite",
+        "Basic Network Troubleshooting Tools (e.g., ping, tracert)"
+    ],
+    "mbti": "INFP",
+    "interests": "reading fantasy novels, playing ukulele, volunteering at a local animal shelter",
+    "personality": "Empathetic and patient, with a genuine desire to help others. Excellent at active listening and explaining technical concepts in a non-technical way. Can be easily overwhelmed by high-pressure situations but thrives in a supportive environment. Always willing to go the extra mile to ensure user satisfaction.",
+    "application": {
+        "Zendo": {
+            "account_name": "help-192837",
+            "password": "anikaS@support",
+            "permissions": "help_desk"
+        }
+    },
+    "email": "help-192837@hospital.org",
+    "container_id": "1b2c3d4e5f6a"
+}

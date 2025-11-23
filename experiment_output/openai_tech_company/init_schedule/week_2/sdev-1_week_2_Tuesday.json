@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review tasks from Monday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @beng-1 to set up the database schemas for handling user data."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start creating API endpoints for user account management (registration, login, profile updates)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue implementing API endpoints and ensure they follow best practices."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Contact @qtest-1 for initial testing requirements for the authentication APIs."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, check emails, and prepare tasks for tomorrow."
+    }
+]

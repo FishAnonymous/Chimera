@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the EHR system, and review any overnight updates or alerts. Prioritize emails from @qatest-1 and @qatest-2 regarding potential bugs or errors in the EHR system."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Participate in a brief team huddle to discuss strategies for improving the efficiency and accuracy of EHR data entry. Share best practices and address any recurring challenges encountered by the nursing staff."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address the first patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Enter patient data into the EHR for patients seen this morning, ensuring accuracy and completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Assess the second patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break, browse the social media."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address the third patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Participate in a training session led by @trainer-1 on new features or updates to the EHR system related to influenza diagnosis and treatment. Focus on hands-on exercises to reinforce learning."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address the fourth patient for influenza symptoms, using the standardized protocols and EHR-integrated tools. Meticulously document all observations and patient responses directly into the EHR."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Log out of the EHR system and prepare for departure."
+    }
+]

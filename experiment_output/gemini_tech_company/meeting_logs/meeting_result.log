@@ -1,0 +1,113 @@
+```python
+import pandas as pd
+
+data = {
+    "Employee ID": [
+        'cart-1', 'cdev-1', 'cdev-2', 'cdev-3', 'sdes-1', 'sdes-2', 
+        'beng-1', 'qtest-1', '3dmod-1', '3dmod-2', 'uiux-1', 'lpro-1', 
+        'tart-1', 'tdev-1', 'ldes-1', 'aud-1', 'sdev-1', 'lvdn-1', 'ndes-1', 'prod-1'
+    ],
+    "Week 1": [
+        "Begin drafting the game design document, outlining core mechanics, narrative, and visual styles.",
+        "Work on client-side architecture and initial UI layout.",
+        "Continue client-side UI design focusing on HUD and menus.",
+        "Set up design infrastructure for client-side development.",
+        "Outline comprehensive testing strategy focusing on core mechanics.",
+        "Start work on server architecture, focusing on player data handling.",
+        "Start creating initial sound assets and sound integration plan.",
+        "Prepare character model concepts based on initial designs.",
+        "Block out character models for prototyping animations.",
+        "Begin level design based on core game mechanics.",
+        "Create mockups for HUD and menu designs for art integration.",
+        "Initiate prototyping of game mechanics and implementation.",
+        "Collaborate with the producer to align development goals for the week.",
+        "Define technical requirements for art assets and create shaders.",
+        "Set up automated build and testing environment.",
+        "Implement tools to aid workflow for mappers and artists.",
+        "Develop character backstories and overarching narrative elements.",
+        "Create audio test plans and prepare for integration.",
+        "Start outlining project schedule and align with team leads.",
+        "Integrate various gameplay systems and plan for iteration.",
+        "Compile feedback from team and report progress."
+    ],
+    "Week 2": [
+        "Refine game design document, ensuring all sections are aligned.",
+        "Develop and test initial UI components, focusing on responsiveness.",
+        "Incorporate feedback from team on UI designs and iterate.",
+        "Begin client-server interaction for basic functionalities.",
+        "Execute initial test plans and document findings.",
+        "Establish main server logic and API endpoints.",
+        "Create and integrate sound effects for testing.",
+        "Finalize character design concepts and begin modeling.",
+        "Rig character models for initial animation testing.",
+        "Block out level layout and test for gameplay flow.",
+        "Develop initial UI interactions and conduct user testing.",
+        "Work with gameplay mechanics implementation to test integration.",
+        "Align game production timeline with testing feedback.",
+        "Develop secondary narrative for deeper immersion.",
+        "Begin implementing asset management tools for the art team.",
+        "Set up robust build pipeline with automated testing.",
+        "Create scripted narratives and dialogue for characters.",
+        "Test sound integration within various gameplay scenarios.",
+        "Update project schedule based on team feedback.",
+        "Test and iterate gameplay systems for balance.",
+        "Assemble findings and present to the leadership team."
+    ],
+    "Week 3": [
+        "Finalize all aspects of game document and prepare for team review.",
+        "Conduct usability testing on client-side architecture.",
+        "Implement polish and finalize UI designs based on feedback.",
+        "Ensure server-side logic is functional and integrated.",
+        "Identify blockers in gameplay testing and adjust necessary elements.",
+        "Optimize server architecture for performance.",
+        "Work on creating complex sound effects and layers.",
+        "Finalize character models and begin implementing animations.",
+        "Develop environmental assets for levels.",
+        "Start integrating level design with gameplay elements.",
+        "Prepare final mockups for UI and begin implementation.",
+        "Refine gameplay mechanics based on player feedback.",
+        "Organize team sync-up meeting to review production status.",
+        "Ensure narrative consistency across all levels and dialogues.",
+        "Test all tools in workflow for art asset production.",
+        "Finalize and document CI/CD processes for builds.",
+        "Write detailed backstories and interactions for NPCs.",
+        "Refine sound effects based on playtesting feedback.",
+        "Adjust project plans based on overall progress.",
+        "Iterate game systems based on testing feedback.",
+        "Compile final presentations and status reports."
+    ],
+    "Week 4": [
+        "Prepare for final design document presentation to stakeholders.",
+        "Launch full testing cycle on client-side architecture.",
+        "Finalize and launch UI for internal testing.",
+        "Conduct final testing of server functionality.",
+        "Run a bug-smash week to finalize testing.",
+        "Deliver full server interaction specs to client developers.",
+        "Conduct audio testing across all game scenarios for final checks.",
+        "Implement final character animations according to game design.",
+        "Finalize level designs and prepare for integration.",
+        "Integrate all gameplay elements and conduct final tests.",
+        "Conduct interface tests to ensure smooth player interactions.",
+        "Ensure all production goals are met with documented outcomes.",
+        "Conduct final narrative review and polish dialogue.",
+        "Prepare tools for launching into the maintenance phase.",
+        "Launch final build for internal testing and feedback.",
+        "Final version of character arcs and story delivered to leads.",
+        "Finalize and balance all audio within the game.",
+        "Prepare reports for next phase based on audio and gameplay feedback.",
+        "Review project outcomes and align for launch.",
+        "Make necessary adjustments based on playtest results.",
+        "Gather final feedback reports and prepare for release."
+    ]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Adjust column names for clarity
+df.columns = ['Employee ID', 'Week 1', 'Week 2', 'Week 3', 'Week 4']
+
+df
+``` 
+
+This DataFrame contains a comprehensive plan for each of the 20 employees in the company over a period of 4 weeks, tailored towards developing a third-person shooter game, ensuring everyone has specific, actionable goals aligned towards the final project outcome.

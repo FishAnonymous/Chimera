@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to email and check important messages. Review weekly goals and project timelines."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a project meeting with all team members to review progress. Send out calendar invites."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare agenda for the project meeting, focusing on key metrics and updates from each department."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Data Scientist and @Quantitative Researcher to gather project updates and challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Facilitate the project meeting. Discuss each team's progress and align on strategies moving forward."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document the meeting minutes and action items."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send meeting notes to all participants and follow up on assigned tasks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review emails and wrap up any remaining tasks for the day."
+    }
+]

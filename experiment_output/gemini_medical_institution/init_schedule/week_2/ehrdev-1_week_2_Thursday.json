@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the system, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the project plan with @itpm-1 to integrate the EHR update plan for the coming sprint."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Monitor the progress of the plan."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Enjoy a nice lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Check the integration environment and see if there are any problems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Have a coffee break."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check the integration environment again to confirm everything is working well."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the day's progress and plan for tomorrow's activities."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day and head home."
+    }
+]

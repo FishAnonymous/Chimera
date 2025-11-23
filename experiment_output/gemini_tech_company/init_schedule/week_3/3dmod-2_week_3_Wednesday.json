@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Login, emails, usual routine. Review yesterday's work, particularly the environment blockout."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any scale/proportion issues that became obvious yesterday after the character comparison. "
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start adding finer details to the environment models, adding windows, doors, and other significant features."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play a few rounds of a fighting game to de-stress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Focus on the primary structures of the game environment that the players might interact with, such as walls, doors, or other interactive components. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meeting with @tart-1 to discuss the pipeline for importing models into the game engine, and to discuss materials and textures. What's the best way to import these models?"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save, backup, document, shutdown. Maybe try a new pizza place tonight."
+    }
+]

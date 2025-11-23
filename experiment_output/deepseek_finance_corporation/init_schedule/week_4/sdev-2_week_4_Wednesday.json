@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and ensure the test environment is ready for user testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct initial user testing sessions with internal stakeholders, including @ir-1 and @onbd-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Reflect on feedback received during testing."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address immediate issues identified during user testing, focusing on UI/UX improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue user testing with additional stakeholders, such as @cio-1 and @coo-1, to gather broader feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile all feedback and prioritize fixes based on severity and impact."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project documentation with feedback and action items."
+    }
+]

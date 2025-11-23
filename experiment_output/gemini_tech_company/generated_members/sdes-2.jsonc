@@ -1,0 +1,27 @@
+{
+    "name": "Anika Schmidt",
+    "id": "sdes-2",
+    "ip": "10.0.0.18",
+    "age": 28,
+    "role": "Systems Designer",
+    "description": "Focuses on designing and implementing the game's progression systems, economy, and reward structures. Works closely with the design and programming teams to create a compelling and balanced player experience. Passionate about creating engaging systems that keep players invested.",
+    "tools": [
+        "Excel",
+        "Python",
+        "Unreal Engine",
+        "Tableau",
+        "Google Sheets"
+    ],
+    "mbti": "INFP",
+    "interests": "reading fantasy novels, playing board games, hiking in nature",
+    "personality": "Empathetic and creative. Prefers a collaborative environment. Passionate about creating systems that are both fun and fair. Sometimes struggles with making difficult design decisions.",
+    "application": {
+        "Zendo": {
+            "account_name": "sysdes-981273",
+            "password": "AnikaS@systems",
+            "permissions": "systems_designer"
+        }
+    },
+    "email": "sysdes-981273@corp.com",
+    "container_id": "c12d3e4f56a7"
+}

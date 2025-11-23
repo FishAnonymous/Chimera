@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails for any updates or requirements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review current EHR integration status and identify areas needing improvement or attention."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @ITPM to discuss project milestones and deadlines for the EHR integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Communicate with @EHRV-1 regarding vendor capabilities and integration requirements."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin coding enhancements to the EHR system based on feedback from the meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue coding enhancements and document changes made today."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct testing of new functionalities developed during the day."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send a daily update email to @ITPM and @QA_TEST-1 summarizing progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Spend the last hour reviewing relevant documentation and exploring new technologies."
+    }
+]

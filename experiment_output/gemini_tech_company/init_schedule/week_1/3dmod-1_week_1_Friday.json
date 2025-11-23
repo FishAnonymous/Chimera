@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Coffee, emails. Catch up on industry news and trends. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the interaction animations. Refine the animations and ensure they are context-sensitive. Add variety to the animations to make them more engaging."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review all the animations created so far. Identify any areas that need improvement and make the necessary adjustments. Ensure all the animations are consistent in style and quality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a showcase of the character blockouts, environment models, and animation library for the producer @prod-1 and lead game designer @ldes-1. Create a short video or presentation highlighting the key features of the assets. Email @prod-1, @ldes-1 to book the meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the character blockouts, environment models, and animation library to the producer and lead game designer. Gather feedback and address any concerns. Take notes of any changes that need to be made."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address the feedback from the producer and lead game designer. Make the necessary changes to the assets and ensure they meet the required standards. Save backup."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan out tasks for next week, focusing on improving current models. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the week. Do a final save and backup of all the work. Check emails and leave the office. "
+    }
+]

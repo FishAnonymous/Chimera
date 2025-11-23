@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and distribute the updated audit scope for feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present updated audit scope and risk documentation to the team, facilitate discussion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback received from the presentation and begin revisions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft final revisions for the audit scope based on team input."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reach out to @legal-1 for insights on regulatory changes that may affect compliance."
+    }
+]

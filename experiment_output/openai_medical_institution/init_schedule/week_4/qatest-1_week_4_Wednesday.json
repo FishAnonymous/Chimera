@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct peer review of the documentation with @QA Tester."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback from peer review into documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a draft of the final report for internal review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send a draft of final report to @Clinical Lead and @Data Analysts for review."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @Helpdesk Support on any outstanding data issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on feedback and adjust the report outline as necessary."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log any hurdles or insights in daily report."
+    }
+]

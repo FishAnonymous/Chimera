@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize high-fidelity mockups for all redesigned screens and elements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare presentation of mockups to stakeholders for usability testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct usability testing session with stakeholders, gather feedback on the visual designs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document feedback received from stakeholders during the usability testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Schedule a follow-up meeting with stakeholders to discuss adjustments based on feedback."
+    }
+]

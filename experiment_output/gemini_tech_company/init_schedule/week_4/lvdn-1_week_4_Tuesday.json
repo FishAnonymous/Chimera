@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. See a response from @3dmod-1 \u2013 available for a quick chat at 09:00. Awesome!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the 'Urban Ruins' blockout. Focus on encounter design within the adjusted corridors. Add some initial spawn points and cover placements. Read some articles on encounter design."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 to discuss the placeholder assets for the 'Urban Ruins' level. Provide specific examples and reference images. Prioritize key elements that will immediately impact the feel of the level. Confirm a timeline. He seems to be on board with the ideas, so it is going to be a relatively fast process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement initial encounter designs in the 'Urban Ruins' blockout using the updated corridors and cover placements. Test basic enemy AI behavior in these encounters."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Grabbing a sandwich from the deli."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back from lunch. Continue working on encounter design, focusing on enemy patrol routes and engagement ranges."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start integrating the placeholder assets from @3dmod-1 as they become available. Assess the visual impact on the level and adjust the layout accordingly. Give @3dmod-1 feedback on the early assets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a short presentation/demo of the updated 'Urban Ruins' blockout to present to @lDes-1 tomorrow. Highlight the changes made based on feedback and the integration of placeholder assets."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out. Catch up on the latest sports news."
+    }
+]

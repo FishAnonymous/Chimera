@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries regarding the training modules."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss technical aspects of the training modules."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft the second module: Data Entry Procedures in EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the second module draft to @rn-1, @rn-2, and @rn-3 for clinical feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review clinical feedback and make necessary adjustments to the module."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the training schedule based on progress."
+    }
+]

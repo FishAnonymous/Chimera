@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the Medical Records system, check emails, and review tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin reviewing data entry from last week for any inaccuracies and document findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @da-1 and @da-2 to discuss any discrepancies found in the data collection efforts."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data accuracy checks and note areas requiring follow-up."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review emails and follow up on responses from @da-1 and @da-2 regarding discrepancies."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @da-1 on resolving data entry discrepancies identified earlier."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare an email summary to the team regarding data accuracy issues for the day."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log the day's activities and prepare to close the day."
+    }
+]

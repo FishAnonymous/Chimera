@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review results of testing from yesterday and make necessary adjustments."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Attend a meeting with @CLINLEAD-1 to discuss clinical workflows and their integration with EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather documentation and feedback from @DA-1 and @HIS-1 regarding data metrics for influenza trend analysis."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start designing the database schema for seasonal influenza data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the database schema and define the necessary fields."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create an initial ER diagram for the influenza data collection."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @DBA-1 to discuss the database design and alignment with current EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Spend the last hour browsing for best practices in EHR integration and data analysis."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the EHR vendor's documentation for system modifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Contact @ehrv-1 to discuss the required system modifications and align on implementation details."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin coding the system modifications based on the vendor's specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue coding system modifications. Test initial changes in a sandbox environment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ehrv-1 and @itpm-1 with progress updates and any blockers encountered."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made and prepare for tomorrow's tasks."
+    }
+]

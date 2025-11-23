@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Follow up with @itpm-1 on any remaining action items."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend a team meeting to discuss the completion of the influenza data abstraction project."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break. Prepare notes from the team meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update project documentation with any final notes or feedback from the team meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Clean up and organize workspace, both digital and physical, for the next project."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @trainer-1 to schedule a training session on the new documentation processes for the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review personal task list and plan for the upcoming week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of systems, finalize any pending tasks, and prepare to leave for the weekend."
+    }
+]

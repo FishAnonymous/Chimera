@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Log in to the computer and check emails for any urgent updates or requests. Prioritize emails based on sender and subject line."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goal for the week: Identify and log data quality issues and conduct root cause analysis. Create a detailed plan for achieving the goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up a centralized tracking system (e.g., using a spreadsheet or database) for logging data quality issues. Define the fields to include: issue description, affected data elements, detection date, reporter's information, and root cause analysis findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start reviewing data from the EHR system, focusing on key data elements related to seasonal influenza trends (e.g., diagnosis codes, lab results, vaccination records). Access the EHR through the usual system access protocols."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any data quality issues found during the review. Include details such as missing data, incorrect data formats, inconsistencies between data sources, and outliers. Enter the issues into the centralized tracking system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Reviewing documentation related to data quality metrics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue data review, focusing on a different set of data elements within the EHR related to patient demographics and medical history relevant to influenza risk factors."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Log any new data quality issues identified. Double-check all entries for accuracy and completeness."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Identify the reporter's information in order to contact them. Contact @rn-1, @rn-2, @rn-3, @pchmp-1, and @clinlead-1 via email to confirm their contact information for data quality reports."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @da-1 and @da-2 to discuss strategies for identifying data quality issues and root cause analysis techniques. Discuss data validation techniques. Topic: Data Quality Issue Identification and Analysis"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the work log and plan for tomorrow."
+    }
+]

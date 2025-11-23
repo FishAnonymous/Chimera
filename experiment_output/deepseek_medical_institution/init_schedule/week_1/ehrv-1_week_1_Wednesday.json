@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from @his-1 and @his-2 on best practices."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate best practices into the requirements document and finalize."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email finalized requirements document to @itpm-1 for approval."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @ehrdev-1, @ehrdev-2, and @dba-1 to discuss technical implementation of requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct meeting with development team to align on technical implementation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document meeting outcomes and action items."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with EHR vendor on any technical queries from the development team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project timeline based on vendor and development team inputs."
+    }
+]

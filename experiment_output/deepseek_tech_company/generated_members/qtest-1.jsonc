@@ -1,0 +1,28 @@
+{
+    "name": "Priya Sharma",
+    "id": "qtest-1",
+    "ip": "10.0.0.27",
+    "age": 31,
+    "role": "QA Tester",
+    "description": "Responsible for identifying and documenting bugs, glitches, and gameplay issues through systematic testing. Ensures the game meets quality standards by executing test cases, reporting defects, and verifying fixes. Works closely with developers to reproduce and resolve issues efficiently.",
+    "tools": [
+        "BugTrackingSystem",
+        "TestRail",
+        "JIRA",
+        "AutomatedTestingTools",
+        "PerformanceMonitoringSoftware",
+        "CompatibilityTestingSuites"
+    ],
+    "mbti": "ISTJ",
+    "interests": "speedrunning games, birdwatching, puzzle solving",
+    "personality": "Methodical and detail-oriented. Prefers structured testing plans and clear documentation. Most productive in early morning hours. Enjoys finding obscure edge cases that others might miss.",
+    "application": {
+        "Zendo": {
+            "account_name": "qa-334477",
+            "password": "priyaS@qatest",
+            "permissions": "tester"
+        }
+    },
+    "email": "qa-334477@corp.com",
+    "container_id": "1a2b3c4d5e6f"
+}

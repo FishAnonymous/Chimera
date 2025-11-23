@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to messages and start looking into visual polish of character models and animations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review existing character models and animations in the game. Identify areas where visual polish is needed, such as textures, lighting, and animation smoothness. Make some notes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Experiment with different post-processing effects to enhance the visual fidelity of the character models. Adjust bloom, contrast, and color grading to achieve a desired look. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work with the animation team (indirectly, through notes/suggestions) to refine existing character animations. Focus on improving the fluidity and responsiveness of movements. Review in-game to see impact."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch at the nearby ramen shop."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prototype visual feedback for resource usage, such as character glows when using mana. Experiment with different colors, intensities, and animation curves."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement the chosen visual feedback effects into the game. Fine-tune the parameters to achieve a satisfying and informative visual cue for the player. Send update to @lpro-1 and @cdev-1 to check and provide feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the visual feedback implementation and share it with the team. Briefly browse Reddit for funny memes."
+    }
+]

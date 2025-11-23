@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks. Review any pending documentation or compliance items."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on finalizing remaining client onboarding documentation. Ensure all KYC/AML checks are complete."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @facc-1 and @facc-2 to confirm client fund allocation details post-onboarding."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @mkt-1 to ensure marketing materials are updated with the latest client testimonials."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct third onboarding meeting with a UHNWI client. Address any specific concerns or questions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update CRM system with meeting outcomes and client feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review all client records to ensure completeness and accuracy."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send summary report to @pm-1 on onboarding progress and any outstanding items."
+    }
+]

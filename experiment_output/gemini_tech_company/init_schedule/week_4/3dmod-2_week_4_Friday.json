@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Review the final asset in Unreal Engine."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create a simple animation for the asset to test its functionality and visual appeal in motion. This could involve a simple rotation or movement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the animation and make any necessary adjustments. Ensure that the animation is smooth and consistent with the game's overall style."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the entire process of creating the asset, from blockout to final implementation in Unreal Engine. This documentation will be helpful for other team members and for future reference."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Upload the asset and documentation to the project repository. Ensure that all files are properly organized and labeled."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin researching and experimenting with new 3D modeling techniques or software. This will help stay up-to-date with the latest industry trends and improve skills."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete documentation and project wrapping up. Browsing internet for entertainment."
+    }
+]

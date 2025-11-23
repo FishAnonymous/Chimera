@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the progress of other team members. Specifically, check if the art style guide has been updated by @Cart-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the game's inventory system design with @Sdes-2 (Systems Designer) to understand the types of items, categories, and functionalities required in the inventory UI. @Sdes-2 Inventory System Details for UI Design."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorm ideas for the inventory UI, considering different layout options (e.g., grid, list, tabbed) and features (e.g., item sorting, filtering, comparison)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create low-fidelity wireframes for the inventory UI in Figma, experimenting with different layout and interaction patterns.  Focus on drag-and-drop functionality and item information display."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the inventory UI wireframes to @Ldes-1 (Lead Game Designer) and @Cdev-3 (Client Developer) for feedback on usability and technical feasibility. @Ldes-1 @Cdev-3 Inventory UI Wireframe Review"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @Ldes-1 and @Cdev-3 into the inventory UI wireframes. Refine the layout, interaction design, and item information display."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin creating a mid-fidelity mockup of the inventory UI in Figma, using placeholder item icons and descriptions. Pay attention to visual hierarchy and information clarity."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Research different UI patterns for inventory management in similar games. Analyze the strengths and weaknesses of each pattern."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the design decisions made for the inventory UI and update the UI/UX design documentation. Prepare for the HUD design tasks for tomorrow."
+    }
+]

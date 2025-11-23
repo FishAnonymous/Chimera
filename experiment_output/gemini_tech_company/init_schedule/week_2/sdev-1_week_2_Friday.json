@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Conduct thorough testing of the server implementation.  This includes unit tests, integration tests, and performance tests.  Identify and fix any bugs or performance issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Write unit tests for the core server logic, such as authentication, game session management, and game rules.  Ensure that the tests cover all edge cases and potential error conditions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct integration tests to verify that the different components of the server are working together correctly. This includes testing the interaction between the client and server, as well as the interaction between different server modules."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Perform performance tests to evaluate the server's scalability and stability under load. Simulate a large number of concurrent players and monitor server performance metrics, such as CPU usage, memory usage, and network latency. Need to discuss with @beng-1 about setting up load test environment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any bugs or performance issues identified during testing.  Prioritize critical issues that affect the core functionality of the game or the security of player data."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refactor the server code to improve its readability, maintainability, and scalability.  Apply coding best practices and design patterns to ensure that the code is well-structured and easy to understand."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the server APIs and implementation details.  Provide clear and concise documentation for other developers to use when integrating with the server."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by reviewing the progress made and planning for the next week.  Identify any outstanding tasks and prioritize them for the next sprint. Email @prod-1 to discuss plan for next week."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review initial project brief and gather preliminary server requirements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research existing server architectures for third-person shooter games. Take notes on best practices and potential pitfalls."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an initial outline for server requirements, focusing on scalability, latency, and security."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @lpro-1 and @sdes-1 to discuss technical constraints and gather additional input on server requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting the server architecture document, starting with high-level components and their interactions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue working on the server architecture document, detailing database schemas and API endpoints."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the draft document for consistency and clarity. Make necessary revisions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @prod-1 and @lpro-1 to schedule a review meeting for the server architecture document."
+    }
+]

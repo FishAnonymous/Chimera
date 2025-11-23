@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the categorized list of sound effects. Check for any missed categories or types of sounds."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on Environmental Sounds (wind, rain, ambient city noises). Research and source environmental sounds online."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Edit the downloaded environmental sounds. Create seamless loops for ambient sounds."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "@LVDN-1 (Level Designer) Discuss environmental sounds needed for specific levels. Topic: Soundscapes for different game environments"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Explore options for recording custom sound effects for specific actions or environments. (Consider recording footsteps on different surfaces.)"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Record preliminary footsteps on various surfaces in the office. (Wood, carpet, tile)"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Process the recorded footsteps. Clean up noise and normalize levels."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Backup the processed footsteps and update the sound effect list. Plan for tomorrow's UI sound exploration."
+    }
+]

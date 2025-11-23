@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare for the meeting on deliverables and deadlines."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the meeting with the entire team to ensure alignment on deliverables and deadlines. Use feedback collected from Monday."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document key points and agreements from the meeting and distribute minutes to all participants including @Lead Game Designer, @Audio Engineer, and @3D Modelers."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Schedule follow-up meetings as necessary with specific team members if any details were not resolved."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review all deliverables with @Build Engineer to ensure build process aligns with the production schedules."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send out an email reminder to the team about upcoming deadlines and review expectations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Establish communication and collaboration protocols for the project, document them, and prepare to share."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails for responses and finalize the communication protocols document."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and company announcements. Settle in with a cup of tea before diving into the week's audio tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin compiling a comprehensive list of all required sound effects for the game. Categorize them by type (character actions, environmental sounds, UI feedback, weapon sounds, etc.) in a spreadsheet. Make notes on desired style for each category. Ensure the list covers all existing gameplay elements and areas planned for the near future."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the game design documents provided by @LDES-1 (Lead Game Designer) and @SDES-1 (Systems Designer) to ensure my sound effects list is complete and accurate. Identify any potential gaps in coverage."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @LDES-1 and @SDES-1 @PEOPLE to clarify a few points regarding the sound design for specific game mechanics. Need to confirm the desired 'feel' for reloading animations and enemy death sequences."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin initial research for sourcing sound assets. Browse online sound libraries (e.g., Sound Ideas, Boom Library, Sonniss) for readily available sound effects. Create a shortlist of potential assets for character footsteps, weapon handling, and basic UI clicks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Experiment with simple sound creation tools (Audacity, GarageBand) to create placeholder sound effects for elements where suitable library sounds are unlikely (e.g. a very specific weapon sound). Document experiments to inform the final creation process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress on sound effect list and initial asset sourcing. Plan out tasks for tomorrow: Continue sourcing assets, start writing down the process for creating unique sound effects."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the departure and double-check all the things have been packed."
+    }
+]

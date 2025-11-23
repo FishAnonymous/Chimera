@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight updates. Prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Facilitate end-of-week sync meeting with all team leads to review progress and plan for next week."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document meeting outcomes and action items. Share minutes with all attendees."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Compile a comprehensive week-end report summarizing progress, challenges, and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the week-end report with @prod-1 and finalize any adjustments."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the finalized week-end report to all stakeholders and team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by updating all project tracking tools and ensuring all action items are assigned."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks and prepare any necessary materials."
+    }
+]

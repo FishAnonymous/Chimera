@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize any pending tasks. Prepare for final review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final review of fund management software with @sdev-1, @sdev-2, and @pm-1. Validate all functionalities and security measures."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present final technical specifications and security assessment to @cio-1 and @coo-1 for approval."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any last-minute feedback or changes from the review meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize all documentation and hand over to @pm-1 for project closure."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week. Send summary email to team and plan for next week's tasks."
+    }
+]

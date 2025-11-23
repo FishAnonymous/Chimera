@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar. Review the progress on the audit procedures."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the preliminary audit plan, incorporating the risk assessment and audit procedures. Ensure the plan is comprehensive and covers all key areas."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the preliminary audit plan to @coo-1 (Chief Operating Officer) and @comp-1 (Compliance Officer) for review and feedback. Request a meeting to discuss the plan in detail."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @facc-1 (Fund Accountant) and @coo-1 (Chief Operating Officer) to discuss accounting policies and procedures. Gather information on the fund's chart of accounts, general ledger, and reporting processes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the fund's existing accounting policies and procedures. Identify any gaps or inconsistencies with industry best practices and regulatory requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin developing recommendations for improving the fund's accounting policies and procedures. Focus on areas where greater clarity or control is needed."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize my workspace and prepare for tomorrow."
+    }
+]

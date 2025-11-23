@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm playtesting schedule with @qtest-1, @lvdn-1, and @sdes-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare playtesting materials, including feedback forms and session guidelines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct a briefing session with playtesters to explain objectives and procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Oversee the first playtesting session, observing and taking notes on player behavior and feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Debrief with @qtest-1 and @sdes-1 to discuss initial findings and adjustments needed."
+    }
+]

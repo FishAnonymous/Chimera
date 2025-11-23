@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review yesterday's progress. Refine enemy AI behavior based on feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement special abilities (e.g., grenades, dash) for the player character."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @lpro-1 to discuss performance optimization for abilities and AI."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test and balance character abilities against enemy AI."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start prototyping main menu UI. Implement basic navigation and buttons."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @uiux-1 to review main menu design and functionality."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine main menu UI based on feedback. Test navigation flow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and issues. Plan for next day's tasks."
+    }
+]

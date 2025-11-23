@@ -1,0 +1,183 @@
+[
+    {
+        "week": 1,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Spend time gathering reference materials for both environment and character design.",
+            "Research landscapes, architecture, and cultural elements relevant to the game's setting.",
+            "Explore design styles and character designs from similar genres for inspiration.",
+            "Create a mood board to visualize themes and concepts."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Lead a brainstorming session to define key user interaction features for the game.",
+            "Create wireframes for the new UI elements based on feedback from the design team.",
+            "Develop a prototype for one of the features to gather initial feedback from stakeholders."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Participate in the brainstorming session to define key user interaction features.",
+            "Assist in creating wireframes for the new UI elements based on feedback.",
+            "Support development of a prototype for one of the features."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Participate in the brainstorming session to define key user interaction features.",
+            "Assist in creating wireframes for the new UI elements based on feedback.",
+            "Support development of a prototype for one of the features."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Research best practices in system architecture relevant to the game's genre.",
+            "Draft initial architecture diagrams outlining core systems and their interactions.",
+            "Present proposed architecture to the development team for initial feedback."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Research best practices in system architecture relevant to the game's genre.",
+            "Draft initial architecture diagrams outlining core systems and their interactions.",
+            "Present proposed architecture to the development team for initial feedback."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Research and select appropriate build tools and technologies.",
+            "Set up a version control system and establish branching strategies.",
+            "Create initial scripts for automating build processes for client and server components."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Review game design documents and identify key gameplay flows, features, and mechanics that require testing.",
+            "Collaborate with developers to understand anticipated changes and focus areas.",
+            "Draft a testing strategy document outlining different testing types and methodologies."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Gather reference materials for character movement styles and animations.",
+            "Collaborate with others to discuss ideas for props that enhance gameplay.",
+            "Collect environment asset references that complement the game setting."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Gather reference materials for character movement styles and animations.",
+            "Collaborate with others to discuss ideas for props that enhance gameplay.",
+            "Collect environment asset references that complement the game setting."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Define key milestones and production schedules for the project.",
+            "Ensure alignment on deliverables and deadlines with the entire team.",
+            "Set up initial meetings to establish communication and collaboration protocols."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Conduct user research through surveys or interviews to gather insights on player experiences.",
+            "Analyze existing UI elements and user flows to identify pain points.",
+            "Create user personas to represent different player types within the game."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Research architectural patterns suitable for the game (e.g., component-based architecture).",
+            "Define key systems such as input handling and game state management.",
+            "Collaborate with Systems Designers to ensure the architecture aligns with the gameplay vision."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Review existing asset formats and determine optimal settings for importing into the game engine.",
+            "Create guidelines for asset preparation to ensure seamless integration.",
+            "Set up a project structure that organizes assets efficiently within the engine."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Conduct meetings with teams to discuss pain points and tool requirements.",
+            "Analyze existing workflows to determine gaps and opportunities for improvement.",
+            "Compile a list of prioritized tool features based on feedback."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Research various level designs that align with the game\u2019s narrative.",
+            "Create rough sketches of multiple level layouts, identifying key gameplay areas.",
+            "Collaborate with the design team to gather initial feedback on proposed layouts."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Research and collect sound effects that align with the themes of the game.",
+            "Collaborate with the design team to understand specific audio requirements.",
+            "Create a sound library cataloging collected effects for easy access."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Research and choose cloud service providers for game server needs.",
+            "Outline network architecture diagrams illustrating server instances and connections.",
+            "Collaborate with the systems design team on network requirements."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Research various level designs that align with the game\u2019s narrative.",
+            "Create rough sketches of multiple level layouts, identifying key gameplay areas.",
+            "Collaborate with the design team to gather initial feedback on proposed layouts."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Collaborate with the design team to outline key themes and narrative direction.",
+            "Create a one-page synopsis that captures the essence of the story.",
+            "Ensure narrative integration aligns with gameplay mechanics and settings."
+        ]
+    }
+]

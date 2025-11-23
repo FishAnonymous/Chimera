@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and perform a final review of the week's documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Round on patients for a final check on adverse reactions and education provided. Ensure all documentation is complete."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide any last-minute patient education. Document in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile and submit the final weekly summary report to @clinlead-1 and @pchmp-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @trainer-1 to discuss any training needs identified during the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and plan for next week's tasks."
+    }
+]

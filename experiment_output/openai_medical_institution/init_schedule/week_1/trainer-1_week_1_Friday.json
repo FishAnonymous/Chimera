@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct the first training session on effective EHR utilization for influenza data entry."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Allow time for Q&A after the training session and gather feedback from participants."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze feedback from the first session to make adjustments for future sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the second training session incorporating feedback from the first session."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize and distribute the updated FAQ list and support materials based on observed participant queries."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize the week's activities and prepare a report for next week's objectives."
+    }
+]

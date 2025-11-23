@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute feedback from the EHR Integration Developers or QA team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 to present the finalized table design and data mappings. Obtain approval for the next steps."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @trainer-1 to discuss training needs for staff on the new influenza data tables and mappings."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Organize all project files and documentation for handover to the EHR Integration Developers. Ensure everything is well-documented and accessible."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final review of all work completed during the week. Verify that all tasks are documented and ready for implementation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send a summary email to @itpm-1, @ehrdev-1, and @ehrdev-2 confirming completion of the week's tasks and outlining next steps."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Reflect on the week's progress and identify any areas for improvement in future projects."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week by organizing the workspace and planning for the upcoming week's tasks."
+    }
+]

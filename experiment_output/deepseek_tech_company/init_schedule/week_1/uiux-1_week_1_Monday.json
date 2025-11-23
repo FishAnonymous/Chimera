@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the project brief and goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start creating low-fidelity wireframes for the main menu screen. Focus on layout and basic functionality."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse design inspiration websites for UI ideas."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue working on the main menu wireframes, refining the layout and user flow."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin wireframing the HUD (Heads-Up Display) for the game, considering essential elements like health, ammo, and objectives."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review initial wireframes for both main menu and HUD, make any necessary adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation of the wireframes for tomorrow's team review."
+    }
+]

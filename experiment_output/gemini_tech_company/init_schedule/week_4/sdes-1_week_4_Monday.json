@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Wake up early, review calendar and prepare for the week. Quickly check emails for urgent requests."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and team communication channels. Since no specific goals were outlined in the meeting minutes, I need to proactively define objectives for the week to ensure progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Email @LDES-1, @LPRO-1, @PROD-1 to schedule a brief meeting to discuss priorities for the week, especially system design elements required for the Third-Person Shooter. Topic: Week 4 System Design Priorities."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Browse industry news websites (Gamasutra, etc.) to stay updated on recent trends in game design and Third-Person Shooters, particularly regarding system mechanics and innovative features."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @LDES-1, @LPRO-1, @PROD-1 to define system design priorities for the week. Focus on identifying core mechanics requiring immediate attention (e.g., weapon system, player movement, AI)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the meeting, draft a high-level system design document outlining the core mechanics identified. Include placeholder diagrams and descriptions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Step away from the computer to recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the system design document based on initial thoughts. Flesh out the weapon system design, including weapon types, stats, and potential upgrade paths. Consider the interaction with the player and environment."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @3DMOD-1, @3DMOD-2 to inquire about existing weapon models and animations that could be used as placeholders for the weapon system design. Topic: Weapon Model and Animation Availability."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin researching and documenting existing Third-Person Shooter weapon systems to identify best practices and potential pitfalls. Note successful implementations and innovative ideas."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the work completed today and prepare a brief summary for tomorrow's morning check-in."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow - prepare the key activities to work on for the core mechanic and send emails to relevant members @LDES-1, @LPRO-1, @PROD-1, @3DMOD-1, @3DMOD-2"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off."
+    }
+]

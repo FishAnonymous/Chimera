@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Address any last-minute feedback on textures from @ldes-1 or @tart-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in integration testing with @cdev-1, @cdev-2, and @cdev-3. Verify assets fit seamlessly into the game world."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document any issues found during testing and collaborate with @3dmod-1 and @3dmod-2 to resolve them."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Adjust textures and models based on testing feedback. Ensure all assets meet quality standards."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review final assets with @prod-1 and @ldes-1 for sign-off."
+    }
+]

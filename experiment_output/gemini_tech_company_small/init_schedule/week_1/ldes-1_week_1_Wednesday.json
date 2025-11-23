@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, check emails, get ready for a day of creativity!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the blockout environment. Add more details to the level design, such as corridors, platforms, and obstacles. Test different level layouts and explore gameplay possibilities. Focus: Simple blockout models (continued)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Experiment with different camera perspectives. Try third-person over-the-shoulder, third-person centered, and fixed camera angles. Decide which camera perspective best suits the gameplay and visual style."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start brainstorming ideas for the player character. Think about their background, personality, and abilities. What kind of role do they play in the game world? Focus: Concept art for the player character."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Grab some food and relax. Clear the mind a bit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Sketch different character silhouettes. Experiment with different body shapes, proportions, and clothing styles. Focus on creating a visually distinct and memorable character. Focus: Concept art for the player character, focusing on silhouette."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Refine the chosen silhouette. Add basic features such as eyes, nose, mouth, and hairstyle. Consider the character's gender, age, and ethnicity. Ensure the character's appearance reflects their personality and background."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Present the character concepts to @lpro-1 and @cdev-1. Gather feedback and iterate on the design. Topic: Character concept."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Time to go home. Prepare for tomorrow's challenge."
+    }
+]

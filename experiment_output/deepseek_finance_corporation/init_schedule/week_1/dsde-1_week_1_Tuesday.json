@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from quantitative researchers and refine the historical performance analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Shift focus to reviewing resilience of market-neutral funds during downturns. Identify key downturn periods (e.g., 2008, 2020)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Extract performance data during these periods and compare against benchmarks (e.g., S&P 500)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze drawdowns and recovery times. Prepare visualizations to highlight resilience."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @cio-1 and @qres-3 to share resilience analysis and discuss implications for fund design."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the shared report with resilience findings and cross-check data sources."
+    }
+]

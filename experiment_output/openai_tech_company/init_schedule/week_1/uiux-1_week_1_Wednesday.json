@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check email for updates and feedback from team members."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create user personas based on the survey data and common player types identified."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @ldes-1 and @ndes-1 to discuss user personas and their implications on game design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize user personas and prepare a presentation for the upcoming design review meeting."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review UI elements based on persona characteristics to highlight specific needs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a draft of the user persona presentation to @prod-1 for feedback."
+    }
+]

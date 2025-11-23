@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Finalize any remaining fixes and prepare the EHR updates for deployment."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @itpm-1 to discuss the deployment plan and timeline for the EHR updates."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @helpdesk-1 to prepare support materials for end-users post-deployment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final review of the EHR updates and testing results with the project team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email the entire team with a summary of the week's progress and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize files, and plan for the upcoming week's tasks."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and address any urgent matters."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the wireframes for the HUD, ensuring all essential information is clearly displayed and easily accessible."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a low-fidelity mockup of the HUD in Figma. Focus on visual clarity and minimal obstruction of the player's view."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss the HUD design with @LDes-1, @Prod-1, and @Cdev-1 (Client Developer) to ensure it meets the game's requirements and integrates well with the gameplay.  Email: [Subject: HUD Mockup Review Request] - Hi [LDes-1, Prod-1, Cdev-1], I've completed the initial mockup for the HUD and would like to get your feedback, particularly regarding its integration with the gameplay and any potential technical limitations. Please let me know when you're available for a quick review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @LDes-1, @Prod-1, and @Cdev-1 into the HUD mockup. Address any concerns related to visual clarity, gameplay integration, or technical limitations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document all the UI designs created this week, including wireframes, mockups, and design decisions."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a presentation summarizing the UI design progress for the week. Include key design decisions, challenges encountered, and future plans."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Submit the weekly report."
+    }
+]

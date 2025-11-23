@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review any feedback from @clinlead-1 and @pchmp-1 on the documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback into the documentation, ensuring all clinical terms and processes are accurately represented."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break. Verify that all documentation updates are complete."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the abstraction process documentation. Prepare a summary for the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @itpm-1 with the finalized dataset and documentation for project closure."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize and archive all project files in the designated repository."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update personal task log and prepare for any follow-up tasks or meetings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's accomplishments and note any lessons learned for future projects."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the computer, and check emails. Review any overnight communications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Distribute the final version of the data quality issue reporting process and template to all relevant staff members (nurses, medical records specialists, physicians, IT staff, and quality assurance team)."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Send out a company wide email with an announcement of the new data quality reporting. @ALL Announcing the New Data Quality Reporting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on formatting the identified data quality issue documentation into a more readable format."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Contact @da-1 and @da-2 to seek assistance to format data quality issue documentation into a more readable format. @PEOPLE Request for Data Formatting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review technical blogs related to data quality and health informatics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the data quality issue documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin the final edits for the data quality issue documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @ehrv-1 to seek clarity on the data quality issues in the EHR documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the data quality issue documentation with the clarifications from @ehrv-1"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any outstanding emails and complete administrative tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

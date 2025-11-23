@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review playtesting schedule and prepare materials for the session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct playtesting session with @qtest-1 and @ldes-1 to gather feedback on gameplay mechanics."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile feedback from playtesting session and categorize issues by priority."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start optimizing performance metrics for rendering. Profile current rendering performance and identify bottlenecks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss optimization strategies with @lpro-1 and @tart-1 via email. @lpro-1 @tart-1"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue profiling and optimizing rendering performance."
+    }
+]

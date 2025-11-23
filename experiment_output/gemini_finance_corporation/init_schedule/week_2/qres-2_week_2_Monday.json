@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Start the day with some coffee and catch up on financial news. Briefly browse Reddit's r/finance and r/quant to see what's trending. Get my mind firing for the day!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check emails and respond to any urgent requests. Prioritize emails related to the risk management framework and backtesting methodologies."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @qres-1 and @qres-2 to discuss progress on the risk management framework and identify any roadblocks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qres-1 and @qres-2 to collaborate on the preliminary risk management framework. Focus on defining key risk metrics (e.g., VaR, Sharpe Ratio, drawdown) and their acceptable ranges."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Research different approaches to backtesting statistical arbitrage strategies. Focus on identifying appropriate data sources, transaction cost models, and performance metrics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Grab a sandwich and chat with colleagues in the kitchen to relax. Maybe discuss some cool new findings in quantitative finance. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the risk management framework. Specifically, focus on documenting the framework and outlining the process for monitoring and managing risk."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start drafting a document outlining the backtesting methodologies. Cover data sources, transaction cost models, performance metrics, and backtesting procedures."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and plan for tomorrow. Create a to-do list for Tuesday, focusing on the most urgent tasks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse some Machine Learning related articles, on Arxiv, to keep learning."
+    }
+]

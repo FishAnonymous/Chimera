@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Usual start: coffee, emails, browse Reddit for interesting game design discussions."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Compose an email to @Sdes-1 regarding questions about enemy AI behavior. Specifics on how they react to player actions, patrol patterns, and response times. Clarity is key."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on the puzzle design aspect of the first level. Brainstorm ideas for simple environmental puzzles that can be integrated into the gameplay. Think levers, switches, and pressure plates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the first puzzle prototype. Place the puzzle elements within the level and script the basic functionality. Nothing too complex, just a proof of concept."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Maybe watch a quick video on level design principles for inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Playtest the puzzle prototype. Observe player behavior and identify any issues with clarity or difficulty. Adjust the puzzle design based on feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue working on environmental challenges. Implement climbing sections, narrow ledges, and other obstacles to test player agility and platforming skills. Make sure these areas align with the overall aesthetic."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and summarize puzzle and environmental challenge tests. Prepare a short demo of the current level state for review tomorrow."
+    }
+]

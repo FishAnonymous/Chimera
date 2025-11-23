@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, review emails and schedule."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the list of key audit risks based on the information collected so far. Categorize risks by type (e.g., financial reporting, compliance, operational)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop specific audit procedures for each identified risk. Document the rationale for each procedure and the expected outcome."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the compliance program with @comp-1 and the legal counsel @legal-1, and see whether there are any new requirements for this year. Topic: Review of compliance program and new requirements"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine recommendations for improving internal controls, focusing on areas that directly address the identified audit risks. Prioritize recommendations based on their impact and feasibility."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the process for escalating and resolving identified deficiencies during the audit. Establish clear communication channels."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the audit plan and recommendations with senior management to get feedback and buy-in. Topic: Review and feedback on the audit plan and recommendation"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the audit plan based on feedback received from senior management."
+    }
+]

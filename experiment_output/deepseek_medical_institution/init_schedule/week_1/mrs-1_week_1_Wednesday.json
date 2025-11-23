@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up with @ehrdev-1 and @ehrdev-2 on form fixes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a dry-run of the training session with @trainer-1 and @rn-1 for feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Refine training materials based on dry-run feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize training session logistics (room booking, attendee list) with @helpdesk-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out training session invitations to @rn-2, @rn-3, @mrs-1, and @mrs-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare demo cases for the training session."
+    }
+]

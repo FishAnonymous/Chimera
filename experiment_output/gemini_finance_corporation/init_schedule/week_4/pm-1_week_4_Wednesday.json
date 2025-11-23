@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office, check emails, and prioritize tasks based on urgency. Briefly read articles about project management on HBR."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Morning check-in: Review the progress from the previous day, identify any new roadblocks, and adjust the plan for the day. Communicate with @larch-1, @dsde-1, @qres-1, @sdev-1, @comp-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Deep work session: Focus on writing the executive summary for the project's final report. Review the structure and narrative of the report to ensure it's concise and impactful."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate communication between teams: Review the trading platform development status with the software development team (@larch-1, @sdev-1, @sdev-2) and the quantitative research team (@qres-1, @qres-2, @qres-3). Address any discrepancies or integration challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Order in and catch up on industry news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Roadblock resolution: Spend the afternoon addressing any project roadblocks that have been reported. This may involve problem-solving sessions with individual team members or escalating issues to senior management. Communicate with the related members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the completed tasks and update the project management software. Prepare a summary of progress to date for communication to the steering committee."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address project roadblocks identified in the morning meetings. Collaborate with relevant team members to find solutions and implement corrective actions."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review market data and recent performance reports to start defining the investment strategy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss potential investment strategies and selection criteria for asset managers."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft initial outline of the core investment philosophy and asset allocation framework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and refine the draft with @pm-1 and @coo-1 for alignment with company goals."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research and compile risk management best practices to establish protocols."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send email to @legal-1 and @comp-1 to review compliance aspects of the risk management protocols."
+    }
+]

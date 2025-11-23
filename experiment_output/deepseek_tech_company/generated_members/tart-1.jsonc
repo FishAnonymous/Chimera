@@ -1,0 +1,28 @@
+{
+    "name": "Omar Khalid",
+    "id": "tart-1",
+    "ip": "10.0.0.24",
+    "age": 32,
+    "role": "Technical Artist",
+    "description": "Bridges the gap between artists and programmers by developing tools and workflows that optimize art production pipelines. Specializes in shader development, performance optimization, and implementing complex visual effects while maintaining technical constraints.",
+    "tools": [
+        "Houdini",
+        "Substance Designer",
+        "Unity Shader Graph",
+        "Unreal Engine Blueprints",
+        "Python Scripting",
+        "RenderDoc"
+    ],
+    "mbti": "ENTP",
+    "interests": "generative art, robotics, electronic music production",
+    "personality": "Innovative and experimental. Thrives on solving technical challenges with creative solutions. Prefers flexible working hours with bursts of intense focus. Enjoys mentoring junior artists in technical workflows. Night owl who does best work after dark.",
+    "application": {
+        "Zendo": {
+            "account_name": "tart-112233",
+            "password": "omarK@techart",
+            "permissions": "artist"
+        }
+    },
+    "email": "tart-112233@corp.com",
+    "container_id": "7f6e5d4c3b2a"
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review yesterday's testing results and issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Debug and refine automated validation rules based on yesterday's testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @da-1 @da-2 to ensure validation rules align with data analysis needs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback from @da-1 @da-2 into validation rules."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining and testing automated validation rules."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a demo of the automated validation rules for the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Present demo to @clinlead-1 @itpm-1 @ehrdev-1 @ehrdev-2 for feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document feedback and plan for final adjustments."
+    }
+]

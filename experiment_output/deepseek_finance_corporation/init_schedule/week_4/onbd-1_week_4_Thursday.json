@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any client follow-ups. Review the day's schedule."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final onboarding meeting with the last UHNWI client for the week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @comp-1 to ensure all compliance documentation is finalized and approved."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Complete all CRM updates for the week's onboarded clients. Ensure seamless integration with other systems."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a summary of completed onboardings for @coo-1 and @cio-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize and archive all client documentation for easy future reference."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for next week's tasks and prioritize any pending items."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Finalize the investor presentation slides with performance metrics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ir-1, @pm-1 to review and refine the investor presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback into the presentation and ensure all metrics are accurately represented."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the investor presentation with @cio-1 and @ir-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Make final adjustments to the presentation based on the dry run feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow's final review and submission of all deliverables."
+    }
+]

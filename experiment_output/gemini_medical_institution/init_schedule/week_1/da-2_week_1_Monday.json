@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Log in to my workstation and check emails for urgent requests or updates. Quickly scan industry news related to data quality in healthcare, focusing on EHR implementations."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: Defining data quality metrics, setting weekly improvement targets, and generating weekly reports. Break down each goal into smaller, actionable tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Initial research on relevant data quality metrics. Focus on those applicable to influenza tracking in EHR data. Explore industry standards and best practices (e.g., those from AHIMA or similar organizations). Sources include online journals, publications, and reputable healthcare informatics websites."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft a preliminary list of data quality metrics. Consider metrics like data completeness for required fields (e.g., vaccination status, influenza test results, symptom onset date), data accuracy (e.g., correct ICD-10 codes for influenza), data consistency (e.g., consistent use of terminology across different EHR modules), data timeliness (e.g., how quickly test results are recorded), and data validity (e.g., logical ranges for age or temperature)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @clinlead-1, @rn-1, @his-1 to schedule a brief meeting on Tuesday to discuss the relevance and feasibility of the drafted data quality metrics from a clinical and health informatics perspective. @PEOPLE: ['clinlead-1', 'rn-1', 'his-1'] Topic: Review of Proposed Data Quality Metrics for Influenza Tracking"
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue refining the initial list of data quality metrics based on my own understanding of the EHR system and the data elements available. Document the rationale for selecting each metric and how it will be measured."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up on personal reading."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start working on the format of data quality reports. Consider which visualizations would be most effective for communicating progress (e.g., line graphs for trends over time, bar charts for comparing metrics). Start sketching out report templates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research available tools and techniques for data quality assessment within the EHR system. Explore options for automated data quality checks and reporting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin outlining a strategy for setting weekly improvement targets. Research statistical methods for setting realistic and achievable targets based on baseline data quality levels."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the day's work. Make notes on questions to ask in Tuesday's meeting with the clinical and health informatics team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any outstanding requests. Prepare for tomorrow's meeting."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the help desk system and check for new user concerns or issues. Prioritize urgent requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with @rn-1, @rn-2, @rn-3 to address any remaining concerns regarding EHR system usage."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document resolved issues in the help desk system, ensuring all details are accurate and categorized properly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Provide one-on-one support to a nurse (@rn-1) experiencing difficulties with patient data entry in the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Check in with @clinlead-1 to discuss any recurring issues and potential training needs for staff."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Respond to help desk tickets, focusing on EHR navigation queries from @mrs-1 and @mrs-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the help desk knowledge base with solutions to common issues faced this week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's activities and prepare a summary for @itpm-1 regarding progress and outstanding issues."
+    }
+]

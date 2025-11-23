@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and assess previous day's testing data."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct further QA testing on updated protocols for influenza data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with @Training Coordinator to discuss training needs based on QA findings."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @Training Coordinator to outline necessary training based on QA results."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Note down training requirements and actions to be taken."
+    }
+]

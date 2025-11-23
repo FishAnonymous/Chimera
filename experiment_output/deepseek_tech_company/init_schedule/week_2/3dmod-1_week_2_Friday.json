@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any feedback on the second character's animations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize animations for the second key character. Ensure all movements are polished."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Export both characters with their animations and send them to @qtest-1 for testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @3dmod-2 and @tart-1 to discuss any issues found during testing."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Make final adjustments to characters and animations based on testing feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update project documentation and submit final assets to the repository."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan tasks for the next week and send a summary email to @prod-1."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning Routine: Check emails and industry news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refined Strategy Backtesting (Initial): Begin initial backtesting of the most promising statistical arbitrage strategy identified thus far using available data. Focus on assessing profitability, Sharpe ratio, and drawdowns. Analyze results critically and identify areas for improvement."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Risk Model Design (Initial): Begin designing the initial risk model for the selected strategy, incorporating the identified risk metrics (VaR, Expected Shortfall, liquidity ratios). Define the model's inputs, outputs, and assumptions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Quick lunch at my desk while catching up on some research papers."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaboration: Meet with @qres-1 and @qres-2 to discuss the initial backtesting results and risk model design. Share findings, solicit feedback, and identify areas for refinement. TOPIC: Strategy Backtesting & Risk Model Review"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Model Refinement: Based on the feedback from @qres-1 and @qres-2, refine the risk model and backtesting procedures. Address any identified shortcomings or limitations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap Up: Organize findings, note improvements. Prepare for tomorrow: deeper backtesting, documentation."
+    }
+]

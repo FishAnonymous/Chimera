@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review updates on the EHR implementation project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @ehrv-1 to discuss integration requirements with the EHR vendor."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Collaborate with @dba-1 to confirm database configurations and access controls."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the existing EHR data models and identify gaps with @his-1."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Compile a list of required EHR features and functionality with @clinlead-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @ehrdev-2 to schedule training sessions for staff on EHR usage."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an email to @trainer-1 about training formats and materials needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on the preliminary EHR integration code framework."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day\u2019s progress and plan tasks for tomorrow."
+    }
+]

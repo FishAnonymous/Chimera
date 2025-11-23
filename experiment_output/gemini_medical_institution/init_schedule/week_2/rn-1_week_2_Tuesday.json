@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the computer, check emails and browse some interesting artistic exhibitions online."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review patient schedule and prepare for morning assessments. Check vaccine inventory and ensure adequate supply."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient assessments, focusing on patients scheduled for influenza vaccinations. Ensure their eligibility based on medical history and current health status."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Accurately document assessment findings in the EHR. Pay special attention to any allergies or contraindications for the influenza vaccine."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Administer influenza vaccinations and diligently document the vaccination details in the EHR. Double-check all entries for accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Assist @trainer-1 by providing feedback on the EHR training materials based on my experiences with data entry and navigation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Listen to music and relax."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and influenza vaccinations. Document all findings and vaccinations meticulously in the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @his-1 to report a potential discrepancy I noticed in the EHR data fields related to vaccine administration. @PEOPLE [his-1], Topic: EHR Data Field Discrepancy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare end-of-day report of the work progress and create a to-do list for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to the emails."
+    }
+]

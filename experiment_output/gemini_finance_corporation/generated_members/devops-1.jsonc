@@ -1,0 +1,27 @@
+{
+    "name": "Sofia Patel",
+    "id": "devops-1",
+    "ip": "10.0.0.19",
+    "age": 34,
+    "role": "DevOps Engineer",
+    "description": "Oversees the deployment and operations of cloud-based infrastructure, ensuring application availability and performance. Implements continuous integration and deployment pipelines for faster software delivery while maintaining system security and reliability.",
+    "tools": [
+        "AWS",
+        "Terraform",
+        "Docker",
+        "Jenkins",
+        "Kubernetes"
+    ],
+    "mbti": "ISTP",
+    "interests": "traveling, photography, cycling",
+    "personality": "Practical and hands-on, enjoys troubleshooting and optimizing systems. Thrives on challenges and prefers to work independently or in small teams. Appreciates efficient processes and is adaptable to changing environments.",
+    "application": {
+        "DevOpsPipeline": {
+            "account_name": "devops-473829",
+            "password": "SofiaDevOps@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "devops-473829@corp.com",
+    "container_id": "h34j6k9l034b"
+}

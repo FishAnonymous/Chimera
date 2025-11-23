@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Emails and a final review of the level. Make a list of talking points for the meeting with @Ldes-1. Maybe grab a pastry this morning."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @Ldes-1 to review the level's progress. Present the level's layout, gameplay scenarios, and visual elements. Incorporate feedback and suggestions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any major issues identified during the meeting with @Ldes-1. Implement the necessary changes to the level's layout, gameplay, or visual elements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Discuss with @sdes-2 how to improve the puzzle in the game."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the puzzle design based on the feedback from @sdes-2. Implement the changes in the level."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on environmental challenges within the levels, experimenting with traps, moving platforms and environmental storytelling."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Playtest with @Qtest-1 to receive the formal feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Loaf around by browsing some websites."
+    }
+]

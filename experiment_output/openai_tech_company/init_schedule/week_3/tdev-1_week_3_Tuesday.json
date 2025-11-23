@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare a checklist for the final test of the initial tools."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 to discuss the testing strategy and gather insights on potential bugs identified during initial testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the initial tools based on established checklist and report any remaining bugs found for fixing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Fix the identified bugs from testing, focusing on performance optimization."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct one final quality assurance test on the tools before user testing sessions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails for any feedback or issues reported by QA team."
+    }
+]

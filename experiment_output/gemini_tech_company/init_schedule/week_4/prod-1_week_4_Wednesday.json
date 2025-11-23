@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and calendar invites. Prepare for the daily stand-up meeting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Daily stand-up meeting with the team. Review progress, address any roadblocks, and coordinate tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with @Uiux-1 about any initial UI elements needed for the prototype, such as a health bar or ammo counter. @Uiux-1 UI Elements for prototype?"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Dedicate time to address any immediate concerns or questions from team members. Provide guidance and support to ensure everyone is on track."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the integrated character controller, environment, and basic shooting mechanics. Playtest the prototype and identify any issues with the gameplay, visuals, or performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @Qtest-1 to perform a thorough test of the prototype. Document all found bugs, and make sure the process are documented clearly. @Qtest-1 Test play of prototype required"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "After bug reports are delivered, sort and prioritize them based on severity and impact on gameplay. Assign these tasks to relevant developers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review bug fixes implemented by the developers. Ensure the fixes are effective and do not introduce any new issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project management software with progress on bug fixes and any new issues identified. Communicate any important updates or changes to the team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's tasks."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and gather reference materials for the animations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue animating the secondary character with focus on more complex actions (run, jump)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the animations and start preparing them for a testing phase."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a demo video of the animations to showcase to the design team."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

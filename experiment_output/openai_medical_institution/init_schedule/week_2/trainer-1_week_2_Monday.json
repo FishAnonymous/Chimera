@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and review the goal for the week related to onboarding training sessions for EHR tools."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft the training materials for the onboarding sessions, focusing on EHR tools relevant to influenza data collection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Reach out to @ehrdev-1 and @ehrdev-2 to gather technical details about the EHR tools required for the training materials."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on the training materials based on the feedback received from @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the training schedule and confirm dates with all attendees."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a review meeting with @clinlead-1 to finalize the onboarding training\u2019s objectives and goals."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out the finalized training schedule and materials to all participants, including @clinlead-1, @da-1, @da-2, and @pchmp-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of OA system for the day."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any investor inquiries."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the third investor meeting, focusing on expected returns and risk management."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @facc-1 and @facc-2 to ensure accurate financial data is included in follow-ups."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of investor feedback for @cio-1 and @coo-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Schedule additional follow-up meetings based on investor interest."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week\u2019s progress and adjust the presentation as needed."
+    }
+]

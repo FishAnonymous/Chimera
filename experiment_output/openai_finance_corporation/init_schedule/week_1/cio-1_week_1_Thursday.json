@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and confirm meeting schedules with potential asset managers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review notes and feedback collected to date, and prepare a presentation for internal stakeholders."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Practice the presentation for clarity and conciseness, tailoring to the interests of target audience."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present proposal on defined investment strategies and asset manager selection criteria to executive team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Request feedback from executive team and discuss potential revisions based on input received."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft a follow-up email summarizing discussion points and action items from the presentation."
+    }
+]

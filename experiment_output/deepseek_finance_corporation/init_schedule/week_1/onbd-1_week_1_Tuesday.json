@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review and finalize the onboarding checklist. Start gathering preliminary client information templates."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @mkt-1 to discuss how to effectively gather client information without being intrusive."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft templates for collecting client investment history and other preliminary data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @legal-1 to review the drafted templates for any legal implications."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Incorporate feedback from @legal-1 into the templates. Finalize the preliminary information gathering forms."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and save all documents in the shared drive for team access."
+    }
+]

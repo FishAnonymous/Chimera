@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review all submitted forms and documents one last time before finalization."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @DevOps Engineer to discuss any tech-related issues concerning data submission to the SEC."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Confirm that all stakeholders (e.g., @Project Manager and @Data Science team) are aligned for the submission."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all documentation for SEC submission."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Submit the compliance documentation and forms to the SEC."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email all stakeholders confirming submission success and next steps."
+    }
+]

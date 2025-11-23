@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Get to the office, grab a coffee, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue setting up the accounting system. Focus on configuring reports to track fund performance metrics such as return on investment, Sharpe ratio, and tracking error."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop procedures for regularly reconciling trading data with the accounting records to ensure accuracy and prevent discrepancies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 (Quantitative Researchers) to understand the data flow from their models to the trading platform and how it should be reflected in the accounting system. Topic: Data integration from Quant Research to Accounting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Check out a new restaurant with some colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on setting up the accounting system and creating reports. Focus on expense tracking and allocation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all accounting policies, procedures, and system configurations in a comprehensive manual for future reference."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Quick browse of sports news. Check scores."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Head to the gym."
+    }
+]

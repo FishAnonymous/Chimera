@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review responses from @LVDN-1 and @LDES-1. If there is no useful information, reply to those to mention that I need the confirmed information to progress the work. Otherwise I need to change another plan for the whole week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Based on feedback from @LVDN-1 and @LDES-1, research reference images and create mood boards for potential environmental assets. Focus on gathering visual inspiration for the game's overall aesthetic."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start sketching out basic blockouts for potential props or environment pieces in Blender. Focus on establishing the scale and proportions of these assets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the blockout models in Blender. Add more detail and start shaping the forms of the assets. Pay attention to the overall silhouette and readability."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the blockout models with @3dmod-1 to get feedback and identify any potential issues. Discuss the overall direction and make necessary adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue refining the blockout models based on the feedback received."
+    }
+]

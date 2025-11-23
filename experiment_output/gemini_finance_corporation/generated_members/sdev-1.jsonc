@@ -1,0 +1,27 @@
+{
+    "name": "Maya Thompson",
+    "id": "sdev-1",
+    "ip": "10.0.0.17",
+    "age": 26,
+    "role": "Software Developer",
+    "description": "Develops and maintains software applications, focusing on back-end solutions. Collaborates with cross-functional teams to design, implement, and optimize code for new features and functionality.",
+    "tools": [
+        "JavaScript",
+        "Node.js",
+        "React",
+        "SQL",
+        "Git"
+    ],
+    "mbti": "ISFJ",
+    "interests": "hiking, photography, video games",
+    "personality": "Detail-oriented and reliable, enjoys a structured work environment. Thrives in collaborative settings and is passionate about contributing to team success through meticulous work.",
+    "application": {
+        "DevOpsToolkit": {
+            "account_name": "dev-993461",
+            "password": "MayaDev@2023",
+            "permissions": "developer"
+        }
+    },
+    "email": "dev-993461@corp.com",
+    "container_id": "g67h5h2k789m"
+}

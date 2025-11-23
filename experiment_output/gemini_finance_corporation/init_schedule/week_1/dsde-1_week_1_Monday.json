@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Ease into the day. Check emails and messages from colleagues, but mostly just browse some data science blogs and arXiv for interesting new papers on time series analysis or statistical modeling. Get a feel for the current research landscape."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start researching potential data sources. Focus initially on free or low-cost sources to get a baseline. Look into Yahoo Finance API, IEX Cloud (free tier), and potentially FRED (Federal Reserve Economic Data). Take detailed notes on data availability, historical depth, and API limitations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the findings on data source research, focusing on pros and cons (e.g., data quality, free/paid, API stability, etc.)"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab something quick and head outside for a walk to clear my head. Maybe listen to a podcast about behavioral economics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Dive deeper into one of the promising data sources (probably Yahoo Finance for initial exploration). Write some basic Python scripts to fetch data for a few sample stocks or ETFs. Focus on getting daily OHLCV data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start sketching out a preliminary data cleaning plan. What kind of missing values are likely? What about outliers? How will I handle different time zones? Start a draft document outlining potential issues and solutions. Think about contacting @sdev-1 and @sdev-2 to see if they have any internal data pipelines available or preferred data storage methods."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and code from today's research. Make a list of specific questions to address tomorrow. Lightly check work email and reply if it's important."
+    }
+]

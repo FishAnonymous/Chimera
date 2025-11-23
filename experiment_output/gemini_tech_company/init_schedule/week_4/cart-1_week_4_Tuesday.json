@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, grab coffee, and quickly check art feeds for daily inspiration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's enemy design thumbnails and select three to develop further."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin creating more detailed sketches of the chosen enemy designs. Focus on form, proportion, and readability. Think about how they would move and behave in combat."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the details, adding hints of texture, material, and potential weak points. I'll try to incorporate elements from the art style guide."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Quick bite at my desk while browsing more reference images."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create quick color studies for each of the three enemy designs. Experiment with different palettes to see what best communicates their role and threat level."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the enemy design sketches and color studies to @Ldes-1 and @Prod-1 for feedback. Ask specific questions about their silhouette, functionality, and place in the game's world."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback from @Ldes-1 and @Prod-1. Focus on one design that they felt had the most potential."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up the final enemy design sketch and prepare it for potential 3D modeling by @3dmod-1. Add notes on material, texture, and functionality."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Save work, shut down computer, and head home."
+    }
+]

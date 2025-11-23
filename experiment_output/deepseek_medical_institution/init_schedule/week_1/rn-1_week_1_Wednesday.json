@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any new patient cases or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review any new guidelines or updates related to influenza symptom assessment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct patient assessments, paying close attention to influenza symptoms."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document assessments in the EHR, ensuring all required fields are filled accurately."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @his-1 and @his-2 to discuss any trends observed in influenza symptoms among patients."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update EHR with any additional notes or corrections."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare handover notes and log out."
+    }
+]

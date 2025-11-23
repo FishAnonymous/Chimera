@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any last-minute feedback on the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the statistical model and findings to the team, including @cio-1, @pm-1, and @ir-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss next steps and potential improvements with the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all findings, model details, and feedback in the company's knowledge base."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @facc-1 and @facc-2 with the finalized risk metrics for fund accounting purposes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week's tasks, update the project tracker, and plan for next week."
+    }
+]

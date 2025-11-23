@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Get coffee. Check emails. Make last minute adjustments to presentation based on the Quantitative Research team's feedback. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present preliminary findings and strategies to the CIO and Quantitative Research team. "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take detailed notes on the feedback received from the presentation. Prioritize action items for the next week based on the CIO's and Quantitative Research team's suggestions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Celebrate the end of the week with colleagues. Perhaps go to a fancy restaurant outside the building. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin documenting the presentation, findings, and all feedback received. Also document code and data for the trading strategies and backtesting framework. Store all these on local disk and upload to the data server. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan out the next steps for the following week, considering the feedback received and identified research directions. Update project plan with updated goals. Focus on what needs to be done to ensure the project's future direction is aligned with the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @PM-1 to update on the week's progress and next week's goals. Also make sure that the team knows I'll be available for any help if they need it."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wind down for the week, browsing some interesting articles on machine learning or quantitative finance. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

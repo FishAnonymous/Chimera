@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any feedback from @cio-1 and @ir-1 on campaign materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize digital marketing content and visuals based on feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @sdev-1 and @sdev-2 to ensure landing pages for the campaigns are optimized."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Launch initial digital marketing campaigns on selected platforms. Monitor initial engagement."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Set up tracking tools (Google Analytics, etc.) to monitor campaign performance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the launch and initial metrics. Email to @cio-1 and @pm-1."
+    }
+]

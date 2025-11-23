@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review status updates from the Health Informatics Specialist."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Health Informatics Specialist to review data collection methods and trends."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start analyzing seasonal influenza data with a focus on EHR contributions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue exploratory testing of new features in the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct testing of integrations with third-party systems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document findings and issues related to third-party integrations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @Database Administrator about data integrity and storage requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Respond to emails, wrap up testing activities for the day."
+    }
+]

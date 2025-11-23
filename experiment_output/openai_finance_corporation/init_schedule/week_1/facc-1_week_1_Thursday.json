@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and prepare documents for the presentation meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the preliminary budget to the team, including operational and personnel costs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collect feedback from team members and address any questions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate feedback into the budget document and make necessary adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email the updated budget to the team and relevant stakeholders."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day and note any follow-up tasks."
+    }
+]

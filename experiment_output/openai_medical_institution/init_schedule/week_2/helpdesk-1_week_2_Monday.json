@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the objectives for the week regarding EHR tools and influenza data collection."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft an agenda for the onboarding training sessions, including key topics for EHR tools relevant to influenza data collection."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @trainer-1 to discuss the onboarding training plan and gather feedback."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare training materials and resources for EHR tools, focusing on usability improvements based on prior experiences."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the training materials and send them to @rn-1, @rn-2, and @rn-3 for additional insights."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a dry run of the onboarding training session to ensure smooth delivery."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to request assistance with testing the EHR tools before the training sessions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's activities and prepare notes for improvement in tomorrow's sessions."
+    }
+]

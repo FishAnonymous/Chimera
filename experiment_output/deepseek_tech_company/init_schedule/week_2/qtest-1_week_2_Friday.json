@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any last-minute updates or fixes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Perform final smoke tests on the latest build to ensure all critical issues are resolved."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @prod-1 and @ldes-1 to present the week's test results and discuss next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize and archive all test documentation for future reference."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Plan for next week's testing priorities and any additional resources needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by cleaning up the test environment and preparing for Monday."
+    }
+]

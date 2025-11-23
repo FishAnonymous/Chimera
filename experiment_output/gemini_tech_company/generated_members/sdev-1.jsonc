@@ -1,0 +1,30 @@
+{
+    "name": "Carlos Silva",
+    "id": "sdev-1",
+    "ip": "10.0.0.14",
+    "age": 32,
+    "role": "Server Developer",
+    "description": "Designs, develops, and maintains the game's server-side infrastructure, ensuring stability, scalability, and security. Implements network protocols, database interactions, and game logic that runs on the server. Works closely with client developers to ensure seamless communication and data synchronization.",
+    "tools": [
+        "C++",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "SQL",
+        "gRPC",
+        "Git",
+        "Unreal Engine"
+    ],
+    "mbti": "INTP",
+    "interests": "competitive programming, system administration, cloud technologies",
+    "personality": "Highly analytical and enjoys optimizing server performance. Prefers working on complex problems and creating elegant solutions. Can sometimes get lost in technical details and may need reminders to consider the bigger picture.",
+    "application": {
+        "Zendo": {
+            "account_name": "servdev-578239",
+            "password": "CarlosS@server",
+            "permissions": "server_developer"
+        }
+    },
+    "email": "servdev-578239@corp.com",
+    "container_id": "7f4a2b8c9d6e"
+}

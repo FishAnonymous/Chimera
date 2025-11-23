@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review progress on the APIs."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on refining and optimizing the API endpoints for performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Conduct unit tests on the implemented functionalities of the authentication system."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze test results, fix any bugs found during testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, check emails, and prepare feedback for the testing team."
+    }
+]

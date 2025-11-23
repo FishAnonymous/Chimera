@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and company announcements. Briefly review the week's goals: creating a test plan, executing test cases, ad-hoc testing, and reporting."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin reviewing the game design document (GDD) provided by @LDES-1 to understand core mechanics, UI elements, levels, and character interactions. Take detailed notes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start creating a high-level test plan outline. Divide the game into functional areas for testing: Core Mechanics, UI, Levels, Character Interactions, Performance, Stability."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Elaborate on the 'Core Mechanics' section of the test plan, listing specific mechanics to test (e.g., shooting, movement, cover system). Brainstorm possible test cases for each mechanic."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue elaborating on the 'UI' section of the test plan, listing all UI elements to test (e.g., main menu, HUD, inventory). Brainstorm test cases, focusing on functionality and usability."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an email to @LDES-1 and @UIUX-1 to clarify any ambiguities in the GDD regarding core mechanics and UI design. Subject: GDD Clarification - Core Mechanics & UI."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on the 'Levels' section of the test plan. Outline different level types and key areas within each level that require specific testing (e.g., objective points, enemy spawn locations, navigation paths)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin listing potential test cases for the 'Levels' section, focusing on ensuring proper level flow, collision detection, and objective completion."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Review the test plan progress for the day. Ensure the outline is comprehensive. Save and back up the document."
+    }
+]

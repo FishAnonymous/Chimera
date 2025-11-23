@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails. Get a coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue testing and refining the statistical arbitrage trading strategies. Focus on robustness and sensitivity analysis to ensure the strategies are not overly sensitive to market conditions or data errors. "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Investigate any unexpected results or performance anomalies observed during backtesting. Debug the code and data to identify the root cause. If necessary, consult @Sdev-1 or @Sdev-2 if I think the debugging effort will take too long."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Networking with @dsde-1 over in the cafeteria to pick up some hints and advice from them"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare the slides for presenting preliminary findings and strategies to the CIO and Quantitative Research team. Structure the presentation to cover the following topics: Data Overview, Statistical Analysis, Data Preprocessing, Trading Strategies, Backtesting Results, and Future Research Directions. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Practice the presentation to ensure a smooth delivery and effective communication of the key findings. Anticipate potential questions and prepare answers. Perhaps, also do some push-ups to release the stress"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the presentation slides to @Qres-1, @Qres-2, @Qres-3 for review and feedback before the presentation. This allows them to prepare any questions and identify areas for improvement. Subject: Presentation Slides for Review - Statistical Arbitrage Strategies"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

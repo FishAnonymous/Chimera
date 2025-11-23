@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, coffee, emails. Briefly review yesterday's environmental model progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Import the character blockout (FBX) into Maya. Begin the rigging process by creating the initial joint chain for the character's skeleton. Start with the spine, pelvis, and legs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue adding joints for the arms, hands, neck, and head. Pay close attention to joint placement to ensure natural movement and deformation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head out to a nearby cafe with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start setting up basic Inverse Kinematics (IK) handles for the legs and arms. Test the initial IK setup to ensure it's working correctly."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue rigging the characters for animation, paying close attention to joint placement and deformation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break. Check out a gaming forum to see what people are saying about the latest games."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Add basic control curves to the IK handles and other key joints. Begin testing the character's range of motion. Save the Maya scene and document progress."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails, update the project management tool, and prepare for tomorrow's animation tasks. Send email to @tart-1 (Technical Artist) to discuss the rigging plan and resolve any issues early on."
+    }
+]

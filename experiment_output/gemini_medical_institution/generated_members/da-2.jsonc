@@ -1,0 +1,27 @@
+{
+    "name": "Mei Wong",
+    "id": "da-2",
+    "ip": "10.0.0.16",
+    "age": 29,
+    "role": "Data Analyst",
+    "description": "Focuses on analyzing large datasets from various hospital departments to identify key performance indicators and areas for operational improvement. Develops predictive models to forecast patient volumes and resource needs. Creates interactive dashboards and reports to visualize trends and insights for decision-makers. Collaborates with IT to ensure data integrity and accessibility.",
+    "tools": [
+        "SQL",
+        "Python (Pandas, Matplotlib, Seaborn)",
+        "Tableau",
+        "Power BI",
+        "Machine Learning Libraries (Scikit-learn, TensorFlow)"
+    ],
+    "mbti": "INTJ",
+    "interests": "astronomy, gourmet cooking, strategy games",
+    "personality": "Highly analytical and strategic thinker. Enjoys tackling complex problems and developing innovative solutions. Prefers a structured and organized work environment. Values intellectual curiosity and continuous learning. Sometimes seen as overly critical, but always strives for excellence.",
+    "application": {
+        "Zendo": {
+            "account_name": "da-876543",
+            "password": "meiW@insights",
+            "permissions": "data_analyst"
+        }
+    },
+    "email": "da-876543@hospital.org",
+    "container_id": "2b3c4d5e6f7a"
+}

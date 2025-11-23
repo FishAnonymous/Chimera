@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the computer, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review emails and address any questions regarding the abstracted data audit report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Clinlead-1, @ITPM-1, @DA-1, @MRS-1, and @HIS-1 to discuss the abstracted data audit report. Finalize the corrective actions to be implemented based on the audit findings. Topic: Discussion and Action Planning for Data Audit Report"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work with @Trainer-1 to develop a training plan for medical records staff to address the identified data abstraction errors. Include training on data entry procedures, documentation requirements, and the importance of data accuracy. Topic: Training plan for medical record staff"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and update the data abstraction guidelines based on the audit findings and the agreed-upon corrective actions. Clarify any ambiguities or inconsistencies in the guidelines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @EHRDEV-1 and @EHRDEV-2 to ensure that any necessary system modifications are implemented to prevent future data errors."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Plan for the next week's tasks, focusing on the continuous monitoring of data quality and the implementation of the corrective actions from this week's audit."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all tasks completed this week, lessons learned, and recommendations for future data quality improvement efforts."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Catch up on industry news related to healthcare data quality and EHR systems."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize and submit the weekly progress report to @ITPM-1."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

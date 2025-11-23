@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and prioritize tasks for the week. Review the weekly goal: 'Develop and distribute initial communication materials (e.g., project overview, FAQs). Implement the communication plan, track communication effectiveness, and adjust as needed.'"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Draft an email to @clinlead-1, @pchmp-1, @rn-1, @rn-2, @rn-3, @his-1, @his-2, @mrs-1, @mrs-2 to schedule a meeting to gather input on key project messaging and potential FAQs related to the EHR collection and influenza trend analysis. Topic: Project Communication Input Meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review existing project documentation and initial project plan for relevant information that can be used in the communication materials. Identify key stakeholders and their communication needs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on drafting the project overview document. Include project goals, timelines, key stakeholders, and potential benefits of the EHR collection and influenza trend analysis. Save draft."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue drafting the project overview document, focusing on clear and concise language for all stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the draft of the project overview document."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft initial set of FAQs addressing potential concerns about data privacy, workflow changes, and training opportunities. Review existing hospital policies related to data security and patient confidentiality."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @da-1, @da-2, @dba-1 to confirm that the data privacy and data security issues in FAQs are in accordance with current regulations. Topic: FAQ Review - Data Privacy and Security"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review draft communication materials (project overview and FAQs) to ensure accuracy, clarity, and consistency. Correct any mistakes. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's meeting with clinical and medical records staff. Compile questions and discussion points to ensure a productive session."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Leave the office."
+    }
+]

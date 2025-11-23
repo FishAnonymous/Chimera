@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the week's goals and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start drafting the design document for combat mechanics. Outline key components such as damage calculation, weapon types, and player abilities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Browse industry news on game design trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue drafting the combat mechanics document, focusing on balancing and progression systems."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting the progression system document, detailing leveling, rewards, and skill trees."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ldes-1 @sdes-2 to schedule a review meeting for the drafted documents."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

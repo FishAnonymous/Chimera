@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and grab a pastry from the break room."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue writing dialogue for key scenes, incorporating player choices and branching narrative paths where appropriate."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a break and browse some art websites for inspiration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review all the dialogue written this week and make final revisions. Ensure it's polished, engaging, and consistent."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go out for a celebratory lunch with coworkers."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize all narrative documents, including the lore, character profiles, storyline outline, and dialogue scripts. Prepare for next week's tasks."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Brainstorm initial ideas for next week's narrative goals. Focus on areas that need further development and potential challenges."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Write a summary of the week's progress and outline the goals for next week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the week. Submit the summary to the lead designer and prepare to head out for the weekend."
+    }
+]

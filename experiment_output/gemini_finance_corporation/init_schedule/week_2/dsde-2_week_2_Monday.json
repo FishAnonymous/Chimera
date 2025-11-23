@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review the week's goals: data source research and data cleaning implementation."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Prioritize urgent requests and flag items for follow-up."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review existing data sources and documentation related to financial data (e.g., stock prices, options data, macroeconomic indicators). Identify gaps and potential new sources."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research alternative data sources for potential arbitrage opportunities. Specifically, explore sentiment analysis data from news articles and social media."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document findings on alternative data sources, including data availability, cost, and potential integration challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break, browse research papers on statistical arbitrage strategies."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting preliminary data cleaning procedures for the highest priority data source (e.g., stock prices). Define steps for handling missing data, outliers, and inconsistencies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Implement a basic data cleaning script using Python and relevant libraries (e.g., Pandas, NumPy) for the selected data source. Focus on handling missing values and data type conversions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the data cleaning script on a sample dataset and evaluate its effectiveness. Identify areas for improvement and potential edge cases."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the data cleaning script, including input requirements, output format, and any assumptions made."
+    }
+]

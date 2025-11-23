@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any updates or notifications. Review previous day's notes and follow up on any outstanding issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review patient assessment procedures, focusing on specific documentation requirements for patients with chronic conditions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Patient Assessments: Patient 6 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Patient Assessments: Patient 7 - Focused assessment based on presenting complaint, ensuring accurate and thorough documentation in the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ClinLead-1, @RN-1, @RN-2 to discuss best practices for documenting patient education in the EHR (Topic: EHR Documentation)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Administer influenza vaccination to Patient 8 and document the information into the EHR."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Administer influenza vaccination to Patient 9 and document the information into the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Patient Assessments: Patient 10 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the influenza vaccination documentation process in the EHR. Ensure that all required fields are being completed accurately."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Assist @Trainer-1 with a training session for new nurses on how to accurately document patient assessments in the EHR."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review all EHR entries from the day to ensure accuracy and completeness. Address any identified issues promptly."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end work."
+    }
+]

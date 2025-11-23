@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, maybe hit the gym for a quick workout."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Arrive at the office. Attend the daily stand-up meeting. Show the progress on the idle and walk animations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Continue refining the walk cycle animation based on feedback from @LDES-1 and @TART-1. Make adjustments to the timing, posing, and overall flow."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start working on the run cycle animation. This is the most challenging of the three, so I'll need to put in extra effort."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab some sushi with @3DMOD-1 and discuss the animation challenges."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Experiment with different run cycle animation techniques. Study reference videos of athletes running at different speeds."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Seek feedback from @3DMOD-1 on the run cycle animation. Incorporate their suggestions and make necessary adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine all the animations with overall motion, ensure that they are fluid and natural."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day. Save the progress, back up files. "
+    }
+]

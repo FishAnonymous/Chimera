@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Follow up with @itpm-1 on the approval status of the data collection workflow."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin configuring the EHR system for data extraction based on the approved workflow."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @ehrdev-1 and @ehrdev-2 to implement necessary EHR integrations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the configured data extraction process with sample data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address any issues identified during testing and retest."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the configuration steps and share with @trainer-1 for training material development."
+    }
+]

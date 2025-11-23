@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the main goals for the week regarding EHR collection and influenza trend analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @EHR Vendor Liaison to discuss current status of EHR collection and any challenges being faced."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @Clinical Lead and @Health Informatics Specialist via email for any updates on clinical data reporting requirements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin analyzing the existing EHR data for completeness and accuracy, identifying any gaps in data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue analysis of the EHR data, focusing on data integrity checks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an email to @Database Administrator and @EHR Integration Developer requesting data export configurations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review influenza trend data from previous seasons and prepare questions for tomorrow\u2019s meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off and take some time to relax."
+    }
+]

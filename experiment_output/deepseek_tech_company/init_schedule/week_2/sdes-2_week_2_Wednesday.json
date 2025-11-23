@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from @qtest-1 regarding the playtest schedule."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin prototyping basic interactions (e.g., picking up objects, opening doors)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @sdes-2 to align on interaction design and ensure consistency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on basic interactions, integrating feedback from @sdes-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test interactions with placeholder assets, ensuring they work seamlessly with the movement system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and prepare for tomorrow's internal playtest."
+    }
+]

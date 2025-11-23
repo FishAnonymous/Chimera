@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for any updates on the EHR project or responses from stakeholders."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Organize a working session with @helpdesk-1 to gather user experience feedback on the current EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @his-2 to discuss integration of health informatics tools with the EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review collected feedback and insights from meetings and begin to form design specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating wireframes and mockups of the new EHR interfaces based on user feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send wireframes to @trainer-1 for feedback on user training needs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a weekly report on development progress and prepare for next meetings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out the report via email to all relevant stakeholders."
+    }
+]

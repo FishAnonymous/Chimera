@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the weekly goals. Organize the tasks into a detailed schedule for each day, considering deadlines and priorities. Review the list of required sound effects provided by @LDES-1 (Lead Game Designer) and @NDES-1 (Narrative Designer)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start compiling a comprehensive list of all required sound effects. Categorize them by type (e.g., character actions, environmental sounds, UI feedback). Use a spreadsheet to keep track of all the sounds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Categorize existing sound libraries for potential use. Make a list of sound effects that we already have and identify the gaps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "@LDES-1 (Lead Game Designer) and @NDES-1 (Narrative Designer) Discuss the feel and style of the game to ensure the audio direction aligns with the overall vision. Topic: Game's sound aesthetic and feel"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue compiling the list of sound effects. Focus on Character Action sounds (footsteps, jumping, weapon sounds)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research sound libraries online for character action sounds. Start downloading potential candidates."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start basic editing and cleaning of downloaded sound effects. Remove unwanted noise and adjust levels."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Backup edited sound effects to the shared drive. Document the source and changes made to each sound effect."
+    }
+]

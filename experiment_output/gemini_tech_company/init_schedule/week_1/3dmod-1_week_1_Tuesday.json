@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, check emails. See if any of the developers need my help today."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the character blockout, refining the proportions and anatomy. Focus on the second main character, using the first as a learning experience to speed up the process. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Realize that some character design elements may be difficult to animate. Send Email @cart-1 Subject: Potential Animation Issues with Character Design. Body: 'Hey Leon, as I'm working on the blockout, I'm noticing some details in the character design that might be challenging to animate smoothly (mention specific areas). Could we chat briefly about these? I have a couple of alternative ideas that might work better for animation. Let me know when you're free.'"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meeting with @cart-1 Leon to discuss animation concerns, brainstorm alternative design solutions for the characters. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break with @3dmod-2"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "After the meeting, continue working on the character blockout. Incorporate the agreed-upon changes to address the animation concerns. Make sure the model still stays faithful to Leon's design. Save backup."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start blocking out the environment. Begin with the largest structures in the game world. Ensure the scale and proportions of these structures are appropriate for the characters."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save and backup the character blockout and the environment blockout. Check emails. "
+    }
+]

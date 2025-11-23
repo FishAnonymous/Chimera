@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review previous week's progress on EHR data elements identification."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss specific EHR data elements required for seasonal influenza trend analysis."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a list of required EHR data elements based on discussions and cross-reference with existing data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review initial feedback from @clinlead-1 and @pchmp-1 regarding data collection workflow."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin refining data collection workflow based on feedback, focusing on identified data gaps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send updates to @itpm-1 and @ehrv-1 regarding progress and any blockers."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any outstanding questions or requests. Follow up on the submitted recommendation, checking on its status and addressing any concerns. Coffee and maybe a pastry."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a summary of the week's activities and accomplishments. Highlight any challenges encountered and lessons learned. This will be used for reporting purposes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document the evaluation process and the rationale behind the recommendation. This will serve as a reference point for future decisions. Store documentation in a centralized location."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Brainstorm ideas for improving the EHR vendor evaluation process. Identify areas where the process could be streamlined or made more efficient. Maybe chat with @da-1 and @da-2 for ideas."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Celebrate the end of the week with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Catch up on industry news and trends related to EHR systems and healthcare technology. Look for opportunities to learn new skills or improve my knowledge base."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Attend a relevant webinar or online training session. Expand my knowledge on a specific topic related to EHR systems or healthcare data analysis. Or maybe just browse Reddit."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin planning for next week's activities. Identify key tasks and prioritize them based on their urgency and importance. Review next week's goals."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the week's report and submit it to the appropriate stakeholders. Ensure all tasks are completed and any outstanding issues are addressed. Shut down, plan the weekend, and get out of here!"
+    }
+]

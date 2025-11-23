@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Realize the meeting minutes are missing my goals. Classic. Time to figure this out myself."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Since no goals are explicitly set, I will shoot an email to @lDes-1 (Lead Game Designer) and @Prod-1 (Producer) to clarify my responsibilities for this week. Subject: Level Design Goals - Week 4. Body: Hey team, noticed my goals weren't explicitly mentioned in the meeting minutes. Could you clarify what the priorities are for level design this week? Thanks!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "While waiting for a response, I'll review the current level design documentation and existing blockouts to refresh my memory of the project's overall direction. I should be prepared to make changes quickly when the goals come."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Still waiting for a response. I will start looking at level design articles and videos to get some inspiration and new ideas for the game levels. I am really interested in the verticality design in Apex, and I should think about whether I can incorporate some of the design strategies into our game."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Ordering a burger and fries. Need fuel for this creative thinking!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back from lunch. Still nothing from @lDes-1 or @Prod-1. Okay, proactive approach. I will check with @lDes-1 and have a quick discussion about it. Then get back to coding."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Got the go-ahead from @lDes-1. The main goal is to iterate on the blockout for the 'Urban Ruins' level, focusing on improving flow and encounter design based on feedback from last week's playtest. He suggests collaborating with @3dmod-1 (3D Modeler/Animator) to prototype some key assets to enhance the visual feel during the iteration."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start iterating on the 'Urban Ruins' blockout. Focus on widening some corridors based on feedback. Try to make more space for players during combat."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reach out to @3dmod-1 (3D Modeler/Animator) to discuss creating some placeholder assets for key areas in the 'Urban Ruins' level \u2013 destroyed vehicles, rubble piles, etc. Email @3dmod-1, Subject: Urban Ruins - Placeholder Assets, Body: Hey, can we chat quickly about some placeholder assets for the Urban Ruins level? Want to get some quick visuals in to help with flow and encounter design. Let me know when you're free."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Continue refining the blockout based on the initial corridor adjustments and the upcoming placeholder assets. Prep a document to outline the planned changes to give to @lDes-1."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out. Time to hit the gym."
+    }
+]

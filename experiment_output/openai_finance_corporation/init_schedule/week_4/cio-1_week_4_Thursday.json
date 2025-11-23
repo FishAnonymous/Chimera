@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the financial data received from @facc-1 and @facc-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the investment strategy report including feedback and financial data."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send the finalized investment strategy report for record-keeping to @audit-1."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @devops-1 to discuss any technical requirements for implementing the selected strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @dsde-1 and @dsde-2 to analyze data requirements for the investment strategy execution."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's activities and prepare for follow-ups."
+    }
+]

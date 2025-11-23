@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check Emails and look through the internet for the lastest sports news."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @clinlead-1, @his-1, and @da-1 to present the report, discuss the proposed data quality metrics, improvement targets, and dashboard. Actively listen to their feedback and concerns."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address questions and concerns raised during the meeting. Explain the rationale behind the proposed metrics and targets, and emphasize the importance of data quality for effective influenza tracking."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the feedback received during the meeting, revise the data quality metrics, improvement targets, and dashboard mockup. Make any necessary adjustments to ensure alignment with stakeholder expectations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab a quick bite."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the formal report with the revised metrics, targets, and dashboard design. Clearly document the changes made based on stakeholder feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a final version of the dashboard in the data visualization tool, incorporating all the agreed-upon changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the final report and dashboard with all stakeholders, including @itpm-1, @ehrv-1, and @qatest-1. Communicate the next steps for implementation and data quality monitoring."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start drafting a communication plan to inform relevant hospital staff about the new data quality initiatives and their role in ensuring data accuracy. Include training materials and contact information for support."
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "name": "Leon Moreau",
+    "id": "cart-1",
+    "ip": "10.0.0.21",
+    "age": 27,
+    "role": "Concept Artist",
+    "description": "Creates visual representations of ideas and concepts for the game, including characters, environments, props, and vehicles. Works closely with the art director and other artists to establish the game's visual style and ensure consistency across all assets. Provides initial sketches, detailed illustrations, and 3D models to guide the art production process.",
+    "tools": [
+        "Photoshop",
+        "Procreate",
+        "ZBrush",
+        "Substance Painter",
+        "3DCoat",
+        "Sketchbook Pro"
+    ],
+    "mbti": "ISFP",
+    "interests": "digital painting, character design, attending art exhibitions",
+    "personality": "Quiet and observant, with a strong artistic vision. Enjoys experimenting with different styles and techniques. Sometimes struggles with self-doubt, but is always striving to improve his skills. Can get easily absorbed in his work, losing track of time.",
+    "application": {
+        "Zendo": {
+            "account_name": "conceptart-582914",
+            "password": "LeonM@concept",
+            "permissions": "concept_artist"
+        }
+    },
+    "email": "conceptart-582914@corp.com",
+    "container_id": "a2b3c4d5e6f7"
+}

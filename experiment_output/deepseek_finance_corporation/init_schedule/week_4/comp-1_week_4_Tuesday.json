@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up with @facc-1 and @facc-2 on the requested financial data."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate the financial data into the compliance documentation and ensure accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @cio-1 to discuss any investment strategy disclosures required in the SEC documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a second internal audit, focusing on the financial data and investment strategy sections."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @audit-1 to schedule an external compliance review and discuss the scope of the audit."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update the compliance documentation based on the internal audit findings."
+    }
+]

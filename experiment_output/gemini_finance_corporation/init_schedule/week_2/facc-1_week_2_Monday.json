@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, grab a coffee, and quickly scan emails. Filter out anything urgent."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start researching SEC regulations related to fund accounting and reporting for UHNWI-focused funds. Focus on Form PF, Form ADV, and relevant Investment Company Act rules.  Prioritize understanding the requirements for market-neutral statistical arbitrage funds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a break. Check financial news headlines on Bloomberg. Gotta stay sharp on the market."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue SEC regulation research. Specifically look for clauses related to valuation of assets, expense allocation, and investor reporting frequency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab a burger and catch up on sports scores."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume research. Focus on audit requirements for SEC-registered funds. Identify key audit areas and potential challenges."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft an email to @audit-1 (External Auditor) outlining our plan to register the fund and asking for an initial consultation to discuss audit expectations and potential pitfalls. @comp-1 (Compliance Officer) should be included in this email. Topic: Initial Consultation Request - SEC Registered Fund Audit."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin drafting a preliminary framework for tracking fund performance. Think about the key performance indicators (KPIs) relevant to statistical arbitrage strategies (Sharpe Ratio, Sortino Ratio, Information Ratio, etc.)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the framework draft and identify areas for improvement. Check personal finance websites for new investment strategies."
+    }
+]

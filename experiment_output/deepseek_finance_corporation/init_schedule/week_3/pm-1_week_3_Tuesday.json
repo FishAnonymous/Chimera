@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up on any pending feedback from @cio-1 and @coo-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize presentation materials for stakeholder meetings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a dry run of the presentation with @ir-1 and @mkt-1 to ensure smooth delivery."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Make any necessary adjustments to the presentation based on the dry run feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Hold stakeholder meeting to present updates and adjusted project goals."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address any questions or concerns raised during the stakeholder meeting."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document meeting minutes and action items. Share with all stakeholders via email."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Follow up with @cio-1 and @coo-1 on next steps based on stakeholder feedback."
+    }
+]

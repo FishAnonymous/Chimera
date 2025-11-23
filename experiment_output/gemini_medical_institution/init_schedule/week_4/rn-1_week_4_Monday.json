@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work. Check emails and prioritize urgent requests. Briefly browse some art websites for inspiration, maybe look at some calming landscapes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the standardized protocols and tools for assessing influenza symptoms within the EHR. Focus on understanding the workflow and data entry fields as defined by @clinlead-1 Nadia Silva. Make notes on anything unclear."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Practice using the EHR's influenza assessment tools with dummy patient data. Focus on navigating the system and familiarizing myself with data entry fields."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @clinlead-1 Nadia Silva to clarify a few points about the protocol, specifically concerning the standardized tools for influenza symptoms, and understand the exact data entry requirements. @clinlead-1 Topic: Clarification on Influenza Assessment Protocols."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up with colleagues in the break room."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Shadow another Registered Nurse (@rn-1, @rn-3) for an hour during patient assessments to observe their workflow and ask questions about their experience with the EHR influenza assessment tools."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue practicing data entry into the EHR with simulated patient scenarios. Focus on accurate and complete documentation of demographic information, medical history, vaccination status, symptoms, and lab results."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review my notes and create a personal checklist to ensure I don't miss any important data points during assessments. Review the data entry best practices."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow by reviewing the daily patient schedule and identifying potential patients who may require influenza assessments."
+    }
+]

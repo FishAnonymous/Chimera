@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the project timeline draft and prepare for the team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cio-1, @coo-1, and @legal-1 to discuss the fund setup process and align on key milestones."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a detailed project timeline for the fund setup process, including key deliverables and deadlines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and finalize the project timeline. Share with @cio-1, @coo-1, and @legal-1 for feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Assign tasks and responsibilities to team members based on the project timeline. Document roles and expectations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out the finalized project timeline and task assignments to the entire team via email."
+    }
+]

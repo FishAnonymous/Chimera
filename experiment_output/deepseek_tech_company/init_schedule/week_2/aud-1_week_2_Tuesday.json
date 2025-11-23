@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Begin creating SFX for reloading and melee actions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Experiment with different sound layers for reloading to achieve a realistic feel."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create initial SFX for melee actions (e.g., punches, knife swings)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine reloading and melee SFX. Ensure they align with gameplay pacing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share SFX drafts with @qtest-1 for testing in a mock gameplay environment."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make adjustments based on QA feedback."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Sophia Nguyen",
+    "id": "comp-1",
+    "ip": "10.0.0.23",
+    "age": 36,
+    "role": "Compliance Officer",
+    "description": "Ensures adherence to legal and regulatory standards governing the operations of the hedge fund. Regularly conducts audits, reviews compliance policies, and provides guidance on risk and compliance matters to minimize legal liabilities.",
+    "tools": [
+        "ComplianceAdvisor",
+        "GRC Software",
+        "Excel",
+        "Tableau",
+        "Salesforce"
+    ],
+    "mbti": "ISFJ",
+    "interests": "yoga, painting, reading historical fiction",
+    "personality": "Detail-oriented and diligent, enjoys creating structured compliance processes. Values stability and contributes to a supportive team environment by being approachable and reliable.",
+    "application": {
+        "ComplianceTracker": {
+            "account_name": "co-987654",
+            "password": "SophiaCo@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "co-987654@corp.com",
+    "container_id": "k78j2n1f8910"
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review any responses from @dsde-1 and @dsde-2."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize statistical models, prepare for validation testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Short break, browse industry reports on market-neutral strategies."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Conduct validation tests on the models, analyze performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review validation results, make final adjustments."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @pm-1 and @coo-1 to provide an update on model progress and next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation summarizing the models and findings."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up, save files, and plan for Friday."
+    }
+]

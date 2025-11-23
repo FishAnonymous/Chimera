@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the narrative playtest schedule and confirm attendance with participants."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare narrative elements and gameplay scenarios for testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Lead the narrative playtest sessions, gathering feedback on player engagement and narrative flow."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a debriefing with participants to discuss findings from the playtest sessions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze the feedback gathered from playtest sessions, noting areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start revising the narrative document based on the playtest feedback."
+    }
+]

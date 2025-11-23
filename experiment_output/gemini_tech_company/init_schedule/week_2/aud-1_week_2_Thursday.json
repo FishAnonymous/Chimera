@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review all collected and edited sound effects (Character Actions, Environmental Sounds, UI Feedback)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start integrating the sound effects into the game engine. Begin with character footsteps."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attach the footsteps sounds to the character's animation events in the game engine. Ensure proper timing and synchronization."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "@3dmod-1 (3D Modeler/Animator), @3dmod-2 (3D Modeler/Animator) Check the animation events and timings to synchronize sound effects to animation. Topic: Animation events for sound triggering"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate basic environmental audio into a test level. Focus on looping ambient sounds."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement simple triggers for environmental audio changes (e.g., entering a building triggers a different ambient sound)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the integrated character footsteps and environmental audio in the game."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Note down any issues with the integration and plan for fixes. Back up the project."
+    }
+]

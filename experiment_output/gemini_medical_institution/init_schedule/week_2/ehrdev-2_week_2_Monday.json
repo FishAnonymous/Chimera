@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up my workstation, grab a coffee, and check emails for any urgent requests or updates. Skim through industry news on EHR integration - maybe something interesting on Stack Overflow or a relevant blog."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start drafting a preliminary outline for the EHR system updates. Focus on defining the scope and objectives. What specific data points do we need to capture for the influenza trend analysis?"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @clinlead-1, @da-1, @his-1 Topic: EHR Data Requirements for Influenza Analysis - Need their input on the essential data elements needed for analysis and any clinical workflows that might be affected by the changes. Attach the preliminary outline."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research the existing EHR database schema. Identify the tables and fields that currently store relevant patient information (demographics, diagnoses, vaccination records, etc.)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab something quick from the cafeteria and browse Reddit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the responses from @clinlead-1, @da-1, @his-1 regarding data requirements. Start incorporating their feedback into the detailed requirements specifications document."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Focus on defining the specific data types, formats, and validation rules for each data element. Ensure data integrity and consistency."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document potential data quality issues or gaps in the existing EHR system. Highlight any areas where data cleansing or standardization may be required. @da-1 might have insights."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on the requirements document. Focus on the technical aspects - APIs, data mapping, and integration points. Save progress and shut down."
+    }
+]

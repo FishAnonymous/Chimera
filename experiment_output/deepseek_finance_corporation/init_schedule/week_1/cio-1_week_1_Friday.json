@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any final feedback from @pm-1 or other stakeholders."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a final review meeting with @qres-1, @qres-2, @qres-3, @coo-1, and @pm-1 to ensure all aspects are covered."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Make any last-minute adjustments to the documents based on the review meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit all finalized documents to @legal-1 for SEC registration preparation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @onbd-1 to discuss how the strategy will be presented during client onboarding."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by sending a summary email to the team highlighting achievements and next steps."
+    }
+]

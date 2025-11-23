@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in, and check emails. Address any overnight requests or issues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's progress and address any issues encountered. Re-familiarize myself with the defined data types and implemented NOT NULL constraints."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing CHECK constraints for valid value ranges. Start with diagnosis codes and vaccination types, ensuring that only valid values are entered into the database. Research appropriate ICD-10 code validation methods."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Consult with @clinlead-1 (Clinical Lead) via email to confirm the valid ranges for diagnosis codes and vaccination types. Topic: Valid Values for Diagnosis Codes and Vaccination Types."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop SQL scripts to implement the CHECK constraints, using regular expressions or other appropriate methods to validate the data. Ensure the constraints are comprehensive and cover all possible valid values."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the CHECK constraints on the development database instance. Attempt to insert invalid data and verify that the constraints prevent the insertion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement UNIQUE constraints to prevent duplicate records, focusing on patient identifiers and other fields that should be unique within the database. Research best practices for implementing UNIQUE constraints on large tables."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Develop SQL scripts to implement the UNIQUE constraints, creating appropriate indexes to ensure efficient query performance. Consider the impact of these constraints on data insertion and update performance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the UNIQUE constraints on the development database instance. Attempt to insert duplicate records and verify that the constraints prevent the insertion. Update documentation with the CHECK and UNIQUE constraints implemented."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress, plan for tomorrow, and respond to any pending emails. Read some interesting tech news."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital's EHR system and check emails for updates and tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the current medical records for completeness and accuracy."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Assist in maintaining accurate medical records during data entry processes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Liaise with @da-1 and @da-2 to verify the accuracy of influenza-related documentation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Compile a list of discrepancies found during the review of medical records for discussion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up on discrepancies with team members responsible for data entry."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Participate in a meeting with @clinlead-1 to discuss medical record accuracy improvement strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the outcomes of the meeting and create an action plan for further verification."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end the workday."
+    }
+]

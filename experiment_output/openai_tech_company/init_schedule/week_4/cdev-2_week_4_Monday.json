@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @qtest-1 to discuss the final QA testing plan and quality standards for the game features."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin QA testing for the main game features. Document any bugs or issues encountered."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue QA testing and prioritize any high-impact bugs for resolution."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meeting with @uiux-1 to finalize UI adjustments for the game screens and discuss consistency."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile a report based on the QA testing findings and share with @qtest-1 and @prod-1."
+    }
+]

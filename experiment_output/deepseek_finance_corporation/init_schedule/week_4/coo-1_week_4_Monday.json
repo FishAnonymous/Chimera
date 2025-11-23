@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the operational plans for fund launch and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to discuss the execution status of operational plans and identify any bottlenecks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review resource allocation with @cio-1 and @facc-1 to ensure all financial and human resources are adequately allocated."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send an email to @mkt-1 to request an update on the communication and marketing strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @comp-1 and @legal-1 to ensure all regulatory requirements are being met for the fund launch."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @ir-1 to align on investor communication plans and ensure all materials are ready for UHNWIs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the day's progress and prepare a summary report for the executive team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @devops-1 and @larch-1 to ensure all technical infrastructure is in place for the fund launch."
+    }
+]

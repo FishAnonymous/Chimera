@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Address any outstanding queries related to the main menu, settings, or inventory UI."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the game's core gameplay mechanics and player information requirements with @Ldes-1 (Lead Game Designer) to inform the design of the HUD. @Ldes-1 HUD Requirements Discussion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorm ideas for the HUD, considering the placement of key elements such as health, ammo, minimap, and objective markers. Sketch out initial layout options."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create low-fidelity wireframes for the HUD in Figma, experimenting with different layouts and information displays. Focus on minimizing screen clutter and maximizing readability."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the HUD wireframes to @Ldes-1 (Lead Game Designer) and @Cdev-1 (Client Developer) for feedback on usability, information priority, and technical feasibility. @Ldes-1 @Cdev-1 HUD Wireframe Review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from @Ldes-1 and @Cdev-1 into the HUD wireframes. Refine the layout, information hierarchy, and visual design based on their suggestions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin creating a mid-fidelity mockup of the HUD in Figma, using placeholder icons and text. Pay close attention to the game's art style and color palette."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Research different UI patterns for HUD design in third-person shooter games. Analyze the effectiveness of various approaches to displaying information and providing feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the design decisions made for the HUD and update the UI/UX design documentation. Begin to prepare for prototyping on Friday."
+    }
+]

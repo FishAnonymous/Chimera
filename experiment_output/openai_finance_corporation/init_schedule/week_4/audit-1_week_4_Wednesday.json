@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue drafting the audit framework, focusing on ongoing compliance checks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @facc-1 to discuss financial compliance requirements that need to be included in the audit framework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback and additional information from @facc-1 into the audit framework."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the first draft of the audit framework and schedule a review for Thursday."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare emails to @legal-1 for any legal aspects that may need to be reviewed in the audit framework."
+    }
+]

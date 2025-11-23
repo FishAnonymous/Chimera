@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Start preparing deployment scripts for the server-side code."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @beng-1 to discuss deployment requirements and environment configurations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Write and test deployment scripts for staging and production environments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining deployment scripts. Ensure they include rollback procedures and logging."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the deployment process and create a step-by-step guide for the operations team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the deployment documentation with @beng-1. Send final versions to @prod-1 for approval."
+    }
+]

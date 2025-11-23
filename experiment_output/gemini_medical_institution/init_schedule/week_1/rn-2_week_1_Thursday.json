@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with enthusiasm! Offer a friendly greeting to all colleagues and share a smile."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review patient reports and updates in the EHR system. Prioritize any urgent tasks or notifications related to influenza assessments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue patient assessments, concentrating on clear and concise data entry into the EHR. Be attentive and responsive to patient needs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Double-check if all the tasks are meeting the expectation of @qatest-1. @PEOPLE = @qatest-1 Topic: QA Expectation"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with @rn-3 in the cafeteria. Share personal stories and enjoy a good laugh."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Focus on documenting symptoms and lab results accurately in the EHR system. Pay close attention to detail and ensure completeness."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Analyze the concerns of @qatest-1 and try to implement the suggestion."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @rn-2 to discuss any challenging cases or workflow improvements. Share insights and best practices."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover, summarizing patient status and updating the EHR accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the daily review and submit shift report. Reflect on accomplishments and challenges."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home, looking forward to relaxing and recharging for tomorrow."
+    }
+]

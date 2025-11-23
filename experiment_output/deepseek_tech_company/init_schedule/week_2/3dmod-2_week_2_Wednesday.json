@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review the rigged character model and test its movements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin creating basic animations for the character, starting with idle and walk cycles."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break. Watch animation tutorials to refine techniques."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue working on walk cycle animations, ensuring fluidity and realism."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @aud-1 to discuss potential sound effects for character movements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine animations based on feedback and test in-game context."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @ldes-1 to confirm animation requirements for gameplay."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document animation progress and save files."
+    }
+]

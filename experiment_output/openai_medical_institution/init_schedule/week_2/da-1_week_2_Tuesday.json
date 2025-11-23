@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log into the OA system, check emails, and review progress on Monday's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue data collection for influenza cases, ensuring data is formatted correctly according to standardized formats."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @qatest-1 to discuss potential data quality issues and develop a basic quality control checklist."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the preliminary data cleaning process for the first batch of gathered data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @his-1 regarding any necessary data transformations and tools to facilitate the cleaning."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the day's work and document any challenges encountered."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and review the updated investment strategy report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @legal-1 to ensure compliance with SEC regulations regarding the investment strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @comp-1 to confirm the compliance check results."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the presentation for the management meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Rehearse the investment strategy presentation and prepare for questions from the management team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails for any last-minute updates or feedback."
+    }
+]

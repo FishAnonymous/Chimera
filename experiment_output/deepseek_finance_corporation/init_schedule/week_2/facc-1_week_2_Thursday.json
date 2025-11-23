@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up with @ir-1 on any feedback regarding the preliminary budget."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make any necessary adjustments to the budget based on feedback from @ir-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a presentation summarizing the accounting procedures and preliminary budget."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the presentation for clarity and accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @coo-1 and @cio-1 to present the accounting procedures and budget."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any questions or concerns raised during the presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize both documents based on feedback from the meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the finalized accounting procedures and budget to @legal-1 for legal review."
+    }
+]

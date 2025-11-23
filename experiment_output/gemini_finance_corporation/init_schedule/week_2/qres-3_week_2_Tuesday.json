@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to my workstation, and check emails. Focus on responses to yesterday's email regarding the risk management framework."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the draft report for volatility models. Incorporate feedback from personal review and refine the model descriptions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin researching models for quantifying liquidity risk. Focus on bid-ask spread analysis, order book dynamics, and Amihud's illiquidity ratio. Read academic papers and relevant literature."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @DSDE-1 and @DSDE-2 to inquire about the availability of high-frequency trading data required for liquidity risk model validation. @DSDE-1 @DSDE-2 Topic: High-Frequency Trading Data for Liquidity Risk Models"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read financial news and industry articles."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue researching liquidity risk models. Evaluate the feasibility of different models based on data availability and computational complexity."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Start drafting a preliminary report outlining the proposed liquidity risk models, including their strengths, weaknesses, and data requirements. Include relevant formulas and examples."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the draft report and identify areas for improvement. Ensure consistency with the volatility model report."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any remaining emails and prepare for tomorrow's work. Organize research materials."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

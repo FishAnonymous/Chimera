@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, emails. Browse through online art communities (ArtStation, Polycount) for inspiration and to see what other technical artists are working on."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refactor the shader graph into smaller components based on the feedback, and add the parameter tuning to the system"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work with @tdev-1 on implementing the shader into the tool, and see how the tool works when dealing with more complex shaders"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Invite @tdev-1 to join me for lunch, and we can discuss the issue when using the tool"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Try to use the tool developed by @tdev-1 to generate a specific scene"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Communicate with @uiux-1 regarding the art style of the UI, making sure it is both functionally useful and reflects the game's design."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the report of the current art style and the game design"
+    }
+]

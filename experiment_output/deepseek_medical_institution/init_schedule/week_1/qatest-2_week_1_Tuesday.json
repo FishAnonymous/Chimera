@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from yesterday's communications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @clinlead-1 @pchmp-1 to validate the data quality checks and ensure clinical relevance."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine data quality checks based on feedback from clinical team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @dba-1 to ensure database can support new validation rules."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize technical specifications for automated validation rules."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @itpm-1 with updates on progress and any blockers."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin coding initial automated validation rules in the EHR system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test coded rules in sandbox and document results."
+    }
+]

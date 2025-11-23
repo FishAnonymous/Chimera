@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for updates or alerts. Review schedule for the day and prioritize patient assessments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend morning huddle with the nursing team to discuss patient care plans and any relevant influenza-related updates. Chat with @rn-1 and @rn-3 regarding some interesting cases."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct patient assessments, focusing on symptom evaluation and documentation in the EHR. Especially, I should be passionate and friendly to all the patients."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a sandwich and catch up on personal emails and social media. Gotta know what's happening in the outside world!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry. Pay close attention to patients with underlying health conditions that may increase their risk of influenza complications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with physicians to review patient treatment plans and ensure appropriate interventions are implemented. @pchmp-1 could be consulted if needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift change. Provide detailed handover to the oncoming nurse, including patient status, pending tasks, and any relevant concerns. Make sure there would be no difficulty in their job."
+    }
+]

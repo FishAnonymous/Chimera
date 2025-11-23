@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails, finalize presentation materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a team review meeting to discuss EHR integration progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from the team review into the EHR integration documentation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft weekly summary of progress and challenges faced for the management."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out weekly summaries to all team members @his-1, @rn-3, @dba-1."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, read Wall Street Journal."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review overnight market developments."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Approve the marketing materials with minor revisions. Inform @Mkt-1. @PEOPLE: Marketing - Marketing Material Approval"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 to conduct scenario analysis for the fund strategy under different market conditions and evaluate the performance of risk management framework. @PEOPLE: Quantitative Research Team - Scenario Analysis and Risk Evaluation"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Larch-1 and @Devops-1 to discuss the implementation of the risk monitoring system into the live trading platform. @PEOPLE: Software Architecture & DevOps - Risk Monitoring System Implementation"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with @Facc-1 and @Facc-2 to discuss fund accounting procedures."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the refined fund strategy and risk management framework to @COO-1 for final approval. @PEOPLE: COO - Fund Strategy & Risk Management Approval"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Brief @Onbd-1 on the fund strategy, target investors, and key talking points for onboarding UHNWIs. @PEOPLE: Client Onboarding - Onboarding Briefing"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address outstanding legal or compliance issues related to the fund registration with @Legal-1 and @Comp-1. @PEOPLE: Legal & Compliance - Fund Registration Issues"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress on all outstanding tasks and create a prioritized list for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check market activity and any relevant news."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

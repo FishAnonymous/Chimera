@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project timeline and goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1, @sdes-2, and @ldes-1 to discuss progress and challenges faced in the game development process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collect team feedback from @cdev-1, @cdev-2, and @cdev-3 on the development phase and hurdles."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the feedback and start assessing the current status of the game development with @beng-1 and @lpro-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze collected data from feedback and progress assessments."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft an initial report on the project's current status and required adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a meeting for Tuesday with all team leads to discuss the mid-project review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an email reminder to @PEOPLE for the meeting on Tuesday regarding project review."
+    }
+]

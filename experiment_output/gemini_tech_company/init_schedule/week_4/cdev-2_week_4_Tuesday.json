@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Address any urgent issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Lpro-1 and @Sdes-1 to demo the player movement prototype. Gather feedback and discuss potential improvements. @PEOPLE"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the feedback received, I will refine the player movement prototype, focusing on addressing any concerns or suggestions raised by @Lpro-1 and @Sdes-1. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start implementing the basic shooting mechanics. Create a simple projectile and implement the logic for firing it from the player's weapon. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the shooting mechanics, implementing basic hit detection and damage calculation. I'll add visual and audio feedback when a projectile hits a target."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the shooting mechanics thoroughly, ensuring that the projectiles behave as expected and that the hit detection is accurate. Also test different weapon types and projectiles."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "If time remains, I'll start investigating different camera control schemes. I will experiment with different camera angles and movement patterns to find a system that feels comfortable and intuitive for the player."
+    }
+]

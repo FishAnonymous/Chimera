@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Address any questions from staff regarding the training schedule."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare for the first training session. Ensure all materials are readily available."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the first training session: Focus on clarity, engagement, and addressing participant questions."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Debrief after the first training session. Document lessons learned and identify areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @helpdesk-1 Help Desk Support: Alert them about the training and potential increase in EHR-related questions from staff."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - grab a quick bite, review notes from training session"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the second training session. Incorporate improvements based on feedback from the first session."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Debrief after the second training session. Document lessons learned."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review feedback from the QA Tester. Begin incorporating their feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Schedule follow-up training sessions for staff who were unable to attend the first sessions. Coordinate with @itpm-1 for scheduling and notifications."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save all work and log out."
+    }
+]

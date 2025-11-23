@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check emails. Start by reviewing the tasks from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the proposed EHR system updates/modifications to @itpm-1. Incorporate any feedback received during the presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the technical specification document based on the feedback received from the project manager. Ensure that the document is clear, concise, and comprehensive."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin developing the actual code for the new data fields and workflow customizations. Use the technical specification document as a guide. @ehrdev-2 should be in the loop."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Heat up some Indian food I brought from home."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the code for the EHR system updates/modifications. Focus on writing clean, well-documented code that is easy to maintain."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct unit testing of the new code to ensure that it functions correctly and meets the specified requirements. Identify and fix any bugs or errors."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the testing process and results in a test report. This report will be used to track the progress of the testing effort and to identify any areas that require further attention."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a deployment plan for the EHR system updates/modifications. This plan should outline the steps required to deploy the code to the production environment."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Coordinate with @qatest-1 and @qatest-2 to schedule a testing session for the EHR system updates/modifications. Provide them with the technical specification document and the test report."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up and head home."
+    }
+]

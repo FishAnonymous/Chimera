@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare references and resources for modeling the main character focusing on topology."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin modeling the main character, concentrating on creating a clean topology that supports smooth animations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the main character model, refining the mesh and correcting any topology issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress on the main character model, make any necessary adjustments based on feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any messages from team members."
+    }
+]

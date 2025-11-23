@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the results of internal playtests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare for the next external playtest by organizing assets and schedules."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize external playtest documentation and review it with @qtest-1 and @lpro-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with external testers and setup logistics for the playtest."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Observe external playtest sessions and gather immediate feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize external playtest findings and email all relevant departments for follow-up discussions next week."
+    }
+]

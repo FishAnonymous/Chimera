@@ -1,0 +1,27 @@
+{
+    "name": "Jin Lee",
+    "id": "cart-1",
+    "ip": "10.0.0.22",
+    "age": 27,
+    "role": "Concept Artist",
+    "description": "Responsible for creating visual representations of characters, environments, and objects. Works closely with the design team to conceptualize and visualize ideas, setting the aesthetic direction for the game.",
+    "tools": [
+        "Adobe Photoshop",
+        "Corel Painter",
+        "Sketchbook Pro",
+        "Maya",
+        "ZBrush"
+    ],
+    "mbti": "ISFP",
+    "interests": "anime, fantasy novels",
+    "personality": "Creative and introspective, enjoys expressing ideas through visual art. Prefers a calm atmosphere for inspiration and often seeks solitude to focus on masterpiece creation.",
+    "application": {
+        "ArtStudio": {
+            "account_name": "cart-394831",
+            "password": "jinL@art",
+            "permissions": "concept_artist"
+        }
+    },
+    "email": "cart-394831@corp.com",
+    "container_id": "b7d068f4a8f1"
+}

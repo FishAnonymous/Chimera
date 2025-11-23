@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review testing feedback from @qtest-1. Address any critical issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final polish on levels based on feedback, ensuring all particle effects and sound triggers are perfect."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Relax and reflect on the week's progress."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize all level designs and documentation. Prepare a summary report for @prod-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit final level designs and documentation to @prod-1 and @ldes-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Celebrate the week's achievements with the team. Plan for next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and cleaning up the workspace."
+    }
+]

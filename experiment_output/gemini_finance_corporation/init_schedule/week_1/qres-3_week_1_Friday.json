@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails. Prepare for the final review of the fund strategy and risk management framework."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the finalized fund strategy and risk management framework to all relevant stakeholders, including @CIO-1, @QRES-1, @QRES-2, @COMP-1, @LEGAL-1, @IR-1, and @COO-1. Answer any remaining questions and obtain final approval. @PEOPLE = ['CIO-1', 'QRES-1', 'QRES-2', 'COMP-1', 'LEGAL-1', 'IR-1', 'COO-1'], topic = 'Final Fund Strategy and Risk Management Review'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any final comments or requests for clarification from the stakeholders. Make any necessary adjustments to the fund strategy and risk management framework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a comprehensive summary of the fund strategy and risk management framework for distribution to the team. The document should include all critical information for further action."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the summary to @PM-1 so the project manager can arrange the action items based on the document. @PEOPLE = ['PM-1'], topic = 'Fund Strategy and Risk Management Summary'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin preliminary research for next week's goals, anticipating potential challenges and opportunities. I will be reading financial articles on market trend to keep updated on the current market condition."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Clear desk and prepare for departure. Ensure all documents are properly archived and backed up."
+    }
+]

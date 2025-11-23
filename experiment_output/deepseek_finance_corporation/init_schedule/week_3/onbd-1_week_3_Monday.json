@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the onboarding checklist for UHNWIs and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Update the onboarding checklist based on latest SEC regulations. Cross-check with @comp-1 to ensure compliance."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Schedule introductory meetings with prospective clients for the week. Coordinate with @ir-1 to align on client profiles."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare KYC/AML documentation templates for new clients. Verify existing documents in the system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Follow up with @legal-1 to ensure all KYC/AML processes are up-to-date and legally sound."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by updating the client onboarding tracker and sending a summary email to @pm-1."
+    }
+]

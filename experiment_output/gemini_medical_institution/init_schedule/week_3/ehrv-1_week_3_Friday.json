@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Read some articles on project management methodologies."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Confirm receipt of proposals from EHR vendors who intend to bid. Follow up with any vendors who have not yet responded."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with the evaluation team (@itpm-1, @da-1, @clinlead-1, @his-1) to discuss the process for evaluating the vendor proposals. Topic: Vendor Proposal Evaluation Process"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the scoring matrix based on the received scoring matrix feedback. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Pizza Friday with colleagues!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Host a kick-off meeting with the evaluation team. Review the evaluation criteria, scoring matrix, and timelines. Distribute the vendor proposals to the team members."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin initial review of vendor proposals, focusing on key criteria such as functionality, integration capabilities, and pricing. Highlight any areas of concern."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing notes and action items. Prepare a brief summary of the week's activities for the team."
+    }
+]

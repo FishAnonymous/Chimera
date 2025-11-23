@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Grab a coffee and check emails. See if I have any new email."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from @Ldes-1 on the enemy encounter. Address any concerns or suggestions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining the enemy encounter based on feedback. Focus on polish and balancing. Make sure the encounter is challenging but fair, and that it feels good to play."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start prototyping a different gameplay scenario: puzzle design. Design a simple environmental puzzle that requires the player to manipulate objects in the environment to progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Get some food with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the puzzle in the level. Add the necessary objects, triggers, and interactions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the puzzle. Make sure it's solvable but not too easy. Adjust the difficulty as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Add more visual elements to the level. Start with set dressing. Add props and details to make the environment feel more believable and lived-in. Email @3dmod-1 to ask about the prop information.@3dmod-1 Subject:Prop information of the Game."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up work and write a summary of progress. Send email to @Ldes-1 with update and ask for feedback on puzzle design."
+    }
+]

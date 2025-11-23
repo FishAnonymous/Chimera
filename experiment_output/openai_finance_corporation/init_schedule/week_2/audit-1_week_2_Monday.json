@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, review the plan for the week regarding the audit goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @comp-1, @facc-1, @facc-2 to discuss regulatory compliance requirements for the fund."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct preliminary research on regulatory frameworks that affect fund operations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting the audit scope document with a focus on compliance standards."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review audit scope draft with @comp-1 for feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the audit scope document based on feedback."
+    }
+]

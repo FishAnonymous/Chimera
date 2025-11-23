@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up the workstation, grab a coffee, and check emails. Briefly scan industry news for any cool new 3D modeling techniques or software updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the character designs provided by @cart-1 (Concept Artist). Make sure I have a solid understanding of the characters' overall look, proportions, and key features. Create a folder structure to organize character model assets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start blocking out the base mesh for the first main character in Maya. Focus on establishing accurate proportions and a solid anatomical foundation. I'll use simple shapes like spheres and cylinders initially."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the character's silhouette and primary forms. I'll pay close attention to landmarks and muscle groups to ensure the base mesh looks believable, even at this early stage."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab some food with colleagues, maybe play some quick rounds of a game to unwind."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the character blockout, paying specific attention to the face and hands. Add basic facial feature placeholders."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break. Browse ArtStation for character model inspiration and new techniques. I'll save any particularly good examples for later reference."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Finalize the character blockout and export it as an FBX file. Save the Maya scene and document the progress with a brief summary of the day's work. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any emails, check the project management tool for any updates or new tasks, and prepare for tomorrow's focus on environmental models."
+    }
+]

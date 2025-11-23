@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review the progress from yesterday and address any outstanding issues. Re-read the initial email sent to @LPRO-1 @TDEV-1 to ensure the questions covered are addressed."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the build scripts. Implement functionality to generate assets, such as textures and models, from source files. Research necessary tools and techniques for asset processing."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Refine the build scripts to handle different platforms. Implement conditional compilation and platform-specific settings. Test the scripts on different target architectures."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin researching continuous integration (CI) systems. Evaluate different options, such as Jenkins, GitLab CI, and CircleCI. Consider factors like ease of use, scalability, and integration with existing tools."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start setting up a CI system on a dedicated server. Install the chosen CI system and configure it to connect to the game's source code repository (e.g., Git). Ensure the CI system has access to the build environment."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Configure the CI system to automatically build the game whenever changes are pushed to the source code repository. Integrate the build scripts created earlier into the CI pipeline. Set up triggers and notifications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the CI system by making a small change to the codebase and pushing it to the repository. Monitor the CI system to ensure the build process is triggered and completes successfully. Debug any issues that arise."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the CI system setup and configuration for future maintenance. Prepare a status update for tomorrow."
+    }
+]

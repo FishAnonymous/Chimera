@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, prioritize tasks. Review influenza data trends with @da-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to address any vendor-specific issues impacting data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @ehrdev-1 and @ehrdev-2 on EHR enhancements for clinical workflows."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review QA updates from @qatest-1, ensure clinical requirements are met."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend project status meeting with @itpm-1, provide clinical updates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with @trainer-1 to finalize updated training materials for nurses."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with @mrs-1 and @mrs-2 on data accuracy in medical records."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document meeting outcomes, send updates to @clinlead-1 and @his-2."
+    }
+]

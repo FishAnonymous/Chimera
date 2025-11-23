@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the goals for the week. Prioritize tasks for developing training modules for new influenza data collection procedures."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to gather requirements and clinical insights for the influenza data collection procedures."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an outline for the training modules, focusing on key steps and workflows for influenza data collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research best practices for influenza data collection and integrate them into the training module outline."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin developing the first training module, focusing on data entry procedures and common pitfalls."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @ehrdev-1 and @ehrdev-2 to confirm technical aspects of the EHR system related to influenza data collection."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and refine the first training module based on feedback from the EHR developers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

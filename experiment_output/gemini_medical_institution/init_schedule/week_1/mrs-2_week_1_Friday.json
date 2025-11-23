@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, check emails. Maybe browse some guitar tabs."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review any feedback received on the training program report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @MRS-1 to discuss the schedule for delegating tasks. Topic: Task Delegation"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin delegating the tasks that involve the EHR data collection"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab something quick, maybe visit the local music store nearby."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue delegation the tasks with MRS-1"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by ensuring all documentation is properly filed and accessible."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home early. Play some music and relax!"
+    }
+]

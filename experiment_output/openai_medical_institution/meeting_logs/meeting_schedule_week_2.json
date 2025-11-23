@@ -1,0 +1,142 @@
+[
+    {
+        "week": 2,
+        "id": "da-2",
+        "detailed_goals": [
+            "Initiate data collection from EHR for influenza cases from the last three years using standardized formats.",
+            "Collaborate with Clinical Lead and Medical Records Specialists to ensure data relevance and collection methodology aligns with operational needs.",
+            "Start preliminary data cleaning processes to ensure data quality and adherence to compiled data integrity guidelines."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ehrv-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 2,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Collaborate with Data Analysts to validate the accuracy of the collected data and ensure it meets the needed standards for clinical relevance.",
+            "Establish feedback mechanisms to assess the effectiveness of EHR data features and suggest modifications based on clinical insights."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Implement QA testing processes on the EHR data collection for influenza cases based on established protocols.",
+            "Document QA findings and work with Data Analysts to address any issues or discrepancies found during testing."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "rn-2",
+        "detailed_goals": [
+            "Attend training sessions on the EHR system's features for documenting influenza cases to reduce errors.",
+            "Provide feedback from clinical interactions to improve data collection processes."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ehrdev-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 2,
+        "id": "itpm-1",
+        "detailed_goals": [
+            "Coordinate the ongoing training and onboarding activities across departments."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "dba-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 2,
+        "id": "da-1",
+        "detailed_goals": [
+            "Initiate data collection from EHR for influenza cases from the last three years using standardized formats.",
+            "Collaborate with Clinical Lead and Medical Records Specialists to ensure data relevance and collection methodology aligns with operational needs.",
+            "Start preliminary data cleaning processes to ensure data quality and adherence to compiled data integrity guidelines."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Conduct onboarding training sessions tailored specifically for the EHR tools relevant to influenza data collection.",
+            "Provide on-the-ground support during the data collection process, acting on immediate feedback to troubleshoot issues."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "qatest-2",
+        "detailed_goals": [
+            "Implement QA testing processes on the EHR data collection for influenza cases based on established protocols.",
+            "Document QA findings and work with Data Analysts to address any issues or discrepancies found during testing."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "rn-1",
+        "detailed_goals": [
+            "Attend training sessions on the EHR system's features for documenting influenza cases to reduce errors.",
+            "Provide feedback from clinical interactions to improve data collection processes."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "ehrdev-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 2,
+        "id": "rn-3",
+        "detailed_goals": [
+            "Attend training sessions on the EHR system's features for documenting influenza cases to reduce errors.",
+            "Provide feedback from clinical interactions to improve data collection processes."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Conduct onboarding training sessions tailored specifically for the EHR tools relevant to influenza data collection.",
+            "Gather insights from sessions to fine-tune resources for improved usability."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "his-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 2,
+        "id": "mrs-2",
+        "detailed_goals": [
+            "Support ongoing data collection efforts ensuring accuracy during data entry.",
+            "Collaborate closely with Data Analysts to resolve any discrepancies."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "pchmp-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 2,
+        "id": "mrs-1",
+        "detailed_goals": [
+            "Support ongoing data collection efforts ensuring accuracy during data entry.",
+            "Collaborate closely with Data Analysts to resolve any discrepancies."
+        ]
+    },
+    {
+        "week": 2,
+        "id": "his-1",
+        "detailed_goals": []
+    }
+]

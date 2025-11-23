@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the overall server setup and functionalities for any remaining issues or optimizations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 to discuss testing plans for the server environment and core functionalities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any remaining issues or optimizations in the server setup and functionalities, based on feedback from the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Perform final testing of the server environment and core functionalities, ensuring everything is ready for QA testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of the week's work, including server setup, core functionalities, and integration status."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share the summary report with @prod-1 and @lpro-1, and discuss next steps for the project."
+    }
+]

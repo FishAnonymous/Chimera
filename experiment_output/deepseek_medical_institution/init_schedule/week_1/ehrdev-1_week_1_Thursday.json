@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize technical specifications for EHR system updates and share with @ehrdev-2 for review."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @helpdesk-1 to discuss potential support issues and ensure help desk is prepared for updates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @mrs-1 and @mrs-2 to ensure medical records team is aware of upcoming changes and provide any necessary documentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and incorporate feedback from @ehrdev-2 on technical specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin preliminary development work on EHR system updates, focusing on data field additions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ehrv-1 to confirm any vendor-specific requirements or constraints for the updates."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Continue development work, testing new data fields in a sandbox environment."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update project documentation and prepare for next day's activities."
+    }
+]

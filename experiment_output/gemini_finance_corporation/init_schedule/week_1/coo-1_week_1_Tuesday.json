@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, get ready for work. Check schedule and prepare for the day ahead. Quick scan of financial news headlines on Bloomberg."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the data infrastructure progress with @Dsde-1 (Data Scientist) and @Dsde-2 (Data Scientist). Ensure the data pipeline is functioning correctly and providing accurate data for the quantitative researchers. Discuss data quality and validation procedures."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @Sdev-1 (Software Developer) and @Sdev-2 (Software Developer) to assess the progress on the trading platform development. Ensure the platform is reliable and efficient. Review code quality and security."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @Ir-1 (Head of Investor Relations) and @Mkt-1 (Marketing & Communications Specialist) to discuss the marketing strategy for attracting UHNWI investors. Review the fund's marketing materials and ensure they are compliant with SEC regulations. Plan investor roadshows."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Meet with @Onbd-1 (Client Onboarding Specialist) to discuss the client onboarding process. Ensure the process is efficient and compliant with KYC/AML regulations. Review client documentation requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Review WSJ headlines while eating a quick lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the Risk Management Framework with @Qres-1 @Qres-2 @Qres-3 and @Comp-1. Ensure a robust risk management framework and identify, asses and mitigate potential risks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Schedule a meeting with @Audit-1 (External Auditor) to discuss the audit plan and timeline. Review the fund's financial statements and internal controls. Address any audit concerns."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "@PM-1, @Larch-1 - EMAIL: Discuss potential delays in the software development timeline and strategize solutions to keep the project on track. Offer support and guidance to the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the minutes from yesterday's meeting and follow up on any action items. Respond to outstanding emails and prioritize tasks for tomorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

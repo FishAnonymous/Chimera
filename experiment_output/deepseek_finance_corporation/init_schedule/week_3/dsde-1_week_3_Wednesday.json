@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize visualizations and compile them into a presentation deck. Add annotations and key takeaways."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Rehearse presentation with @ir-1 to ensure clarity and impact. Adjust content as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the investment team (@cio-1, @qres-1, @qres-2, @qres-3). Highlight competitor strengths/weaknesses and proposed strategy adjustments."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address questions and gather feedback from the team. Document action items for strategy refinement."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update project documentation with presentation outcomes and next steps."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Work on documentation for influenza cases in the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in a workshop focusing on resolving common EHR errors encountered during data entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Have a brainstorming session with @trainer-1 on improving training for new staff on EHR."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft new training materials based on workshop and brainstorming session insights."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and prepare for Friday's meetings."
+    }
+]

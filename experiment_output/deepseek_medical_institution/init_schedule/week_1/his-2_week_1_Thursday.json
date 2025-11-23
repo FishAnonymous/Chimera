@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review training materials prepared by @trainer-1 and provide feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a training session for @helpdesk-1 and @his-2 on the data extraction process."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Perform a full-scale test of the data extraction workflow with live data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze test results and refine the workflow as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a report on the test outcomes and share with @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation with the latest changes."
+    }
+]

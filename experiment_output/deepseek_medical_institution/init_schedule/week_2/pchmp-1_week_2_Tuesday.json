@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day. Continue reviewing project goals and objectives."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss health informatics strategies for influenza data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend project meeting with @itpm-1 and @clinlead-1 to provide updates and gather feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather additional feedback from @mrs-1 and @mrs-2 on EHR data entry processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @qatest-1 and @qatest-2 to review EHR system testing results."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @trainer-1 on training needs for clinical staff based on feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with @dba-1 on database requirements for influenza data collection."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare summary report for the day and plan for tomorrow."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, review overall progress for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize any remaining asset adjustments based on recent playtest feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the week's progress and prepare a presentation for the upcoming team meeting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Team meeting to discuss the integration process, playtesting outcomes, and future plans."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up tasks for the week and set goals for next week based on team feedback."
+    }
+]

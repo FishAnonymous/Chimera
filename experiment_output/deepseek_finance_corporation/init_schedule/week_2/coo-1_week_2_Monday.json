@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review operational plans and resource allocation documents for the fund launch."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to discuss finalizing operational plans and resource allocation. Align on key milestones and deliverables."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review SEC compliance documentation with @comp-1 and @legal-1. Ensure all internal controls are in place."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with @qres-1, @qres-2, @qres-3 on quantitative research progress and its alignment with operational plans."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft email to @cio-1 and @ir-1 summarizing operational readiness and compliance status."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and finalize the operational plans document. Send for final approval to @cio-1."
+    }
+]

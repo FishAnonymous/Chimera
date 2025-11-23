@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work. Listen to music for a while."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails and respond to any overnight inquiries or follow-up questions. Prioritize based on urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue configuring the Zendesk trial account. Focus on setting up automated responses and creating knowledge base articles related to common EHR system issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Write a detailed guide for internal staff on how to use the new ticketing system (Zendesk) to log and manage user inquiries. Include screenshots and step-by-step instructions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send a draft of the internal guide to @Trainer-1 for review and feedback. @Trainer-1 Ticketing System Guide Feedback"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go out for a walk to get some fresh air and clear my head."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Revise the internal guide based on feedback from @Trainer-1. Make sure the instructions are clear and easy to follow."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on configuring the online help desk portal. Customize the look and feel to match the company's branding. Add links to the knowledge base articles."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the online help desk portal thoroughly. Submit test tickets to ensure the system is working as expected."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a list of frequently asked questions (FAQs) related to the EHR system and influenza data collection. Add these to the knowledge base."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Share the updated support channel outline and internal guide with @Clinlead-1 for review and feedback. @Clinlead-1 Support Channel & Guide Feedback"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress, organize notes, and plan for tomorrow's tasks. Check social media for a short while."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

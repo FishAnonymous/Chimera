@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check personal emails, and browse car websites"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check work emails. Review the sample template received from @da-1 and @da-2. Ensure data being abstracted aligns with the required format."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Abstract data from another batch of 25 electronic records, strictly adhering to the specified data format."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break to stretch and listen to a podcast."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data abstraction. Focus on consistency and accuracy in data entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Enjoy a leisurely lunch in the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Work diligently to complete a batch of 50 records."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review a sample of completed records with @qatest-1 and @qatest-2 (Quality Assurance Testers) to identify any potential areas for improvement in the data abstraction process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Incorporate feedback from @qatest-1 and @qatest-2. Refine the data abstraction process to minimize errors and improve consistency."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review and correct any errors in the day's completed records. Update the daily log."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home for the day."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up and check emails, maybe look at some game design articles to get inspiration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare the documentation for the detailed character models for the first enemy type, make sure to outline every aspect needed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start working on the detailed character models for the first enemy type. Focus on high-quality textures and intricate details."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the character model, paying close attention to the silhouette and overall proportions. Time to bring this enemy to life!"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Ask @cdev-1 for a review of the enemy model to see if there is anything that needs to be changed."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up, review progress, and head home. Feeling good about the enemy model!"
+    }
+]

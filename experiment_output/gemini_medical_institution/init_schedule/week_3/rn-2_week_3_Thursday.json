@@ -1,0 +1,82 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up and get energized! Log into the EHR system and check for any urgent messages or updates. Grab a coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the daily schedule, check which patient have influenza symptoms."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Greet patients with a friendly smile and conduct the influenza symptom assessment using the standardized protocols and tools integrated into the EHR."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Accurately and completely enter the patient's data into the EHR. Double-check to avoid errors."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Second patient. Repeat the process. Make sure you show your patience."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document data into EHR"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Time for some fun. Let's browse some funny nursing stories online and laugh for a while!"
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Third patient! Let's go!"
+    },
+    {
+        "Time": "11:45",
+        "Activity": "Document data into the EHR"
+    },
+    {
+        "Time": "12:15",
+        "Activity": "Lunch Time! Having lunch with coworkers!"
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Patient assessment and EHR entry. Making sure everything is in the EHR system!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "More patient interactions and data entry."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Patient assessment and Documentation"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "EHR data entry!"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Patient assessment and EHR entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Documenting the data!"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check with @RN-1,@RN-2 and @RN-3 to discuss challenges regarding patient assessment, Subject: Discussion on Patient Assessment"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries for the day, ensuring accuracy and completeness. Fix any errors in the EHR."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow by reviewing patient schedules and anticipating potential needs."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Time to clock out and head home!"
+    }
+]

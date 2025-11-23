@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the computer, and check emails for any urgent updates or information regarding EHR implementation and influenza vaccination protocols. Also, browse some health-related websites for 15 minutes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the daily patient schedule and prioritize patient assessments based on urgency and scheduled appointments. Prepare my workstation with necessary supplies including assessment tools, vaccination supplies, and EHR access."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient assessments. Focus on the first scheduled patient, ensuring a thorough review of their medical history, current symptoms, and any relevant allergies. Ask open-ended questions to encourage the patient to share any concerns."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Accurately document all patient assessment findings directly into the EHR system. Pay close attention to detail and ensure all fields are completed correctly. Double-check for any errors or omissions before saving the entry."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Administer influenza vaccination to a patient according to established protocols. Verify patient identity, allergies, and contraindications before administering the vaccine."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document the influenza vaccination details in the EHR system, including the date, time, vaccine type, lot number, and administration site. Provide the patient with post-vaccination instructions and address any concerns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue patient assessments and data entry into the EHR system for scheduled patients. Maintain a patient-centered approach, providing compassionate care and addressing individual needs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up with @RN-1 and @RN-3 in the break room, discuss patient cases, and share experiences with the new EHR system."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the hospital's policy on vaccine handling and administration. Pay special attention to the proper storage of the influenza vaccine."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue with patient assessment and EHR data entry. If there's time, read some articles on nursing and art."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Communicate with @clinlead-1 regarding patient assessments that requires further actions or discussion."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare end-of-day report of the work progress and create a to-do list for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to the emails."
+    }
+]

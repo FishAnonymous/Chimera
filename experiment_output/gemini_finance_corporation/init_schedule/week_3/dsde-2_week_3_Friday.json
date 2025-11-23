@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Morning review: Final review of strategy performance and documentation. Prepare for the weekly team meeting."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Prepare a comprehensive report summarizing the week's work, including data cleaning, strategy development, and performance evaluation. Share with the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a thorough code review of all implemented functions and scripts. Ensure code quality, readability, and adherence to coding standards."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any code review comments and fix identified bugs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Have a team lunch to celebrate the week's accomplishments."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in the weekly team meeting. Present the week's progress and discuss any challenges or roadblocks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Plan for the next week's goals based on the feedback from the team meeting. Prioritize tasks and allocate time accordingly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Explore advanced statistical arbitrage strategies. Start to read some research papers and online materials related to advanced statistical arbitrage."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete all documentation and commit all code to the repository. Ensure that the repository is up-to-date and well-organized."
+    }
+]

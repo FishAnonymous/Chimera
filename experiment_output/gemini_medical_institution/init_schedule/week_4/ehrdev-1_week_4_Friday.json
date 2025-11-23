@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for any feedback on the meeting summary from @ITPM-1, @CLINLEAD-1, @DA-1, @HIS-1. Review any updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Analyze the cost estimates and timelines provided by the EHR vendor. Compare the proposed solutions with alternative options and assess the overall value proposition."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a cost-benefit analysis of the proposed EHR updates and modifications. Include factors such as development costs, implementation costs, ongoing maintenance costs, and potential benefits of improved data collection and analysis."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the cost-benefit analysis to @ITPM-1 and @CLINLEAD-1. Discuss the findings and make a recommendation regarding the proposed solutions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Celebrate almost completing the week!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "If the proposed solutions are approved, begin developing a detailed project plan outlining the specific tasks, resources, and timelines required for implementation. @ITPM-1 help to finalize the timeline."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Identify and assign roles and responsibilities for each task in the project plan. Ensure all team members understand their roles and expectations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a kickoff meeting with all stakeholders to review the project plan and discuss the next steps. Confirm attendance with @ITPM-1, @CLINLEAD-1, @DA-1, @HIS-1, @QATEST-1, @RN-1, @EHRV-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the week's accomplishments, including the meeting with the EHR vendor, the cost-benefit analysis, and the development of the project plan. Send to @ITPM-1."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Wrap up the week by organizing notes and documents related to the project. Prepare for next week's tasks and enjoy the weekend!"
+    }
+]

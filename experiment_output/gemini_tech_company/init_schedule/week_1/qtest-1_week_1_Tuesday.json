@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and system notifications. Review the test plan to ensure familiarity and resolve any immediate questions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the test environment. Install the latest build of the game. Configure test hardware and software according to the test plan requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin executing the first set of test cases, focusing on character movement and basic interactions. Meticulously document any bugs or issues encountered."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document bugs in the bug tracking system (Jira). Include detailed steps to reproduce the bug, expected vs. actual results, and screenshots/videos as needed. @LPRO-1 Please take a look at these bugs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue executing test cases. Focus on the shooting mechanics and combat system. Document any issues with weapon balance, hit detection, or AI behavior."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Verify fixed bugs from previous builds. Retest the bugs that were reported as fixed to ensure that the issues have been resolved and no new issues have been introduced."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct ad-hoc testing, exploring the game world and mechanics in unexpected ways. Try to break the game and uncover hidden bugs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize testing progress. Prepare a daily report outlining the number of test cases executed, the number of bugs found, and any significant observations."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review Week 1 milestones and prepare progress reports."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 @ldes-1 @sdes-1 @sdes-2 to discuss progress against Week 1 milestones and identify any blockers."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Compile progress reports and update project tracking tools. Highlight key achievements and areas needing attention."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @cdev-1 @cdev-2 @cdev-3 @sdev-1 to gather updates on client and server development progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule cross-team sync meetings for the week. Coordinate with @uiux-1 @3dmod-1 @3dmod-2 @tart-1 @aud-1 for design and art alignment."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare agendas for upcoming sync meetings. Ensure all relevant topics are covered."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @qtest-1 @beng-1 on QA and build status. Address any immediate concerns."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by updating the project dashboard and sending a summary email to the team."
+    }
+]

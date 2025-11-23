@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Address any urgent issues or requests from yesterday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the presentation for today's meeting. Ensure all relevant information is included and the presentation is clear and concise."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any remaining bugs or issues identified during testing. Prioritize critical issues that could impact functionality or data integrity."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with the project team (including @itpm-1, @ehrv-1, @da-1, @clinlead-1, @rn-1, @qatest-1) to present the development progress and the key features of the system updates. Get feedbacks. Answer their question. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the feedback from the project team, make any final adjustments to the system updates or modifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare the system updates for deployment to the production environment. Follow the established deployment procedures and ensure all necessary approvals are obtained. Need to coordinate with @dba-1"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a detailed deployment plan outlining the steps involved in deploying the system updates to the production environment. Address the possible risk."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the entire development process, including the requirements, design, implementation, testing, and deployment. Create a comprehensive knowledge base for future reference. @PEOPLE Send the documentation to @his-1 and @his-2 for archiving."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of the week's accomplishments. Update the summary report for @itpm-1.  Congratulate myself on a productive week!"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails. Review the current data abstraction protocol draft."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss and finalize the data abstraction protocol."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Update the standardized form based on feedback from the Health Informatics Specialists."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the finalized data abstraction protocol and form to @clinlead-1 and @pchmp-1 for approval."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare training materials for the data abstractors, including slides and demo cases."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Coordinate with @trainer-1 to schedule the training session for data abstractors."
+    }
+]

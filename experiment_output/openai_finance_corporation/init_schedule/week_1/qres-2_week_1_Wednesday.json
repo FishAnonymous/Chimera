@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review emails. Start drafting a detailed report on the identified investment themes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @mkt-1 to understand how these themes can be communicated to UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the detailed report and include quantitative data supporting each theme."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a draft of the report to @comp-1 for compliance review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and wrap up for the day."
+    }
+]

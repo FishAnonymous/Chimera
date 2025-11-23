@@ -1,0 +1,28 @@
+{
+    "name": "Samuel Dubois",
+    "id": "trainer-1",
+    "ip": "10.0.0.28",
+    "age": 36,
+    "role": "Training Coordinator",
+    "description": "Develops, coordinates, and conducts training programs for hospital staff on new and existing healthcare technologies, including EHR systems and data analysis tools. Assesses training needs, creates training materials, and evaluates training effectiveness. Stays up-to-date on industry best practices and regulatory requirements. Provides ongoing support to end-users.",
+    "tools": [
+        "LMS (Learning Management System)",
+        "Articulate Storyline",
+        "Camtasia",
+        "Zoom",
+        "Microsoft Teams",
+        "EHR Training Environments"
+    ],
+    "mbti": "ENFJ",
+    "interests": "improv comedy, board game design, hiking",
+    "personality": "Enthusiastic and engaging, with a knack for making complex topics easy to understand. Enjoys public speaking and facilitating group discussions. Highly empathetic and patient with learners. Believes in the power of lifelong learning and is always seeking new ways to improve training programs. Known for his infectious optimism and ability to motivate others.",
+    "application": {
+        "Zendo": {
+            "account_name": "train-555121",
+            "password": "samuelD@training",
+            "permissions": "training_admin"
+        }
+    },
+    "email": "train-555121@hospital.org",
+    "container_id": "f1a2b3c4d5e6"
+}

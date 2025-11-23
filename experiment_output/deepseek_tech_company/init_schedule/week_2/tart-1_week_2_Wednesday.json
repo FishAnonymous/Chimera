@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any unresolved questions regarding the technical constraints."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @uiux-1 to discuss how the art style will integrate with the UI/UX design."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Create a presentation summarizing the art style direction and technical constraints for the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the art style and technical constraints to the broader team in a meeting. Include @prod-1, @ldes-1, and @lpro-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address any questions or concerns raised during the presentation and update documents as needed."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Browse new tech demos and art tools online for potential use in the project."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Look for updates on risk management framework and any questions from @qres-1 or @qres-2"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Read some blog posts about theoretical physics. (Loafing - Mental Refresh)"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement a basic backtesting framework for pairs trading using Python. Focus on data handling, signal generation, and performance evaluation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Source historical price data for a set of potential pairs trading candidates. Use a reliable data provider, ensuring data quality and availability."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Apply cointegration tests to the selected pairs trading candidates. Identify pairs that exhibit statistically significant cointegration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Backtest the pairs trading strategy using the selected cointegrated pairs. Evaluate performance metrics such as Sharpe ratio, maximum drawdown, and annual return."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze backtesting results. Identify strengths and weaknesses of the pairs trading strategy. Investigate potential improvements and refinements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation summarizing the backtesting results for the pairs trading strategy. Include key findings, challenges, and future research directions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the presentation on pairs trading backtesting. Prepare to share with the team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails, respond to any urgent requests."
+    }
+]

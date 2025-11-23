@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any remaining issues from @comp-1 or @legal-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare presentation materials for the investment strategy and selection criteria."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @mkt-1 to discuss how to communicate the strategy to potential UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review all documents (investment philosophy, asset allocation, risk management, selection criteria) for consistency."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send final documents to @pm-1 for consolidation and project tracking."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Follow up with @ir-1 on investor relations strategy alignment."
+    }
+]

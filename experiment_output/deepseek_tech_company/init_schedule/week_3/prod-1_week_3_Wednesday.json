@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any overnight updates from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a team-wide sync meeting to gather feedback on the updated timeline. @ALL"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss and finalize the adjusted project timeline based on team input."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send the finalized timeline to all stakeholders for confirmation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @ndes-1 to review narrative design progress and alignment with gameplay."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @tdev-1 on any tools or pipeline improvements needed for the final prototype."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check in with @prod-1 (yourself) to ensure all tasks are on track."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare an agenda for the final prototype review in Week 4."
+    }
+]

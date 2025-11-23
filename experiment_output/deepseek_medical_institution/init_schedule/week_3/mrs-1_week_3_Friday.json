@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct a final review of the abstracted dataset and ensure all documentation is complete."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @trainer-1 to schedule training sessions for staff on accessing the new influenza data."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @pchmp-1 to discuss the clinical implications of the abstracted data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a team debrief with @rn-1, @rn-2, and @rn-3 to gather feedback on data usability."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update the project tracker and communicate completion status to @itpm-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up the week by organizing the workspace and planning for next week's tasks."
+    }
+]

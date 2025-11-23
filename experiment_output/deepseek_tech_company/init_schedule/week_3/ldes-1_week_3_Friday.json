@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Finalize presentation slides for the GDD review."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the finalized GDD to the entire team, highlighting key sections and changes made during the week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Open floor for questions and discussion on the GDD. Document any last-minute feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate any final feedback into the GDD and submit the final version to @prod-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Celebrate the completion of the GDD with the team and plan next steps for development."
+    }
+]

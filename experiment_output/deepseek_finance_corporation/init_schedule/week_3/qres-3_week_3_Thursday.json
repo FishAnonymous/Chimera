@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the draft report on model performance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the report. Ensure all key metrics and findings are clearly presented."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Review the report for clarity and completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining the report. Add any additional analysis or visualizations as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @pm-1 and @ir-1 to discuss the report and gather final feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Incorporate final feedback into the report. Finalize all sections."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare the final version of the report for distribution."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan tasks for the next day."
+    }
+]

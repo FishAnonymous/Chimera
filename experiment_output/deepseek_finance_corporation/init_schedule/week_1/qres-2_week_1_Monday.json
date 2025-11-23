@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review market data reports from the previous week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Analyze market data for potential investment themes. Focus on sectors showing volatility or growth trends."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Grab a coffee and browse financial news for any immediate market-moving events."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue market data analysis. Start compiling a list of potential investment themes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review key economic indicators including interest rates and inflation. Compare with historical data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qres-1 and @qres-2 to discuss initial findings on economic indicators and potential themes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin identifying specific investment themes such as green energy and healthcare. Note any supporting data."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

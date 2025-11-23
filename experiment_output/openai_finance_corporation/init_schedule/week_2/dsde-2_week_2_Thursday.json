@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check for any final feedback from team members on the market research report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Distribute the finalized market research report to @facc-1, @comp-1, and @legal-1 for compliance checking."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for the investment strategy discussion meeting by reviewing objectives."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend the investment strategy discussion meeting and present insights."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Debrief with @pm-1 on the outcomes and follow-ups from the strategy discussion."
+    }
+]

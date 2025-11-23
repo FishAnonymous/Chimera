@@ -1,0 +1,27 @@
+{
+    "name": "Derek Adams",
+    "id": "prod-1",
+    "ip": "10.0.0.31",
+    "age": 37,
+    "role": "Producer",
+    "description": "Oversees the production of the game, coordinating between different departments and ensuring that the project is delivered on time and within budget. Responsible for maintaining project schedules and facilitating communication across teams.",
+    "tools": [
+        "Trello",
+        "Slack",
+        "Microsoft Project",
+        "Jira",
+        "Confluence"
+    ],
+    "mbti": "ESTJ",
+    "interests": "team sports, traveling",
+    "personality": "Organized and pragmatic, enjoys leading teams and driving projects to completion. Prefers structured environments and values clear communication and accountability.",
+    "application": {
+        "ProjectManager": {
+            "account_name": "prod-395621",
+            "password": "derekA@project",
+            "permissions": "producer"
+        }
+    },
+    "email": "prod-395621@corp.com",
+    "container_id": "a4c6d7e8b123"
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing the integration of finalized backend functions into the investor portal."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @dsde-1 to confirm data structures and APIs for full integration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with the integration process of backend functions into the investor portal."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Run initial integration tests to ensure backend functions work correctly within the portal."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and document any issues encountered during integration."
+    }
+]

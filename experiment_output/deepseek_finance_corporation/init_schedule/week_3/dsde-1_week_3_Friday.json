@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct a final review of the week's work. Ensure all documentation and code are properly versioned and stored."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @pm-1 to provide a weekly progress update and discuss any blockers."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Plan tasks for the next week, focusing on further refinements or new data sources."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Spend time on professional development: Read a research paper on statistical arbitrage or explore new visualization techniques."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Wrap up the week by organizing files and responding to any pending emails."
+    }
+]

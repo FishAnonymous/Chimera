@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review project goals for the week regarding EHR data collection."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Initiate data collection from EHR for influenza cases from the last three years using standardized formats."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @ehrdev-1, @mrs-1, @mrs-2 to confirm data formats and expectations for EHR data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @clinlead-1 and @mrs-1, @mrs-2 to discuss data relevance and collection methodology."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review notes from the collaboration meeting and draft an email summarizing agreed methodology and relevance considerations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send summary email to @clinlead-1, @mrs-1, @mrs-2 for confirmation."
+    }
+]

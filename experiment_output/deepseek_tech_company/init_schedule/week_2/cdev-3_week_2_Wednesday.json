@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review feedback from @uiux-1. Refine the health bar UI based on feedback."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start prototyping the main menu UI, focusing on navigation and responsiveness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse design inspiration for UI elements."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue working on the main menu UI, adding options and settings screens."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @cdev-1 and @cdev-2 to align on UI implementation standards and share progress."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the UI elements in-game, ensuring they work seamlessly with the core gameplay."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document any bugs or issues found during testing for future fixes."
+    }
+]

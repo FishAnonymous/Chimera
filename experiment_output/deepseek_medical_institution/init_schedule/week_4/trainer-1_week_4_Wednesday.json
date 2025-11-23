@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @qatest-1 and @qatest-2 on updated training materials. Make necessary revisions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize updated training materials and share with @itpm-1 for approval."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @ehrv-1 to ensure all EHR-related training content is accurate and up-to-date."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of training feedback and material updates for leadership (@itpm-1, @clinlead-1, @pchmp-1)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the summary report via email and schedule a brief meeting for Thursday to discuss next steps."
+    }
+]

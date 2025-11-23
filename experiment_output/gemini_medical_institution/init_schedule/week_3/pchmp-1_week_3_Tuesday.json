@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review schedule and prepare for the day. Check emails for overnight responses to the feedback requests."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Meet with @clinlead-1 to present the preliminary summary of feedback received. Discuss strategies for addressing the identified challenges and concerns. Plan a follow-up meeting with a small group of physicians for more in-depth discussion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a follow-up meeting with three physicians (@PEOPLE, select 3 physicians that gave the most amount of feedback) representing different specialties for Thursday afternoon to delve deeper into the EHR challenges."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the feedback received through the online form. Look for correlations between user roles (physician, nurse) and the types of feedback provided. Identify potential areas for targeted training or system modifications."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review EHR vendor documentation related to data entry validation rules. Identify potential areas where the system can be improved to prevent errors and improve data quality. Email to @ehrv-1 to discuss these."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @da-1 and @da-2 (Data Analysts) to explore the feasibility of creating a dashboard to visualize real-time influenza trends based on EHR data. Discuss data sources, metrics, and reporting requirements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up on the action item from Monday's project meeting regarding data storage capacity. Discuss potential solutions with @dba-1 (Database Administrator) and @itpm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the current training materials for the EHR system. Identify gaps in content and areas where the materials could be made more user-friendly. Make a note on areas of improvement and send it to @trainer-1 for review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document findings and recommendations based on the feedback analysis, EHR vendor documentation review, and discussions with colleagues. Prepare a progress report for @itpm-1 to be shared in the next project meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a draft plan for the meeting with the physicians on Thursday. Focus on specific pain points and potential solutions. "
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review yesterday's notes and today's schedule. Address any urgent emails or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue sourcing sound effects from existing libraries. Focus on player actions like footsteps on different surfaces (grass, metal, concrete) and weapon-related sounds (firing, reloading, impact)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "If no suitable sound effects could be found, contact @tart-1 (Technical Artist) for help. The request includes, requesting help on capturing and creating custom footstep sound effects on various surfaces within our studio or creating foley to represent in-game textures."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin creating custom sound effects using audio editing software (e.g., Audacity, Reaper, Ableton). Experiment with layering, pitch shifting, and other techniques to achieve the desired sound. Save each sound effect with a descriptive name."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a quick lunch and chat with colleagues to de-stress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Import sourced and created sound effects into the game engine (Unreal Engine, Unity, etc.). Organize them into folders based on category. Ensure the file names are consistent and follow a clear naming convention."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @lpro-1 (Lead Programmer) to discuss the integration process and any technical considerations. Determine the best method for triggering sound effects based on in-game events. Discuss audio middleware options if necessary."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start attaching sound effects to appropriate events and triggers in the game engine. Begin with player actions like footsteps and weapon fire. Adjust the volume and pan settings to create a realistic and immersive experience."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the implemented sound effects in-game. Evaluate their impact on gameplay and make necessary adjustments. Document any issues or areas for improvement."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up the project and update the sound effect tracking spreadsheet. Prepare for tomorrow's tasks."
+    }
+]

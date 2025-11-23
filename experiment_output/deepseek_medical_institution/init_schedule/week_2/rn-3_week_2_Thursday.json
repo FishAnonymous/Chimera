@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review any new patient updates or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @da-1 and @da-2 to discuss initial trends in influenza cases and vaccination rates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct patient assessments for influenza symptoms, ensuring all data is entered into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccinations, documenting all details accurately in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up with patients who received vaccinations, updating EHR with any new information."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @itpm-1 with any technical issues encountered with the EHR system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review and verify all EHR entries for the day, ensuring completeness and accuracy."
+    }
+]

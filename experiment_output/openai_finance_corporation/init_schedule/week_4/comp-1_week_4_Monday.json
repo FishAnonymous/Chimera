@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the agenda for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Legal Counsel to discuss compliance documentation requirements for the fund's registration."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the current compliance documentation related to the fund's registration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing compliance documentation and make notes of any discrepancies or updates needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @External Auditor for any required clarifications regarding compliance documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize notes and create a summary document of required changes to be discussed with the team."
+    }
+]

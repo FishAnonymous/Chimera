@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review new patient records for those starting antiviral medications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Round on new patients to monitor for initial signs of adverse reactions. Document findings in the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide patient education to new patients on antiviral medications. Document education in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @pchmp-1 to discuss any concerns or trends in adverse reactions observed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update patient education materials based on feedback from @pchmp-1. Ensure all updates are reflected in the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and organize patient education documentation for the day."
+    }
+]

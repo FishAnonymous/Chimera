@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Catch up on emails, respond to any remaining requests. Read any relevant news."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create a checklist for data quality assurance for the report. List specific checks to perform on the data sources, statistical analysis, and predictive modeling results."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document the process for creating and maintaining the report template. Include information on data sources, statistical methods, and visualization techniques."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a training plan for staff who will be using the report template. Include information on how to access the report, interpret the data, and use the recommendations. Email @trainer-1 to align on the training plan"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Write the final documentation. Send to @qatest-1, @qatest-2, @trainer-1 for testing. Email @PEOPLE Request to test the report template and process."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Get feedback from testing team, and revise where necessary."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final Review and touch up documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit completed materials."
+    }
+]

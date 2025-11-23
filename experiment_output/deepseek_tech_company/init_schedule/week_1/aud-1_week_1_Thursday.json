@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the sound production timeline."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin creating rough prototypes for key sound effects (e.g., gunfire, footsteps)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Listen to the prototypes and make notes for improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the sound effect prototypes based on notes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @lvdn-1 to discuss level-specific sound requirements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Adjust sound effect prototypes based on feedback from @lvdn-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start sketching rough ideas for background music tracks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and organize all sound prototypes and music sketches."
+    }
+]

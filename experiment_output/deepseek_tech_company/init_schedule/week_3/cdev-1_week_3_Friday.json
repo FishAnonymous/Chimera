@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review QA feedback on the latest build. Sync with @prod-1 on weekly progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize any remaining asset integrations and perform a full test of the game build."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address last-minute bugs or performance issues before the weekend."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all changes made during the week and update the project wiki."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @qtest-1 to confirm the final build for testing and provide release notes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by organizing tasks for next week and setting priorities."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax and browse game development forums for inspiration and new techniques."
+    }
+]

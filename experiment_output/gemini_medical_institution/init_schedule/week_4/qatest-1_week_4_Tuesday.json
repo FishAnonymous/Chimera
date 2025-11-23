@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Check Reddit to see what's up."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend meeting with @ehrdev-1 and @da-1 to discuss potential validation rules."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on meeting feedback, refine the proposal for automated validation rules, focusing on the feasibility and impact of each rule. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document refinement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @ehrdev-1 to begin implementing the first set of automated validation rules in the EHR system's test environment. Focus on required field validation for new patient entries."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the implemented validation rules by attempting to enter incomplete or incorrect data. Document any issues or unexpected behavior."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document testing results and propose fixes for the @ehrdev-1 to implement. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check any updates from the colleagues, and prepare the to-do list for tomorrow."
+    }
+]

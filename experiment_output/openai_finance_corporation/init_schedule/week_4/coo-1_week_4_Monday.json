@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the current status of the fund launch preparations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 (Project Manager) to discuss the overall timeline and deliverables for the fund launch."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Assess the operational readiness for the fund launch by reviewing procedures and processes with @facc-1 (Fund Accountant) and @comp-1 (Compliance Officer)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft checklist for operational readiness including compliance, accounting practices, and technical aspects."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review responsibilities of team members in the fund management process."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Confirm roles and responsibilities of team members by meeting with @ir-1 (Head of Investor Relations), @cio-1 (Chief Investment Officer), and @larch-1 (Lead Software Architect)."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send out roles and responsibilities confirmation document via email to all team members involved in fund management."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day's activities and plan priorities for tomorrow."
+    }
+]

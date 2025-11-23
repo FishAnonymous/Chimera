@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize any pending tasks from the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 and @clinlead-1 to review the week's progress and plan for next week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Update the project documentation with any last-minute changes or notes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @helpdesk-1 to ensure all technical issues from the training session are resolved."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a brief debrief session with the data abstractors to gather final feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Archive all project-related emails and documents for record-keeping."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a to-do list for next week based on this week's outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by ensuring all tasks are completed and documented."
+    }
+]

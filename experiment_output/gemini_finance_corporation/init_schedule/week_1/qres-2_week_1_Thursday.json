@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and read the Wall Street Journal."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the draft of the risk management framework and fund strategy proposal. Identify any areas for improvement in terms of clarity, conciseness, and accuracy."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @qres-1, @qres-2, @cio-1, @legal-1, @comp-1 to review the risk management framework and fund strategy proposal. The topic is 'Review Session: Risk Management Framework and Fund Strategy Proposal'."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct the review meeting. Present the risk management framework and fund strategy proposal to the stakeholders. Solicit feedback and address any questions or concerns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break! Enjoy a team lunch at a nearby restaurant."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate the feedback from the review meeting into the risk management framework and fund strategy proposal. Refine the documents to ensure they are accurate, comprehensive, and aligned with the goals of the organization."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @mkt-1 to develop marketing materials for the fund, including a pitch deck and investor brochure. Ensure that the marketing materials accurately reflect the fund's strategy, risk profile, and potential benefits."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the final risk management framework and fund strategy proposal to @legal-1, @comp-1 for final approval."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by organizing notes, outlining next steps, and preparing for tomorrow's tasks."
+    }
+]

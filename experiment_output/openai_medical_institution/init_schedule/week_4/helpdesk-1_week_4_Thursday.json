@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the second refresher training session."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collect feedback from participants and address any new concerns raised."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on finalizing user manuals and FAQs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare the final report on Help Desk support for submission to management."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and send out the finalized user manuals and FAQs to staff."
+    }
+]

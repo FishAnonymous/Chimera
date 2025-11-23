@@ -1,0 +1,82 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with a smile! Log into the EHR system and check for any urgent messages or notifications related to patient care or system updates. Grab a coffee \u2013 gotta be ready to bring the energy!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the daily patient schedule and identify patients presenting with potential influenza symptoms. Mentally prepare for a busy day of patient interaction."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "First patient interaction: Greet the patient warmly and begin the influenza symptom assessment. Use the standardized protocols and tools within the EHR to guide the assessment."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Accurately and completely enter the patient's demographic information, medical history, vaccination status, and present symptoms into the EHR. Double-check for any errors."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Second patient interaction: Repeat the influenza assessment process, ensuring accurate and empathetic patient communication."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Enter data from the second patient encounter into the EHR, paying close attention to detail. Note any relevant observations or concerns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break to stretch and re-energize. Maybe check out a funny meme to lighten the mood."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Third patient interaction: Conduct another influenza symptom assessment, making sure the patient feels heard and understood."
+    },
+    {
+        "Time": "11:45",
+        "Activity": "Input the third patient's information into the EHR, focusing on accuracy and completeness. Make sure to document any medications the patient is currently taking."
+    },
+    {
+        "Time": "12:15",
+        "Activity": "Lunch time! Head to the cafeteria and catch up with colleagues. Maybe share some funny stories from the morning."
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Fourth patient interaction: Assess patient for influenza symptoms, ensuring a thorough and compassionate evaluation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document findings from the fourth patient encounter in the EHR, including any lab orders or referrals."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Fifth patient interaction: Continue patient assessments. Maintaining a positive and engaging attitude is key!"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Enter patient data into the EHR. If unsure about a specific data entry point, email @HIS-1 and @MRS-1 to clarify on EHR specifications. Subject: EHR Data Entry Clarification"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Sixth patient interaction. Focus on effective communication to ensure the patient clearly understands the information being shared."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "EHR data entry for the sixth patient, confirming all fields are populated correctly."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @Clinlead-1 to discuss any trends observed in the influenza symptom assessments and identify any areas for improvement in the assessment process. Subject: Influenza Assessment Process Review"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries for the day, ensuring accuracy and completeness. Correct any errors or inconsistencies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow by reviewing patient schedules and anticipating potential needs. Gather any necessary supplies or information."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign out of the EHR system and head home. Time to relax and recharge for another exciting day!"
+    }
+]

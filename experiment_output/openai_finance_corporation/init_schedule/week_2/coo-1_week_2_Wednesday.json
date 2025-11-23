@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any updates on compliance submissions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Communicate with @audit-1 regarding external audits that may be required pre-launch."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze feedback from @ir-1 about potential investor queries related to compliance."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @mkt-1 to discuss marketing communication plans along with compliance messaging."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft communication materials to align all departments on compliance expectations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Initiate check-ins with team members to address compliance questions and concerns."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize progress in compliance documentation and operational alignment for management review."
+    }
+]

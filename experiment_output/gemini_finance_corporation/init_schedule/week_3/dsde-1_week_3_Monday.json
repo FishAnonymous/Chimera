@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office, grab a coffee, and settle in. Check emails and messages for any urgent requests or updates. Skim through industry news and research papers related to statistical arbitrage for inspiration and new ideas. Procrastinate a bit by browsing photography websites."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start the data cleaning and pre-processing of the first dataset. Focus on handling missing values using imputation techniques based on the dataset characteristics. Document the imputation process clearly in the notebook for future reference."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue cleaning the dataset, focusing on outlier detection and treatment. Use visualizations like box plots and scatter plots to identify outliers. Investigate the outliers to determine if they are genuine anomalies or data errors. Apply appropriate transformations or removal techniques."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab something quick and scroll through social media to relax."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Complete data cleaning and pre-processing for the first dataset. Save the cleaned data in a suitable format (e.g., Parquet) for efficient access during strategy development. Write comprehensive comments in the notebook documenting all data cleaning steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin cleaning and pre-processing the second dataset, focusing on data type conversions and handling inconsistencies. Standardize data formats and units of measurement to ensure compatibility."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day's data cleaning tasks. Review progress, address any outstanding issues, and plan for tomorrow's activities. Play some music that interests me, and slowly organize the desk to release the stress."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Leave the office to enjoy the evening."
+    }
+]

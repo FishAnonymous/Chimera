@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the SEC compliance documentation checklist and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @legal-1 to discuss any legal nuances in the SEC compliance documentation and finalize the draft."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review and update the fund registration documents, ensuring all required sections are completed and compliant with SEC regulations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct an internal audit of the compliance documentation, cross-referencing with SEC requirements. Note any discrepancies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @facc-1 and @facc-2 to request financial data needed for the compliance documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize and file all reviewed documents, preparing them for final submission."
+    }
+]

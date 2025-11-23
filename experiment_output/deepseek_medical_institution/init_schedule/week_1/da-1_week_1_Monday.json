@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review EHR influenza data collection status."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 @his-2 to discuss initial data quality metrics for EHR influenza data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft initial data quality metrics document based on discussions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review draft with @clinlead-1 for clinical relevance and feasibility."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize data quality metrics document."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email finalized document to @itpm-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research industry benchmarks for data quality improvement targets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Outline potential weekly targets for data quality improvement."
+    }
+]

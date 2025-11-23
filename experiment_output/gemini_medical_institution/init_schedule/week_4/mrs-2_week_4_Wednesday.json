@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check personal emails and browse motorcycle websites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check work emails and review the progress on lab access issue from @helpdesk-1. If resolved, prioritize records that were previously on hold."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Abstract data from another batch of 25 electronic records."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coffee break and chat with colleagues in the break room."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data abstraction, working on another 25 records. Focus on accuracy and attention to detail."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Grab a quick bite and catch up on news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction. Push to complete a batch of 50 records this afternoon."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send an email to @da-1 and @da-2 (Data Analysts) inquiring about the specific data format requirements for the influenza trend analysis. Request a sample template, if available."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue data abstraction, paying special attention to the data format requirements based on initial feedback from @da-1 and @da-2."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review and correct any errors in the day's completed records. Update the daily log."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

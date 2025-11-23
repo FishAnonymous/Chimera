@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, review project updates, and prepare a to-do list for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend weekly team meeting to discuss the EHR collection progress and seasonal influenza trend analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @EHR Vendor Liaison to request updates on integration timelines and discuss any challenges faced."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review EHR data requirements with @Clinical Lead to ensure all necessary data points are included."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin analyzing collected EHR data with @Data Analyst to identify gaps and issues."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @Quality Assurance Tester to outline testing strategies for the EHR system."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review integration tests and EHR development documentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an end-of-day update email to @Clinical Lead and @IT Project Manager regarding daily progress."
+    }
+]

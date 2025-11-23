@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, log in, and check emails. Look for responses from @trainer-1 regarding training opportunities. Check for any messages from @helpdesk-1 regarding EHR issues. Reply to emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Spend some time browsing fashion magazines to relax a little bit"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review patient schedule and patient charts, paying particular attention to patients with chronic conditions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient assessments, focusing on accurate documentation of patient symptoms and medical history."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Enter patient data into the EHR, using the standardized data entry tools to ensure data consistency and completeness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Call my family."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Spend some time browsing fashion magazines to relax a little bit"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover. @rn-1 and @rn-3 for shift handover."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete shift handover."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out and leave for the day."
+    }
+]

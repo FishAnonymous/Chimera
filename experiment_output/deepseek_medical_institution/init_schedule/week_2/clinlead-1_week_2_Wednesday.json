@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review the current integration between EHR and laboratory information system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @dba-1, @ehrdev-1, @ehrdev-2 to discuss requirements for ensuring automatic result reporting between EHR and laboratory information system."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft integration requirements and test cases for automatic result reporting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft integration requirements with @qatest-1, @qatest-2 to ensure testability and quality assurance."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the integration requirements and submit to @ehrdev-1, @ehrdev-2 for implementation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @itpm-1 to provide an update on progress and discuss next steps."
+    }
+]

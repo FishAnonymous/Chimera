@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare an outline for user testing sessions with agendas and participant roles."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Reach out to team leads of various departments via email to schedule user testing sessions for the initial tools. @lpro-1, @cdev-1, @cdev-2"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create user testing materials, including surveys and feedback forms for participants."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct user testing session with @cdev-3 and @3dmod-2, gather insights and feedback regarding the tools."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document feedback received from the testing session and identify common themes or major issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review emails and respond to any further inquiries regarding the tools and testing."
+    }
+]

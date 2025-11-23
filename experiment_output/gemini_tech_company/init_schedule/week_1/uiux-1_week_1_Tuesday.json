@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Address any urgent messages and review the schedule."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue refining the main menu mockup based on the research and color palette input from @Cart-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Iterate on the typography for the main menu. Experiment with different font styles, sizes, and weights to find the optimal balance between readability and visual appeal. Get input from @Tart-1 (Technical Artist) to see which font is suitable for the game design. Email: [Subject: Font Suggestions for Main Menu] - Hi @Tart-1, I need you to give me some suggestions on font usage for main menu, can you share your thoughts?"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement basic UI interactions for the main menu in Figma, such as button hover effects and click animations. Prototype the navigation between menu options."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the main menu prototype with a small group of colleagues (@QTest-1) to gather feedback on usability and responsiveness. Email: [Subject: Main Menu Prototype Testing Request] - Hi @QTest-1, I've created a prototype of the main menu and would appreciate it if you could spend some time testing it and providing feedback on its usability and responsiveness. Let me know when you're available."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address the feedback received from the usability testing. Refine the UI interactions and address any identified pain points."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin working on wireframes for the settings screen. Consider the various settings options that need to be included (e.g., audio, video, controls)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and plan for tomorrow's tasks, focusing on the settings screen design."
+    }
+]

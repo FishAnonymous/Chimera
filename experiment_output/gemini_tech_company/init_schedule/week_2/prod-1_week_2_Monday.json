@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and calendar for urgent updates. Prepare for the day by reviewing my to-do list and prioritizing tasks. Grab a cup of coffee and chat with @beng-1 about the build process for smoother collaboration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review all the documentation I have received from all the members of each team including @ldes-1, @lpro-1, @lvdn-1, @3dmod-2, @aud-1, and @ndes-1. Make sure I have a grasp of what they are planning to work on."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @ldes-1 (Lead Game Designer) to thoroughly review the game design document. Discuss the core game mechanics, level design concepts, and narrative elements to ensure a shared understanding. Clarify any ambiguities and identify potential areas of conflict or overlap."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @lpro-1 (Lead Programmer) to understand the technical feasibility of the game design. Discuss the programming architecture, required technologies, and potential challenges in implementing the core mechanics. Review the current project schedule and identify any potential bottlenecks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collate the information gathered from @ldes-1 and @lpro-1. Start building the initial project schedule in project management software (e.g., Jira, Asana). Input tasks, dependencies, and estimated durations for the game design and programming aspects. Ensure the schedule aligns with the overall project goals and deadlines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Chat with colleagues to maintain relationships and discuss the company's future."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @lvdn-1 (Level Designer) to discuss level design milestones, dependencies on art assets and gameplay mechanics, and any technical limitations. Incorporate level design tasks and deadlines into the project schedule."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meeting with @3dmod-2 (3D Modeler/Animator) and @aud-1 (Audio Engineer) to gather information about asset creation timelines, animation requirements, and audio integration plans. Integrate this data into the project schedule, ensuring alignment with game design and technical specifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meeting with @ndes-1 (Narrative Designer) to discuss narrative elements, cutscene production, and dialogue implementation. Ensure the narrative schedule aligns with level design and gameplay milestones."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project schedule with all the information gathered throughout the day. Identify potential risks and dependencies. Send a summary email to the team leads (@ldes-1, @lpro-1, @lvdn-1, @3dmod-2, @aud-1, @ndes-1) summarizing the initial schedule and requesting feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tomorrow\u2019s schedule and prepare for the tasks ahead."
+    }
+]

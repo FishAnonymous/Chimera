@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Review any feedback on the refined blockout models."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Select one or two blockout models to focus on for high-poly sculpting. Choose assets that are representative of the game's environment and style."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin sculpting the high-poly models in Blender. Add intricate details and surface imperfections. Focus on creating a visually appealing and realistic look."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue sculpting the high-poly models. Pay attention to the overall form and ensure that the details are consistent throughout the asset."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break from sculpting and experiment with different texturing techniques in Substance Painter. Research PBR workflows and learn how to create realistic materials."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue exploring texturing techniques and apply them to the high-poly models. This will help visualize the final look of the assets."
+    }
+]

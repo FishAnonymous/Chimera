@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work. Settle in, grab a cup of coffee, and check personal emails and news websites for about 30 minutes. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Log in to the company system and review any urgent emails or notifications regarding the EHR system or influenza data collection project. Prioritize any immediate issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin researching help desk ticketing systems. Explore existing solutions that could be implemented quickly. Focus on ease of use and integration with existing infrastructure. Browsing Zendesk and Freshdesk."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Compile a list of potential ticketing systems. Include details on features, pricing, and integration capabilities. Share the list with @ITPM-1 IT Project Manager via email, requesting a brief meeting to discuss the options and get input on preferred solutions. @ITPM-1 Ticketing System Options"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a draft outline for the different support channels users can utilize (phone, email, online help desk). Think about how each channel will work and what information users will need to access them."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Step away from the computer, eat lunch and read a book for an hour."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @ITPM-1 to discuss ticketing system options and integration feasibility. Take detailed notes on their preferences and concerns."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the meeting with @ITPM-1, narrow down the ticketing system choices. Begin setting up a trial account for the top contender (Zendesk)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Configure basic settings in the Zendesk trial account (user accounts, email integration, basic workflow). Document the steps taken."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an email template for acknowledging receipt of user inquiries via email and the online help desk portal. The aim is to make sure all the requesters are informed. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the support channel outline, adding specific instructions for users on how to report issues via each channel. Include information on what details to provide."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress, organize notes, and plan for tomorrow's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

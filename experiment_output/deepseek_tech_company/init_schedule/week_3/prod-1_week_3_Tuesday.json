@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback on the updated timeline from team members."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @uiux-1 and @cart-1 to assess UI/UX and concept art progress."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss any adjustments needed for the final prototype with @3dmod-1 and @3dmod-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review level design progress with @lvdn-1 and @tart-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @aud-1 to check audio assets and integration status."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @cdev-1, @cdev-2, and @cdev-3 on client-side development updates."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check in with @sdev-1 on server-side progress and any blockers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation with latest progress and adjustments."
+    }
+]

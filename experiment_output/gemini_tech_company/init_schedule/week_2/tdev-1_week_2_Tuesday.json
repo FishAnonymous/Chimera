@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails. Respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review Monday's progress and adjust the task list for Tuesday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @3dmod-1 and @3dmod-2 (3D Modelers) to schedule a meeting to discuss the art asset pipeline and identify opportunities for tool-assisted asset management, import, and optimization."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @tart-1 (Technical Artist) to schedule a meeting to discuss shader creation workflow and identify tools that could assist in shader development, debugging, and performance analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @3dmod-1 and @3dmod-2 (3D Modelers) to discuss art asset workflow, including modeling, texturing, and animation. Focus on potential tools for simplifying the import process, automating LOD generation, or previewing assets in-engine."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @tart-1 (Technical Artist) to discuss the shader creation process, including visual shader graph tools, automated shader compilation, and in-engine shader debugging tools."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Catch up on industry news related to game development tools and techniques."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the feedback from @3dmod-1, @3dmod-2 and @tart-1. Update the requirements and specifications for the tools based on their input. Focus on the 3D modelers' need to quickly integrate and test assets inside of the game."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue prototyping the level building tool. Implement the basic UI elements and functionality for placing and manipulating objects in the scene."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research potential solutions for automating asset import and optimization. Investigate existing plugins and scripts that could be integrated into the tool."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin integrating the asset import functionality into the level building tool prototype."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day - Review progress, update task list, and plan for Wednesday."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review responses from developers regarding yesterday's bug report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct playtesting session for UI/UX elements. Coordinate with @uiux-1 for feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Compile UI/UX specific issues."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test multiplayer functionality. Coordinate with @sdev-1 for server-side observations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document multiplayer session findings. Update bug report."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @lpro-1 @sdev-1 with multiplayer bug findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and verify fixed bugs from previous reports."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Prepare for tomorrow's testing focus."
+    }
+]

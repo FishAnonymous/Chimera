@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the fund setup documentation provided by @pm-1 and @cio-1 to assess potential risks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a preliminary risk assessment report focusing on fund setup risks. Highlight key areas of concern such as liquidity, counterparty, and operational risks."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @comp-1 and @legal-1 to discuss regulatory compliance requirements for the fund setup. Request their input on specific auditing standards applicable to the fund."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review SEC regulations related to market-neutral statistical arbitrage funds. Cross-reference with the fund's proposed structure."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing SEC regulations. Compile a list of auditing requirements for regulatory compliance."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @facc-1 and @facc-2 to discuss financial risks associated with the fund's operational model."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Draft an outline of operational and financial risks based on discussions. Include mitigation strategies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Organize notes and prepare for tomorrow's tasks. Send follow-up emails to @comp-1 and @legal-1 if necessary."
+    }
+]

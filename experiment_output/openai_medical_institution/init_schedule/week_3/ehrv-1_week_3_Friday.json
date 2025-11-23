@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and prepare for end-of-week reports."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Consolidate feedback from the week into a report for management."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Schedule a wrap-up meeting with all team leads at 15:00 to discuss overall EHR project progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize proposal for next week\u2019s efforts based on this week\u2019s findings and feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Host a wrap-up meeting with all team leads to discuss project progress, future actions, and remaining challenges."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send a weekly summary email to all team members detailing accomplishments and outlining next week\u2019s goals."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the workweek and set aside time for any personal development activities or research."
+    }
+]

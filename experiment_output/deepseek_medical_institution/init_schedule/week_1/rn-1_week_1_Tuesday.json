@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check for updates or messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend a brief meeting with @clinlead-1 to discuss any updates or changes to the influenza assessment protocols."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Resume patient assessments, focusing on influenza symptoms."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Enter patient data into the EHR, ensuring all fields are completed accurately."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue with patient assessments and EHR documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @rn-1 and @rn-2 to verify patient data entries."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address any data inconsistencies and update the EHR as needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare handover notes and log out of the EHR system."
+    }
+]

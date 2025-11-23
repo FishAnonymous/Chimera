@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare for the design team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the refined concepts to the design team for critique."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take notes during the critique and gather feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback and start planning improvements based on the critique."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ldes-1, @uiux-1, and @sdes-1 to discuss feedback and follow-up actions."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the work for the week and log out."
+    }
+]

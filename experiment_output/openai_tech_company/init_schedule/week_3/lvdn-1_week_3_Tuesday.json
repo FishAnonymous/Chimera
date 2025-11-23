@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and confirm any last-minute details for playtesting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the levels for playtesting, ensuring all elements are functioning correctly before the first session."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct first internal playtesting session, observing player interactions and collecting immediate feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Evaluate first playtest session feedback and note key points for discussion."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct second internal playtesting session, focusing on specific areas that need deeper evaluation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Consolidate all feedback from testing sessions and prepare a report highlighting key insights."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the report to @ldes-1, @prod-1, and @qtest-1 for review and further insights."
+    }
+]

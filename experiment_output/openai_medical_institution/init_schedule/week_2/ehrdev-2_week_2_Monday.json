@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check emails for any updates or responses."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review last week's progress on EHR integrations and document any issues encountered."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss the current status of EHR vendor integration and clarify any outstanding requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop the integration flow for seasonal influenza data from source to EHR, focusing on data mapping."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a report on the current EHR trends and how they relate to seasonal influenza."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a peer review of the EHR integration code with @ehrdev-2 to ensure adherence to coding standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Testing the integration code by simulating seasonal influenza data input and checking the outputs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @qatest-1 and @qatest-2 regarding any issues found during testing and request testing support."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and review the tasks for tomorrow before leaving."
+    }
+]

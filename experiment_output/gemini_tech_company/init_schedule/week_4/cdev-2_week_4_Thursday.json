@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. "
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Lpro-1 and @Sdes-1 to demo the camera control. Discuss the potential improvements. @PEOPLE"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "I will explore different options for implementing a basic AI system for enemies. I'll research simple AI techniques such as pathfinding, target selection, and basic combat behaviors. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start implementing the basic AI system. Create a simple enemy character and implement the logic for it to navigate towards the player, select a target, and attack. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the AI system, refining the enemy's behavior and adding more sophisticated combat mechanics. I'll also implement basic enemy animations and visual effects."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the AI system thoroughly, ensuring that the enemies behave realistically and that the combat is engaging. I'll also test different enemy types and behaviors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "If time remains, I'll start investigating different options for implementing a basic UI system. I'll research different UI frameworks and tools, and experiment with different UI layouts and designs."
+    }
+]

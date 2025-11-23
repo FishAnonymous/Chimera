@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and conduct a final review of the investment strategy and philosophy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare presentation materials summarizing the investment strategy and philosophy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Hold a presentation meeting with the executive team to get final approval on the investment strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from the executive team into the investment strategy document."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @audit-1 to arrange for an external review of the finalized investment strategy."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Conduct one-on-one sessions with @comp-1 and @legal-1 for any last compliance and legal checks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize documentation and prepare for distribution to stakeholders."
+    }
+]

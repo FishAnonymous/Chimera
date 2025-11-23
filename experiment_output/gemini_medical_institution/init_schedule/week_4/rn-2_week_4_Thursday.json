@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check EHR and emails for critical updates on influenza protocols or patient status. Review the latest celebrity gossip \u2013 gotta stay entertained!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on EHR data quality. Verify accuracy and completeness of patient records, paying special attention to vaccination status and symptom details. @qatest-1 and @qatest-2 might be helpful for quality assessment."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Assess patients and enter their data into the EHR, ensuring all fields are filled out correctly and consistently. I'm always a careful person."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break - catch up with colleagues in the break room. And I should ask @rn-1 and @rn-3 about their experiences."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and data entry. If anything happens, I should not be panic!"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Audit a sample of EHR records to identify potential errors or inconsistencies. Share findings with the team and suggest improvements. This will allow other people to avoid making similar mistakes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of key influenza trends and data quality metrics. Share with the clinical lead and other relevant stakeholders. @clinlead-1 can help me review the report."
+    }
+]

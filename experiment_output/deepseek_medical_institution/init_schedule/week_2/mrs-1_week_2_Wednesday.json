@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the updated protocol and ensure all feedback has been addressed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 to discuss the pilot test results and next steps."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the finalized protocol to @ehrv-1 for vendor review and integration considerations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 for any additional testing requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the training session outcomes and pilot test results for reporting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the project timeline and share it with @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and archive all training materials and pilot test documents."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @da-1 and @da-2 to ensure they have the necessary data for trend analysis."
+    }
+]

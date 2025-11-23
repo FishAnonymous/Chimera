@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from the training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss testing the modified workflows in the EHR system."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Observe QA testing of the modified workflows and provide clarifications as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review test results with @qatest-1 and @qatest-2 and document any issues found."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @ehrdev-1 and @ehrdev-2 to address any technical issues identified during testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the workflow modification plan based on testing feedback and send to @itpm-1 for review."
+    }
+]

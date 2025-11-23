@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Listen to some music to get energized for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on the limit checking service. Review the position monitoring service code to understand how positions are tracked."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Design and implement the limit checking service. Define the different types of risk limits that need to be enforced, such as position limits, credit limits, and liquidity limits."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement logic to check positions against the defined risk limits. Generate alerts when limits are breached."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Order pizza with colleagues and celebrate the end of the week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the limit checking service using simulated market data. Verify that the alerts are generated correctly when limits are breached."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on the stress testing service. Design scenarios to test the resilience of the system to extreme market events."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement logic to simulate market shocks and assess the impact on the firm's positions and risk metrics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the stress testing service API and implementation details. Present the results of the stress tests to the risk management team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the week's progress and plan for next week. Commit all changes to the Git repository and prepare for the weekend."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home and relax."
+    }
+]

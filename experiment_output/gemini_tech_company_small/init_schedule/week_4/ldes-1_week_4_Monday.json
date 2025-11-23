@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, check emails and messages. Get hyped for the week!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorming session! Let's review all visual assets with fresh eyes. What REALLY pops? What feels a little\u2026blah? Need to define the core visual pillars for the game before polishing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Deep dive into the visual polish of character models and animations. This is where we make them shine! Check in with @cdev-1 and @lpro-1 about potential animation bugs or clipping issues. Topic: Character Polish & Bug Reports"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Time for a walk and some inspiration! Maybe hit up ArtStation or browse some concept art to fuel the creative fire. This is work, I swear!"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Fuel up with something tasty."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back to the grind! Focus on the environmental assets. Are they telling the right story? Are they visually engaging? Start noting areas that need a serious glow-up."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Time to start thinking about marketing! What are the money shots? What will get people excited? Begin storyboarding potential trailer scenes. Discuss with @lpro-1 regarding in-game recording tools. Topic: Marketing Material Brainstorm"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "More visual polish. Work on specific environmental details based on earlier notes, aiming for a cohesive and appealing look. Ensure the game world feels alive and immersive."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Send summary email to team @PEOPLE outlining progress and any roadblocks. Topic: Monday Progress & Next Steps"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Home time! Relax and recharge for tomorrow."
+    }
+]

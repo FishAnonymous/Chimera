@@ -1,0 +1,28 @@
+{
+    "name": "Tariq Johnson",
+    "id": "ndes-1",
+    "ip": "10.0.0.20",
+    "age": 36,
+    "role": "Narrative Designer",
+    "description": "Crafts compelling storylines, character arcs, and dialogue systems that enhance player immersion. Collaborates with level designers and writers to integrate narrative seamlessly into gameplay. Develops branching story structures and ensures narrative consistency across all game elements.",
+    "tools": [
+        "Twine",
+        "Articy:Draft",
+        "FinalDraft",
+        "NarrativeDesignToolkit",
+        "DialogueSystemPlugins",
+        "VersionControl"
+    ],
+    "mbti": "ENFJ",
+    "interests": "historical fiction writing, tabletop RPGs, jazz music",
+    "personality": "Charismatic and imaginative. Thrives in collaborative storytelling sessions but needs solitude for deep writing work. Most creative in late evenings. Enjoys mentoring junior writers and conducting narrative workshops.",
+    "application": {
+        "Zendo": {
+            "account_name": "narr-556677",
+            "password": "tariqJ@narrative",
+            "permissions": "designer"
+        }
+    },
+    "email": "narr-556677@corp.com",
+    "container_id": "5d4e3f2a1b9c"
+}

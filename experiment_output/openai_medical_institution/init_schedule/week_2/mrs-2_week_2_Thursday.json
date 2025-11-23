@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for any new emails from Data Analysts or Health Informatics Specialists regarding data updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in a team meeting with all members to discuss collective goals for the week regarding data accuracy."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on data collection tasks, identifying any areas needing special focus to enhance data accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize and submit any outstanding data entries from the week."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @Database Administrator (dba-1) to ensure the database structure allows for accurate data input."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send a collaborative email to @IT Project Manager (itpm-1) seeking updates on any new EHR integration initiatives."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up work for the day, ensure all emails are addressed and prepare for end-of-week evaluations."
+    }
+]

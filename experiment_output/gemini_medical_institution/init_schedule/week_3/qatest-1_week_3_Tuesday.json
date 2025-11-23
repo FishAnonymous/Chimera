@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Look for replies from @clinlead-1 and @pchmp-1 regarding the data quality metrics. If no replies, continue with other tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review EHR system documentation and database schema to understand how the identified data elements are stored and accessed. Focus on identifying the specific tables, fields, and data types."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research existing literature and industry best practices for defining data quality targets in healthcare. Focus on influenza tracking and EHR data."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Based on the research, draft preliminary weekly targets for improvement for each data quality metric. For example: Week 1: Achieve 90% completeness for influenza vaccination records; Week 2: Improve accuracy of ICD-10 codes by 2%."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Skim through Hacker News to keep up with the newest technology trend."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the feasibility of achieving the targets given the current state of the EHR data and the available resources. Identify any potential roadblocks or limitations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @itpm-1 to schedule a meeting to discuss the feasibility of implementing the data quality metrics and targets in the EHR system. Subject: 'Meeting Request: Feasibility of Data Quality Metrics Implementation'"
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meeting with @itpm-1 to discuss the technical aspects of implementing the data quality metrics. Get feedback on the resources required, the potential impact on system performance, and the timeline for implementation. Discuss potential challenges related to data access, data transformation, and reporting."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Revise the weekly targets based on the feedback from @itpm-1 and the feasibility analysis. Ensure the targets are realistic, measurable, and achievable within the given timeframe."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the finalized weekly targets for improvement, including the rationale, the specific steps required to achieve them, and the resources needed."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

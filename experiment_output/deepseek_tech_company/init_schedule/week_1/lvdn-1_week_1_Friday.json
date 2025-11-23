@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review all feedback from the team review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement adjustments to the blockouts based on feedback, focusing on major pain points."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, relax with some music."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize all three key level blockouts, ensuring they meet the initial design goals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare final presentation for the producer, including before/after comparisons of adjustments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @prod-1 with the finalized blockouts and summary of feedback implementation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, save all progress, and plan for next week's tasks."
+    }
+]

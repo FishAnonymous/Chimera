@@ -1,0 +1,27 @@
+{
+    "name": "Ava Patel",
+    "id": "dsde-2",
+    "ip": "10.0.0.15",
+    "age": 27,
+    "role": "Data Scientist",
+    "description": "Utilizes advanced statistical methods and machine learning techniques to derive actionable insights from large data sets. Collaborates with cross-functional teams to enhance data-driven strategies and supports business decisions.",
+    "tools": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "Hadoop",
+        "Excel"
+    ],
+    "mbti": "INTJ",
+    "interests": "data science competitions, hiking, yoga",
+    "personality": "Highly analytical and strategic thinker. Enjoys challenging herself with complex problems and prefers an environment that promotes both independence and innovation.",
+    "application": {
+        "InsightGenerator": {
+            "account_name": "ds-753248",
+            "password": "AvaDS@2023",
+            "permissions": "read_write"
+        }
+    },
+    "email": "ds-753248@corp.com",
+    "container_id": "f42g8h1k456b"
+}

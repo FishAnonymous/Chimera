@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any overnight communications from @ehrv-1 or @clinlead-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize draft of training module 1: 'Documenting Influenza Vaccination Status in the EHR'."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start drafting training module 2: 'Documenting Allergies and Contraindications to Influenza Vaccination'. Include scenarios and examples."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @his-1 Health Informatics Specialist to ensure the training aligns with data collection and reporting requirements for influenza trends."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Maybe grab a coffee with @his-1 to further discuss the data collection process."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting module 2, focusing on the importance of accurate allergy documentation and how to identify and document contraindications."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 Quality Assurance Tester: Once draft training modules are ready, request QA testing and feedback on training content and user experience."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Develop training aids (e.g., quick reference guides, cheat sheets) to support staff after the training."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review completed sections of module 2 and the training aids. Make necessary edits."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow: Review and finalize training schedule considering the need for multiple sessions to accommodate all staff. Decide which staff roles should attend training together."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save all work and log out."
+    }
+]

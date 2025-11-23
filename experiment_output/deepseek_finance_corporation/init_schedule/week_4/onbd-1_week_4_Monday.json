@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize tasks for the day. Review the list of client onboarding documentation that needs completion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on completing client onboarding documentation, ensuring all required fields are filled accurately. Cross-check with compliance guidelines."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @comp-1 to verify KYC/AML requirements for specific clients and clarify any doubts."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on documentation, incorporating feedback from compliance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule final onboarding meetings with prospective UHNWIs. Coordinate with @ir-1 to align on availability and meeting agendas."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare meeting materials, including presentation slides and compliance summaries for each client."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update CRM system with latest client records, ensuring all data is accurate and up-to-date."
+    }
+]

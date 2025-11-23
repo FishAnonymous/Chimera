@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails. Review the week's goals and prioritize tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @ehrdev-1 and @ehrdev-2 to discuss the development of data quality checks for influenza-related data."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Draft a list of data quality checks based on the meeting discussion and share with @ehrdev-1 and @ehrdev-2 for feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Grab a coffee and check personal emails."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the feedback from @ehrdev-1 and @ehrdev-2 and finalize the list of data quality checks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start implementing the first set of automated validation rules within the EHR system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send an update email to @itpm-1 and @clinlead-1 regarding the progress on automated validation rules."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue working on the implementation of automated validation rules."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day's work and prepare a to-do list for Tuesday."
+    }
+]

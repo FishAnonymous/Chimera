@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's progress and identify areas for improvement in the input system integration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement basic player movement (walk, run, jump) by modifying the MoveForward(), MoveRight(), and Jump() functions in 'AGameCharacter'."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement walking speed using CharacterMovementComponent->MaxWalkSpeed. Set a default walking speed value."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement running functionality. Add a 'isRunning' boolean variable to 'AGameCharacter'. Create a new Action Mapping for 'Run' and bind it to the Shift key. Modify MoveForward() and MoveRight() to increase speed when 'isRunning' is true."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement jump functionality. Use CharacterMovementComponent->Jump(). Set a reasonable jump velocity."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Test player movement. Ensure walking, running, and jumping feel responsive and natural. Adjust speed and jump velocity as needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prototype camera controls. Create a Spring Arm component and a Camera component attached to the Player Character. This will serve as the base for a Third-Person camera setup."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Implement basic camera rotation based on mouse input. Use AddControllerYawInput() and AddControllerPitchInput() to control camera orientation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Fine-tune camera movement and responsiveness. Adjust rotation rates and smoothing parameters to achieve a comfortable feel."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement basic camera follow behavior. Ensure the camera stays behind the player as they move. Adjust Spring Arm length and offset for optimal viewing angle."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test camera controls. Verify that the camera follows the player smoothly and responds correctly to mouse input. Address any jittering or clipping issues."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Commit changes to the 'feature/player_character' branch: 'Implemented basic player movement and camera controls.'"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Sign off."
+    }
+]

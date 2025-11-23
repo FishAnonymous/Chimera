@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review progress through the week and finalize any outstanding matters on tools development."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct second user testing session with @ndes-1 and @lvdn-1, focusing on the changes made based on previous feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collect and document feedback from the second testing session. Summarize insights for reporting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final review of tools and improvements made throughout the week. Prepare for next week\u2019s development plan."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a weekly summary report to the team, including progress made on tools and any pending tasks for the upcoming week."
+    }
+]

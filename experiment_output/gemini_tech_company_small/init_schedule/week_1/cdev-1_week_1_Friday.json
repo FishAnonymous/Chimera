@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Skim through the feedback from @lpro-1 and @ldes-1 regarding the movement techniques. Plan out the next steps based on their feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the existing movement code and identify areas where it can be improved or refactored. Create a list of tasks to address during the refactoring process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refactor the input handling system to make it more flexible and extensible. Use an input manager pattern to handle different input devices and map actions to specific keys or buttons."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement a state machine to manage the character's different movement states (e.g., walking, running, jumping, sliding). This will help to organize the movement code and make it easier to add new states in the future."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refactor the camera controller to make it more robust and customizable. Allow the player to adjust the camera sensitivity and other settings."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Address any performance issues identified during testing. Optimize the movement code and camera controller to improve frame rates."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write unit tests to verify the correctness of the movement code and camera controller. Ensure that the tests cover all edge cases and potential error conditions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system (Git). Write a descriptive commit message explaining the changes made."
+    }
+]

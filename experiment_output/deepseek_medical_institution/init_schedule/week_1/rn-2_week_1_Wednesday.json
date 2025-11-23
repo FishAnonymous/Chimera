@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any urgent updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review any new influenza cases with @pchmp-1 to ensure proper assessment protocols are followed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct patient assessments, focusing on those with suspected influenza."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break to relax."
+    },
+    {
+        "Time": "10:45",
+        "Activity": "Continue patient assessments, ensuring all symptoms are accurately recorded."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a quick meal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Enter patient data into the EHR, cross-referencing with previous entries for consistency."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Discuss any data entry challenges with @mrs-1 and @mrs-2 to ensure accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Complete EHR entries and review for any missing information."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day and prepare for tomorrow."
+    }
+]

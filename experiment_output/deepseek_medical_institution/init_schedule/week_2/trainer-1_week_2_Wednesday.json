@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day. Focus on finalizing training materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Develop user manuals for the training modules, ensuring step-by-step instructions are clear and concise."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to plan quality assurance testing for the training materials."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate QA feedback into the training modules and user manuals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize slide presentations and user manuals, ensuring all materials are polished and ready for review."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @itpm-1 to confirm the timeline for training sessions and any logistical requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule initial training sessions for nursing staff, coordinating with @rn-1, @rn-2, and @rn-3 for availability."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and prepare for the next steps."
+    }
+]

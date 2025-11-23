@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the computer, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review emails. Address any questions regarding the automated validation rule testing report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Develop a plan for performing regular audits of abstracted data. Include details such as sample size, data elements to be audited, and auditing procedures. Discuss the auditing plan with @HIS-1, @MRS-1, and @DA-1. Topic: Auditing Plan for Abstracted Data"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare audit checklists and templates for documenting audit findings. Customize the checklists based on the data elements being audited."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin the initial audit of abstracted data. Select a sample of medical records based on criteria discussed with @HIS-1 and @MRS-1 (e.g., records with specific diagnoses or procedures). Cross-reference the abstracted data against the source documents."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue auditing abstracted data, documenting any inaccuracies or discrepancies found. Focus on data elements related to medication orders and lab results."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze the audit findings. Identify common types of errors or patterns in the abstracted data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss audit findings with @MRS-1 and @HIS-1 to determine the root causes of the inaccuracies. Brainstorm potential solutions for preventing future errors. Topic: Review and Discussion of Data Audit Findings"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a report summarizing the audit findings, including the types and frequency of errors identified, the root causes of the errors, and recommended corrective actions. Send it to @Clinlead-1, @ITPM-1, @DA-1, @MRS-1, and @HIS-1 for review. Topic: Abstracted Data Audit Report"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update the task progress in the project management system. Prepare for tomorrow's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

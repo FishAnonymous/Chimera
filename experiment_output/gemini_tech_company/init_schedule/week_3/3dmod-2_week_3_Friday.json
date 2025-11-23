@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Login, emails. Listen to some metal to get motivated."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start creating animations for basic movements: idle, walk, run, jump. Focus on the primary character first. "
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a walk cycle. Use reference videos of human walking to ensure realism. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Order a pizza."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a run cycle. Adjust the timing and keyframes to reflect the increased speed. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create animations for basic combat moves: punch, kick, block. Keep these animations short and snappy. Consult @ldes-1 regarding combat movement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss integration of these animations into the game engine with @lpro-1 and @tdev-1. What's the best method for incorporating into the game?"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Save all work, backup, document. Shutdown. Time for a beer."
+    }
+]

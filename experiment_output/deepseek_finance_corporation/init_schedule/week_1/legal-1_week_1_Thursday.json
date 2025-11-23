@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Focus on finalizing all compliance documents for internal approval."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Complete the fund's code of ethics and AML policies. Ensure all team members are aware of their obligations under these policies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @audit-1 to discuss the external audit process and ensure all compliance documents are audit-ready."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Final review of Form N-1A and Form ADV with @legal-1 and @comp-1. Address any last-minute changes or clarifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a submission package for the SEC, including all required forms and supporting documents. Double-check filing instructions and fees."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @pm-1 to schedule a dry-run of the SEC submission process, ensuring all technical requirements (e.g., EDGAR filing) are met."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a communication plan for investors (@ir-1) regarding the fund's registration status and expected timeline for approval."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the compliance timeline and send a final pre-submission report to @coo-1 and @cio-1 for review."
+    }
+]

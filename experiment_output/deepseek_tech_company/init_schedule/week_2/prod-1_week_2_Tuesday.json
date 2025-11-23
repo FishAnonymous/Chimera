@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries. Review progress reports from Monday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Facilitate cross-team sync meeting with @lpro-1 @ldes-1 @sdes-1 @sdes-2 @cdev-1 @cdev-2 @cdev-3 @sdev-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document meeting outcomes and action items. Share minutes with all attendees."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Check in with @uiux-1 @3dmod-1 @3dmod-2 @tart-1 on design and art progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review narrative progress with @ndes-1. Ensure alignment with game design."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @lvdn-1 to discuss level design updates and integration with gameplay systems."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up on action items from the morning sync meeting. Address any unresolved issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project tracking tools and prepare for Wednesday's tasks."
+    }
+]

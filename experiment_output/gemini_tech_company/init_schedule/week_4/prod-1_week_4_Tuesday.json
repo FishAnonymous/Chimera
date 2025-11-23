@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the task list and schedule for the week. Identify any potential bottlenecks or dependencies."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Daily stand-up meeting with the team. Review progress on assigned tasks, identify any roadblocks, and discuss potential solutions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check in with @cdev-1, @cdev-2, and @cdev-3 regarding the status of the character controller and camera implementation. Offer assistance or connect them with relevant resources if needed. @cdev-1 @cdev-2 @cdev-3 Character controller and camera implementation status?"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with @3dmod-1 and @3dmod-2 regarding the creation of placeholder assets for the environment and character. Ensure they have clear specifications and understand the art style. @3dmod-1 @3dmod-2 Placeholder asset status?"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the progress of the character controller implementation. Provide feedback to the Client Developers and ensure the movement feels fluid and responsive. If possible, test the character controller in a basic environment."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @Lvdn-1 to discuss the level design for the initial prototype. Discuss the layout of the environment, placement of cover, and any interactive elements. @Lvdn-1 Level design discussion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check in with @sdes-1 and @sdes-2 regarding the implementation of the basic shooting mechanics. Discuss the weapon system, projectile behavior, and hit detection. @sdes-1 @sdes-2 Shooting mechanism implementation progress."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and prioritize feedback from playtests and integrate it into the development plan. Identify areas for improvement and assign tasks to the team accordingly."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the project management software with progress on tasks and any identified roadblocks. Communicate any important updates or changes to the team via email."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's tasks."
+    }
+]

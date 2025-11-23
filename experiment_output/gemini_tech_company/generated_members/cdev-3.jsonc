@@ -1,0 +1,28 @@
+{
+    "name": "Mei Lin",
+    "id": "cdev-3",
+    "ip": "10.0.0.13",
+    "age": 27,
+    "role": "Client Developer",
+    "description": "Responsible for developing and maintaining client-side features, with a focus on UI/UX implementation, player feedback systems, and integrating visual assets. Collaborates closely with the art and design teams to create a polished and immersive player experience.",
+    "tools": [
+        "C++",
+        "Unreal Engine",
+        "Blueprints",
+        "Visual Studio",
+        "Git",
+        "Substance Painter"
+    ],
+    "mbti": "ESFJ",
+    "interests": "cosplay, anime, social gaming",
+    "personality": "Outgoing and detail-oriented. Enjoys teamwork and is always eager to help colleagues. Passionate about creating a user-friendly and visually appealing game experience.",
+    "application": {
+        "Zendo": {
+            "account_name": "cldev-846192",
+            "password": "MeiL@client",
+            "permissions": "client_developer"
+        }
+    },
+    "email": "cldev-846192@corp.com",
+    "container_id": "1c3b9a7f2d4e"
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Skim through any overnight communications and news related to SEC regulations. Briefly check relevant legal news websites to get a sense of the current regulatory landscape."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin in-depth research on SEC regulations related to fund formation. Specifically, focus on sections relevant to registering a market-neutral statistical arbitrage fund. Document key findings and relevant citations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break to browse a tech blog for interesting AI developments. Purely for 'research' purposes, of course."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue researching SEC regulations on fund formation, paying close attention to requirements for disclosures, reporting, and investor qualifications. Focus on sections applicable to UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up on personal emails and news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Delve into SEC regulations governing marketing to UHNWIs. Research permissible advertising, solicitation rules, and restrictions on performance claims. Identify potential pitfalls and areas requiring careful compliance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an initial memo summarizing the SEC regulations relevant to fund formation and marketing to UHNWIs. Highlight key requirements and potential compliance challenges. Send to @comp-1 for preliminary review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin researching SEC rules pertaining to statistical arbitrage strategies. Focus on regulations related to market manipulation, insider trading, and best execution. Identify any specific limitations or restrictions on such strategies."
+    }
+]

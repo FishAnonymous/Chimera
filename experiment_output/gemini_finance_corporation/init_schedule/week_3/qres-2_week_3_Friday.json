@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office, have a cup of coffee, and read emails. Catch up on the latest news from financial sectors."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the Risk Management Framework to see whether the refined real-time risk management tool is in accordance with the compliance rules."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the compliance rules, modify some features of the real-time risk management tool. Consult with @LEGAL-1 if necessary."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Write the final version of document including the design of stress test scenarios for the fund's portfolio, the tool refinement process and the Risk Management Framework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Have lunch with @QRES-1, @QRES-2 and @SDEV-1, and discuss about our future expectations for our company."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Proofread the documentation and make sure there are no grammatical mistakes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the documentation to @CIO, @COMP-1, @LEGAL-1 and @PM-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a glance at the trendy papers from Arxiv and discuss with @QRES-1 on the potential applications of the techniques for our current project."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan the goal for next week and check whether there are any follow-up emails. Finish the work and prepare to leave."
+    }
+]

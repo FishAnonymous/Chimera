@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review previous day's work. Prepare for team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Team meeting with @prod-1, @ldes-1, and @3dmod-2 to align on visual direction."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start concept art for the medic character, focusing on healing and support elements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue medic concept, adding details like medical equipment and uniform."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin rough sketches for the industrial environment, focusing on machinery and structural elements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review industrial sketches with @tart-1 for technical feasibility."
+    }
+]

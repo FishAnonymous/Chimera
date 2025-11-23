@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review financial news and analyst reports."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Address urgent emails and check progress on key tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 to discuss the impact of recent market events on the fund's investment strategy. Refine backtesting models to account for changing market conditions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Oversee the final selection of the trading platform and data provider, considering factors such as cost, performance, and reliability."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Approve the risk management framework after incorporating all relevant feedback and refinements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @COO-1, @Legal-1, @larch-1: Topic: Trading Platform and Data Provider Selection. Announce the final selection of the trading platform and data provider to relevant stakeholders. Initiate the onboarding process and contract negotiations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Discuss potential investment opportunities with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @onbd-1 (Client Onboarding Specialist) and @ir-1 (Head of Investor Relations) to discuss the fund's marketing materials and investor communication strategy. Ensure all materials accurately reflect the fund's investment strategy and risk profile."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the marketing and communication plan prepared by @mkt-1 (Marketing & Communications Specialist). Provide feedback on messaging, target audience, and distribution channels."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss the implementation plan for the risk management framework with @Qres-2 and @comp-1. Ensure the framework is effectively integrated into the fund's operations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the latest performance reports from competing arbitrage funds. Identify areas where the fund can improve its strategy and execution."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Relax and unwind."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and respond to any feedback received from the quantitative research team regarding yesterday's analysis. "
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin refining data cleaning and preprocessing pipelines based on the initial analysis. Focus on handling missing values and outliers detected during the statistical analysis. Work on dataset A pipeline first."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement refined data cleaning and preprocessing steps for dataset A. Test the pipeline to ensure it addresses the identified issues without introducing new ones. Write unit tests."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Pizza today. Catch up on some news headlines."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the data cleaning and preprocessing pipeline for dataset B, incorporating lessons learned from dataset A. Pay close attention to any dataset-specific nuances. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the dataset B cleaning pipeline. Ensure consistency with the dataset A pipeline where appropriate. Debug any errors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the data cleaning and preprocessing pipelines, including the rationale behind each step and any assumptions made. This will be helpful for future reference and presentation prep. Maybe a quick browse of some photography websites for inspiration."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

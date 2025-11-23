@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and OA system, check emails for urgent updates or requests related to influenza assessment protocols or EHR data entry procedures. Respond to any pressing emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue performing patient assessments for influenza symptoms, focusing on accuracy and completeness in data entry within the EHR. Actively apply feedback received from @clinlead-1 and observed best practices from shadowing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prioritize accurate and thorough data entry for all patients, paying special attention to patients with complex medical histories or multiple symptoms. Verify that all required fields are completed and that the information is consistent with the patient's presentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "During patient assessment, if any discrepancies are found between the patient's reported symptoms and the options available in the EHR, document the discrepancies and report them to @his-1 and @ehrdev-2 for review. @his-1 @ehrdev-2 Discrepancies on patient report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a brief team meeting with other RNs and the clinical lead (@clinlead-1) to discuss challenges and best practices related to influenza assessment and EHR data entry. Share personal experiences and contribute to identifying solutions to common issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Contact @qatest-2 to schedule a demonstration of the EHR's quality assurance tools and functionalities, including data validation rules and error checking mechanisms. Learn how to effectively use these tools to identify and correct data entry errors. @qatest-2 Schedule demonstration of EHR's quality assurance tools."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the latest research and clinical guidelines on influenza assessment and treatment. Identify any updates or changes that should be incorporated into the hospital's protocol or EHR data entry process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of today's key learnings and action items related to influenza assessment and EHR data entry. Share the summary with the team and document it for future reference."
+    }
+]

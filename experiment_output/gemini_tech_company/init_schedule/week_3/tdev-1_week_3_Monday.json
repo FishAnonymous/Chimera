@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and messages, and review the overall goals for Week 3."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Schedule meetings with department leads: @ldes-1 (Lead Game Designer), @lpro-1 (Lead Programmer), @lvdn-1 (Level Designer), and @3dmod-1 (3D Modeler/Animator) to understand their most pressing needs regarding tooling. Send email to @PEOPLE."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @ldes-1 (Lead Game Designer) to discuss the game design team's tooling requirements. Focus on identifying bottlenecks in their current workflow and potential areas for automation or streamlining."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @lpro-1 (Lead Programmer) to discuss the programming team's needs. Prioritize any requests related to build processes, debugging, or code management."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @lvdn-1 (Level Designer) to discuss their needs for level design tools. Prioritize any request related to level editing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Review technical articles about procedural generation tools."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @3dmod-1 (3D Modeler/Animator) to gather the art team's requirements. Discuss asset management and import/export workflows."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze the information gathered from all the meetings. Identify common themes and prioritize tooling requests based on impact and feasibility. Focus on the areas where tool development could yield the highest return on investment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin outlining the architecture for a custom level editor based on the feedback from the meeting with @lvdn-1 and @ldes-1. Research existing open-source level editor frameworks and libraries."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the identified tooling needs and planned approach for the level editor. Start drafting a basic user interface design for the level editor."
+    }
+]

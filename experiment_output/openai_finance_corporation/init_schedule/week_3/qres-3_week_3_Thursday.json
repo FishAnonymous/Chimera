@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails for any follow-up information."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review all feedback from the presentation, noting areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start writing a report summarizing the day-to-day findings and insights."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the report and include final recommendations for market-neutral funds."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the finalized report to @ir-1 and @legal-1 for review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan the next steps based on team feedback and responses to the report."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation summarizing the risk assessment and audit framework for a team meeting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Host a team meeting to share the final findings of the risk assessment and the audit framework."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collect feedback from the team on the presented frameworks and address any concerns."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Final adjustments to the audit framework and risk assessment based on team feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, set goals for next week, and check emails one last time."
+    }
+]

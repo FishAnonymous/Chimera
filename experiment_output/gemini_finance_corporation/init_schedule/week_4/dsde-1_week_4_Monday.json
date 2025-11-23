@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Prioritize tasks for the week based on the overall goal: Statistical Analysis -> Data Refinement -> Strategy Development -> Presentation Prep."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin working on completing the statistical analysis of the chosen datasets. Focus on understanding the statistical properties of the assets. Start with dataset A."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Deep dive into the statistical analysis for dataset A. Analyze distributions, correlations, and stationarity. Document any initial findings. I like to do a bit of coding while listening to Lo-Fi music."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head out to grab some sushi."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue statistical analysis, moving onto dataset B. Compare and contrast findings with dataset A. Identify potential statistical arbitrage opportunities. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an email to @Qres-1, @Qres-2, @Qres-3: Subject: Initial Dataset Analysis - Seeking Feedback. Request input on my preliminary statistical findings, particularly concerning stationarity and potential arbitrage opportunities. Attach summary of findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up statistical analysis for the day. Review notes and plan for tomorrow's data refinement tasks. Maybe do some doodling to relax."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

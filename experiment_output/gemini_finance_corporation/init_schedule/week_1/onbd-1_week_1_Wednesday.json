@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, emails. Quick check of online fashion blogs."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @comp-1 and @legal-1 to review the KYC/AML and suitability assessment outlines. Get their feedback and incorporate any necessary changes. This is important for compliance."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Revise the client-facing document based on the feedback. Ensure it aligns with the compliance and legal requirements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a checklist for the onboarding process. This will help ensure that all steps are completed correctly and consistently."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with the team. Go to a nearby cafe for lunch and casual chat."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating the forms required for KYC/AML and suitability assessments. Make sure they are user-friendly and easy to complete."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Think about the technology needed to support the onboarding process. What systems will be used for data collection, verification, and storage? Discuss with @larch-1 and @devops-1. @PEOPLE: @larch-1, @devops-1 topic: Tech stack for client onboarding"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review progress on the forms and checklist. Update task list for tomorrow. Try to arrange an offline party with colleagues for this weekend."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the week's goals and prioritize tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss the statistical model development and assign responsibilities."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin developing the statistical model framework in Python, focusing on risk-return evaluation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @dsde-1, @dsde-2 to request historical performance data and benchmark data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the received data from @dsde-1 and @dsde-2, clean and preprocess the data for analysis."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Calculate preliminary risk metrics (standard deviation, VaR) using the cleaned data."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the day's progress and prepare a summary for tomorrow's tasks."
+    }
+]

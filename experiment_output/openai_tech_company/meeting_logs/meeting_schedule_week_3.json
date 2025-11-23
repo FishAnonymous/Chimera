@@ -1,0 +1,173 @@
+[
+    {
+        "week": 3,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Refine selected sketches into more detailed concept art.",
+            "Choose 2 environment concepts and 2 character designs to finalize.",
+            "Add color palettes, textures, and detailed designs to chosen concepts.",
+            "Present the refined concepts to the design team for critique."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Analyze performance metrics and identify areas for optimization.",
+            "Refine UI designs based on user feedback and optimize for different screen sizes.",
+            "Work on debugging and improving the responsiveness of features; implement feedback from playtesting."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Analyze performance metrics and identify areas for optimization.",
+            "Refine UI designs based on user feedback and optimize for different screen sizes.",
+            "Work on debugging and improving the responsiveness of features; implement feedback from playtesting."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Analyze performance metrics and identify areas for optimization.",
+            "Refine UI designs based on user feedback and optimize for different screen sizes.",
+            "Work on debugging and improving the responsiveness of features; implement feedback from playtesting."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Analyze player feedback on the prototypes and identify areas for improvement.",
+            "Implement adjustments based on feedback and create balance adjustments for game mechanics.",
+            "Prepare a presentation summarizing findings and changes made for the design team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Analyze player feedback on the prototypes and identify areas for improvement.",
+            "Implement adjustments based on feedback and create balance adjustments for game mechanics.",
+            "Prepare a presentation summarizing findings and changes made for the design team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Develop scripts to automate the deployment of builds to staging environments.",
+            "Set up notifications for successful builds, test failures, and deployment statuses.",
+            "Collaborate with developers to integrate deployment processes with application hosting or services."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Execute test cases based on the established testing strategy, focusing on critical features first.",
+            "Identifying and document any bugs, inconsistencies, or performance issues encountered during testing.",
+            "Communicate findings with developers and collaborate on prioritizing bug fixes and improvements."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Rig the main character model created in Week 2 and create idle, walk, and run animations.",
+            "Run tests on animations and gather feedback from the design team to refine movement."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Work on rigging and animating a secondary character or prop that interacts with the environment.",
+            "Run tests on animations and gather feedback from the design team to refine movement."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Assess progress and challenges, and gather team feedback.",
+            "Adjust project timeline and goals based on mid-project review outcomes."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Define color schemes, typography, iconography, and other visual elements that align with the game's theme.",
+            "Create high-fidelity mockups of the redesigned screens, including buttons, menus, and HUD elements.",
+            "Conduct usability tests with stakeholders to assess the effectiveness of the visual design and gather feedback."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Perform playtesting to identify bugs and gameplay discrepancies.",
+            "Work with QA Tester to document discovered issues and prioritize fixes.",
+            "Collect feedback from the design team to iterate on gameplay mechanics."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Research and prototype visual effects (e.g., particle systems, shaders) that align with the game\u2019s art style and gameplay mechanics.",
+            "Gather feedback from playtesters on the visual impact and performance of effects, making adjustments as needed."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Finalize the coding for the initial tools, ensuring thorough testing for bugs and performance issues.",
+            "Conduct user testing sessions with members from various development teams to assess the tools' impact on their workflow."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Collaborate with the art team to integrate detailed assets that enhance level aesthetics and immersion.",
+            "Conduct internal playtesting sessions to gauge player experience within detailed levels and gather valuable feedback."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Integrate collected sound effects into the game environment, ensuring proper placement and timing.",
+            "Conduct preliminary playtests to gather feedback on the audio experience and make adjustments."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Optimize database queries and server response times for improved gameplay experience.",
+            "Use load testing tools to simulate user traffic and analyze server behavior."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Conduct internal playtesting sessions to gauge player experience within detailed levels and gather valuable feedback.",
+            "Finalize level layout revisions based on testing outcomes before preparing for the next iteration or integration into the game."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Draft dialogue scripts for pivotal interactions, ensuring character voice consistency and emotional resonance.",
+            "Develop scene breakdowns highlighting key narrative moments, player choices, and emotional beats."
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Gather all feedback received and incorporate it into the final report."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the report and present it to @itpm-1, @pchmp-1 and other stakeholders. Schedule a meeting with them via email: \"Data Quality Assessment Report Presentation\"."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare presentation materials for the meeting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Present the data quality assessment report, including the findings, the data quality improvement plan, and the recommendations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any questions or concerns raised by the stakeholders during the presentation. Make any necessary revisions to the data quality improvement plan based on the feedback received."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send an email to all team members (@da-1, @da-2, @ehrv-1, @clinlead-1, @qatest-1, @rn-1, @rn-2, @ehrdev-1, @itpm-1, @dba-1, @trainer-1, @qatest-2, @rn-3, @helpdesk-1, @his-1, @his-2, @mrs-1, @mrs-2, @pchmp-1, @ehrdev-2) thanking them for their cooperation and support throughout the data quality assessment process. Encourage them to continue working together to improve data quality in the future."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start working on the documentation for the QA process. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete all the documentation process. "
+    }
+]

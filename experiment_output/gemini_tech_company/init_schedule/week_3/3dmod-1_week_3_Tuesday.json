@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Review yesterday's notes and plan out today's tasks. Some quick web surfing for car parts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finish the basic shape of the main characters. I need to fix some proportions issue for the second character."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start the initial blockout for the large environmental structures. Begin with the central building, focusing on overall shape and scale. Think about the materials that will be used."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue modeling the central building, adding basic details like windows and doors. Consider the architectural style and try to incorporate interesting design elements. Consult with @lvdn-1 (Level Designer) regarding the gameplay requirements of the environment. Subject: Environment Model - Central Building Design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time! Grab some food and chill. Maybe check out some funny videos online."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Model secondary structures like walls and smaller buildings, keeping in mind the overall composition of the environment. Think about how the player will navigate through the space."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Add some blockout models for the decoration buildings around the environment. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, make notes on areas for improvement, and back up all files to the server. "
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and make final adjustments to training materials before the last training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the final onboarding training session, addressing any lingering concerns or questions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collect final feedback from the session participants, focusing on usability and suggestions for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile all feedback from the week and categorize it into actionable insights."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Schedule a meeting with @clinlead-1 and @pchmp-1 to discuss feedback data and usability improvements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary report of the week\u2019s training activities and feedback gathered."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any last-minute updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's influenza assessments with @clinlead-1 to ensure all protocols were followed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final patient assessments for the week, focusing on any new cases."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break to relax."
+    },
+    {
+        "Time": "10:45",
+        "Activity": "Complete any remaining patient assessments and ensure all data is documented."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy some downtime."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Enter the final patient data into the EHR, ensuring all information is accurate and complete."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @itpm-1 to provide a weekly update on influenza assessments and EHR data entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week's work and ensure all tasks are completed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week and log off."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize stakeholder presentation and rehearse key points."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present project updates to stakeholders, including @clinlead-1, @pchmp-1, @ehrv-1, and hospital leadership."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address stakeholder questions and document feedback for follow-up."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @helpdesk-1 to ensure support readiness for EHR go-live."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Debrief with project team on stakeholder meeting outcomes and assign action items."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review and update project documentation based on stakeholder feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @ehrdev-1, @ehrdev-2 on critical bug fixes identified during QA."
+    }
+]

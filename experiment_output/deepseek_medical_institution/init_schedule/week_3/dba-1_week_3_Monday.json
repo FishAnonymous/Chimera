@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review the current database schema for seasonal influenza data."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss requirements for the seasonal influenza data schema."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft the final database schema for seasonal influenza data, incorporating feedback from Health Informatics Specialists."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft schema with @ehrdev-1 and @ehrdev-2 to ensure compatibility with EHR integration."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement initial data type definitions for the schema."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the schema with sample data to identify any potential issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the schema changes and update the team via email @itpm-1, @clinlead-1."
+    }
+]

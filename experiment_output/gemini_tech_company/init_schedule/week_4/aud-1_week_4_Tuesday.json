@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Follow up on any action items from yesterday and review my notes from yesterday's experimentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Reach out to @LDES-1 and @SDES-1 via email to request information on the current gameplay mechanics and level design. Specifically, I need to understand the types of weapons being used, the size and layout of the levels, and the overall tone and atmosphere of the game."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Based on the information gathered from the designers, begin sketching out a high-level audio plan for the game. This will include identifying key audio elements, defining the desired soundscape, and outlining the technical requirements for audio implementation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Focus on the design and implementation of one of the core weapon sounds (e.g. assault rifle). Start with layering existing sound effects and processing them to achieve the desired impact and realism. Experiment with different recording techniques if needed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the weapon sound and test it in a mock gameplay environment. This will help to evaluate the effectiveness of the sound in a practical context and identify areas for improvement. Maybe contact @cdev-1 for testing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the progress made today, including details of the audio plan, the design process for the weapon sound, and any challenges encountered during testing. Start thinking about environment sounds."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check the latest gaming news and community feedback on similar games to get inspiration and insights."
+    }
+]

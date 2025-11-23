@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for urgent requests or updates. Briefly scan industry news related to healthcare data analysis and visualization trends (approx. 30 minutes). If nothing important, check the newly released papers on Arxiv about influenza trends, or some interesting topics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin researching best practices for report templates used in healthcare for presenting statistical and trend analysis. Focus on clarity, accessibility for diverse audiences, and visual appeal. Examples: CDC reports, WHO publications, published research papers."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Brainstorm potential report template structures. Consider different sections: Executive Summary, Introduction, Data Sources and Methodology, Key Findings, Data Visualizations, Predictive Modeling Results, Conclusion, Recommendations, Appendix."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop a preliminary outline for the report template, detailing the content and purpose of each section. Include placeholders for specific data elements and visualization types."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Listen to some music while eating."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research various data visualization techniques suitable for influenza trend data: time series charts, heatmaps, geographic maps (if location data is available), bar charts comparing different strains, etc."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin sketching out mockups of key data visualizations to include in the report. Consider color palettes, labeling, and overall design for optimal clarity and impact."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft the 'Data Sources and Methodology' section of the report template. Clearly define the data sources used (EHR data), the methods for data cleaning and preprocessing, and the statistical analysis techniques employed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the work done so far. Make some minor refinement. Prepare a brief summary of progress and planned activities for tomorrow."
+    }
+]

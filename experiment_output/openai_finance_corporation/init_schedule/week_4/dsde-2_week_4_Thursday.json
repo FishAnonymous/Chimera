@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare for drafting the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the market research report and identify key findings for the presentation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start creating the presentation slides summarizing the market research findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the presentation and ensure graphs and data visualizations are clear."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @larch-1 for design support on making the presentation visually appealing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the presentation slides for clarity and engagement."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the current art style documentation and asset integration status."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss final adjustments to the art style and asset pipeline."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Experiment with shader optimizations in Unity, focusing on reducing draw calls and improving performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue shader optimization work, documenting changes and performance improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @cdev-1 and @cdev-2 to gather feedback on visual effects performance from the client side."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by updating the technical documentation with today's progress."
+    }
+]

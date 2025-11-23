@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review project documentation to understand core systems and requirements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft initial testing criteria for the game, focusing on core mechanics and stability. Document these criteria in the QA repository."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse tech forums for latest QA tools and methodologies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining testing criteria. Cross-reference with industry standards for third-person shooter games."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @lpro-1 and @ldes-1 to confirm core systems that need testing. Request any additional documentation or clarifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin outlining initial test cases for movement and combat systems. Document these in the test case management tool."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review test cases with @qtest-1 for peer feedback. Adjust based on suggestions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by updating the QA documentation and preparing for tomorrow's tasks."
+    }
+]

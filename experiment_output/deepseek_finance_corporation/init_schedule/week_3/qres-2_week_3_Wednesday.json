@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Incorporate any feedback from @pm-1 on the report draft."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the report on viable investment opportunities. Ensure all data visualizations are accurate and clearly labeled."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break. Review the report one final time for any errors or omissions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Send the completed report to @cio-1 and @ir-1 for their review and feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare presentation slides based on the report findings. Focus on key insights and actionable recommendations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cio-1 to confirm the schedule for presenting findings to the investment committee."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Rehearse the presentation, timing each section to ensure it fits within the allocated slot."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize presentation slides and save all materials. Relax and unwind."
+    }
+]

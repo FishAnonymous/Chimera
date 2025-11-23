@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review compliance documentation drafts from @comp-1 and @facc-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 to discuss any gaps in the compliance documentation and align on final changes."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft revisions to the compliance documentation based on feedback from @comp-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review legal agreements for client onboarding with @onbd-1. Ensure all clauses are SEC-compliant."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send finalized compliance documentation to @cio-1 and @coo-1 for final approval."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Browse latest SEC regulatory updates to ensure no recent changes affect our documentation."
+    }
+]

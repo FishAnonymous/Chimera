@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the core gameplay actions list provided by @ldes-1 to identify required sound effects."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research and gather reference sounds for core gameplay actions (e.g., gunfire, footsteps, reloading)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start creating initial SFX drafts for gunfire and footsteps using digital audio workstation (DAW)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining SFX for gunfire and footsteps. Experiment with different effects and layers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review SFX drafts with @ldes-1 and @prod-1 for feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Adjust SFX based on feedback and finalize gunfire and footsteps sounds."
+    }
+]

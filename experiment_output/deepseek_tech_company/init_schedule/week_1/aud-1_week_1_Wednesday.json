@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the finalized sound effects and music themes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create a detailed plan for sound implementation, including priority levels for each sound effect."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse sound libraries for potential assets."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue planning sound implementation. Identify any gaps in the sound effects list."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @3dmod-1 and @3dmod-2 to discuss character and environmental sound requirements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update the sound design document based on feedback from @3dmod-1 and @3dmod-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start drafting a timeline for sound production and integration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and organize all documents and plans for the day."
+    }
+]

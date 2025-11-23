@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and prioritize tasks for the week. Make a cup of tea \u2013 Earl Grey, my favorite \u2013 and settle in."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin reviewing documentation of the current EHR system. Specifically focusing on modules related to data collection, reporting, and patient demographics. Make notes of sections relevant to influenza tracking."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @his-1 and @his-2 (Health Informatics Specialists) to discuss the current EHR data structure and reporting capabilities related to influenza data. Topic: 'EHR Data Structure and Reporting for Influenza'."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Initial meeting with @his-1 and @his-2 to discuss current EHR data structure and reporting limitations regarding influenza data collection. Gather insights on existing data fields, reporting tools, and potential integration challenges."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research best practices for influenza data collection within EHR systems. Review CDC guidelines and relevant industry standards to inform gap analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab a sandwich from the cafeteria and chat with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue EHR system assessment. Focus on identifying specific data fields (e.g., vaccination status, symptoms, diagnosis codes) that are currently missing or inadequately captured."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start documenting identified gaps in data collection related to influenza. Create a preliminary list of required data fields and workflow modifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an email to @clinlead-1 (Clinical Lead) to schedule a meeting to discuss clinical requirements for influenza data collection. Topic: 'Clinical Requirements for Influenza Data'."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare the agenda for the meeting with the clinical lead."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on gap analysis documentation. Refine list of missing data elements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tasks and plan for tomorrow. Check email and respond to urgent requests."
+    }
+]

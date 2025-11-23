@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check for any final feedback regarding QA documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final checks on QA testing processes, ensuring everything is documented and addressed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Participate in the weekly team meeting to present findings and outcomes of QA testing processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Discuss with @trainer-1 about arranging training for staff based on QA findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week\u2019s work and outline next steps based on feedback received during the team meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the OA system and enjoy some free time."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review all bug reports compiled so far."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final playtesting session to validate fixes and remaining issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Verify fixes from previous reports."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue final playtesting session. Focus on edge cases and stress testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile all findings into a comprehensive bug report. Categorize by priority and severity."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @prod-1 @lpro-1 with the comprehensive bug report for review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin drafting the final QA report, summarizing testing outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Review draft of final QA report."
+    }
+]

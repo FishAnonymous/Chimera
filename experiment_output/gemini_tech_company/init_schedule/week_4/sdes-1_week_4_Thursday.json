@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Wake up, have a light exercise."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and team communication."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @LPRO-1 and @SDES-2 to discuss the AI system design and integration with the weapon and movement mechanics."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start drafting the AI System Design document, including enemy behavior, decision-making processes, and pathfinding."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss with @NDES-1 to determine the narrative requirements that affect AI behaviors and dialogues. Topic: Narrative requirements for AI behaviours."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue the AI System Design document. Add details to the enemy decision-making processes and pathfinding."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check on website youtube.com and bilibili.com for any interesting videos."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Edit and add more diagrams into the AI System Design document for clarification."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out the AI System Design document for review, including @LPRO-1, @SDES-2, @NDES-1"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review feedback notes from yesterday's meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue refining environment sketches based on team feedback. Adjust layouts and details as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break. Sketch personal ideas to clear mind."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize all environment sketches. Ensure they meet the team's vision and are ready for submission."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit refined character designs (first pass) and rough environment sketches to @prod-1 for review."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @3dmod-1 and @3dmod-2 to discuss potential 3D modeling needs based on submitted designs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize files and backup work. Prepare for any additional tasks or revisions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax with some personal art projects or browsing art galleries online."
+    }
+]

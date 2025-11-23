@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Prepare for the meeting with leadership by reviewing the report and anticipating questions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @itpm-1, @clinlead-1, and @pchmp-1 to discuss training outcomes and next steps."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate any additional feedback from leadership into the training materials."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Upload finalized training materials to the shared drive and notify all staff (@rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2, @clinlead-1, @pchmp-1, @his-1, @his-2)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @helpdesk-1 to ensure training materials are accessible and troubleshoot any access issues."
+    }
+]

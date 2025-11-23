@@ -1,0 +1,27 @@
+{
+    "name": "Zara Patel",
+    "id": "aud-1",
+    "ip": "10.0.0.28",
+    "age": 29,
+    "role": "Audio Engineer",
+    "description": "Responsible for creating, implementing, and optimizing sound effects, music, and dialogue within the game. Works closely with designers and developers to enhance the player experience through audio.",
+    "tools": [
+        "Pro Tools",
+        "Ableton Live",
+        "Wwise",
+        "FMOD",
+        "Adobe Audition"
+    ],
+    "mbti": "ISFP",
+    "interests": "music production, hiking",
+    "personality": "Sensitive and artistic, enjoys crafting auditory experiences that resonate with players. Prefers a calm work environment and often seeks inspiration in nature and music.",
+    "application": {
+        "AudioManager": {
+            "account_name": "aeng-124578",
+            "password": "zaraP@audio",
+            "permissions": "audio_engineer"
+        }
+    },
+    "email": "aeng-124578@corp.com",
+    "container_id": "ae9d72f8cfd9"
+}

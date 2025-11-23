@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review quest implementation, and plan to integrate the crafting system."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and address any urgent communications. Check the testing results from @QTEST-1 for the game quest system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin integrating the crafting system. Define basic recipes and resource requirements. Contact @3DMOD-1 and @3DMOD-2 to ask about the progress for the required 3D modules."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the crafting interface and allow players to craft items from collected resources. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Integrate crafted items into the combat system. Ensure that crafted weapons or armor have a noticeable impact on combat effectiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Playtest the full gameplay loop with combat, economy, progression, quests, and crafting. Gather feedback and identify areas for improvement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consolidate all feedback received from the team and playtesting into a prioritized list of tasks for the remainder of the week. Create detailed bug reports in Jira. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss feedback with @LDES-1 and @PROD-1 to determine priorities and adjust development plans if necessary."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Update Jira with the prioritized tasks. Ensure everyone on the team is aware of the adjusted plan for the week. Prepare for focused bug fixing and iteration tomorrow."
+    }
+]

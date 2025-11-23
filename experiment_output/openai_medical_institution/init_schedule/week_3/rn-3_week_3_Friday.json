@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback from previous week's documentation with @Medical Records Specialist."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Make necessary adjustments to documentation processes based on feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit final documentation for the week to the @EHR Vendor Liaison."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Participate in weekly wrap-up meeting with the whole team to discuss progress and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for next week by reviewing upcoming tasks and organizing work."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of week work."
+    }
+]

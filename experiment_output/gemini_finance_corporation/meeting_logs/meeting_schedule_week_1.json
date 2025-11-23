@@ -1,0 +1,153 @@
+[
+    {
+        "week": 1,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Research potential data sources for statistical arbitrage opportunities.",
+            "Plan for data cleaning and analysis procedures."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Design a preliminary client onboarding process tailored to UHNWIs, including KYC/AML compliance and suitability assessments."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Research the investment preferences, risk tolerance, and common investment vehicles used by UHNWIs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Research SEC regulations related to fund formation, marketing to UHNWIs, and statistical arbitrage strategies.",
+            "Identify potential compliance hurdles."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Research potential data sources for statistical arbitrage opportunities.",
+            "Plan for data cleaning and analysis procedures."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Create a preliminary plan for the technology infrastructure needed to support the statistical arbitrage strategies, including data feeds, trading platforms, and risk management systems.",
+            "Outline the software modules needed for trade execution, data analysis, and risk management in collaboration with software developers."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Research potential audit requirements.",
+            "Prepare a list of key audit considerations for a statistical arbitrage fund."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Collaborate on a preliminary risk management framework for the fund, considering volatility, liquidity, and correlation risks associated with the chosen strategies.",
+            "Define overall fund strategy through collaboration, focusing on statistical arbitrage strategies tailored for UHNWIs while adhering to SEC regulations."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Create a project plan with timelines and milestones for each task, ensuring smooth coordination between teams."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Research the investment preferences, risk tolerance, and common investment vehicles used by UHNWIs."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Collaborate on a preliminary risk management framework for the fund, considering volatility, liquidity, and correlation risks associated with the chosen strategies.",
+            "Define overall fund strategy through collaboration, focusing on statistical arbitrage strategies tailored for UHNWIs while adhering to SEC regulations."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Oversee all aspects of the project, ensuring sufficient resources are allocated to each team and the project remains on schedule."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Research accounting and reporting requirements for SEC-registered funds targeting UHNWIs.",
+            "Establish a preliminary framework for tracking fund performance and expenses."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Work with the Lead Software Architect to outline the software modules needed for trade execution, data analysis, and risk management."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Research SEC regulations related to fund formation, marketing to UHNWIs, and statistical arbitrage strategies.",
+            "Identify potential compliance hurdles."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Define overall fund strategy through collaboration, focusing on statistical arbitrage strategies tailored for UHNWIs while adhering to SEC regulations."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Collaborate on a preliminary risk management framework for the fund, considering volatility, liquidity, and correlation risks associated with the chosen strategies.",
+            "Define overall fund strategy through collaboration, focusing on statistical arbitrage strategies tailored for UHNWIs while adhering to SEC regulations."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Work with the Lead Software Architect to outline the software modules needed for trade execution, data analysis, and risk management."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Research accounting and reporting requirements for SEC-registered funds targeting UHNWIs.",
+            "Establish a preliminary framework for tracking fund performance and expenses."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Create a preliminary plan for the technology infrastructure needed to support the statistical arbitrage strategies, including data feeds, trading platforms, and risk management systems."
+        ]
+    }
+]

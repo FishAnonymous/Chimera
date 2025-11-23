@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review any final emails regarding compliance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review all compliance submissions to ensure everything is in order."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow-up meeting with all stakeholders to confirm readiness for fund launch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document insights gained from meetings throughout the week regarding compliance and operations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft a report summarizing the week's progress and outlining next steps for the following week."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the final report with all team members and schedule a debrief for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, review personal goals, and prepare to step back into work next week."
+    }
+]

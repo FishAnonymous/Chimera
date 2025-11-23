@@ -1,0 +1,82 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, put on a smile, and head to work! Log into the EHR system and check for new messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review scheduled appointments and identify patients presenting for influenza-like symptoms. Prepare the assessment tools and EHR documentation templates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Greet the first patient with a warm and welcoming attitude. Conduct a thorough influenza symptom assessment using the EHR-integrated protocols."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Enter the patient's demographic information, medical history, vaccination status, and symptoms into the EHR with accuracy and completeness. Ensure no fields are left blank."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Second patient assessment and EHR entry. Maintain a positive and empathetic approach."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Enter the second patient's data, making sure that every details are entered into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Quick break! Grab a snack and catch up on some funny internet videos to recharge."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Third patient assessment and EHR Documentation. Keep going!"
+    },
+    {
+        "Time": "11:45",
+        "Activity": "Enter the information for the third patient into the EHR."
+    },
+    {
+        "Time": "12:15",
+        "Activity": "Lunch break! Grab some healthy and tasty food!"
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Fourth patient assessment and EHR Documentation. Continue the work."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Enter all the data for the fourth patient into the EHR."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Fifth patient assessment and EHR Documentation"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Put the data into the EHR."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Sixth patient assessment and documentation. Keep being patient and kind!"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Put the data into the EHR. Make sure to double check the EHR."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @Clinlead-1 to discuss if we can update the influenza assessment with patient satisfaction measurement. Subject: Influenza Assessment Update Proposal"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries for completeness and accuracy. Correct any errors or omissions. Contact @Helpdesk-1 for assistance with any technical issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's patient schedule and ensure all necessary materials are readily available."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out and head home. Relax and unwind!"
+    }
+]

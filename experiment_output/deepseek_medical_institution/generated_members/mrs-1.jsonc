@@ -1,0 +1,27 @@
+{
+    "name": "Grace Ito",
+    "id": "mrs-1",
+    "ip": "10.0.0.23",
+    "age": 34,
+    "role": "Medical Records Specialist",
+    "description": "Manages and organizes patient medical records, ensuring accuracy, completeness, and confidentiality. Retrieves and releases medical information to authorized individuals and entities. Processes requests for medical records, adhering to HIPAA regulations and hospital policies. Assists with coding and billing processes, ensuring proper documentation. Maintains electronic and paper-based filing systems.",
+    "tools": [
+        "Electronic Health Record (EHR) Systems",
+        "Medical Coding Software (e.g., ICD-10)",
+        "Document Management Systems",
+        "HIPAA Compliance Tools",
+        "Transcription Software"
+    ],
+    "mbti": "ISTJ",
+    "interests": "genealogy, jigsaw puzzles, historical fiction",
+    "personality": "Meticulous and detail-oriented, with a strong commitment to accuracy and compliance. Highly organized and efficient in managing large volumes of information. Prefers a structured and predictable work environment. Can be reserved but is always helpful and supportive of colleagues. Has an encyclopedic knowledge of medical terminology and coding guidelines.",
+    "application": {
+        "Zendo": {
+            "account_name": "mrs-678901",
+            "password": "graceI@records",
+            "permissions": "records_specialist"
+        }
+    },
+    "email": "mrs-678901@hospital.org",
+    "container_id": "6a7b8c9d0e1f"
+}

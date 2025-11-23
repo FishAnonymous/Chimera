@@ -1,0 +1,162 @@
+[
+    {
+        "week": 3,
+        "id": "dsde-2",
+        "detailed_goals": [
+            "Finalize the market research report on investment strategies targeting UHNWIs.",
+            "Identify key investment preferences and tailor insights to meet the specific needs of UHNWIs."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "dsde-1",
+        "detailed_goals": [
+            "Continue the development of a statistical model for evaluating risk-return profiles of market-neutral funds.",
+            "Complete correlation analysis of market-neutral fund returns with broader market indices."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "onbd-1",
+        "detailed_goals": [
+            "Finalize the checklist of requirements for onboarding UHNWIs.",
+            "Conduct mock onboarding sessions to ensure smooth processes align with client expectations."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "mkt-1",
+        "detailed_goals": [
+            "Launch the first phase of the communication strategy, targeting prospective UHNWIs.",
+            "Organize a networking event aimed at introducing stakeholders to the fund's investment offerings."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "comp-1",
+        "detailed_goals": [
+            "Conduct an internal audit of compliance documentation to ensure adherence to SEC regulations.",
+            "Prepare a report on compliance checks related to KYC and AML processes."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "larch-1",
+        "detailed_goals": [
+            "Finalize technical requirements for the fund management software.",
+            "Review initial software prototypes with stakeholders for feedback."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "audit-1",
+        "detailed_goals": [
+            "Assess risks identified in the fund setup and provide recommendations.",
+            "Draft audit procedures to ensure compliance with regulatory frameworks."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-3",
+        "detailed_goals": [
+            "Complete the analysis of market-neutral funds focusing on risk-adjusted returns.",
+            "Prepare presenting findings to the team for further strategy formulation."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "pm-1",
+        "detailed_goals": [
+            "Facilitate a project meeting to review progress and align on strategies moving forward.",
+            "Adjust project timelines based on the outcomes of team discussions."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ir-1",
+        "detailed_goals": [
+            "Develop the investor presentation outline, highlighting fund strategies and performance metrics.",
+            "Engage with existing UHNWI clients for feedback on investment offerings."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-1",
+        "detailed_goals": [
+            "Conduct a thorough review of historical performance data for market-neutral funds.",
+            "Identify key performance indicators that should be highlighted in communication with investors."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "coo-1",
+        "detailed_goals": [
+            "Finalization of operational plans and allocation of resources for fund launch.",
+            "Ensure all compliance documents are prepared for SEC submission."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "facc-1",
+        "detailed_goals": [
+            "Prepare an initial financial forecast and budget for the fund's operations.",
+            "Establish accounting procedures for tracking investor contributions and fund expenses."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-2",
+        "detailed_goals": [
+            "Continue developing the user interface for the investor portal, focusing on accessibility and security.",
+            "Implement secure client interaction features within the portal."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "legal-1",
+        "detailed_goals": [
+            "Review all compliance documentation related to fund registration and investor agreements.",
+            "Prepare drafts of necessary legal documents for the fund setup."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cio-1",
+        "detailed_goals": [
+            "Outline the investment strategy for asset managers, focusing on selection criteria.",
+            "Finalize the core investment philosophy to align with market-neutral fund objectives."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qres-2",
+        "detailed_goals": [
+            "Conduct competitor analysis for market-neutral funds targeting UHNWIs.",
+            "Identify strengths and weaknesses in the competition's investment strategies."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Begin working on backend development for the fund management software.",
+            "Implement initial API endpoints for user authentication."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "facc-2",
+        "detailed_goals": [
+            "Monitor and record daily cash flow activities to ensure liquidity.",
+            "Prepare monthly financial statements and perform variance analysis."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "devops-1",
+        "detailed_goals": [
+            "Set up cloud infrastructure necessary for fund management and data analysis.",
+            "Implement monitoring and management tools to maintain operational efficiency."
+        ]
+    }
+]

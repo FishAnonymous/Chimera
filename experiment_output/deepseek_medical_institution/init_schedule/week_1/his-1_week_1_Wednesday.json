@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize presentation slides for the team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Team meeting with @clinlead-1, @pchmp-1, @ehrdev-1, @ehrdev-2, @da-1, @da-2 to review EHR data elements and collection workflow."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate feedback from the team meeting and update documentation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @ehrv-1 to discuss any vendor-specific requirements for data extraction."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the data collection workflow in a sandbox environment to identify any issues."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to schedule testing of the workflow."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Browse health informatics forums for best practices on EHR data extraction."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document any issues found during testing and plan fixes."
+    }
+]

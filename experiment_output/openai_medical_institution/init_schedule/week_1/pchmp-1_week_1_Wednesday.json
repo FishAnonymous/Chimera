@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and respond to overnight emails regarding EHR updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to discuss medical record accessibility in the EHR."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Outline requirements and deliverables for medical record integration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on coding the medical records integration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review medical record integration progress with @qatest-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a demo of the current EHR integration progress for the clinical staff."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Spend time browsing relevant EHR integration articles for best practices."
+    }
+]

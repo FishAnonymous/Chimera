@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, settle in, and brew a cup of herbal tea (chamomile, perhaps?). Briefly check personal email and browse a favorite blog about mindfulness."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Log into the help desk system and check for any new EHR system issues or data collection problems reported over the weekend. Prioritize based on severity and impact."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin working on the highest priority ticket: A report from @RN-1 that patient data isn't syncing correctly between the bedside monitor and the EHR. Attempt to reproduce the error myself."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Troubleshoot the data syncing issue. Check network connectivity, verify the EHR system's event logs for errors related to the patient in question. Research known issues in our internal knowledge base. "
+    },
+    {
+        "Time": "10:30",
+        "Activity": "If the syncing issue persists, document all troubleshooting steps taken, error messages encountered, and the specific patient information involved. Prepare a detailed summary to escalate."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft an email to @EHRDEV-1 and @ITPM-1, clearly explaining the data syncing problem, the steps taken to troubleshoot, and requesting their assistance in resolving the issue. Include relevant screenshots and log excerpts."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Switch to the next highest priority ticket: A request from @MRS-2 about difficulty accessing a specific archived record in the EHR. Verify their login credentials and access permissions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Spend some time reading a book of poetry in the breakroom."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the @MRS-2 archived record issue. Research common causes for access issues (e.g., incorrect permissions, corrupted record, system glitch). Try to access the record myself to see if it's a system-wide problem."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "If unable to resolve the access issue, document the steps taken and any error messages. Escalate the problem to @DBA-1 and @HIS-1 via email, describing the user's problem and the specifics of the record they are trying to access."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Check back on the original data syncing issue raised by @RN-1. Have @EHRDEV-1 or @ITPM-1 responded? If so, follow their instructions or provide additional information as requested."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all open help desk tickets and ensure they are properly categorized and prioritized. Add detailed notes to each ticket documenting all communication and troubleshooting steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Dedicate time to browsing through online articles related to mindfulness and exploring calming techniques."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's activities, including resolved issues, escalated problems, and pending tasks. Plan for tomorrow's work based on the current priorities."
+    }
+]

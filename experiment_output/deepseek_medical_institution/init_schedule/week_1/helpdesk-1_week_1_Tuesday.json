@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent help desk tickets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue testing the ticketing system in the test environment, focusing on EHR-specific issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send an email to @clinlead-1 and @rn-1 to gather feedback on common EHR issues faced by clinical staff."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break and reflect on the feedback received."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Update the ticketing system proposal to include clinical staff feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @ehrdev-1 to discuss integration possibilities between the ticketing system and the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on configuring the ticketing system to handle EHR-specific issues based on the discussion."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Test the configured system and document any bugs or improvements needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a progress update to @itpm-1 and @ehrv-1."
+    }
+]

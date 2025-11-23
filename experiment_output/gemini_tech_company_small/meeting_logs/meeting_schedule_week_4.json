@@ -1,0 +1,40 @@
+[
+    {
+        "week": 4,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Polish and refine the existing mechanics based on testing and feedback.",
+            "This includes bug fixing, balancing, and improving the overall player experience.",
+            "Document the implemented systems clearly.",
+            "Begin considering how these mechanics can be expanded upon for future features."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Refactor code for improved performance and maintainability.",
+            "Implement robust error handling and logging.",
+            "Document the implemented systems thoroughly.",
+            "Bug fixing and balancing of existing mechanics.",
+            "Iterate on player feedback to improve the overall experience.",
+            "Add polish to movement, combat, and UI elements.",
+            "Begin documenting systems with code comments and design documents.",
+            "Explore expanding on core mechanics with new features and abilities."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Final polish of all visual assets.",
+            "Creation of marketing materials (screenshots, trailers).",
+            "Iterate on visual feedback based on playtesting.",
+            "Bug fixing and refinement of character models and animations.",
+            "Optimize character assets for performance.",
+            "Optimization of environmental assets for performance.",
+            "Bug fixing and visual polish of the game world.",
+            "Creation of a cohesive and visually appealing game experience."
+        ]
+    }
+]

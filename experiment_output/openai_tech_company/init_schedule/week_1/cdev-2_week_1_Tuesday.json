@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the wireframes created yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue working on wireframes, refining details based on any additional feedback from @uiux-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a meeting with @prod-1 (Producer) and @cdev-3 (Client Developer) to discuss integration of wireframes into the development process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend meeting with @prod-1 and @cdev-3 regarding wireframe integration into the game."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start supporting the development of a prototype for one of the key user interaction features collaboratively with @cdev-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the progress made on the prototype and prepare for the next day's tasks."
+    }
+]

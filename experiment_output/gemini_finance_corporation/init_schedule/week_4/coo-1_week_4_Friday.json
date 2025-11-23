@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, review final CEO presentation."
+    },
+    {
+        "Time": "07:30",
+        "Activity": "Final check on emails."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, last minute preparations."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the report with @CIO-1 (Chief Investment Officer)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the final report to the CEO. Address any questions or concerns."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Receive feedback from CEO and incorporate any final changes into the report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Distribute the final report to relevant stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - celebratory lunch with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Post-project review meeting with all team members. Discuss lessons learned and identify areas for improvement in future projects."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Individual performance review preparations for key team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any outstanding administrative tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End of week wrap-up with assistant."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office. Early weekend!"
+    }
+]

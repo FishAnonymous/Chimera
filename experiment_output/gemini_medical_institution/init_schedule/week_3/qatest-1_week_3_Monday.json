@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and any urgent messages. Review the overall goal plan for the week regarding defining initial data quality metrics for EHR data related to influenza tracking and setting weekly targets for improvement."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review existing documentation on EHR data fields relevant to influenza tracking. Focus on identifying key data elements like diagnosis codes (ICD-10), lab results (influenza tests), medication orders (antivirals), and vaccination records. Spend time understanding the data types, formats, and potential inconsistencies."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Brainstorm initial data quality metrics. Consider metrics like completeness (percentage of records with values for key fields), accuracy (correctness of diagnosis codes and lab results), consistency (agreement between different data sources), and timeliness (lag time between event occurrence and data entry)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft a list of potential data quality metrics with specific calculations and thresholds. For example: Completeness of influenza vaccination records >= 95%; Accuracy of ICD-10 codes for influenza diagnosis >= 98%."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. I might spend time browsing some technology forums."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @da-1 @da-2 to schedule a brief meeting to discuss the proposed data quality metrics. The topic of the email is 'Discussion on Initial Data Quality Metrics for Influenza Tracking'."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Meeting with @da-1 @da-2 to present and discuss the drafted data quality metrics. Get feedback on feasibility, relevance, and potential challenges in data extraction and analysis. Refine the list of metrics based on the discussion."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the finalized data quality metrics with clear definitions, calculation methods, and rationale. Create a table or spreadsheet summarizing the metrics."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start drafting an email to @clinlead-1 and @pchmp-1 summarizing the proposed data quality metrics and requesting their feedback from a clinical perspective. The email topic is 'Review of Proposed Data Quality Metrics for Influenza Tracking'."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Continue working on email to @clinlead-1 and @pchmp-1. State the purpose of the metrics, their importance for influenza tracking, and request their input on clinical validity and relevance. Finish drafting the email, proofread, and send."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any pending tasks or updates from last week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Draft initial accounting procedures for the new fund, focusing on compliance with SEC regulations. Document key steps for fund transactions, reconciliations, and reporting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @comp-1 and @legal-1 to review the drafted accounting procedures for compliance and legal alignment. Request feedback by Wednesday."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin setting up the chart of accounts for the new fund. Categorize accounts based on fund requirements (e.g., asset, liability, income, expense)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the chart of accounts. Ensure alignment with fund strategy and regulatory requirements."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cio-1 and @coo-1 for approval on the chart of accounts structure. Include a summary of categories and rationale."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize files and documentation for the new fund. Create folders for procedures, chart of accounts, and reporting templates."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review progress for the day and prepare a to-do list for Tuesday."
+    }
+]

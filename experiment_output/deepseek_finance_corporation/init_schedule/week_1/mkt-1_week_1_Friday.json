@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize the presentation and supporting materials for the stakeholder meeting."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct the strategy review meeting with @coo-1, @cio-1, and @pm-1. Present the communication plan and gather feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate stakeholder feedback into the strategy document."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email the finalized strategy to all relevant teams (@sdev-1, @sdev-2, @dsde-1, @dsde-2, @ir-1) for implementation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document lessons learned and next steps. Update the project tracker with @pm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by organizing files and setting priorities for the following week."
+    }
+]

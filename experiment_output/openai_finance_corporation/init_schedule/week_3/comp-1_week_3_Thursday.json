@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the feedback received on the compliance report from stakeholders."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend the team meeting to present the compliance findings and recommendations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Discuss next steps for the implementation of any compliance recommendations with @cio-1 (Chief Investment Officer) and @coo-1 (Chief Operating Officer)."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start drafting follow-up actions based on the feedback from the meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send an email summary of the meeting to @pm-1, @legal-1, @ir-1 detailing the compliance discussion outcomes."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review the progress made on backend functionalities. Check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start integrating UI elements with backend functionalities (e.g., connecting forms to backend for data submission)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @uiux-1 to ensure the UI design aligns with backend logic."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Focus on ensuring seamless transitions in UI (e.g., navigating between pages smoothly, loading indicators)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct internal testing of integrations and document any errors or issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an email to @qtest-1 requesting a playtest session for the following day."
+    }
+]

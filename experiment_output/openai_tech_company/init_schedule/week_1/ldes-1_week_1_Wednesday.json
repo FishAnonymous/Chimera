@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any updates and feedback received overnight."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a team meeting for the design team to discuss the proposed level layouts."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the refined level layouts to the design team. Gather feedback and suggestions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document feedback received from the team meeting. Note key areas for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin making adjustments to the layouts based on the team feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email the updated layouts to @lvdn-1 and @sdes-1 for further review."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any updates or notifications. Review previous day's notes and address any follow-up items."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review patient assessment and influenza vaccination documentation workflows in the EHR to identify potential areas for improvement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Patient Assessments: Patient 11 - Focused assessment based on presenting complaint, ensuring accurate and thorough documentation in the EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Patient Assessments: Patient 12 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccination to Patient 13 and document the information into the EHR."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Administer influenza vaccination to Patient 14 and document the information into the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @ClinLead-1 and @HIS-1 to discuss the hospital's progress on EHR implementation and the seasonal influenza trend analysis (Topic: EHR & Flu Trends)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the proper procedure for documenting medication reconciliation in the EHR. This includes obtaining a complete list of medications from the patient."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Patient Assessments: Patient 15 - Comprehensive assessment, including medication review and updating problem lists in the EHR."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Administer influenza vaccination to Patient 16 and document the information into the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries from the day to ensure accuracy and completeness. Address any identified issues promptly."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log out of the EHR system and end work."
+    }
+]

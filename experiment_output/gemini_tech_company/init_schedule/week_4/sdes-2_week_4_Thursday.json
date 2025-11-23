@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails, review to-do list. Start the day with a positive affirmation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on creating a compelling player progression system. Design a system for rewarding players with experience points and unlocking new abilities or equipment. I will spend time browsing game design articles and forums for inspiration and new ideas."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Experiment with different progression models. Consider branching skill trees, unlockable weapons, and customizable character builds. Jot down ideas and potential solutions in my notebook."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement a basic UI for displaying the player's progress and unlocked abilities. Ensure the UI is clear, intuitive, and visually appealing. For UI issues, I might consult the UX designer."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Prepare a healthy salad for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Since UI design might need support from UI/UX Designer, send out an email to @Uiux-1 with topic 'Tech support needed on the UI design'. Explain my purpose and request support."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Balance the progression system to ensure a smooth and rewarding experience for the player. Adjust the rate at which players earn experience points and unlock new abilities. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct playtesting sessions to gather feedback on the progression system. Observe how players interact with the system and identify areas for improvement. Analyze feedback and integrate into future changes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the design and implementation of the progression system. Update the to-do list for tomorrow. Relax with a cup of herbal tea before logging off."
+    }
+]

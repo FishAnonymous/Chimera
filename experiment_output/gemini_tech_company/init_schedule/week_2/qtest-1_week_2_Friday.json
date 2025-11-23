@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review the preliminary testing report."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on character interactions. Test interactions with environment objects and other game features."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct ad-hoc testing to find the hidden bugs that have not been found. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Focus on performance. Record the performance and make a summary. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send report to the team about the testing. @LDes-1 and @LPro-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make a conclusion for the week."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Leave the office."
+    }
+]

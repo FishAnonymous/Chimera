@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Begin preparing resources for core gameplay mechanics implementation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the finalized character and environmental designs from @3dmod-1 and @tart-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start crafting detailed documentation for the core gameplay mechanics alongside @ldes-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in prototyping session with @cdev-1, @cdev-2, and @cdev-3 focusing on gameplay mechanics."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Gather feedback on the early prototype from @qtest-1 (QA Tester)."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @aud-1 (Audio Engineer) about sound mechanics for core gameplay elements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up daily tasks, document any feedback received during the prototyping session."
+    }
+]

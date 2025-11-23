@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "09:00",
+        "Activity": "Log in, check emails and messages. Skim through any relevant research papers or articles on risk management in statistical arbitrage funds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin reviewing the initial risk management framework documentation. Identify areas that need refinement based on recent strategy testing results. Focus on metrics like Sharpe ratio, drawdown, and volatility."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @QRES-1, @QRES-2 to schedule a meeting to discuss their observations on the initial risk framework based on strategy performance. @PM-1 to notify them about the discussion about the risk framework, since it will be the formal start of the project, so that we can align on the timeline. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend meeting with @QRES-1, @QRES-2 to gather feedback on the risk framework. Take detailed notes of suggested improvements and areas of concern."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin drafting revisions to the risk management framework document, incorporating feedback from the meeting.  Specifically address how to adjust position sizing based on volatility and correlation changes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Briefly research potential tools and libraries for real-time risk monitoring in Python. Explore options like `pyfolio` or building custom dashboards with `Dash` or `Streamlit`."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day.  Review notes and prepare a list of specific questions for tomorrow."
+    }
+]

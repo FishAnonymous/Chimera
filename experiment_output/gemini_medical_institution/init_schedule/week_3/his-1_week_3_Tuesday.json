@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and read any responses from yesterday's email."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue root cause analysis for the first identified data quality issue (e.g., incomplete patient address data). Interview relevant staff (e.g., Medical Records Specialist, Registered Nurse) who interact with the data."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Document the interview findings, update the list of potential causes, and refine the hypotheses."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start testing hypotheses related to the first data quality issue. Review system configurations, data validation rules, and error handling mechanisms."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Analyze test results and determine if the hypotheses are supported by the data. Document the findings and conclusions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the findings, identify the root cause(s) for the first data quality issue. Document the root cause(s) and provide supporting evidence."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop recommendations to address the root cause(s). This may include training programs, system modifications, workflow changes, or data definition updates. Send email to @ehrdev-1 and @ehrdev-2 about system modification."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start working on root cause analysis for the second identified data quality issue (e.g., inconsistent coding practices). Gather relevant data and documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the initial findings, potential causes, and hypotheses for the second data quality issue."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow's work, review notes and set priorities."
+    }
+]

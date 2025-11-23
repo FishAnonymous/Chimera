@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Friday! Get hyped."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Based on the meetings yesterday, discuss a basic time table with @3dmod-1 and @ldes-1 regarding the schedule for the destruction elements in the level."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Final review of the 'Urban Ruins' level design documentation. Prepare the document for final approval."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @lDes-1 to obtain final approval for the 'Urban Ruins' level design documentation. Address any remaining questions or concerns."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Brainstorm ideas for the next level, considering the overall game narrative and gameplay mechanics. Research different level design concepts and approaches."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Ordering some junk food."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Back from lunch. Start creating a rough blockout for the next level, focusing on establishing the overall layout and flow. Ensure the blockout aligns with the game's narrative and gameplay mechanics. Ask @ndes-1 for some assistance to ensure consistency of the narrative."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue working on the blockout for the next level. Add some basic environmental elements and cover placements. Refine the layout based on initial playtests."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clean up and organize all level design files and assets. Prepare for the weekend. Have a beer with the team!"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out. Time for the weekend. Get drunk!"
+    }
+]

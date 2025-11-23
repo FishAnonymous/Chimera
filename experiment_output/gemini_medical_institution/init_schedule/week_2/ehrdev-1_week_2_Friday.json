@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the system, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Complete all the documents for the EHR update requirement specification."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Enjoy a nice lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for the knowledge transfer documents for @helpdesk-1 and @trainer-1. Send an email to @helpdesk-1 and @trainer-1. Subject: EHR update documentation. Body: Hi [Help Desk Name] and [Trainer Name], please find attached the documentation for the new EHR updates. Please let me know if you have any questions. Thanks, Emily Carter."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the documents to @helpdesk-1 and @trainer-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Weekly wrap up."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the day's progress and plan for next week's activities."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day and head home."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and gather feedback received from design team critiques."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on revisions based on the feedback for character models and animations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @3dmod-1 to address specific critiques received during the presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue making adjustments to the character animations and finalize the details."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Revisit the environment assets, applying final touches based on design team feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation to reflect changes made to character models and environment assets."
+    }
+]

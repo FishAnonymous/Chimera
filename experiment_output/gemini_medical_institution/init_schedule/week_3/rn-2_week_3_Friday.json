@@ -1,0 +1,82 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up with Friday vibes! Log into the EHR system and check for any critical alerts or messages. Get that caffeine flowing!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the patient schedule and prioritize influenza symptom assessments. Ensure all assessment tools are readily available."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "First patient assessment. Greet them with a warm smile and conduct the assessment following the EHR-integrated protocols."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Accurately and completely enter the patient's information into the EHR. Validate all required fields are populated."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "More patients! Time to perform more influenza assessment."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document data into the EHR. Make sure everything is well-documented!"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a quick break to stretch and grab a snack. Recharge for the rest of the day."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Patient assessment and EHR Documentation."
+    },
+    {
+        "Time": "11:45",
+        "Activity": "Patient data entry. Confirm the accuracy."
+    },
+    {
+        "Time": "12:15",
+        "Activity": "Time for Lunch! Enjoy the last lunch for the week!"
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Continue patient interactions."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "EHR data entry! Finishing the job."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "More patient interactions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document data in the EHR."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Patient Assessment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "EHR Documentation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send email to @Clinlead-1 to summarize influenza cases. Subject: Summary of influenza cases"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all EHR entries for the week, ensuring accuracy and completeness. Address any outstanding issues or discrepancies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the weekend. Yippee!!"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out and celebrate the end of the week! Time for some weekend fun!"
+    }
+]

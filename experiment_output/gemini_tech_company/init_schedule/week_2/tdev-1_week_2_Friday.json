@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the system, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review Thursday's progress and adjust the task list for Friday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Gather feedback from @lvdn-1 (Level Designer) about the level building tool and identify potential areas for improvement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement bug fixes and improvements based on feedback from the level designer."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin working on a second tool, focusing on automating repetitive tasks for the Systems Designers. Based on previous discussions, this will be a tool for managing game parameters and balancing gameplay."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Discuss team workflow and process improvements with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research existing solutions for game parameter management and balancing. Identify key features to implement in the custom tool."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Design the user interface and database schema for the game parameter management tool."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin implementing the basic functionality for the game parameter management tool."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the initial functionality of the game parameter management tool."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day - Review progress, update task list, and plan for next week. Submit timesheet. "
+    }
+]

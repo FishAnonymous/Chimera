@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries. Review the finalized character model from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin rigging the character model, starting with the skeleton structure."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break. Browse animation reference videos for inspiration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue rigging, focusing on joint placement and weight painting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test rig mobility and make adjustments as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @3dmod-1 to discuss any challenges faced during rigging."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document rigging process and save progress."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's work and plan for tomorrow."
+    }
+]

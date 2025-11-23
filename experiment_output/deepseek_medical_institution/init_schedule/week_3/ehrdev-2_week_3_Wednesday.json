@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from the QA team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Support @qatest-1 and @qatest-2 in testing the new EHR functionalities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any bugs or issues identified during testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue debugging and refining the system based on test feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ehrv-1 and @itpm-1 with testing results and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for a demo of the new functionalities for the clinical team."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, check market data on phone."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the progress on the software development team's implementation of strategy changes. Discuss any roadblocks with @Larch-1, @Sdev-1, @Sdev-2. @PEOPLE: Software Development Team - Implementation Progress Check-in"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @Qres-1, @Qres-2, @Qres-3 to discuss the impact of parameter adjustments on fund performance and risk metrics based on updated simulations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work on refining the risk management framework documentation. Define key risk indicators (KRIs) and associated thresholds."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch in the office with @COO-1, discussing operational aspects of fund launch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @Mkt-1 and @IR-1 to review the draft marketing materials. Provide feedback on content and messaging. @PEOPLE: Marketing & Investor Relations - Marketing Materials Review"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue refining risk management framework. Focus on developing stress testing scenarios."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss the data requirements for risk management with @Dsde-1 and @Dsde-2. @PEOPLE: Data Science Team - Data for Risk Management"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the risk management framework development timeline with @PM-1 and identify potential delays. @PEOPLE: Project Manager - Risk Management Timeline Review"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final review of market news. Plan for tomorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

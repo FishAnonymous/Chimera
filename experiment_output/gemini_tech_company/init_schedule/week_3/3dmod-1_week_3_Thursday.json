@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Get some coffee. Start the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start creating a library of animations for basic movements. Begin with the idle animation, focusing on subtle movements and natural breathing. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Animate the character's walk cycle, paying close attention to timing and weight distribution. Use reference videos of human walking to ensure realism. Ask @tart-1 if he has any good reference."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a run cycle animation, adjusting the timing and pose to reflect the increased speed. Ensure the animation is smooth and believable."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time! Get some food and chat with colleagues. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Animate the character's jump animation, paying attention to the anticipation, takeoff, and landing. Add some squash and stretch to the animation for added impact."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create animations for basic combat actions like punching and kicking. Focus on creating dynamic and impactful movements. "
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, make notes on areas for improvement, and back up all files to the server. "
+    }
+]

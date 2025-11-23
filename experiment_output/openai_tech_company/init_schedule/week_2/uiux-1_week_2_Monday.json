@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start creating low-fidelity wireframes for the main screens, focusing on layout and information hierarchy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on wireframes, refining the layout for the main menu and inventory screen."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume wireframe work, focusing on the HUD and character selection screen."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review wireframes with personal notes for improvements, and prepare for discussions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @sdes-1 and @sdes-2 on any specific requirements for system integration into wireframes."
+    }
+]

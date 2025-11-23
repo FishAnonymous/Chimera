@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the current status of the investor portal interface development and check the existing code for improvements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @larch-1 to discuss the overall architecture and confirm any changes needed for the investor portal interface."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start implementing UI components for the investor portal interface based on the latest design specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing additional UI components and integrate backend services necessary for functionality."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Code review session with @sdev-1 to ensure best practices are being followed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @qres-1 for any data-related needs that may affect the portal's functionality."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day and note down any outstanding tasks for tomorrow."
+    }
+]

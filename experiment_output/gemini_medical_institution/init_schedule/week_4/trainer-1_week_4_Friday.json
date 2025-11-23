@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review weekly progress and priorities. Plan to create training documents."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start working on training documents. Write very detailed information in the document to introduce the the new EHR data elements required for influenza trend analysis and explain the purpose and significance of each data element."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue working on training documents to describe the new data collection workflow, including the steps involved in data entry, validation, and reporting (as defined in Subtask 2)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work to create the demo training documents and send them out to all company members. To make them clear about the requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the learning objectives for both training modules again. Ensure the modules align with the overall goals of the EHR data collection and influenza trend analysis project. Contact @pchmp-1 for feedback on aligning the training with physician needs again. @PCHMP-1 Topic: Aligning Training with Physician Needs"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Leave work."
+    }
+]

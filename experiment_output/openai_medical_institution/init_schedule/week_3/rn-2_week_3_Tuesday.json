@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check for any follow-up emails from yesterday's discussions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 to collaborate on integrating feedback into EHR system improvements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft an outline for the feedback presentation to the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the feedback draft, including specific examples of challenges faced."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Set up a meeting with @qa-test-1 to ensure quality assurance aligns with the suggested changes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the feedback document and send it to @ehrv-1 for review."
+    }
+]

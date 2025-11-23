@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails and messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start the day by checking some social media to relax myself."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct code review with @sdev-1 to ensure code quality. @sdev-1 Topic: Code review of data analysis module."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address all the issues raised during the code review. Make changes, add comments and improve any potential issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Perform end-to-end testing of the data analysis module. Test the module with different datasets and scenarios."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address all the issues identified during the end-to-end testing."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a demo for the Data Scientists and Quantitative Researchers to showcase the functionality of the data analysis module. @dsde-1 @dsde-2 @qres-1 @qres-2 @qres-3 Topic: Data analysis module demo"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct the demo and gather feedback from the users."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Based on the feedback, address any remaining issues and fine-tune the module."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit all the final code to the version control system."
+    }
+]

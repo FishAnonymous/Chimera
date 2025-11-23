@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Need a strong coffee to end the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review all the work done this week: character blockouts, environment blockout, and basic animations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate any feedback received from the concept artist or level designer into the models. Prioritize critical issues that affect proportions or gameplay."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a 'basic attack' animation for the first character. Keep it simple and focus on the core mechanics of the attack."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a 'hit reaction' animation. This animation should play when the character is hit by an attack."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Weekend is so close!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the basic animations for the first character. Clean up any rough edges and ensure that they are game-ready."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "@Technical Artist Email the technical artist to discuss the animation pipeline and how to best integrate the animations into the game engine. Topic: Animation Integration and Pipeline Discussion"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a brief presentation showcasing the work done this week. Include screenshots of the character and environment blockouts, as well as the animation reel."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Present the work to the team. Solicit feedback and answer any questions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Save all the project files and back them up to the server. Clean up the workspace and prepare for the weekend."
+    }
+]

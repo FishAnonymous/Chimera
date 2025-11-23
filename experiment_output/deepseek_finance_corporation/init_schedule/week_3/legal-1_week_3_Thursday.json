@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm all documents are ready for SEC submission."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Submit compliance documentation and legal agreements to the SEC."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Follow up with SEC for acknowledgment of submission."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a summary report of the submission for @cio-1 and @coo-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review any feedback from the SEC and prepare for potential follow-up actions."
+    }
+]

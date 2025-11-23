@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review tests on the API endpoints and make adjustments as necessary."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Integrate the backend API with the frontend interface of the investor portal."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Meet with @facc-1 to discuss financial data requirements for the backend integration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the investor portal, focusing on optimizing the user experience."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up a demo of the investor portal's current state for @cio-1 and @ir-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Gather feedback from the demo and discuss next steps."
+    }
+]

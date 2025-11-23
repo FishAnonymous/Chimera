@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review weekly goals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final testing procedures for EHR and influenza analysis."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile a comprehensive testing report for submission."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with the team to discuss testing outcomes and next steps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out the final report to all relevant stakeholders including @Data Analysts and @Help Desk Support."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, check emails, and plan activities for the following week."
+    }
+]

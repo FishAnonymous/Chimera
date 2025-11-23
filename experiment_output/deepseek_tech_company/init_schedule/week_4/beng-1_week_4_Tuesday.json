@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review documentation for any gaps or unclear instructions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Polish documentation, adding detailed steps and troubleshooting tips where necessary."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct a dry run of the deployment process using the updated scripts and documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any issues identified during the dry run. Refine scripts and documentation as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare for final review by organizing all scripts and documentation for handoff."
+    }
+]

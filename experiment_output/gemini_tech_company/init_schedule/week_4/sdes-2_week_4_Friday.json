@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails, review to-do list. Play some music to get energized for the last day of the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review all the progress made this week on the cover system, AI behavior, and player progression. Identify any outstanding issues or areas that need further attention."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prioritize the remaining tasks and create a plan for addressing them. Focus on completing the most important tasks first. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Spend time refactoring and cleaning up the code for the cover system, AI behavior, and player progression. Ensure the code is well-documented and easy to understand."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Order pizza with the team."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct final testing sessions to ensure the game is stable and bug-free. Fix any remaining bugs or issues that are discovered."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a summary report of the work completed this week. Outline the key achievements, challenges encountered, and lessons learned. "
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share the summary report with the team and gather feedback. Discuss any potential improvements or future directions for the game's systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by backing up the project and clearing my desk. Wish everyone a good weekend and log off. Maybe catch a movie tonight."
+    }
+]

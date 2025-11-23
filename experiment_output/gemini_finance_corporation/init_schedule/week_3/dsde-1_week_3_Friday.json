@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office. Check emails. Browse some photography websites."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the evaluation results to the team. Discuss the strengths and weaknesses of the initial strategies, and solicit feedback from team members. Collaborate with @QRES-1, @QRES-2, and @QRES-3 on potential improvements and extensions to the strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate the feedback from the team and update the strategies accordingly. Refine the backtesting process and re-evaluate the performance of the updated strategies. Document all changes and refinements in the code and documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Have lunch with some colleagues and chat about the week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a final report summarizing the week's activities, including the data cleaning process, strategy development, evaluation results, and future directions. Ensure the report is well-organized, comprehensive, and easily accessible to all team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a final evaluation report and present it to @CIO-1. Finalize the documentation for future use."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Leave the office to enjoy the weekend."
+    }
+]

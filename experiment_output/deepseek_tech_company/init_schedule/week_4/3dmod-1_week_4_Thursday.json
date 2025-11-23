@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries about the handoff. Finalize the organization of all assets."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Upload the finalized assets to the shared drive and ensure all files are correctly named and tagged."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create documentation for the assets, including usage guidelines and optimization notes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the final handoff email to @cdev-1, @cdev-2, @cdev-3, and @lpro-1, including links to the assets and documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Follow up with @prod-1 to confirm the handoff is complete and discuss any next steps."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize any outstanding comments on the testing strategy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work with @beng-1 (Build Engineer) to ensure the integration of test plans in the build pipeline."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the latest game build and assess features that are ready for testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document findings from the latest game build review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a report summarizing the week\u2019s progress to share with the department."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week by organizing files and scheduling priorities for next week."
+    }
+]

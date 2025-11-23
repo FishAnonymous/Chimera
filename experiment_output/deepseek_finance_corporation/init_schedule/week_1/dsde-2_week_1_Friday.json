@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent messages. Review the final report."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Submit the final report to @pm-1 and @cio-1. Prepare a presentation summary."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Break. Reflect on the week's work and identify areas for improvement."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Prepare for a team meeting to present findings. Create slides and talking points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the team. Discuss next steps and gather feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ir-1 and @mkt-1 to discuss how findings can be leveraged for investor relations and marketing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week. Organize notes and plan for the following week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End of the workweek. Relax and unwind."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any pending approvals for the financial report."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Monitor cash flows and prepare a summary for the week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @facc-2 to cross-verify cash flow data."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the preliminary budget with @coo-1 for any final adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update internal financial dashboards with the latest data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Check in with @pm-1 to ensure all financial tasks are on track."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and archive all financial documents for the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan tasks for Friday and prioritize any remaining work."
+    }
+]

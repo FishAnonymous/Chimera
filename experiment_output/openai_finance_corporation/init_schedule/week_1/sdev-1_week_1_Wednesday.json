@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review last minute changes and finalize the documentation from previous days."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend a team meeting to discuss project updates and any changes in project priorities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Define user cases in collaboration with @qres-1 and @qres-2 for backend functionalities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on creating tests for backend integration and functionalities."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a progress report to @pm-1, @cio-1, and @ir-1 regarding backend development progress."
+    }
+]

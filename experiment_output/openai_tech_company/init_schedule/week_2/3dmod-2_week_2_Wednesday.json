@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and gather reference material for the second environment asset."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin modeling the second key environment asset, keeping gameplay functionality in mind."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the second key environment asset, refining the design and ensuring quality."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Complete the modeling of the second key environment asset and prepare for review with the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and reach out to @3dmod-1 for a collaborative review session on both assets."
+    }
+]

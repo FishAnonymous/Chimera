@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct the third training session with @rn-3 on data entry for influenza cases."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collect feedback from @rn-3 and discuss improvements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the proposal for EHR improvements to @clinlead-1 and @itpm-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback on the proposal from @clinlead-1 and @itpm-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize any changes to the proposal based on feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any important communications."
+    }
+]

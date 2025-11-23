@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and prepare for the next modeling task."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start creating 3D models for the first key environment asset that is essential to the gameplay."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the first key environment asset model, ensuring it complements the overall design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finish the first key environment asset model and prepare to initiate work on the second asset."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and discuss with @lpro-1 to gather insights on gameplay integration for the assets."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any overnight system issues or requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue testing and validating new data fields and workflows, focusing on user feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @clinlead-1 and @pchmp-1 to review workflow validations and gather clinical input."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement any necessary adjustments based on feedback from the clinical team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide technical support for system issues, prioritizing critical problems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @ehrv-1 to ensure vendor-specific configurations are correctly implemented."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all changes and updates made to the EHR system for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and plan for Wednesday's tasks."
+    }
+]

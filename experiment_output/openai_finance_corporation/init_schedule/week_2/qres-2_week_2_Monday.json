@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a comprehensive competitor analysis for market-neutral funds that target UHNWIs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile initial findings from the competitor analysis and categorize them based on performance metrics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qres-1 and @qres-2 to discuss insights and perspectives on the competitor analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Continue refining the competitor analysis by looking into marketing strategies and fee structures."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an email to @pm with an update on the progress of the competitor analysis and request any additional information needed."
+    }
+]

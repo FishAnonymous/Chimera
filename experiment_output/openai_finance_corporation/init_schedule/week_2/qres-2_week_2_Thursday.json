@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize the presentation from the competitor analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Practice the presentation and refine key points to highlight."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out the presentation draft to @legal-1 and @comp-1 for compliance review."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Schedule a check-in with @pm to discuss overall project timelines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's progress and outline tasks for next week."
+    }
+]

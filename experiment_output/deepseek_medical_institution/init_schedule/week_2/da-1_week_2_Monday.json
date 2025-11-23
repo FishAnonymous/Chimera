@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the week's goals. Prioritize tasks for defining KPIs for influenza trend reports."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research and draft potential KPIs for influenza trend analysis. Consider metrics like infection rates, vaccination rates, and patient demographics."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @his-1 and @his-2 to discuss potential KPIs and gather their input on relevant health informatics standards."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review existing EHR data structure with @dba-1 to understand available data fields for KPI calculation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the list of KPIs and document them. Share the draft with @clinlead-1 and @pchmp-1 for clinical validation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin researching data visualization techniques suitable for influenza trend reports. Look into tools like Tableau or Power BI."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

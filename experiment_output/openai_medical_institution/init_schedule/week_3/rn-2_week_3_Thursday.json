@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check for any last-minute emails and prepare for today\u2019s training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in another training session focusing on advanced EHR tool usage with @trainer-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Debrief with @clinlead-1 about the previous training sessions and compile feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the presentation materials based on feedback from training sessions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send final presentation to @ehrv-1 and @itpm-1 for their review before the team meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax and prepare for the team meeting tomorrow."
+    }
+]

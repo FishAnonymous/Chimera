@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Quick check of emails and news headlines. Respond to any urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Revisit the accounting framework, specifically the section on expense tracking. Finalize the list of expense categories and the allocation methods for each category (e.g., management fees, performance fees, legal fees)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss expense tracking with @COO-1 to ensure alignment with the fund's operational budget and expense approval process. Confirm the chart of accounts to be used for expense recording."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the expense tracking procedures in detail, including the approval workflow, the documentation required, and the reporting frequency."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin preparing for the fund's first audit. Start by gathering all relevant documentation, including the fund's legal documents, investment policies, risk management procedures, and accounting policies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review the documentation to ensure it is complete, accurate, and organized. Identify any gaps or areas that need further clarification."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a list of potential audit questions and areas of focus for the external auditor @AUDIT-1. Include questions related to valuation, performance calculation, and expense allocation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send an email to @AUDIT-1 to schedule an introductory meeting to discuss the audit scope, timeline, and documentation requirements. Attach the list of potential audit questions."
+    },
+    {
+        "Time": "17:45",
+        "Activity": "Wrap up for the day."
+    }
+]

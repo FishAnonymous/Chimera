@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails; refresh documentation on integration proposals before dissemination."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send out integration proposals to stakeholders, including @ehrv-1, @itpm, @clinlead-1 for their review."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for a workshop session on EHR integration, including creating presentation materials."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a workshop with relevant staff, including @trainer-1, to discuss effective EHR integration."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback and suggestions from the workshop participants to refine integration solutions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by compiling feedback and preparing for implementation discussions."
+    }
+]

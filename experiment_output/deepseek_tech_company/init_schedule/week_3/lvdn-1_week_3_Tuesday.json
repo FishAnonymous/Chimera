@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review yesterday's progress and adjust any misplaced props."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on adding finer details to the environment, such as decals, foliage, and small interactive elements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @cart-1 to align on the visual style and ensure consistency with the game's art direction."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the level's performance with the new assets. Identify any potential bottlenecks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimize the level by reducing unnecessary polygons and adjusting LOD settings for props."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @lpro-1 and @sdev-1 to discuss performance findings and potential optimizations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement optimizations based on feedback. Re-test performance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax by sketching personal project ideas in a notebook."
+    }
+]

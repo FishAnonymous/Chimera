@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and conduct a final review of character animations and environment assets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare presentation slides summarizing final changes and improvements for next week's goals."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send final character models and animations to @qtest-1 for testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Arrange a brief meeting with @prod-1 to discuss next week's objectives and align on team goals."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Engage in some creative brainstorming for future character designs and environment props."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by reviewing progress and planning tasks for the following week."
+    }
+]

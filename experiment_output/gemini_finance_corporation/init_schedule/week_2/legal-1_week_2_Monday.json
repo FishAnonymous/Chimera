@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Skim through the latest financial news headlines - gotta stay sharp."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Deep dive into SEC regulations concerning fund formation. Start with Investment Company Act of 1940, focusing on relevant exemptions for private funds targeting UHNWIs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research SEC guidelines on marketing to UHNWIs, specifically focusing on regulations regarding accredited investor verification and limitations on general solicitation under Regulation D.  Make notes on potential compliance pitfalls."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Head out to that new taco place a few blocks away. Need a mental break and some decent carnitas."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "More regulatory research, this time focusing on the nuances of statistical arbitrage strategies and potential regulatory scrutiny. Look for enforcement actions related to similar strategies to identify areas of concern."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin outlining the key sections of the fund's Private Placement Memorandum (PPM).  Focus on the risk factors section, anticipating potential regulatory concerns about the statistical arbitrage strategy."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review notes and outline. Prepare a to-do list for tomorrow. Consider sending an email to @COMP-1 and @CIO-1 to schedule a brief meeting to discuss some preliminary findings re: compliance requirements."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home. Thinking about playing some chess online later."
+    }
+]

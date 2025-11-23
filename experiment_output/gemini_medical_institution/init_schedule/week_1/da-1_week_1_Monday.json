@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up the computer, grab a coffee, and check emails. Scan for anything urgent related to data availability or system outages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Quick browse of sports news to catch up on the weekend games."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start working on the primary goal: Define initial data quality metrics for EHR data related to influenza tracking. First, identify key data elements required for accurate influenza trend analysis (e.g., ICD-10 codes, lab results, vaccination records, demographic data)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an email to @clinlead-1, @his-1, @rn-1 to request a meeting to discuss which data elements are most critical from a clinical and reporting perspective for influenza tracking."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue defining the data quality metrics. Focus on Data Completeness (percentage of records with required data), Data Accuracy (correctness of recorded information), Data Consistency (uniformity across different data sources), Data Timeliness (availability of data when needed), and Data Validity (conformance to expected formats and values)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head to the cafeteria for a quick bite."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @clinlead-1, @his-1, @rn-1 to finalize the key data elements for influenza tracking and get their input on the proposed data quality metrics. Make notes on any modifications suggested."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the data quality metrics based on the feedback received from the meeting. Document each metric with a clear definition, calculation method, and target threshold."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reach out to @dba-1 to understand the table structures and data types in the EHR database relevant to influenza data. Need to plan how to extract the data for analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Start drafting the outline for the weekly data quality report. Include sections for executive summary, data quality metrics, progress against targets, and potential areas for improvement. Plan to use visualization tools to present the data effectively."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Review the day's accomplishments and plan for tomorrow."
+    }
+]

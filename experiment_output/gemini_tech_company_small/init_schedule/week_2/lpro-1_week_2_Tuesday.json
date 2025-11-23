@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Review the progress from yesterday and the remaining tasks for the combat system architecture."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement the Weapon class. Include properties for damage type, attack range, and attack animation. Design an interface for attaching weapons to characters."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create the Attack class, encapsulating the attack logic. This includes determining the target, applying damage, and triggering hit reactions. Implement a basic melee attack."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Implement the DamageCalculator class. This class handles the damage calculation based on attacker attributes, defender attributes, and weapon properties. Implement a simple damage formula."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read a programming article on game development best practices."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the HitDetector class. Use Unreal Engine's collision system to detect hits. Ensure accurate hit detection for different weapon types."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Integrate the HitDetector and DamageCalculator with the Attack class. Ensure that damage is applied correctly when a hit is detected."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Create a simple test environment to test the combat system. Add two characters, equip them with weapons, and test the attack logic."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Debug and fix any issues with the combat system. Ensure that damage is applied correctly and that hit detection is accurate."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Commit changes to Git. Prepare for implementing basic AI tomorrow."
+    }
+]

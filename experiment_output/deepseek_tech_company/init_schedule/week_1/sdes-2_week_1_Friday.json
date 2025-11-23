@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review any final comments or approvals on the design documents."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Archive the finalized documents and ensure all team members have access to the latest versions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @prod-1 to discuss next week's goals and how to transition from design to implementation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a summary report of the week's achievements and send it to @prod-1 and @ldes-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Take some time to relax and browse inspirational game design websites for new ideas."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize your workspace and plan for the upcoming week, setting personal goals and priorities."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by thanking the team for their collaboration and support via email."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off and enjoy the weekend."
+    }
+]

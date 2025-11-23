@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails. Review project goals and objectives for influenza data collection."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @rn-1 to discuss clinical insights and align on project objectives."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend project meeting with @itpm-1, @ehrdev-1, and @ehrdev-2 to provide clinical insights and review progress."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from @rn-2 and @rn-3 on EHR system usability and data collection processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document feedback from clinical staff and share with @ehrv-1 and @trainer-1 for system improvements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @da-1 and @da-2 on influenza trend analysis data requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review EHR integration progress with @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare summary report for the day and plan for tomorrow."
+    }
+]

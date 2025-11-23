@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the week's accomplishments and areas for improvement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Collaborate with @dba-1 to ensure the database is ready for the changes needed for the EHR modifications."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Convene with IT Project Manager @itpm-1 to align on project dependencies and confirm resource availability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a weekly summary and update all team members on the progress made and next week's focus."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out the weekly summary to all team members, encouraging feedback and suggestions for the next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around by watching educational videos about evolving trends in healthcare technology."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and review the detailed goals for this week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Research color schemes that align with the game's theme."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Define typography styles suitable for the game, focusing on readability and aesthetic."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a list of potential iconography that fits the game\u2019s visual style."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Compile color schemes, typography and iconography into a visual reference document."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the visual reference document to @Concept Artist, @3D Modeler/Animator for their input."
+    }
+]

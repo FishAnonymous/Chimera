@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for any new updates from the EHR Vendor Liaison."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Analyze the results of the last round of testing and identify any remaining issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @Quality Assurance Tester to discuss testing outcomes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work on resolving issues discovered in the latest test results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the integration scripts and conduct regression tests."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft an update report for the project manager about EHR integration status."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any pending queries."
+    }
+]

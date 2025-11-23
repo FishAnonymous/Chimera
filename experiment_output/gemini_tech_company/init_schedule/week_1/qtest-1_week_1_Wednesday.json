@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and system notifications. Review the previous day's test results and identify areas that require further investigation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prioritize and retest critical bugs that block further testing. Communicate with developers to ensure bugs are addressed promptly. @CDEV-1, @CDEV-2, @CDEV-3 Bug priority check."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Execute test cases focused on UI elements and user interface. Document any issues with menu navigation, text display, or input controls. @UIUX-1 Need some support on the UI part."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin performance testing. Monitor frame rates, memory usage, and load times during gameplay. Document any performance bottlenecks or areas of concern."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct stress tests by simulating high player loads or intense combat scenarios. Monitor the game's stability and identify any potential crashes or errors."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Perform ad-hoc testing, focusing on level design and environmental interactions. Look for collision issues, invisible walls, or areas where players can get stuck."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze performance test results. Identify the root cause of performance bottlenecks and propose potential optimizations. @LPRO-1 Performance test results are out. Let's take a look."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize testing progress. Prepare a daily report outlining the number of test cases executed, the number of bugs found, and any significant observations."
+    }
+]

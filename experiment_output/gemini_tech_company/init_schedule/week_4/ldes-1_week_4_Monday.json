@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and calendar. As the meeting minutes are unavailable, I'll start by reviewing the project documentation and the current state of the Third-Person Shooter project. This will help me understand the priorities and potential areas that need immediate attention."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @Prod-1, the Producer, to discuss the goals and priorities for Week 4. Understanding the overarching objectives is crucial before diving into specific tasks. @Prod-1 Scheduling the meeting."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @Prod-1 to understand Week 4's goals, deliverables, and any specific concerns or roadblocks. Taking notes and clarifying any ambiguities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on the meeting with the Producer, I'll identify the key areas requiring my focus this week. This may include level design, narrative integration, system design, or a combination thereof. Documenting these key focus areas."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Initiate email communication with relevant team members (e.g., @Lvdn-1, @Ndes-1, @Sdes-1, @Sdes-2) to schedule short check-in meetings to discuss progress and potential needs within their respective domains. @PEOPLE Email communication to set up brief meetings."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Hold check-in meeting with @Lvdn-1 Level Designer, to discuss level design progress, challenges, and how the design integrates with the overall game vision. Offer guidance and support where needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check-in meeting with @Ndes-1 Narrative Designer, to discuss narrative integration, character development, and how the story elements enhance the gameplay experience. Provide feedback and suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's objectives, consolidate notes from meetings, and create a detailed task list for the remainder of the week. This includes prioritizing tasks and allocating appropriate time slots."
+    }
+]

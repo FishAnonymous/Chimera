@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and address any replies from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @trainer-1 to plan training sessions for end-users on the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Identify specific training content based on user feedback collected from nurses."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile a list of questions and topics for the training sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating training materials and documentation for EHR users."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consult with @helpdesk-1 for troubleshooting user concerns from the test phase."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue to refine training materials based on feedback from @helpdesk-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow's training sessions, ensuring all materials are ready."
+    }
+]

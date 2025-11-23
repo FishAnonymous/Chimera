@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to review emails and feedback from the previous day\u2019s findings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Data Analyst to collaboratively analyze the issues identified during the preliminary QA testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement feedback from Data Analysts and adjust QA testing protocols accordingly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue QA testing with revised protocols, focusing specifically on influenza case data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue QA testing and document any new issues found in the EHR data."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a detailed report of the QA findings to be shared with the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @Health Informatics Specialist to ensure the findings align with clinical insights."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Conclude daily work and update the testing log with all findings."
+    }
+]

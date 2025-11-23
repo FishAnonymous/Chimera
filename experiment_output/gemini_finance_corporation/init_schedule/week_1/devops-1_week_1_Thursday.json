@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and address any urgent matters. Coffee. Skim news sites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue documenting the hardware and software requirements for the technology infrastructure. Focus on specifying the operating system, database, and programming language requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research and document potential deployment strategies for the technology infrastructure. Evaluate options such as on-premise, cloud-based, and hybrid deployments. I prefer hands-on so cloud based sounds good."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @legal-1 and @comp-1 to get clarification on the legal/compliance requirements for data storage/access in the cloud. I might also ask if they have any preferred cloud vendors."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a preliminary cost estimate for the technology infrastructure. Include costs for hardware, software, data feeds, cloud services, and personnel. Spreadsheets are my nemesis, but this is necessary."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Identify potential risks associated with the technology infrastructure, such as data breaches, system failures, and regulatory compliance issues. Develop mitigation strategies for each risk. Sounds a bit doom and gloom, but we need to cover our bases."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and refine the technology infrastructure plan. Prepare a draft executive summary. Plan tomorrow's tasks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse tech news websites."
+    }
+]

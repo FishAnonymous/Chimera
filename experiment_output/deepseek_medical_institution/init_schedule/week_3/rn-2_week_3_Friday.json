@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, review patient records for the week. Identify any missing or incomplete data."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize data entry for the week, ensure all patient symptoms and vaccination statuses are accurately recorded."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a break, browse healthcare forums for any new insights on influenza trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Resume data entry, cross-check with @da-1 and @da-2 for any discrepancies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a wrap-up meeting with @clinlead-1, @itpm-1, and @pchmp-1 to review the week's progress and discuss any outstanding issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update any remaining patient records, ensure all data is complete and accurate."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Submit weekly report on data entry and training progress to @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the week, ensure all systems are logged out and records are securely saved."
+    }
+]

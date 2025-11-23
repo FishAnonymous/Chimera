@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails, review objectives based on Monday's meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend @itpm-1\u2019s project management meeting to discuss EHR project timelines."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start developing data collection scripts for EHR integration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Communicate with @rn-1 and @rn-2 regarding standard clinical data entry protocols."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing data scripts based on clinical input gathered."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a demo of EHR functionalities for @trainer-1 and @pchmp-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft an email summarizing today's progress and send to the team @his-1, @da-2."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Begin coding the base structure of the investor portal. Focus on routing and main layout components."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @pm-1 to present progress and adjust priorities if needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement authentication flow mockup to test integration with backend services."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a prototype for the dashboard's main view, integrating placeholder data."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @dsde-1 and @dsde-2 to discuss data requirements for the investment reporting feature."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review code and document any blockers or questions for tomorrow."
+    }
+]

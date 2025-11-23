@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails, and finalize feedback for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review feedback with @Quality Assurance Tester and prepare documentation of findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit final observations and suggestions to enhance EHR usability to the Clinical Lead."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Participate in a wrap-up meeting with the team to discuss the week\u2019s progress and gather insights."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and prepare for the following week."
+    }
+]

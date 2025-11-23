@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, brew a cup of calming chamomile tea, and settle in for the day. Check personal email for any interesting articles or creative prompts."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Log in to the work system and review any urgent emails or messages related to the help desk project. Prioritize tasks based on urgency and impact."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin working on the help desk ticketing system. Focus on the user interface for submitting tickets. Brainstorm ways to make the interface intuitive and user-friendly, considering the diverse technical skills of the hospital staff."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break to stretch and listen to a calming instrumental piece to clear my head and get fresh ideas."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue implementing the ticket submission form. Add fields for describing the issue, selecting the affected system, and uploading relevant screenshots or documents."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Take a walk outside in the small garden near the hospital to clear my head and enjoy the fresh air."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research best practices for help desk ticket categorization. Aim to make the system easier to track and analyze tickets."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin development of the email channel for support. Research existing libraries or services to simplify processing incoming emails and automatically creating tickets. @EHRDEV-1 @EHRDEV-2 Topic: API and Backend for Help Desk Ticketing System"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and document any challenges encountered. Make a list of tasks to be completed tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check personal email and browse design inspiration websites for UI/UX ideas for the help desk portal."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out and head home."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and calendar for any urgent updates or meetings."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review feedback from @Legal Counsel and @Compliance Officer on the audit checklist. Identify areas for improvement and clarification."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Revise the checklist based on feedback. Focus on addressing any legal or compliance concerns raised by @Legal Counsel and @Compliance Officer."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research best practices for auditing statistical arbitrage funds. Review case studies and industry publications to identify potential audit risks and challenges."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Contact @qres-1, @qres-2 and @qres-3 to discuss the statistical arbitrage model used by the fund. Understand model assumptions, validation procedures, and ongoing monitoring."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Incorporate information from discussions with @qres-1, @qres-2 and @qres-3 into the audit checklist. Add sections on model validation, backtesting, and sensitivity analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the checklist with specific audit procedures for verifying the accuracy and reliability of the fund's statistical arbitrage model."
+    }
+]

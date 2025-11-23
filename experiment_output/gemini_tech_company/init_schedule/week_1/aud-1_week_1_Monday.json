@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the weekly goals. Mentally prepare for the week ahead, focusing on organization and efficiency. I will also check the project management software (Jira or similar) for any new tasks or updates relevant to the audio department."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start compiling a comprehensive list of all required sound effects. Begin by outlining major categories such as player actions (footsteps, weapon fire, jumping), environmental sounds (wind, rain, ambient nature sounds), UI sounds (menu clicks, notifications), and enemy actions (attacks, death sounds). Break down each category into specific sounds needed."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ldes-1 (Lead Game Designer) and @sdes-1 (Systems Designer) to discuss specific in-game events and triggers that require audio cues. Clarify the priority of sound effects based on gameplay importance and potential impact on player experience. Document all decisions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the sound effect list based on feedback from the meeting. Create a spreadsheet or document to track the status of each sound effect (e.g., 'Not Started', 'In Progress', 'Sourced', 'Integrated'). Add detailed descriptions for each sound, noting the desired style, length, and intensity."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Head to the cafeteria for a quiet lunch and listen to some calming music to recharge before the afternoon."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin sourcing sound assets. Start by searching through existing sound libraries (e.g., Sound Ideas, Adobe Audition sound effects) for suitable sounds. Log all found sounds in the spreadsheet, noting the source, filename, and any necessary modifications."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Explore options for creating custom sound effects if suitable pre-made sounds cannot be found. Consider recording sounds myself using studio equipment or collaborating with @3dmod-2 (3D Modeler/Animator) to capture specific movement sounds."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and update the sound effect tracking spreadsheet. Prepare a summary of accomplishments and outline the tasks for tomorrow. Clean up workspace."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check personal emails and browse audio-related websites/forums to stay updated with industry trends and techniques."
+    }
+]

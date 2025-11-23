@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for any updates or requests. Review the to-do list from yesterday and prioritize tasks for today. Put on some lo-fi music."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue researching cover systems. Start prototyping a basic cover mechanic in the game engine (assuming a basic project is already set up). Focus on getting the player to smoothly enter and exit cover."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Experiment with different cover types and how they affect player movement and visibility. Implement simple animations for entering and exiting cover to provide visual feedback to the player."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the progress made on the cover system prototype. Outline any challenges encountered and potential solutions. Take screenshots or record a short video to showcase the functionality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Go for a walk outside to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Explore options for implementing a dynamic cover system where the player can take cover behind any suitable object in the environment. Research collision detection techniques and pathfinding algorithms."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Since the dynamic cover system implementation might need related support from the client developer, send out an email to @Cdev-1, @Cdev-2, @Cdev-3 with topic 'Tech support needed on the dynamic cover system'. Explain my purpose and request support."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Evaluate the performance impact of the dynamic cover system. Optimize the code to minimize resource usage and ensure smooth gameplay. Check Unity documentation for optimization tips."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by cleaning up the code and adding comments. Back up the project and update the to-do list for tomorrow. Read some sci-fi on my kindle before logging off."
+    }
+]

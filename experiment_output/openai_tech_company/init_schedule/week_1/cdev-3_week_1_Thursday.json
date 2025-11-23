@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review any updates on the prototype feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement additional features into the prototype based on previous feedback from the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a review session with @Producer and @QA Tester on the prototype's functionality and gather feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Make final adjustments to the prototype based on the feedback from the review session."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Conclude day by preparing a demo of the prototype for Friday's team meeting."
+    }
+]

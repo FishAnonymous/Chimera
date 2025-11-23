@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any inquiries regarding documentation and asset integration."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @prod-1 to discuss the project timeline and any potential risks related to integration and documentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare visual assets and documentation for presentation to stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a thorough review of visual effects and art assets integrated into the game."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the presentation for stakeholders, organizing showcasing materials effectively."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and follow up with any outstanding actions."
+    }
+]

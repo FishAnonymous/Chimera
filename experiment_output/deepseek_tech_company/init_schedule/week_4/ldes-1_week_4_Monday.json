@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the current state of the GDD and identify sections that need polishing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ndes-1 to discuss narrative elements in the GDD and ensure consistency."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on polishing the GDD, focusing on gameplay mechanics and level design sections."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue polishing the GDD, ensuring all sections are clear and comprehensive."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @prod-1 and @lpro-1 to review the GDD and provide feedback before publishing."
+    }
+]

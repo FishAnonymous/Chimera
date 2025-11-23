@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the report on performance testing with @Lead Game Designer to gather insights."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Iterate on asset optimization based on insights from the report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize LOD models and prepare them for integration into the game."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the integration of LOD models into the game environment."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document integration results and prepare for the final review."
+    }
+]

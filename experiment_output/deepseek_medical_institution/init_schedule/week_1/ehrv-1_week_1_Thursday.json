@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review project timeline updates with @itpm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @trainer-1 to discuss training needs for staff on new EHR functionalities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft a communication plan for informing staff about upcoming changes to EHR system."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review communication plan with @clinlead-1 and @pchmp-1 for feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback into communication plan and finalize."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send finalized communication plan to @itpm-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with EHR vendor on any outstanding issues or questions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare weekly progress report for leadership team."
+    }
+]

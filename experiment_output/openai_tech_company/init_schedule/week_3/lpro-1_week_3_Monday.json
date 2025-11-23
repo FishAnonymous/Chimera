@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up playtesting environment and prepare build for testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct initial playtesting session with selected team members."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather and record feedback from the playtest regarding bugs and gameplay discrepancies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with @qtest-1 to discuss initial findings from playtesting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with @qtest-1 to document identified issues and start prioritizing them."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review existing gameplay mechanics and prepare a list of potential changes based on playtesting feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a summary email to @lpro-1 and @ldes-1 regarding playtesting results and proposed changes."
+    }
+]

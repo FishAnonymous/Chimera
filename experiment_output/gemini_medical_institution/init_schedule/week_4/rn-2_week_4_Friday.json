@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review any outstanding tasks or alerts. Check personal email for weekend plans."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Complete patient assessments and EHR data entry, focusing on patients with suspected influenza infections. Be patient with all the patients!"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with the infection control team to monitor influenza activity and implement appropriate prevention measures. @his-1 and @his-2 might be helpful."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Treat myself to a special lunch to celebrate the end of the work week. Reward yourself."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and update patient care plans as needed, based on lab results and clinical findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Provide education and counseling to patients and families about influenza prevention and treatment. I will try my best to help all the patients!"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete end-of-week documentation and prepare for a relaxing weekend. Weekend is coming!"
+    }
+]

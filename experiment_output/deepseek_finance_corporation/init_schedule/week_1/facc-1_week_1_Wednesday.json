@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback from @pm-1 and @coo-1."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Incorporate feedback into the budget draft and make necessary adjustments."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ir-1 to discuss investor relations costs and potential expenses for high-net-worth client engagements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the budget with investor relations and client onboarding costs (@onbd-1)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Cross-check all cost estimates with @facc-2 to ensure accuracy in financial projections."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a presentation of the preliminary budget for internal review."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send the presentation to @pm-1 for final review before the team meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up and prepare for tomorrow's presentation."
+    }
+]

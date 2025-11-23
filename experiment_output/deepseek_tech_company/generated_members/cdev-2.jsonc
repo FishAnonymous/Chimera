@@ -1,0 +1,27 @@
+{
+    "name": "Marcus Chen",
+    "id": "cdev-2",
+    "ip": "10.0.0.12",
+    "age": 32,
+    "role": "Client Developer",
+    "description": "Specializes in implementing responsive UI systems, optimizing client-side performance, and integrating design assets into the game engine. Collaborates with backend developers to ensure seamless gameplay experiences.",
+    "tools": [
+        "UnrealEngine",
+        "Rider",
+        "GitHub",
+        "UIProfiler",
+        "ShaderGraph"
+    ],
+    "mbti": "ISTP",
+    "interests": "competitive FPS games, mechanical engineering, 3D printing",
+    "personality": "Highly pragmatic and hands-on. Prefers solving concrete problems over abstract discussions. Works best in focused bursts with breaks in between.",
+    "application": {
+        "Zendo": {
+            "account_name": "cdev-773945",
+            "password": "marcusC@clientdev",
+            "permissions": "developer"
+        }
+    },
+    "email": "cdev-773945@corp.com",
+    "container_id": "8b3c5a2d7f01"
+}

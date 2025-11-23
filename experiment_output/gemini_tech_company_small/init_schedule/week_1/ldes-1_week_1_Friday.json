@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Get into the office. Check emails and news. Enjoy the last day of the week!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Combine the walk cycle and idle pose animations. Create a seamless transition between the two animations. Ensure the character's movements look fluid and responsive. Integrate animations to game engine."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a small, playable area with basic environmental assets. Use the blockout models created earlier in the week. Add walls, floors, and simple props. The focus should be on functionality and readability, not high fidelity. Focus: Create a small, playable area."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Integrate the player character and animations into the playable area. Test the character's movement and interactions with the environment. Ensure the character feels responsive and the animations look natural. Ask @lpro-1 and @cdev-1 to test."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement basic gameplay mechanics, such as shooting, jumping, and collecting items. The focus should be on functionality and fun, not polish. Email @lpro-1, @cdev-1 and discuss problems found in the test."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Fix bugs and issues reported by the team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Playtest the small, playable area with the team. Gather feedback on the gameplay, visual style, and overall experience. Make notes for future improvements. Focus: The focus should be on functionality and readability, not high fidelity."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the week's accomplishments and challenges. Plan for the next week's goals and tasks. What needs to be improved? What are the next steps?"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Pack up and head home. Celebrate the end of the week with friends and family. Reflect on the progress made and look forward to the next week's challenges."
+    }
+]

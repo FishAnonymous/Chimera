@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the previous day's integration notes and plan for audio mix testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on fine-tuning the audio mix. Adjust levels of different sound effects to create a balanced and immersive experience."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Pay close attention to the volume balance between character actions, environmental sounds, and UI feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "@QTEST-1 (QA Tester) Request feedback on the audio mix and overall sound design. Topic: Audio testing and feedback"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Adjust the audio mix based on the feedback received from the QA tester."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test different sound effect variations to see what sounds the best."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the audio mixing settings and changes made for future reference."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete final backups of the sound effects, integrated audio, and audio mix settings. Prepare a weekly progress report for @PROD-1 (Producer)."
+    }
+]

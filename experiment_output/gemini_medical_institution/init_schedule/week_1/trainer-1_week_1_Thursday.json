@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Analyze the completed needs assessment questionnaires. Prepare a summary report highlighting the key knowledge and skill gaps among staff."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Share the needs assessment report with @clinlead-1, @pchmp-1, @his-1 and @his-2 for their review and feedback. Discuss the implications of the findings for the training program."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Revise the training outline based on the feedback received on the needs assessment report. Prioritize the training topics that address the most critical knowledge and skill gaps."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Develop more detailed learning objectives, ensuring they are Specific, Measurable, Achievable, Relevant, and Time-bound (SMART)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Talk to some colleagues and get relaxed."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research and select appropriate training materials, such as presentations, handouts, and online resources."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss the quality assurance testing process for the EHR system and data collection procedures. Incorporate QA considerations into the training program."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @helpdesk-1 to ensure that the help desk is prepared to support staff members during and after the training program. Provide them with information about common issues and troubleshooting tips."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all learning objectives for clarity, measurability, and alignment with the overall project goals."
+    }
+]

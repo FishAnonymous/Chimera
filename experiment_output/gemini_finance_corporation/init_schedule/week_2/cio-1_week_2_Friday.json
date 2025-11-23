@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Review market news and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review and revise all the previous discussion and the fund strategy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final meeting with all the members in the company to discuss the fund strategy and risk management framework. @PEOPLE: dsde-2, onbd-1, mkt-1, comp-1, dsde-1, larch-1, audit-1, qres-3, pm-1, ir-1, qres-1, coo-1, facc-1, sdev-2, legal-1, cio-1, qres-2, sdev-1, facc-2, devops-1 Topic: Final meeting for the fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Discuss the development trend in Finance with other leaders from the corporation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the fund strategy document and risk management framework."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Report to COO for the weekly progress. @PEOPLE: coo-1 Topic: Report weekly progress."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

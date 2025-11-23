@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review recaps from Wednesday meetings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize roles and responsibilities document and distribute it to all relevant members."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Coordinate with @audit-1 (External Auditor) to ensure all financial documents are compliant and accurate."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for an internal audit on operational aspects with the support of the Compliance team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of fund launch procedures with the team."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review outcome of dry run and address any discrepancies or issues observed."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document observations from the dry run and plan necessary adjustments."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up activities and set up a meeting for the last preparation discussions on Friday."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and review data integrity guidelines to ensure compliance during cleaning processes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue data cleaning, focusing on outlier data and inconsistencies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @qatest-1 and @qatest-2 to prepare for QA checks once data cleaning is complete."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document findings from the data cleaning process and identify areas requiring further attention."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with @dba-1 on the previous day's feedback regarding the database adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the preliminary report on data collection and cleaning for presentation."
+    }
+]

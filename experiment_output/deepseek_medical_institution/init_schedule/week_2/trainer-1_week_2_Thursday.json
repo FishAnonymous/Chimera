@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any urgent matters. Review the finalized training materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a dry run of the training session with @clinlead-1 and @pchmp-1 to gather feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the training materials based on feedback from the dry run."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare training session logistics, including room bookings and equipment checks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out training session invitations to nursing staff and confirm attendance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @helpdesk-1 to ensure technical support is available during training sessions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all training materials and logistics to ensure everything is ready for the sessions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for the training sessions."
+    }
+]

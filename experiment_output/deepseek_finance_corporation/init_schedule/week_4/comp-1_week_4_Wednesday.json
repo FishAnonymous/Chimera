@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the updated compliance documentation for completeness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to provide a status update on the SEC compliance documentation and discuss next steps."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare a summary report of the internal audit findings for senior management review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @ir-1 to discuss any investor-related disclosures that need to be included in the SEC documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize the summary report and submit it to @coo-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize all documents and prepare for the external compliance review."
+    }
+]

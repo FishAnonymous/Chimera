@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent messages. Review presentation slides for leadership meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 and @ehrv-1 to discuss clinician feedback and potential solutions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Revise presentation based on feedback from IT and vendor teams."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Conduct a walkthrough of EHR workflows with @rn-3 to validate feedback and identify additional issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present clinician feedback and proposed solutions to the leadership team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @dba-1 and @his-1 to ensure data collection for seasonal influenza trends is on track."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @trainer-1 to discuss training needs for clinical staff based on feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation with feedback and action items."
+    }
+]

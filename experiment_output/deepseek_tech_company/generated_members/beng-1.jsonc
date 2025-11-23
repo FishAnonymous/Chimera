@@ -1,0 +1,30 @@
+{
+    "name": "Elijah Winters",
+    "id": "beng-1",
+    "ip": "10.0.0.29",
+    "age": 40,
+    "role": "Build Engineer",
+    "description": "Responsible for creating and maintaining the build pipeline, ensuring fast and reliable compilation, packaging, and deployment of game builds. Implements CI/CD systems, optimizes build times, and troubleshoots compilation issues across multiple platforms.",
+    "tools": [
+        "Jenkins",
+        "TeamCity",
+        "Perforce",
+        "Docker",
+        "CMake",
+        "MSBuild",
+        "IncrediBuild",
+        "PlatformSDKs"
+    ],
+    "mbti": "ISTP",
+    "interests": "classic muscle cars, home server tinkering, competitive programming",
+    "personality": "Highly pragmatic and solution-focused. Prefers working on concrete technical problems rather than abstract discussions. Most productive during late-night coding sessions when the office is quiet. Enjoys optimizing systems to their limits.",
+    "application": {
+        "Zendo": {
+            "account_name": "beng-445566",
+            "password": "elijahW@buildeng",
+            "permissions": "admin"
+        }
+    },
+    "email": "beng-445566@corp.com",
+    "container_id": "8e7f6a5d4c3b"
+}

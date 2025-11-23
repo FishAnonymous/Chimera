@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Perform a thorough quality check on all abstracted data to ensure completeness."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any gaps or inconsistencies identified during the quality check."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to review data accuracy and completeness."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Incorporate feedback from QA testers into the dataset."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare final dataset for submission to the database administrator."
+    }
+]

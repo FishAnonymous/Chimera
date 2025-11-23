@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review progress on data quality issue analysis and the draft reporting process."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @clinlead-1 and @rn-1 to present the draft data quality reporting process. Gather feedback and suggestions from a clinical perspective. Ensure the process is user-friendly and addresses the needs of clinicians."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback from @clinlead-1 and @rn-1 into the data quality reporting process. Refine the process based on their suggestions, paying close attention to clarity, efficiency, and ease of use."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Might read some articles on HealthITAnalytics."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating a detailed flowchart of the data quality reporting process. This will help visualize the steps involved, the roles and responsibilities, and the flow of information. Use a tool like Lucidchart or draw.io."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft an email to @qatest-1 and @qatest-2, requesting their input on the draft data quality reporting process from a quality assurance perspective. Ask them to identify potential weaknesses or areas for improvement. @PEOPLE QA Review of Data Quality Reporting Process"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the flowchart of the data quality reporting process. Prepare for a meeting with the QA team tomorrow to discuss their feedback."
+    }
+]

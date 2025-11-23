@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Settle in, grab a coffee, and check emails.  Prioritize based on urgency, especially any urgent requests from @qres-1, @qres-2, or @qres-3 regarding data discrepancies or requirements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goal plan for the week: researching and analyzing data sources. Break down 'Continue researching potential data sources' into smaller, actionable tasks.  List potential alternative data feeds besides the usual suspects. I'll focus on sources less likely to be over-exploited."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Start researching alternative data sources.  I'll start with academic research papers on statistical arbitrage and look for mentions of novel data used.  Set up Google Scholar alerts for relevant keywords."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Deep dive into one promising data source identified. Check its documentation, pricing, availability, and historical data coverage. Take notes on potential challenges and benefits. For example, data from shipping container traffic patterns or credit card transactions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Step away from the computer entirely. Grab something from downstairs and chat with colleagues - maybe @dsde-1 - about weekend plans. Avoid shop talk if possible."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue deep dive from earlier. Look into APIs or file formats needed to access the data. Explore sample datasets to get a feel for the data structure and quality.  Document everything thoroughly."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Contact @devops-1 via email to discuss the feasibility of ingesting the data source into our existing data pipeline.  Inquire about storage requirements and potential infrastructure upgrades. @devops-1 Topic: Feasibility of ingesting new data source [Data source name]"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Summarize findings from today's research on the data source. Create a brief presentation outlining the data source, potential uses, challenges, and next steps. This will be useful for a later discussion with the quant researchers."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Organize notes and files.  Check tomorrow's schedule and mentally prepare for the data analysis phase."
+    }
+]

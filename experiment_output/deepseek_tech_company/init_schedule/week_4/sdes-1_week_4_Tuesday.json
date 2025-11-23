@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review progress from yesterday. Prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 and @cdev-1 to discuss handoff requirements and documentation standards."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start drafting documentation for the handoff, focusing on system architecture and API specifications."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue documentation, ensuring all systems are covered. Verify with @sdev-1 for server-side specifics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review documentation with @ldes-1 for coherence with game design vision."
+    }
+]

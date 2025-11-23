@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review team feedback on mockups."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement changes to HUD based on feedback from @ldes-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, relax with some music."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Refine main menu UI based on feedback from @prod-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Adjust inventory screen UI as per feedback from @sdes-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a final review of all mockups, ensure all feedback is addressed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Save final versions, prepare for handoff to @cdev-1, @cdev-2, @cdev-3."
+    }
+]

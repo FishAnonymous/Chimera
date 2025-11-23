@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review previous progress. Focus on Physics engine integration."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin integrating the physics engine into the game. Configure the physics settings, such as gravity and collision detection. Document the initial setup and configuration."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement physics-based movement for the player character. Use the physics engine to simulate realistic movement and collisions. Fine-tune the physics parameters to achieve the desired feel. Ensure that it can work with current character controller."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement physics-based interactions with the environment. Allow the player to push objects, throw grenades, and interact with destructible environments. Write unit tests."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Tweak the physics engine to achieve the desired feel for the game. Adjust the gravity, friction, and restitution parameters to create a satisfying and engaging experience. Profile the performance of the physics engine and optimize it as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document the physics engine integration. Explain the configuration settings, the physics-based movement implementation, and the physics-based interactions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the physics engine integration. Identify areas for improvement and optimization. Update the project plan accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Back up code, check for potential bugs, write daily report and send to team members. Leave work."
+    }
+]

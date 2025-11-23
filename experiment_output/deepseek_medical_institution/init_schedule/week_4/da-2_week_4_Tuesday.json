@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from @dba-1 regarding data access."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize KPI calculations and prepare visualizations (e.g., charts, graphs) for the report."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @his-1 and @his-2 to validate KPI visualizations and ensure they meet clinical reporting standards."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Adjust visualizations based on feedback from Health Informatics Specialists."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin reviewing data quality metrics for completeness and accuracy, focusing on missing or inconsistent data points."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @mrs-1 and @mrs-2 to verify specific patient records flagged for data quality issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update data quality metrics documentation with findings from Medical Records Specialists."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of data quality issues to discuss with the Clinical Lead."
+    }
+]

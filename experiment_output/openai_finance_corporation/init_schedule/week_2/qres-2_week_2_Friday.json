@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Compile any feedback received on the presentation and make necessary revisions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the competitor analysis presentation for delivery."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to @pm and @cio-1 in a meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collect feedback from the presentation and discuss next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by sending a summary email of achievements and next week's goals to the entire team."
+    }
+]

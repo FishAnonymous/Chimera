@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from the first playtesting session and identify key issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cdev-1, @cdev-2, and @cdev-3 to discuss technical adjustments based on playtest feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a second playtesting session with adjusted parameters, focusing on identified issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze feedback from the second playtesting session and compile a report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ALL with a summary of playtesting results and next steps."
+    }
+]

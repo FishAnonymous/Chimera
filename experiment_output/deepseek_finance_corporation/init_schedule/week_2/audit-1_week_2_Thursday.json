@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the completed risk assessment report and auditing requirements checklist."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @coo-1 to present the risk assessment report and discuss next steps."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate feedback from @coo-1 into the risk assessment report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @mkt-1 to ensure marketing materials align with compliance and audit requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation for the team on the risk assessment findings and auditing requirements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @dsde-1 and @dsde-2 to discuss data integrity and its role in audits."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the presentation and share it with @pm-1 for review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the day's work, update the project tracker, and prepare for tomorrow's tasks."
+    }
+]

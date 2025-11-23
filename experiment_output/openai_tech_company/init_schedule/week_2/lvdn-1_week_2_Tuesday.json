@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare files for team sharing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Share blockouts with @cdev-1, @cdev-2, @cdev-3, and @ldes-1 to gather feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review feedback received and note key points for iteration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin making adjustments to the 3D blockouts based on the feedback gathered."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue iterating on blockouts, focusing on improving areas identified as problematic."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct further testing on the adjusted blockouts to evaluate the effectiveness of changes made."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document additional findings and adjustments in preparation for further feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and respond to any messages before logging out."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Respond to any urgent inquiries from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start working on the in-game HUD. Create a basic layout for displaying player health, ammo, and other relevant information. This will be refined later with UI/UX input."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement placeholder variables for player health and ammo. Connect these variables to the HUD elements to display dynamic information. Basic functionality first; polish later."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "@UIUX-1 Email Naomi to discuss HUD design and placement. Request initial mockups of the HUD elements to ensure they align with the game's aesthetic and gameplay."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Maybe check out a tutorial on efficient HUD design in Unreal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin implementing the settings panels. Create the basic UI for video, audio, and gameplay settings, with placeholder sliders and dropdowns. No functionality just yet. This involves UI widgets for each category."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement basic error message display. Create a function to display error messages on the screen, such as 'Not enough ammo' or 'Invalid input.' Use a simple UI element for now."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement a very basic tutorial prompt system. Create a simple trigger volume in the level and display a tutorial message when the player enters the volume. Text only for now."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the HUD, error messages, and tutorial prompts. Ensure they display correctly and don't cause any crashes or performance issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to Git. Write detailed commit messages."
+    }
+]

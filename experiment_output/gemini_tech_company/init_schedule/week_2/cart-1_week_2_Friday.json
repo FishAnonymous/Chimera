@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab coffee. Check emails and review the week's progress."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Choose one character sketch, one environment concept, and one prop design to polish and finalize. Focus on adding details and creating a high-quality presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on the character sketch. Refine the anatomy, add details to the clothing and equipment, and create a dynamic pose."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Take a break to stretch and clear my head. Maybe browse some online art forums for inspiration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relaxing Lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on the environment concept. Add details to the background, create a sense of depth, and refine the lighting."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on the prop design. Add details, refine the texture, and ensure it fits seamlessly into the game's environment."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a presentation of the finalized character sketch, environment concept, and prop design to share with the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an email to the whole team to show the whole concept art. TOPIC: Weekly Concept Art Presentation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Save all files and back up my work. Leave for the weekend."
+    }
+]

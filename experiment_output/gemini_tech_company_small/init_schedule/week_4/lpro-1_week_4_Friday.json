@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Focus on player feedback and UI polish."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review player feedback from the previous playtests. Identify common complaints and suggestions for improvement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement changes to address the player feedback. Focus on improving the overall user experience."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Look at some cool weapon designs on ArtStation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Add polish to the UI elements. Improve the visual appeal and usability of the in-game menus and HUD."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test the game with the updated UI. Gather feedback from other team members to identify any remaining issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Implement further adjustments to the UI based on the feedback received."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final code commit. Review week's progress and plan for the next week's tasks. Celebrate the end of the week with a well-deserved beer. Send email to @all to review this week work."
+    }
+]

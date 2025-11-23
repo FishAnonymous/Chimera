@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any pending sign-offs from @cio-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a mock SEC compliance check with @comp-1 and @audit-1 to identify any potential issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any issues identified during the mock compliance check."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all compliance documentation and agreements. Prepare for submission to the SEC."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @pm-1 to update on progress and next steps for SEC submission."
+    }
+]

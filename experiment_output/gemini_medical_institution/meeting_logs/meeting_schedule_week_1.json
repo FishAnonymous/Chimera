@@ -1,0 +1,182 @@
+[
+    {
+        "week": 1,
+        "id": "da-2",
+        "detailed_goals": [
+            "Define initial data quality metrics for EHR data related to influenza tracking.",
+            "Set weekly targets for improvement (Data Completeness, Data Accuracy, Data Consistency, Data Timeliness, Data Validity).",
+            "Generate weekly data quality reports to track progress against the metrics."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ehrv-1",
+        "detailed_goals": [
+            "Serve as the main point of contact between the hospital and our EHR vendor.",
+            "Thoroughly review the EHR system's current capabilities for influenza data collection, identifying any gaps or limitations in meeting our requirements.",
+            "Clearly communicate the hospital's specific requirements for influenza data collection, reporting, and analysis to the EHR vendor."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Collaborate with clinical staff to understand current processes.",
+            "Identify integration points for new data collection steps related to Patient Registration/Intake for influenza data within the EHR.",
+            "Implement a standardized questionnaire during patient registration or intake to collect information on influenza vaccination status, prior influenza infections, and relevant risk factors."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Verify that all required data elements are present for each influenza case, including patient demographics, vaccination status, diagnosis codes, symptoms, lab results, and prescriptions.",
+            "Identify and address missing data, implementing strategies to minimize future data gaps.",
+            "Cross-validate data elements against source documents (e.g., medical records, lab reports) to ensure accuracy."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "rn-2",
+        "detailed_goals": [
+            "Accurately assess patients for influenza symptoms using standardized protocols and tools integrated into the EHR.",
+            "Enter patient data into the EHR accurately and completely, including demographic information, medical history, vaccination status, symptoms, and lab results.",
+            "Utilize drop-down menus, check boxes, and other data entry tools within the EHR to ensure data standardization and consistency."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ehrdev-1",
+        "detailed_goals": [
+            "Conduct a thorough assessment of the current EHR system to identify gaps in data collection capabilities related to influenza.",
+            "Begin planning EHR system updates/modifications for Influenza Data Collection based on assessment.",
+            "Develop plan to create new data fields, customize existing workflows, and implement validation rules."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "itpm-1",
+        "detailed_goals": [
+            "Project kick-off announcement for the EHR project for seasonal influenza data collection.",
+            "Develop and distribute initial communication materials (e.g., project overview, FAQs).",
+            "Ensure all hospital staff are informed about the EHR project for seasonal influenza data collection, its objectives, progress, and impact on their roles."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "dba-1",
+        "detailed_goals": [
+            "Review the existing EHR database schema to identify suitable locations for storing influenza-related data.",
+            "Assess existing tables and relationships to determine if any can be leveraged or extended to accommodate the new data elements.",
+            "Design new tables specifically for influenza-related data."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "da-1",
+        "detailed_goals": [
+            "Define initial data quality metrics for EHR data related to influenza tracking.",
+            "Set weekly targets for improvement (Data Completeness, Data Accuracy, Data Consistency, Data Timeliness, Data Validity).",
+            "Generate weekly data quality reports to track progress against the metrics."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Conduct a thorough needs assessment to identify the specific knowledge and skills gaps among staff regarding the new data collection procedures.",
+            "Identify all staff members who will be involved in influenza data collection, including nurses, physicians, medical assistants, lab technicians, and data entry personnel.",
+            "Define clear and measurable learning objectives for the training program."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "qatest-2",
+        "detailed_goals": [
+            "Verify that all required data elements are present for each influenza case, including patient demographics, vaccination status, diagnosis codes, symptoms, lab results, and prescriptions.",
+            "Identify and address missing data, implementing strategies to minimize future data gaps.",
+            "Cross-validate data elements against source documents (e.g., medical records, lab reports) to ensure accuracy."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "rn-1",
+        "detailed_goals": [
+            "Accurately assess patients for influenza symptoms using standardized protocols and tools integrated into the EHR.",
+            "Enter patient data into the EHR accurately and completely, including demographic information, medical history, vaccination status, symptoms, and lab results.",
+            "Utilize drop-down menus, check boxes, and other data entry tools within the EHR to ensure data standardization and consistency."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "ehrdev-2",
+        "detailed_goals": [
+            "Conduct a thorough assessment of the current EHR system to identify gaps in data collection capabilities related to influenza.",
+            "Begin planning EHR system updates/modifications for Influenza Data Collection based on assessment.",
+            "Develop plan to create new data fields, customize existing workflows, and implement validation rules."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "rn-3",
+        "detailed_goals": [
+            "Accurately assess patients for influenza symptoms using standardized protocols and tools integrated into the EHR.",
+            "Enter patient data into the EHR accurately and completely, including demographic information, medical history, vaccination status, symptoms, and lab results.",
+            "Utilize drop-down menus, check boxes, and other data entry tools within the EHR to ensure data standardization and consistency."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Implement or utilize an existing help desk ticketing system to log, track, and manage user inquiries and issues related to the EHR system and influenza data collection.",
+            "Offer various support channels for users to report issues, including phone, email, and an online help desk portal.",
+            "Ensure timely responses to user inquiries, aiming for a response within 1-2 business hours."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "his-2",
+        "detailed_goals": [
+            "Establish a clear process for reporting data quality issues, utilizing the existing Help Desk ticketing system and encouraging feedback from all users (clinical staff, data entry personnel, etc.).",
+            "Log all identified data quality issues in a centralized tracking system, including a detailed description of the issue, the affected data elements, the date of detection, and the reporter's information.",
+            "Conduct a thorough root cause analysis for each identified data quality issue to determine the underlying cause(s)."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "mrs-2",
+        "detailed_goals": [
+            "Identify and locate historical medical records (both electronic and paper) containing influenza-related information from previous seasons.",
+            "Develop a standardized data abstraction form or template based on the EHR data elements identified in Subtask 1 (patient demographics, vaccination status, diagnosis codes, symptoms, lab results, prescriptions, hospitalizations).",
+            "Conduct training sessions for the data abstractors on the protocol, EHR data entry, and quality control procedures."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "pchmp-1",
+        "detailed_goals": [
+            "Thoroughly review the project goals and objectives related to seasonal influenza data collection to ensure alignment with clinical priorities and patient care needs.",
+            "Attend project meetings to stay informed about the project's progress, challenges, and key decisions.",
+            "Proactively solicit feedback from physicians, nurses, and other clinical staff regarding the EHR system, data collection processes, and training materials."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "mrs-1",
+        "detailed_goals": [
+            "Identify and locate historical medical records (both electronic and paper) containing influenza-related information from previous seasons.",
+            "Develop a standardized data abstraction form or template based on the EHR data elements identified in Subtask 1 (patient demographics, vaccination status, diagnosis codes, symptoms, lab results, prescriptions, hospitalizations).",
+            "Conduct training sessions for the data abstractors on the protocol, EHR data entry, and quality control procedures."
+        ]
+    },
+    {
+        "week": 1,
+        "id": "his-1",
+        "detailed_goals": [
+            "Identify specific EHR data elements required for seasonal influenza trend analysis: Patient demographics (age, gender, location), influenza vaccination status, dates of influenza vaccination, influenza diagnosis codes (ICD-10), symptoms reported during visits, lab test results (influenza A/B PCR), antiviral medication prescriptions, and hospitalization records related to influenza.",
+            "Define data collection workflow: Extract relevant EHR data elements (as identified in Subtask 1) through automated ETL processes. Data will be pulled from clinical databases and lab systems on a weekly basis. Potential data gaps identified include incomplete vaccination records, inconsistent symptom documentation by clinicians, and missing lab results due to external testing.",
+            "Establish a clear process for reporting data quality issues, utilizing the existing Help Desk ticketing system and encouraging feedback from all users (clinical staff, data entry personnel, etc.)."
+        ]
+    }
+]

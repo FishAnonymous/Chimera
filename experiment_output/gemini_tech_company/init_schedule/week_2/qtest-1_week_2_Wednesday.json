@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and prepare for the test plan review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @LDes-1 and @LPro-1 to review the test plan. Discuss their feedback and make necessary adjustments to the document. Emphasize the importance of comprehensive testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback from the meeting into the test plan. Refine test cases and clarify any ambiguities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin executing test cases from the core mechanics section of the test plan. Meticulously document all findings, including steps to reproduce, expected vs. actual results, and severity level."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Log any bugs or issues found during testing in the bug tracking system. Assign severity levels based on impact to gameplay."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue executing test cases and documenting findings. Focus on identifying and reporting any critical issues that could block development progress."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Leave the office."
+    }
+]

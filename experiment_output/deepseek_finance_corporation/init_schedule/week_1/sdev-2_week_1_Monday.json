@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the week's goals and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorm and sketch initial wireframes for the investor portal UI. Focus on layout and navigation flow."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @larch-1 to discuss high-level architecture and alignment with backend systems."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research and compare frontend technology stacks (React vs. Angular vs. Vue). Document pros and cons."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qres-1 and @qres-2 to gather requirements for the dashboard's data visualization needs."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Outline a preliminary development timeline for UI components, breaking down tasks into sprints."
+    }
+]

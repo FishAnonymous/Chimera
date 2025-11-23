@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any vendor or team inquiries. Review feedback from @ehrdev-1 and @ehrdev-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine requirements document based on developer feedback. Highlight must-haves vs. nice-to-haves."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @pchmp-1 and @rn-1 for final validation of clinical requirements before vendor meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct internal prep meeting with @itpm-1 and @clinlead-1 to align on negotiation strategy with vendor."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update project documentation with finalized requirements. Share with @his-1 and @his-2 for informatics review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Casually browse LinkedIn for EHR vendor updates and competitor solutions."
+    }
+]

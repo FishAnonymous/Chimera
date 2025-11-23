@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, check emails. Get coffee!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review @cdev-1's feedback regarding character model and animation bugs. Prioritize the most glaring issues. Work on a fix list for the team. Topic: Character Bugs Prioritization"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Deep dive into optimizing character assets for performance. Talk with @lpro-1 about profiling tools and techniques. Goal: butter smooth gameplay. Topic: Character Optimization Strategy"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue storyboarding trailer ideas. Focus on capturing gameplay that showcases the core game mechanics and visual style. Discuss with @lpro-1 on potential music selection. Topic: Trailer Music brainstorming"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimization of environmental assets for performance. Identify areas that are causing frame rate drops and brainstorm solutions. Simplify geometry, reduce texture sizes, LODs, whatever it takes!"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a first draft of a few key marketing screenshots. Focus on composition, lighting, and visual storytelling. Need to capture the essence of the game in a single image."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Playtesting! Get some fresh eyes on the game and gather visual feedback. Observe player reactions and note areas that are confusing, distracting, or just plain ugly."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile the feedback from playtesting and prioritize visual improvements. Discuss findings with @PEOPLE. Topic: Playtest Visual Feedback"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the work. Go home."
+    }
+]

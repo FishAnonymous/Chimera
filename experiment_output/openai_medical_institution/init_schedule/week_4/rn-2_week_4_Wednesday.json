@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the progress of EHR integration project."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work with @dba-1 to ensure database integrity for upcoming EHR implementations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in a team meeting with all members to discuss EHR project status."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the EHR integration project management board with task progress."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the trend analysis report draft and prepare for presentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @itpm-1 to discuss project timelines and resource allocations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out the trend analysis report to the team for review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up and check emails for any urgent matters."
+    }
+]

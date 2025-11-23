@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue conducting training sessions for different departments as scheduled."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Gather feedback from the training session participants"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address questions and concerns raised by participants during the training sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile all feedback received from training sessions and identify key themes and areas for improvement."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft a summary report outlining the progress made in informing hospital staff about the EHR project. Include key metrics such as the number of staff trained and feedback received."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the tasks completed during the week and plan for the upcoming week's activities."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the summary report to senior management."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails and complete any remaining tasks."
+    }
+]

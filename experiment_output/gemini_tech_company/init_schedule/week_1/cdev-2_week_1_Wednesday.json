@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Look for replies from Naomi regarding the HUD mockups."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start implementing basic audio feedback for player actions, such as shooting, jumping, and taking damage. Use placeholder sound effects for now."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "@Audio-1 Email Audio Engineer to discuss the kind of sound effect is most suitable and ask him for some simple sound effects. Specify the sound effects include the shooting, jumping, and taking damage sound effects."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Refactor the error message system to use a more visually appealing UI element. Add a fade-in/fade-out animation for error messages. Improve the visual clarity and style."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up on gaming news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Improve the tutorial system. Add support for multiple tutorial steps and visual cues (e.g., highlighting UI elements). Link the tutorial events with level events."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Experiment with different ways to display tutorial messages (e.g., tooltips, on-screen prompts, interactive elements). Aim for a non-intrusive design."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Test the audio feedback, error messages, and tutorial system thoroughly. Pay attention to performance and potential bugs. Try to let the system designer give some suggestions."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to Git. Use descriptive commit messages."
+    }
+]

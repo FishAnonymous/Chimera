@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review user testing plan and participant confirmations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @sdev-2 to finalize testing scenarios for the investor portal."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Conduct User Testing with selected participants, gathering feedback on the interface usability."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue user testing and take detailed notes on participant interactions and feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Analyze feedback from user testing and identify key areas for improvement."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day, summarizing key findings from user testing."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with a cup of coffee and check Hacker News for any interesting articles related to data science or finance. Light reading to get the brain going."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the data cleaning plan based on initial data exploration from yesterday. Add specific steps for handling missing data (e.g., imputation methods) and outlier detection (e.g., z-score, IQR). Research different techniques and their potential impact on statistical arbitrage strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @sdev-1 and @sdev-2 about the potential use of internal data pipelines and storage methods for efficient data cleaning and processing, with the topic 'Data Pipeline Inquiry'."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Go to that new ramen place down the street. Need to explore the culinary scene."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start exploring alternative data sources. Research news sentiment APIs (e.g., Alpha Vantage, NewsAPI) and alternative data providers (e.g., web scraping services). Assess the cost and potential value of these sources for generating alpha. Check out academic papers on the use of alternative data in finance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue drafting the data analysis plan. What statistical tests will be used to identify arbitrage opportunities? How will backtesting be performed? What metrics will be used to evaluate strategy performance? Outline different potential features to engineer based on the raw data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize thoughts and documents. Review the progress on data source research and cleaning/analysis plans. Prepare for tomorrow's tasks."
+    }
+]

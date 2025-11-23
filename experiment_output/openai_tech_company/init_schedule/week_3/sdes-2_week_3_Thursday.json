@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and notes from the presentation for further clarifications needed."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing additional adjustments based on feedback from the design team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collab with @qtest-1 for QA testing on new changes made to balance mechanics."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Review test results from @qtest-1 and tweak mechanics based on findings."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize all adjustments for the end of week review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Recap week\u2019s activities and prepare for documentation of changes made."
+    }
+]

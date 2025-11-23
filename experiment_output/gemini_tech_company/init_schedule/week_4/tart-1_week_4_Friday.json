@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and company communication channels. Review any feedback on the latest build of the dynamic lighting system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any bugs or issues reported by the QA testers (@QTEST-1) regarding the dynamic lighting system. Prioritize critical bugs that affect gameplay."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin researching and prototyping a solution for visual effects (VFX) in the game. Explore different VFX techniques, such as particle systems and simulations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Experiment with different VFX setups in Unreal Engine. Create a test scene with various particle effects to evaluate their performance and visual quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Treat myself to a fancy burger and browse some cool VFX breakdowns on YouTube."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimize the VFX setup for performance. Experiment with different particle settings and LOD levels to find the optimal balance between visual quality and performance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Consult with @LDES-1 and @NDES-1 to discuss the game design and narrative requirements for VFX. Get their feedback on the VFX direction and technical constraints. @LDES-1, @NDES-1 Discuss VFX direction and constraints for game. Topic: VFX Design and Implementation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for the following week's technical artist tasks. Focus on tasks that align with the overall project goals and address the most critical technical art needs. Review all email threads and ensure all tasks are well-documented and ready for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize documentation, submit weekly progress report. Browse online for fun new project ideas to use over the weekend. "
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the final feedback document and presentation beforehand."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Join the team meeting to present feedback on EHR data entry processes and improvements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather comments and suggestions from team members for any additional input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on incorporating feedback received into the final report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary of outcomes from the week and plan for next week's goals."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up all activities and log out from the system."
+    }
+]

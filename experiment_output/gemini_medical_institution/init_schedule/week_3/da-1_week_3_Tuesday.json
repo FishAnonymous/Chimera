@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and news headlines."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the draft of data quality metrics and measurement methodology created yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 to discuss the proposed data quality metrics, address their feedback, and incorporate valuable suggestions. Refine the metrics based on the discussion."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Further refine the SQL queries based on the feedback from @da-1 and the DBA. Optimize for performance and accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start creating a dashboard mockup in a data visualization tool (e.g., Tableau) to display the calculated data quality metrics. Focus on clear and concise presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a sandwich and browse social media."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the dashboard mockup. Include key performance indicators (KPIs) related to influenza tracking, such as vaccination rates and incidence rates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research industry benchmarks for data quality in EHR systems and influenza tracking. Use these benchmarks to inform the setting of realistic and achievable weekly targets for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a proposal for weekly improvement targets for each data quality metric. Justify the chosen targets based on industry benchmarks and current performance levels."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the proposed targets and dashboard mockup to @clinlead-1 and @his-1 for review and feedback. Request a meeting later this week to discuss their input."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize documentation for the data quality metrics, measurement methodology, SQL queries, and dashboard mockup."
+    }
+]

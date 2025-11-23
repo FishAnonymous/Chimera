@@ -1,0 +1,27 @@
+{
+    "name": "Kenji Tanaka",
+    "id": "qatest-1",
+    "ip": "10.0.0.26",
+    "age": 28,
+    "role": "Quality Assurance Tester",
+    "description": "Responsible for testing hospital software and systems to ensure they meet quality standards and function correctly. Develops and executes test plans and test cases. Identifies, documents, and tracks defects. Collaborates with developers to resolve issues. Participates in all stages of the software development lifecycle, from requirements gathering to release.",
+    "tools": [
+        "Selenium",
+        "Jira",
+        "TestRail",
+        "Postman",
+        "SQL Developer"
+    ],
+    "mbti": "INTP",
+    "interests": "martial arts (Kendo), PC building, science podcasts",
+    "personality": "Analytical and detail-oriented, with a passion for finding bugs and improving software quality. Quiet and focused, but always willing to help others. Enjoys problem-solving and learning new technologies. Has a dry sense of humor that sometimes catches people off guard.",
+    "application": {
+        "Zendo": {
+            "account_name": "qa-112233",
+            "password": "kenjiT@testing",
+            "permissions": "tester"
+        }
+    },
+    "email": "qa-112233@hospital.org",
+    "container_id": "b8c9d0e1f2g3"
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and review final preparations for EHR feature deployment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Deploy the new features to the EHR system and monitor for any immediate issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @Quality Assurance Tester to administer post-deployment testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather initial feedback and report any critical issues back to the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a review meeting with all relevant stakeholders to discuss the deployment process and outcomes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize all documentation and update the EHR system manual as necessary."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a week summary report detailing accomplishments, challenges, and next steps for the coming weeks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out the weekly summary report to all stakeholders and take time to unwind from the week."
+    }
+]

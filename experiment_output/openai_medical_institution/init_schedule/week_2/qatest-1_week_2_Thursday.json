@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check for any pending emails from colleagues regarding QA findings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Compile and finalize the documentation on QA findings and solutions for influenza data collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @ehrv-1 to discuss EHR Vendor support for implemented QA processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Assess ongoing QA implementation and compile feedback for improvement."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of QA testing processes to present in the weekly team meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the OA system."
+    }
+]

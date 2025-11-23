@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and gather updates from team members regarding operational plans."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 and @qres-1 to discuss finalization of operational plans for fund launch."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review resource allocation strategy for the fund launch with @qres-2 and @facc-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @comp-1 to check on the compliance documents and SEC submission readiness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize resource allocation after team discussions and prepare a draft plan."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @larch-1 and @sdev-1 to discuss implementation aspects of the operational plan."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update stakeholders on progress and next steps via email."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review today\u2019s work, check for outstanding issues or follow-up tasks."
+    }
+]

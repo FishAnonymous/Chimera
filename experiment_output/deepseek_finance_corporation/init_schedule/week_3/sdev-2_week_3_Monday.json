@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the requirements for the investor portal UI design."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start designing the wireframe for the investor portal UI using Figma. Focus on layout and navigation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Browse tech news and check out the latest updates on frontend frameworks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on the wireframe, refining the UI components and user flow."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @larch-1 to discuss the wireframe and get feedback on the UI design."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement the initial frontend code for the investor portal using React.js."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Break. Quick coffee and check social media."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue coding the frontend, focusing on responsive design and accessibility."
+    }
+]

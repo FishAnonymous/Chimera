@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and respond to any outstanding questions about training materials."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend departmental meetings to deliver training updates and confirm upcoming session logistics."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft communication to all staff summarizing training updates and outcomes from the previous week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @ehrdev-1 and @ehrdev-2 to discuss EHR integration within training programs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review any drafts of communications before sending them out, ensuring clarity and conciseness."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a training session with staff on EHR basics and troubleshooting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collect and review live feedback from the training session to make any immediate adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize preparations for the next week's training sessions based on current feedback."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

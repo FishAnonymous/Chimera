@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up with any absentees from the training session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @da-1 and @da-2 to discuss initial data abstraction results and any issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide additional support to data abstractors as needed, addressing any protocol questions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the first batch of abstracted data for consistency and accuracy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Compile a report on the initial data abstraction process and share with @clinlead-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Plan for any additional training or support sessions based on initial data review."
+    }
+]

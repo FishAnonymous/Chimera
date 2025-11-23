@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Follow up with participants who haven\u2019t submitted feedback (@rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2, @clinlead-1, @pchmp-1, @his-1, @his-2)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @itpm-1 and @clinlead-1 to discuss any critical feedback and potential adjustments to workflows."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on updating training materials based on initial feedback. Focus on sections with the most confusion or dissatisfaction."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue updating training materials. Ensure clarity and incorporate visual aids where necessary."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send draft updates to @qatest-1 and @qatest-2 for review and feedback."
+    }
+]

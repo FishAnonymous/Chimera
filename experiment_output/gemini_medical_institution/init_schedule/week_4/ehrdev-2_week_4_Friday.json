@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, check emails, and review the progress on the technical specification document and chosen integration approach."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start working on the Proof of Concept (POC). Focus on establishing a connection to the EHR system and extracting a small sample of influenza-related data."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Troubleshoot any connection issues or data extraction errors. Consult with @ehrv-1 if necessary (ideally through vendor's online portal/FAQ)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Transform the extracted data into the standardized format required for the influenza trend analysis."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Load the transformed data into the database and verify its accuracy. Loaf around browsing the internet."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up on personal news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the steps involved in the POC, including code snippets, configuration settings, and any challenges encountered."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Share the POC results with @qatest-1 (Quality Assurance Tester) and @da-1 (Data Analyst) to obtain their feedback on data quality and accuracy. @PEOPLE: qatest-1, da-1; Topic: POC Results and Data Quality Feedback"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any issues or concerns raised by @qatest-1 and @da-1. Refine the data transformation process as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a final report summarizing the POC results, including recommendations for next steps and potential improvements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Submit the final report to @itpm-1 and @clinlead-1. Check emails one last time and wrap up the week."
+    }
+]

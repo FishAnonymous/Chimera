@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, grab coffee. Briefly browse arXiv for new papers on quantitative finance."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Incorporate feedback from @sdev-1 on the trade routing module. Refactor code as needed to address any issues or concerns."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin developing the risk management module. Implement basic risk checks to prevent excessive trading or portfolio volatility. Send an email @qres-1 for the current risk management policies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and evaluate different risk management techniques. Consider factors like Value at Risk (VaR), Expected Shortfall (ES), and stress testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head out for a run to de-stress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a basic VaR calculation for the risk management module. Use historical price data to estimate potential portfolio losses."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Integrate the risk management module with the order management system. Ensure that orders are blocked if they exceed predefined risk limits."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Write unit tests for the risk management module. Ensure that the risk checks are functioning correctly and that orders are being blocked appropriately."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the API endpoints and usage examples for all modules developed so far. Begin creating a basic user manual."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Commit code and prepare for tomorrow."
+    }
+]

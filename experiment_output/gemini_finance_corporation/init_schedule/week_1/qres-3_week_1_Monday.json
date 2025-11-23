@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails for urgent requests or updates from @CIO-1, @QRES-1, @QRES-2 regarding the fund strategy and any preliminary findings. Prioritize emails based on importance and sender."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review relevant documentation on statistical arbitrage strategies and SEC regulations concerning market-neutral funds, focusing on aspects pertinent to UHNWIs. I will be referencing documents from the Legal Department for SEC regulation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Team meeting with @CIO-1, @QRES-1, @QRES-2, @PM-1 to discuss and refine the overall fund strategy. Focus on the practical application of statistical arbitrage for UHNWIs. Confirm the strategy's alignment with the company's objective to be SEC-regulation compliant."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin drafting the initial outline for the risk management framework, focusing on volatility risk. Refer to existing internal risk management models and adjust for the specific characteristics of the chosen arbitrage strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the risk management framework. Research and document methods for measuring and mitigating volatility risk within the context of statistical arbitrage. Specifically, I will review historical data for volatility spikes and their impact on similar strategies. I will consult @DSDE-1 for data support. @PEOPLE = ['DSDE-1'], topic = 'Volatility Risk Data Analysis'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the draft risk management framework with @QRES-1 and @QRES-2, focusing on the volatility risk section. Incorporate their feedback and refine the approach based on their insights."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress on the risk management framework and the refined fund strategy. Prepare notes for tomorrow's work session on liquidity risk."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clear desk and prepare for departure. Final email check for any urgent requests before leaving the office."
+    }
+]

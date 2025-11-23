@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Based on the meeting from yesterday, I will make some adjustment to the progression system. Ensure that the system can be implemented."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @UIUX-1 (UI/UX Designer) to discuss the initial ideas for the UI elements of the game. @PEOPLE: @UIUX-1 Topic: UI Design Discussion"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @UIUX-1 to discuss the overall UI/UX design vision for the game. I will also share the core game mechanics and progression system, to make sure that UI matches the progress."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Browse some game design related website to check what other developer are doing. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to improve the game design document. The document mainly includes the core mechanics, level design sketch, and progression system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send the current game design document to @PROD-1, @NDES-1, @SDES-1, and @LVDN-1 for review. @PEOPLE: @PROD-1, @NDES-1, @SDES-1, @LVDN-1 Topic: Game Design Document Review"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow's workload."
+    }
+]

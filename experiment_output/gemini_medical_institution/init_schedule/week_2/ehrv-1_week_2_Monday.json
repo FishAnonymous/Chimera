@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Scan for urgent messages and flag anything related to the EHR project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Brainstorming session: Review the existing EHR system documentation to identify modules relevant to influenza data collection (e.g., immunization records, lab results, patient history). I will create a preliminary list of EHR functionalities that could be leveraged or need modification."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Deep dive into the EHR system. Specifically, examine the data fields available for influenza vaccinations, diagnostic codes (ICD-10), and relevant patient demographics. I will jot down any limitations or gaps in the existing data capture capabilities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Quick bite in the cafeteria, maybe catch up on some industry news online."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Contact @clinlead-1 and @his-1 for a brief informational interview. Ask for their insights on the clinical perspective of influenza data collection, workflow challenges, and desired data elements for seasonal trend analysis. Document their feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Based on my research and feedback from @clinlead-1 and @his-1, I will refine the list of required EHR system modifications needed to facilitate robust influenza data collection. This will be the basis of communication with the EHR vendor."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Draft an initial email to the EHR vendor introducing myself as the primary contact for this project at the hospital and state the project goals - enhancing EHR data collection for influenza and supporting seasonal trend analysis. Schedule a meeting for later in the week to discuss project requirements."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the meeting agenda for the upcoming meeting with the EHR vendor. Ensure all points I want to discuss are clearly noted. Prepare for tomorrow."
+    }
+]

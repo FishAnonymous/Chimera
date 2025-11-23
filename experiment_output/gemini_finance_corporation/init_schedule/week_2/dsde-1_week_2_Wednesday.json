@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests. Review yesterday's notes and action items from the meeting with the quants."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refactor the analysis code for clarity and efficiency. Add comments and documentation to make it easier to understand and maintain. Start building some simple model by using the daily data."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement basic statistical arbitrage strategies using the engineered features. Backtest these strategies on historical data to evaluate their performance. Start with simple moving average strategies."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Evaluate the performance of the backtested strategies. Calculate key metrics such as Sharpe ratio, maximum drawdown, and profit factor. Analyze the results to identify strengths and weaknesses."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab lunch with @facc-1 and @facc-2 and discuss the fund's initial financial projections. I won't participate much, but it's good to stay informed."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Troubleshoot any issues with the backtesting code or data. Debug any errors and fix any data quality problems. Consult with @sdev-1 if necessary."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Experiment with different parameter settings for the statistical arbitrage strategies. Optimize the parameters to improve performance. Try different lookback periods for the moving averages."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the results of the backtesting experiments. Create charts and tables to visualize the performance of the different strategies and parameter settings. Save all the backtesting result."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Clean up the code and data. Prepare a summary of the day's findings. "
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office. Check emails. Start reading about algorithmic trading."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Develop a second basic statistical arbitrage strategy based on a different principle (e.g., cointegration). Implement the strategy logic in Python using the same backtesting framework. Aim for diversity in strategy approaches."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the second statistical arbitrage strategy using historical data. Run backtests with different parameter settings to optimize the strategy's performance. Compare the performance of the first and second strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Eat something simple, and check some art websites."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the performance of both strategies. Calculate key performance metrics such as Sharpe ratio, maximum drawdown, and win rate. Create visualizations to compare the performance of the strategies over time. Send @QRES-1 and @QRES-2 to request insights on strategy performance metrics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings regarding the data cleaning and the strategy performance. Write a summary report outlining the key findings from the data cleaning and strategy evaluation. Include recommendations for future research and development efforts."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Leave the office to enjoy the evening."
+    }
+]

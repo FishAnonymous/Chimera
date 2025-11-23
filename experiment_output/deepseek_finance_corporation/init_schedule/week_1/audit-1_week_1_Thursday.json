@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from @qres-1 and @qres-2 on statistical arbitrage risks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate quantitative researchers' feedback into the risk assessment report. Update mitigation strategies as needed."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @pm-1 to discuss the progress of the risk assessment and internal control framework. Address any outstanding issues."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize the internal control evaluation framework. Ensure all sections are complete and aligned with regulatory requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email the finalized internal control framework to @comp-1, @legal-1, and @pm-1 for final review."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a presentation summarizing the risk assessment and internal control framework for the leadership team."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review the presentation and make any necessary adjustments. Ensure clarity and completeness of information."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the presentation to @pm-1 and @coo-1 for pre-meeting review. Prepare for tomorrow's presentation."
+    }
+]

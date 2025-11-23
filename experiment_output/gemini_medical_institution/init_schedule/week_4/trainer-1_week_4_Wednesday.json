@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review the feedback from @clinlead-1 regarding the clinical relevance of the data collection workflow. Incorporate this feedback into the training module."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the script for the data collection workflow training video. Ensure the script is accurate, concise, and engaging. Review the script with @qatest-1 for clarity and accuracy. @QATEST-1 Topic: Review of Data Collection Workflow Training Video Script"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin recording the data collection workflow training video. Utilize the test EHR environment to demonstrate the process step-by-step. Ensure the video is clear, well-lit, and professionally produced. If assistance is needed, reach out to the IT department for support. @ITPM-1 Topic: Assistance with Recording Training Video."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and edit the recorded video footage. Add annotations, captions, and callouts to enhance clarity and understanding. Ensure the audio is clear and free of background noise."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Complete the EHR data elements training module. Incorporate feedback from @qatest-2 regarding clarity and accuracy. @QATEST-2 Topic: EHR Data Element Training Module Review"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop a hands-on exercise for the EHR data elements module. This exercise will allow trainees to practice entering and validating data in the EHR system. Collaborate with @ehrdev-1 and @ehrdev-2 to ensure the exercise is feasible and effective. @EHRDEV-1 @EHRDEV-2 Topic: Hands-on Exercise for EHR Data Elements Module"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the learning objectives for both training modules. Ensure the modules align with the overall goals of the EHR data collection and influenza trend analysis project. Contact @pchmp-1 for feedback on aligning the training with physician needs. @PCHMP-1 Topic: Aligning Training with Physician Needs"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the agenda for upcoming training sessions."
+    }
+]

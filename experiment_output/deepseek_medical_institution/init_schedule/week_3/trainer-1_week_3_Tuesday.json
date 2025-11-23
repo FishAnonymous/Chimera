@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries from yesterday's meetings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Develop the second training module: 'Step-by-Step Guide for Influenza Data Entry'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @rn-1, @rn-2, and @rn-3 to schedule initial training sessions for later in the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the training modules in the EHR test environment with @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Make necessary adjustments based on feedback from QA testers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare training materials (handouts, slides) for the sessions."
+    }
+]

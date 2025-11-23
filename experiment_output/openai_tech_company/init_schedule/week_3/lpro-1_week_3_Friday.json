@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check final emails for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the final playtesting session with the entire team before the weekend."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collect extensive feedback and note any critical issues that need immediate attention."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Hold a wrap-up meeting to discuss all feedback received and determine priorities for the following week."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize the list of gameplay mechanics changes to be implemented based on the week's findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a detailed report of the week's activities, feedback, and action items for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the weekly report to @prod-1 and @ldes-1, and log out for the weekend."
+    }
+]

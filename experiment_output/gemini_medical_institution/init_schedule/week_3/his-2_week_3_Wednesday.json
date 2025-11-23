@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and review the plan for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Catch up on industry news related to Health Informatics and EHR systems. I find this helps me stay informed about best practices and potential solutions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Complete root cause analysis documentation for the third and fourth data quality issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin the categorization process. Create a preliminary list of common themes based on the root causes identified so far (e.g., training gaps, system errors, workflow inefficiencies, data definition issues)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the categorization framework. Define specific criteria for each category to ensure consistent application."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Categorize the root causes identified for the first four data quality issues into the defined categories."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the categorization with @qatest-1 and @qatest-2 (Quality Assurance Testers) to get feedback. The topic is 'Categorization Framework Review'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Adjust the categorization framework based on feedback from @qatest-1 and @qatest-2"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the categorization process and the rationale behind each assignment."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review completed tasks for the day and plan for Thursday's activities. Ensure all documentation is organized and easily accessible."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave office."
+    }
+]

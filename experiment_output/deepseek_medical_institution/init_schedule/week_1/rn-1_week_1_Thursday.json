@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend a training session with @trainer-1 on advanced EHR data entry techniques."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Apply new techniques while entering patient assessment data into the EHR."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue patient assessments, focusing on influenza symptoms."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume patient assessments and EHR documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Verify data entries with @qatest-1 and @qatest-2 for quality assurance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make necessary corrections to the EHR based on feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare handover notes and log out."
+    }
+]

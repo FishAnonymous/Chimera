@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, emails. A quick look at travel blogs."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the forms for KYC/AML and suitability assessments. Focus on ensuring data accuracy and security."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ir-1 and @mkt-1 to discuss how to market the onboarding process to UHNWIs. What are the key selling points? How can we emphasize the personalized service and expertise of the firm?"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop a presentation outlining the onboarding process. This will be used to train internal staff and explain the process to potential clients."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Order in with @sdev-1 and @sdev-2 and discuss trending tech."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Practice the presentation. Get feedback from colleagues on the content and delivery."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Refine the checklist based on the feedback. Ensure that it is comprehensive and easy to follow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of all materials created so far. Update task list for tomorrow. Start planning the weekend."
+    }
+]

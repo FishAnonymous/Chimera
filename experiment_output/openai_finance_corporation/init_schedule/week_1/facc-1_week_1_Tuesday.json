@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for any responses to budget-related emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Request additional information from @comp-1 regarding compliance costs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start preparing presentation materials to present the preliminary budget to the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize preliminary budget draft incorporating all relevant costs."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Schedule a team meeting for Thursday to present the initial budget for feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @pm-1, @ir-1, and @cio-1 to confirm the meeting time and agenda."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Perform final edits on the budget document."
+    }
+]

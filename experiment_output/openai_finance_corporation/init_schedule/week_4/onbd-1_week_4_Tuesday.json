@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and confirm attendance for the review session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the review session with @comp-1, @pm-1, and @ir-1, discussing onboarding procedures and regulatory compliance."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take notes from the session regarding feedback and action items for the onboarding checklist."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Contact @facc-1 and @facc-2 for insights on financial documentation requirements for UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from the review session into the onboarding checklist."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Create a compliance tracking document to ensure all items in the onboarding checklist comply with SEC regulations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Share the updated onboarding checklist and compliance tracking document with the team for further comments."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up work, take a few moments to reflect on the day and relax."
+    }
+]

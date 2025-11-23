@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare for team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a team meeting to discuss weekly objectives and align on presentations of findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @qres-1 and @qres-2 to finalize the statistical model analysis report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft presentation slides based on the findings from market research and statistical model analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue to refine the presentation and add insights from the compliance and legal perspectives by collaborating with @comp-1 and @legal-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Schedule a review meeting with @ir-1 for feedback on the presentation draft."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress of team members on their individual goals by checking in with @qres-3 and @facc-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day and prepare a summary email to @PEOPLE outlining any outstanding tasks or follow-up needed."
+    }
+]

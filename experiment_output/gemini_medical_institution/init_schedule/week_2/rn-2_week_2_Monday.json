@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and review any new updates or alerts. Check emails for urgent messages from colleagues or supervisors."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Attend a quick huddle with @rn-1, @rn-3 and @clinlead-1 to discuss patient assignments and any specific concerns for the day. Get a sense of the patient flow and anticipated workload."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin initial patient assessments. Focus on gathering comprehensive patient histories, including current medications, allergies, and relevant past medical conditions. Meticulously enter all data into the EHR, double-checking for accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccinations to scheduled patients. Ensure proper technique and document the date, time, vaccine lot number, and injection site in the EHR. Provide patients with post-vaccination instructions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Head to the break room and chat with @mrs-1 and @helpdesk-1 about the latest hospital gossip and weekend plans."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry. Prioritize patients presenting with urgent needs or requiring immediate attention. Review patient charts for completeness and accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Administer influenza vaccinations during the afternoon clinic. Pay close attention to patient allergies and contraindications before administering the vaccine. Document meticulously."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all patient charts for the day to ensure completeness and accuracy. Address any missing information or discrepancies. Prepare handover notes for the next shift."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails and prepare for the next days shift, ensure the supplies are stocked. "
+    }
+]

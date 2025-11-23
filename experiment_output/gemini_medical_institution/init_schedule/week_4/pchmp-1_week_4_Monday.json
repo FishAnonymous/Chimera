@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review schedule for the week and prioritize tasks related to EHR implementation and influenza trend analysis. Briefly check email for urgent matters."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Browse medical journals online to stay updated on recent clinical findings and guidelines relevant to influenza management. (JAMA, NEJM)"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @ITPM-1, @clinlead-1 to confirm attendance and agenda for the weekly project meeting later today. Topic: Weekly Project Meeting - EHR and Influenza Trend Analysis."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an outline of key questions and discussion points for the feedback gathering sessions with clinical staff, focusing on EHR usability and data collection workflow. Examples: ease of documentation, clarity of data fields, and any challenges encountered."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the latest project documentation from @ehrdev-1 and @ehrdev-2 to understand the current status of EHR integration and any recent changes or updates related to data extraction for influenza trends."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend weekly project meeting with @ITPM-1, @clinlead-1, @da-1, @da-2, @ehrv-1. Actively participate in discussions regarding project progress, challenges, and key decisions related to EHR implementation and influenza data collection. Provide clinical insights and perspectives."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "After the project meeting, synthesize key takeaways and action items related to clinical input and feedback. Document these in a concise summary."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a short email to @rn-1, @rn-2, @rn-3 to schedule brief informal feedback sessions for Tuesday and Wednesday. Emphasize the importance of their input. Topic: EHR Feedback Session - Clinical Perspectives."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the hospital's current influenza protocol and guidelines to ensure alignment with the EHR data collection process. Identify any discrepancies or areas for improvement."
+    }
+]

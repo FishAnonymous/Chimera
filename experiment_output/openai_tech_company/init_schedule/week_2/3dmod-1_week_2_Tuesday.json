@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and follow up on any feedback received from @Lead Game Designer and @Narrative Designer."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin first 3D model for the first key environment asset, focusing on layout and basic forms."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break - Browse environment design resources for inspiration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue modeling the first key environment asset, adding details while maintaining functionality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finish the first environment asset model and prepare to review with teammates."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Contact @3D Modeler/Animator colleagues to schedule a review session for the first environment asset."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the first environment asset models for cohesiveness in style and functionality with teammates."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Record feedback received from the review and plan adjustments needed."
+    }
+]

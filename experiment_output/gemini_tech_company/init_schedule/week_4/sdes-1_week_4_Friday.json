@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Wake up, have a light breakfast"
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and team communication. Gather any AI review feedback from @LPRO-1, @SDES-2, @NDES-1"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any feedback from the review on the AI System Design document, including enemy behavior, decision-making processes, and pathfinding."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @UIUX-1 to discuss HUD and user interface elements related to the weapon and AI systems (e.g., ammo counters, enemy health bars). Topic: Weapon and AI system UI elements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss with @LDES-1 on what key activities to do for next week. Topic: Next week planning"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue the AI System Design document. Add details to the enemy decision-making processes and pathfinding."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Edit and add more diagrams into the AI System Design document for clarification."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the AI System Design document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare the activity reports for the whole week and send it out to @PROD-1, @LDES-1"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off."
+    }
+]

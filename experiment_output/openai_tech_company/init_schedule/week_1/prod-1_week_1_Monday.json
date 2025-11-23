@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare an agenda for the week focusing on key milestones and production schedules."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Lead Game Designer and @Systems Designers to discuss and define key milestones for the project."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a document outlining the defined key milestones and production schedules for internal review."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review the draft document with @Lead Programmer to ensure technical feasibility of proposed milestones."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send the draft of the key milestones and production schedules to the team for feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Set up a meeting for Tuesday to align on deliverables and deadlines with the entire team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check progress of responses to the draft document and collate feedback from @3D Modelers and @UI/UX Designer."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the agenda for the meeting with the entire team on deliverables and deadlines scheduled for Tuesday."
+    }
+]

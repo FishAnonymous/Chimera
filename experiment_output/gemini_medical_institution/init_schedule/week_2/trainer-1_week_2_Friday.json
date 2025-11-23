@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the week's progress. Today's goals: Complete the interactive training module and review all training materials."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the interactive training module, ensuring all elements are functioning correctly and that the module is engaging and effective."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Thoroughly review the slide presentation, user manual, and interactive training module for accuracy, consistency, and clarity. Make any necessary revisions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @qatest-1, @qatest-2: Request that they test the interactive training module and review the slide presentation for any errors or inconsistencies. Subject: Training Module and Presentation Testing Request."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Relax and unwind before the final push."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any feedback received from the quality assurance testers and make necessary revisions to the training materials."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare a final version of all training materials, including the slide presentation, user manual, and interactive training module."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @ehrv-1: Ask them to confirm whether the developed training materials align with the EHR system and its updated influenza data collection process. Subject: Align Training Materials with EHR System for Influenza Data Collection."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the training development process, including any challenges faced and lessons learned. Store all training materials in a secure and accessible location."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the week's accomplishments, update the task list, and respond to any outstanding emails. Celebrate a successful week with colleagues!"
+    }
+]

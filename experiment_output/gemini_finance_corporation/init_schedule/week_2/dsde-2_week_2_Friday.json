@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, prepare for the last working day of the week."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and address any remaining tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review all data cleaning procedures and scripts developed this week. Ensure they are well-documented and organized."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Create a summary report of the data sources researched and the data cleaning procedures implemented. Highlight any challenges or limitations."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Write an email to @pm-1 to provide an update on the progress made this week. Share the summary report and any relevant findings. TOPIC: Week 2 Progress Report: Data Source Research and Data Cleaning."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break, enjoy a more relaxed meal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start thinking about potential statistical arbitrage strategies based on the available data. Brainstorm ideas and research existing strategies."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document the potential arbitrage strategies and their data requirements. Identify any missing data or limitations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation summarizing the potential arbitrage strategies and the data cleaning procedures. Present to @qres-1, @qres-2, @qres-3."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Discuss the presentation with the quantitative research team. Gather feedback and refine the strategies."
+    }
+]

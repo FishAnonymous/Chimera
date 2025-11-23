@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and address any feedback from the development team regarding the assets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make any necessary adjustments to assets based on feedback from the development team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Short break, relax with some music."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize any remaining adjustments and ensure all assets are fully optimized."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Re-handoff any updated assets to the development team and confirm integration."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @prod-1 to confirm completion of the week's tasks and provide a summary of work done."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize and clean up the workspace, archive old files, and prepare for next week's tasks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End the week with a personal review of achievements and areas for improvement."
+    }
+]

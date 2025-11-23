@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Last-minute preparations for the presentation. Organize all materials for quick access."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the meeting with the team to present the finalized layouts and reasoning behind designs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from the meeting and note down any revisions or new ideas brought up by the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement new insights from the meeting into the level designs and prepare for next week\u2019s tasks based on the feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a summary email of the week\u2019s progress and upcoming plans to the entire team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out and reflect on the week\u2019s work, identifying key successes and areas for improvement for next week."
+    }
+]

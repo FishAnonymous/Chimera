@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests or questions related to yesterday's work."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Browse the web for the latest data visualization tools and techniques. Looking for inspiration on how to present the data quality reports effectively."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @dba-1 to discuss data extraction strategy and access the EHR database to start data extraction work. Focus on querying the database for the key data elements identified yesterday."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Write SQL queries to extract relevant data from the EHR database (ICD-10 codes, lab results, vaccination records, demographic data). Validate the queries to ensure they return accurate results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a quick lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue extracting and cleaning the data, transforming it into a format suitable for analysis. Address any data quality issues identified during the extraction process (e.g., missing values, inconsistent formatting)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start working on setting weekly targets for improvement for each data quality metric. Consider the current baseline levels and set realistic, achievable goals for each metric."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send an email to @qatest-1, @qatest-2 about data sample and request data validation support. Provide a sample of the extracted data and the defined data quality metrics for review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the weekly targets for improvement in a shared document, including the rationale behind each target."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day. Review the progress and plan for tomorrow."
+    }
+]

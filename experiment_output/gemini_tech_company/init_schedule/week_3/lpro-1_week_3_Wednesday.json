@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the system design documentation from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin implementing the movement system. Create the necessary classes and data structures in the game engine. Focus on basic walking and running movement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement jumping and crouching. Integrate these movement types with the existing walking and running code. Ensure smooth transitions between states."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the implemented movement system. Debug any issues related to movement speed, animation transitions, or input responsiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin implementing the combat system. Create the necessary classes and data structures to represent attacks and damage. Focus on a basic melee attack."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement hit detection. Create a system for detecting collisions between attacks and enemy characters. Calculate damage based on weapon type and enemy armor (if applicable)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the implemented combat system. Debug any issues related to hit detection, damage calculation, or animation synchronization."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the implemented movement and combat systems. Update the system design documentation to reflect the actual implementation. Include code snippets and examples."
+    }
+]

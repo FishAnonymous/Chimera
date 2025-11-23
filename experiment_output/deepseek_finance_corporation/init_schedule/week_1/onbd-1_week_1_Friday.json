@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review all deliverables for the week: onboarding checklist, preliminary information templates, documentation requirements, and compliance checklist."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Prepare a summary report of the week's work and send it to @pm-1 and @coo-1 for review."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @onbd-1 to discuss any additional onboarding needs or feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any feedback from @pm-1 or @coo-1. Make final adjustments to all documents."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Organize all finalized documents in the shared drive and ensure they are accessible to the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, plan for next week's tasks, and log off."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and summarize the week\u2019s progress on EHR collection and analysis."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review data collected from the week and prepare reports with @Health Informatics Specialist."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for a final review meeting regarding the seasonal influenza trend analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct the final review meeting with all stakeholders, summarizing findings and next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out meeting minutes and a thank-you note to all participants."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review responses to the summary email sent on Monday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create prototypes for the new EHR features discussed yesterday with the Clinical Lead."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Engage in testing and refining the prototypes developed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the feedback from @Quality Assurance Tester on the earlier integration versions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement suggested changes and enhancements from the QA feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @Training Coordinator to develop training materials for end-users based on new features."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a review meeting with @Help Desk Support to anticipate user questions and support needs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize coding tasks for the day's development work and prepare for integration testing."
+    }
+]

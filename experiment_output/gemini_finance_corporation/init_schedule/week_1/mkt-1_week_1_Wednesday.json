@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, grab coffee, review schedule."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin researching common investment vehicles used by UHNWIs. Focus on equities, fixed income, real estate, private equity, hedge funds, and alternative investments. Identify any specific investment strategies that are popular (e.g., ESG investing, impact investing). "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Explore data sources like Preqin and PitchBook for information on UHNWI allocations to private equity and hedge funds. Note any trends in specific fund strategies or sectors."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Contact Fund Accountant (@FACC-1 and @FACC-2) to get information of common investment vehicles used by UHNWIs based on the previous fund activities, and whether we have the ability to do the same thing. @FACC-1, @FACC-2 Topic: Common UHNWI Investment Vehicles - Data Request"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Browse marketing websites for inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the data received from Fund Accounting (@FACC-1 and @FACC-2). Note any surprising or interesting trends regarding UHNWI preferences that aren't widely discussed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Research marketing materials and prospectuses from other funds targeting UHNWIs. Analyze their messaging, branding, and the way they present their investment strategies. Keep track of competitors."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the research document with detailed information on common investment vehicles used by UHNWIs, including allocation percentages, preferred strategies, and relevant market trends."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the updated research document and identify areas that require further investigation."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

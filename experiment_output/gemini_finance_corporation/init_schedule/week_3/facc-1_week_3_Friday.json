@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meeting with @facc-2 to review the preliminary financial statements. Discuss any concerns or suggestions for improvement."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Revise the preliminary financial statements based on feedback from @facc-2."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a summary of the fund's financial performance for the reporting period, highlighting key metrics and trends."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @cio-1 (Chief Investment Officer) and @coo-1 to share the preliminary financial statements and performance summary. Schedule a meeting to discuss the results. Topic: Review of Preliminary Financial Statements and Performance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Maybe a celebratory lunch for finishing the week's goals."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @cio-1 and @coo-1 to discuss the preliminary financial statements and performance summary. Answer any questions and address any concerns."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the financial statements based on feedback from @cio-1 and @coo-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document all key findings and observations from the financial statement preparation process. Identify any areas for improvement in future reporting periods."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up all tasks, respond to outstanding emails, and prepare a summary of the week's accomplishments."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head out for the weekend!"
+    }
+]

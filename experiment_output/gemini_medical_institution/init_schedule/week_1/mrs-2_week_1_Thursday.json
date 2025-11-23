@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, respond to any outstanding queries from the training session participants."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the feedback from yesterday's training session and make necessary adjustments to the training materials and presentation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct the second training session, focusing on quality control procedures and data validation techniques."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Provide practical exercises for the data abstractors to apply the quality control procedures and validate the accuracy of their data entry."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go for a walk and listen to a photography podcast."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address questions and concerns from the data abstractors regarding quality control procedures."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Observe the data abstractors as they practice data abstraction using the standardized form. Provide real-time feedback and guidance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collect feedback from the data abstractors on the overall training program and identify any remaining challenges or areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the training program based on the feedback received and prepare a report summarizing the training sessions and the key takeaways."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Share the training report with @CLINLEAD-1, @PCHMP-1, and @TRAINER-1 for their review and approval. Topic: Training Program Report for Review"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the workday."
+    }
+]

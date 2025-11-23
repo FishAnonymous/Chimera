@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and review any important updates or communications from the past week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss ongoing integration challenges and strategies for effective EHR data collection."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a review of EHR system functionalities with @clinlead-1 to assess how they meet current clinical needs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @da-1 and @da-2 to analyze the current data trends in seasonal influenza cases."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on developing integration scripts to streamline EHR data collection processes."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 regarding testing schedules for new features in the EHR system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @trainer-1 to discuss upcoming training sessions related to EHR usage for staff."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by reviewing tasks completed and planning for tomorrow."
+    }
+]

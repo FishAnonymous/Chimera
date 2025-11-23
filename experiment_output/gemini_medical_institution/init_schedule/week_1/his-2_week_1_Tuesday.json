@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent inquiries. Review progress on the data quality issue tracking system."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue developing the centralized tracking system. Define the necessary fields: issue description, affected data elements, date of detection, reporter information, and root cause analysis findings."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @dba-1 to request assistance in setting up a basic database for the centralized tracking system. Topic: Data Quality Issue Tracking System Database Setup."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare a draft communication to be sent to all users (clinical staff, data entry personnel, etc.) outlining the new data quality issue reporting process and the importance of feedback. @clinlead-1 to review content for clinical accuracy and tone."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @dba-1 to establish a tracking system using the existing database infrastructure for data quality issues. If that's impossible then create a simple EXCEL spread sheet."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Revise the draft communication based on @clinlead-1's feedback. Ensure it is clear, concise, and encourages participation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the centralized tracking system by manually entering a few sample data quality issues to ensure all fields are functioning correctly."
+    }
+]

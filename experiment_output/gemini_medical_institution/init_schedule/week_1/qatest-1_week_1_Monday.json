@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log in to the system, and check emails. Mentally prepare for the week's tasks. Browse tech news sites (e.g., Hacker News, Reddit's r/programming) for interesting articles on software testing or data quality assurance."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the week's goals: verifying data elements, addressing missing data, and cross-validating against source documents. Break down the tasks into smaller, manageable steps."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Draft an email to @da-1 and @da-2 to understand the current data structure for influenza cases. Specifically, request the data dictionary and sample data schemas."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin creating a checklist of required data elements based on project documentation and initial understanding. Focus on patient demographics first (name, age, gender, address)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research common data quality issues in EHR systems, particularly related to data completeness and accuracy. Look for relevant testing methodologies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Read articles related to EHR data management and relevant QA methodologies."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the data dictionary and sample data schemas received from @da-1 and @da-2. Map the required data elements checklist to the actual data fields in the EHR system."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop a basic SQL query to extract patient demographic data for a sample of influenza cases. Focus on identifying null or missing values for required fields."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Analyze the results of the SQL query. Document the frequency of missing values for each demographic field.  Create a preliminary report outlining the data quality issues discovered."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send an email to @itpm-1 and @clinlead-1 summarizing the initial data quality findings and propose a meeting to discuss data validation strategies. Prepare the presentation material for the meeting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare the plan for tomorrow's activity, focusing on vaccination and diagnose code data elements."
+    }
+]

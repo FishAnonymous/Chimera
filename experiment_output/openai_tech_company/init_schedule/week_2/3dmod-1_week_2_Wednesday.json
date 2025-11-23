@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and address any responses regarding the first asset review."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start modeling the second key environment asset, focusing on its purpose in gameplay."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break - Research more on environment modeling techniques."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue with modeling the second environment asset, ensuring topological integrity."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final adjustments on the second key environment asset and prepare for review."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @3D Modeler/Animator colleagues to finalize a review session for the second environment asset."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct the review meeting with colleagues to discuss the second environment asset model."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Make notes on any feedback received and plan additional adjustments."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any feedback on the protocol from @clinlead-1 or @pchmp-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate any final changes to the protocol and form based on feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Send the finalized protocol and form to @ehrv-1 for EHR vendor review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the standardized form in the EHR system with @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document any issues found during testing and send to @ehrdev-1 and @ehrdev-2 for resolution."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review training materials and make adjustments based on testing feedback."
+    }
+]

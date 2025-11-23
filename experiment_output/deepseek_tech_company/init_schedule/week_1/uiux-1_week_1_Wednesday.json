@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare for a second review of the updated wireframes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 @sdes-1 @sdes-2 @prod-1 to present the refined wireframes and gather additional feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Document any new feedback and prioritize changes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, relax."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Start implementing the latest feedback into the wireframes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the wireframes, focusing on user flow and accessibility."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a final version of the wireframes for approval."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the final wireframes to @prod-1 for final review and approval."
+    }
+]

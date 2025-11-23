@@ -1,0 +1,26 @@
+{
+    "name": "Priya Sharma",
+    "id": "cdev-1",
+    "ip": "10.0.0.11",
+    "age": 24,
+    "role": "Junior Developer",
+    "description": "Assists senior developers in implementing game features, debugging code, and creating tools. Focuses on learning and growing her skills in various areas of game development.",
+    "tools": [
+        "C#",
+        "Unity",
+        "Git",
+        "Visual Studio Code"
+    ],
+    "mbti": "INTP",
+    "interests": "indie games, coding challenges, reading sci-fi",
+    "personality": "Quiet and analytical. Eager to learn and contribute, but sometimes hesitates to ask for help. Enjoys solving complex problems.",
+    "application": {
+        "Zendo": {
+            "account_name": "jdev-987654",
+            "password": "priyaS@dev",
+            "permissions": "developer"
+        }
+    },
+    "email": "jdev-987654@corp.com",
+    "container_id": "b3c4d5e6f7a8"
+}

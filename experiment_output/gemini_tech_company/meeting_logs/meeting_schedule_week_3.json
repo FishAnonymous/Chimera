@@ -1,0 +1,215 @@
+[
+    {
+        "week": 3,
+        "id": "cart-1",
+        "detailed_goals": [
+            "Sketch initial character designs, exploring different silhouettes and features to capture the essence of the game's world and characters.",
+            "Create environment concepts, thinking about the mood and atmosphere of the different locations.",
+            "Work on prop designs, ensuring they fit the game's style and serve a purpose within the world.",
+            "Experiment with some different color palettes."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-3",
+        "detailed_goals": [
+            "Get started on the client-side architecture and UI design.",
+            "Set up the basic project structure and implementing the core UI elements like menus, HUD, and settings panels.",
+            "Focus on implementing player feedback systems, like tutorials and error messages."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-1",
+        "detailed_goals": [
+            "Get started on the client-side architecture and UI design.",
+            "Set up the basic project structure and implementing the core UI elements like menus, HUD, and settings panels.",
+            "Focus on implementing player feedback systems, like tutorials and error messages."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdes-1",
+        "detailed_goals": [
+            "Integrate the various game systems, such as combat, economy, and progression.",
+            "Ensure that these systems work together seamlessly and create a balanced and engaging gameplay experience.",
+            "Start implementing core gameplay features, like quests, crafting, and character customization.",
+            "Prioritize playtesting and iteration, gathering feedback from the team and making adjustments as needed to create a polished and enjoyable game."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "beng-1",
+        "detailed_goals": [
+            "Set up the build environment, configuring the necessary tools and dependencies.",
+            "Create build scripts to automate the process of compiling code, generating assets, and packaging the game for different platforms.",
+            "Set up a continuous integration (CI) system to automatically build and test the game whenever changes are made to the codebase.",
+            "Integrate automated testing frameworks into the CI pipeline to ensure code quality and identify bugs early in the development process.",
+            "Configure deployment pipelines to automatically deploy the game to testing environments and eventually to production.",
+            "Configure the system to provide detailed build reports and notifications to the development team."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "qtest-1",
+        "detailed_goals": [
+            "Create a detailed test plan based on the game design document.",
+            "Include test cases for all core mechanics, UI elements, levels, and character interactions.",
+            "Begin executing these test cases, meticulously documenting any bugs or issues.",
+            "Pay close attention to performance, stability, and overall gameplay experience.",
+            "Conduct ad-hoc testing, exploring the game in unexpected ways to uncover hidden bugs.",
+            "Provide regular reports to the development team, detailing findings and prioritizing issues based on severity."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "3dmod-2",
+        "detailed_goals": [
+            "Block out the basic shapes for the main characters, focusing on getting the proportions and anatomy right.",
+            "Move on to creating the environmental models, starting with the larger structures and then adding details.",
+            "Begin rigging the characters for animation, paying close attention to joint placement and deformation.",
+            "Work on creating a library of animations for basic movements, combat, and interactions."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "prod-1",
+        "detailed_goals": [
+            "Create a detailed project schedule outlining all tasks, dependencies, and deadlines, using the information provided by each team lead.",
+            "Use project management software to track progress and identify potential bottlenecks.",
+            "Hold regular team meetings to review progress, address challenges, and ensure everyone is aligned.",
+            "Send weekly progress reports to executive leadership.",
+            "Proactively identify and mitigate risks to keep the project on track.",
+            "Make sure that all deliverables are completed on time and to the required quality standards."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdes-2",
+        "detailed_goals": [
+            "Integrate the various game systems, such as combat, economy, and progression.",
+            "Ensure that these systems work together seamlessly and create a balanced and engaging gameplay experience.",
+            "Start implementing core gameplay features, like quests, crafting, and character customization.",
+            "Prioritize playtesting and iteration, gathering feedback from the team and making adjustments as needed to create a polished and enjoyable game."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "cdev-2",
+        "detailed_goals": [
+            "Get started on the client-side architecture and UI design.",
+            "Set up the basic project structure and implementing the core UI elements like menus, HUD, and settings panels.",
+            "Focus on implementing player feedback systems, like tutorials and error messages."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "uiux-1",
+        "detailed_goals": [
+            "Begin by creating wireframes and mockups for the main UI screens, including the main menu, settings, inventory, and HUD.",
+            "Focus on creating intuitive layouts that provide players with easy access to important information and actions.",
+            "Prototype the UI interactions, ensuring they feel responsive and satisfying.",
+            "Pay close attention to typography, color palettes, and overall visual design, making sure the UI is consistent with the game's art style and tone.",
+            "Test the UI with users and make changes based on their feedback."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "3dmod-1",
+        "detailed_goals": [
+            "Block out the basic shapes for the main characters, focusing on getting the proportions and anatomy right.",
+            "Move on to creating the environmental models, starting with the larger structures and then adding details.",
+            "Begin rigging the characters for animation, paying close attention to joint placement and deformation.",
+            "Work on creating a library of animations for basic movements, combat, and interactions."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lpro-1",
+        "detailed_goals": [
+            "Define the core game mechanics, including movement, combat, and interactions.",
+            "Create the underlying systems that govern these mechanics, ensuring they're robust and responsive.",
+            "Implement the game's physics engine, tweaking it to achieve the desired feel.",
+            "Work on AI implementation.",
+            "Document everything thoroughly, so that the other programmers can easily understand and work with the systems.",
+            "Use Naomi's design document as a base for this."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "tart-1",
+        "detailed_goals": [
+            "Work with Leon to understand the overall art style and vision for the game.",
+            "Work with Ricardo and Fatima to ensure that the 3D models and animations are technically sound and optimized for performance.",
+            "Collaborate with Mei, Aisha, Javier and David to ensure that the UI elements are visually appealing and functional.",
+            "Define the technical requirements for the art assets, including polygon counts, texture sizes, and animation frame rates.",
+            "Work on creating shaders and materials to achieve the desired visual effects.",
+            "Make sure that I am utilizing the tools that the Tools Developer is working on to help the art pipeline."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "tdev-1",
+        "detailed_goals": [
+            "Begin by identifying the most pressing needs of the development team by consulting with each department lead.",
+            "Develop custom tools to automate repetitive tasks, streamline workflows, and improve overall efficiency.",
+            "Some of these tools may include a custom level editor, an automated build pipeline, or a tool for managing and organizing assets.",
+            "Make sure that the tools are well documented and easy to use, providing training and support to the development team.",
+            "Focus on integrating the tools with existing systems, ensuring a seamless workflow."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ldes-1",
+        "detailed_goals": [
+            "Start on the initial game concept and design document.",
+            "Brainstorm some core game mechanics and a compelling narrative hook.",
+            "Sketch out a basic level layout to get a sense of the gameplay flow.",
+            "Define the player progression system, outlining how players will advance and unlock new abilities.",
+            "This initial document will serve as a foundation for the team to build upon, ensuring everyone is aligned on the game's vision and direction."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "aud-1",
+        "detailed_goals": [
+            "Begin by compiling a comprehensive list of all required sound effects, categorizing them by type (e.g., character actions, environmental sounds, UI feedback).",
+            "Start creating or sourcing these sound assets, making sure to adhere to the game's aesthetic.",
+            "Integrate these sounds into the game engine, attaching them to the appropriate events and triggers.",
+            "Work on implementing environmental audio, creating soundscapes that enhance the game's atmosphere.",
+            "Test and fine-tune the audio mix, ensuring a balanced and immersive experience."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "sdev-1",
+        "detailed_goals": [
+            "Outline the server architecture, choosing appropriate technologies for the game's needs.",
+            "Set up the database schema, defining the structure for storing player data, game state, and other relevant information.",
+            "Implement the core server logic, including handling player authentication, managing game sessions, and enforcing game rules.",
+            "Create APIs for the client to communicate with the server, ensuring secure and efficient data transfer.",
+            "Scalability and security will be a primary focus throughout the development process, implementing measures to prevent cheating and protect player data."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "lvdn-1",
+        "detailed_goals": [
+            "Create the level layouts, focusing on creating interesting and varied environments that complement the gameplay.",
+            "Block out the main pathways and areas, ensuring a good flow and pacing.",
+            "Start prototyping gameplay scenarios within the levels, experimenting with enemy placement, puzzle design, and environmental challenges.",
+            "Work on integrating visual elements, like lighting and set dressing, to enhance the atmosphere and guide the player."
+        ]
+    },
+    {
+        "week": 3,
+        "id": "ndes-1",
+        "detailed_goals": [
+            "Flesh out the game's lore and backstory, creating a rich and believable world for the players to explore.",
+            "Develop the main characters, giving them compelling motivations, relationships, and arcs.",
+            "Write the main storyline, weaving in subplots and branching narrative paths to create player choice.",
+            "Write all the in-game dialogue, ensuring it's engaging, informative, and consistent with the characters' personalities.",
+            "Work on item descriptions, environmental storytelling, and any other text that can add depth and flavor to the game world."
+        ]
+    }
+]

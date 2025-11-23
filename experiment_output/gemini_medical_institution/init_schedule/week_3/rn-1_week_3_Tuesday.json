@@ -1,0 +1,70 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, check emails, and review any updates on influenza protocols or EHR system changes. Check with @clinlead-1 for any new guidelines."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review yesterday's patient assessments and lab results for influenza. Note any trends or patterns that might require further investigation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin patient rounds. Prioritize patients with respiratory symptoms or those who are considered high-risk. Focus on accurate symptom assessment and EHR documentation."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Assess Patient 4 (Mr. Williams) for influenza symptoms. Document all findings in the EHR using the standardized tool."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Assess Patient 5 (Ms. Garcia) for influenza symptoms. Document all findings in the EHR using the standardized tool."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "If influenza testing is needed, collect samples and ensure proper labeling and delivery to the lab."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue patient rounds and accurate EHR documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Catch up on some social media, maybe look at some cat videos."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume patient rounds and influenza symptom assessment, focusing on high-risk patients."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Assess Patient 6 (Mrs. Chen) for influenza symptoms. Document all findings in the EHR."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review Patient 4's (Mr. Williams) EHR entry for completeness and accuracy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review Patient 5's (Ms. Garcia) EHR entry for completeness and accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up on lab results and document accurately in the EHR."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "If any discrepancies are found in the EHR data, email @mrs-1 and @mrs-2 to request assistance in correcting the errors. Topic: EHR Data Correction Request"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift change and communicate relevant patient information to the incoming nurse."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final documentation and EHR review before leaving for the day."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of shift."
+    }
+]

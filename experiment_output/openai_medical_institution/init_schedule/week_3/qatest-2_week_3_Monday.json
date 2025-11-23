@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails. Review the influenza data entries from the previous week to identify which areas require further QA checks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Execute initial rounds of QA checks on influenza data entries focusing on reliability, logging any inconsistencies."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Contact @Data Analyst, @Health Informatics Specialist to clarify any ambiguous data points found during the QA checks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue executing further QA checks on influenza data entries, documenting all findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume QA checks and begin collating the results to prepare for summarizing findings."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare initial draft of findings and document the detailed issues identified during QA checks."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review findings and finalize the draft for team presentations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails for any responses from colleagues and finalize the necessary documentation for tomorrow's presentation."
+    }
+]

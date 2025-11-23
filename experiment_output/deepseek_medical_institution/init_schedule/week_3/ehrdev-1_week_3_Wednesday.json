@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Begin preliminary testing of the new EHR functionalities in a development environment."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss the testing plan and assign test cases."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Assist the QA team with setting up the test environment and provide necessary access."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Monitor the initial test runs and address any immediate issues identified by the QA team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @dba-1 to ensure the database is properly configured to support the new functionalities."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document any issues found during testing and plan fixes for the next day."
+    }
+]

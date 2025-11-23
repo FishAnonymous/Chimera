@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails for any last-minute feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the compliance report to the management team for review."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from the management team regarding the report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Make necessary revisions to the compliance report based on the management team's feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the revised compliance report for submission."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by planning next steps and reviewing tasks completed."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from @prod-1 on the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate any feedback into the presentation slides."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Practice presenting the audio experience in front of colleagues for feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the presentation and prepare any required audio files to showcase."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Confirm the time and attendees for the presentation with @prod-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Relax and take a break after a busy day of preparation."
+    }
+]

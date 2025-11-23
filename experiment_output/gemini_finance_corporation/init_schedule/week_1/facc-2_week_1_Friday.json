@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Review the presentation for today's team meeting and address any last-minute concerns."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the presentation slides. Review and rehearse presentation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend the team meeting. Present the research findings and preliminary framework for tracking fund performance and expenses. Solicit feedback and address any questions or concerns. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Following the team meeting, incorporate feedback received during the presentation into the preliminary framework document. Prioritize critical improvements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document any changes made to the framework based on the feedback received. Update the summary report with the final outcomes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a final version of the preliminary framework document and the summary report for distribution to the team. Share the documents."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week's work. Respond to any remaining emails. Organize all documents and files. Back up all data. Reflect on the progress made and identify areas for future improvement. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Complete the weekly timesheet and submit it. Clear the workspace. Prepare for the weekend."
+    }
+]

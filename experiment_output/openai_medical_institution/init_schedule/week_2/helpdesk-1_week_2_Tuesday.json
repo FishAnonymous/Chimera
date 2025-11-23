@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback received from previous day\u2019s preparations."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the first onboarding training session for EHR tools with @rn-1, @rn-2, and @rn-3, focusing on influenza data collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from participants regarding the session's content and usability of EHR tools."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze collected feedback to identify areas for improvement in resources."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct the second onboarding training session for other staff members (e.g., @mrs-1, @his-1) on EHR tools."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Compile notes and insights from both training sessions for further enhancement of resources."
+    }
+]

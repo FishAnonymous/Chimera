@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails for any final feedback from @prod-1 on the sound library."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Adjust sound effects based on feedback and finalize the library."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the sound library to the entire team, explaining how they align with the game themes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather last-minute feedback from team members and make necessary changes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Reflect on the week\u2019s progress and jot down plans for next week based on the collected audio."
+    }
+]

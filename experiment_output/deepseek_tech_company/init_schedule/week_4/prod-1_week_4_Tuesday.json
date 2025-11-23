@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks based on stakeholder feedback. Review playtesting documentation from @qtest-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1, @sdes-1, and @ldes-1 to discuss gameplay refinements identified during playtesting."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @cdev-1, @cdev-2, and @cdev-3 to implement minor gameplay tweaks based on playtesting feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review updated builds with @qtest-1 to ensure refinements are correctly implemented and document any new issues."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @uiux-1 and @3dmod-1 to discuss any visual or UI adjustments needed based on playtesting feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update the project documentation with the latest playtesting results and refinement plans."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send a summary email to the team outlining the day's progress and next steps."
+    }
+]

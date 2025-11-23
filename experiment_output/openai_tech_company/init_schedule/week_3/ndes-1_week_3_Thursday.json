@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and conduct a review of all narrative drafts and scene breakdowns created so far."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make any necessary revisions to the dialogue scripts and scene breakdowns based on self-review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @UI/UX Designer to discuss the integration of narrative elements within the user interface."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start compiling all finalized drafts and breakdowns into a comprehensive document for the team."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email the document to the entire team for review and feedback."
+    }
+]

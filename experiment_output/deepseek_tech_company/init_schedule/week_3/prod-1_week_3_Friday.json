@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any final feedback on the prototype review agenda."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a final check-in meeting with the core team (@ldes-1, @lpro-1, @sdes-1, @sdes-2) to ensure all is on track."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review and consolidate all documentation for the prototype review."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send a reminder email to @ALL about the upcoming prototype review in Week 4."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @uiux-1 and @cart-1 to finalize any last-minute UI/UX or art assets."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check in with @3dmod-1 and @3dmod-2 on 3D assets and animations for the prototype."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week's progress and prepare a summary report for stakeholders."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, ensure all tasks are documented, and plan for Week 4."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, grab coffee, check emails. Maybe a quick scan of LinkedIn to see what's happening in the finance world."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refine the KYC/AML outline based on feedback (if any) from @comp-1. Make sure it is comprehensive and easy to understand."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Research best practices for onboarding UHNWIs. What are other firms doing? Look for ways to differentiate our process with a high-touch, personalized approach."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin drafting a client-facing document outlining the onboarding process. Make it clear, concise, and professional. Emphasize the benefits of working with the firm and explain the steps involved."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Quick walk outside to get some fresh air and grab a sandwich with @facc-1 and @facc-2."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting the client-facing document. Focus on the tone and language used. It needs to be sophisticated and reassuring."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on the suitability assessment portion. Decide on the questionnaires to use, data to collect, and the models for analyzing the client's risk profile. This is related to @qres-1, @qres-2, @qres-3."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review the overall onboarding process from the client's perspective. Identify any pain points or areas for improvement."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Update task list for tomorrow. Read the news about finance on the internet."
+    }
+]

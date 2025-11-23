@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system and check emails. Respond to urgent requests or queries. Check project management tools for any updates or notifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the detailed EHR data elements identified in Subtask 1 (assuming this was completed in previous weeks). Refresh my memory on their purpose and relationships."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin mapping the EHR data elements to the columns in the new tables. Focus on patient demographics and encounter information first. Document each mapping clearly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Encountered a discrepancy regarding the representation of race/ethnicity data. Draft an email to @his-1 and @clinlead-1 to discuss the best way to represent this information in the new schema. Topic: Representation of Race/Ethnicity Data in EHR Schema"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue mapping the EHR data elements, focusing on medication and allergy information. Ensure data types are consistent."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Relax and recharge."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Return to mapping EHR data elements. Begin working on mapping lab results data elements to corresponding columns."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Realize I need more information about how the lab results are being formatted. Email @da-1 and @his-2 to request information regarding the lab result data formats and any associated code sets. Topic: Lab Result Data Formats and Code Sets"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the current schema design and identify any potential gaps in required data elements. List the identified gaps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the identified gaps and potential solutions. Prepare to discuss them with the team tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check of emails and project management tools. Prepare for tomorrow's tasks. "
+    }
+]

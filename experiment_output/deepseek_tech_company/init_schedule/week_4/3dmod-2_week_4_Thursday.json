@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm handoff details with the development team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final review of all 3D models and animations, making any last-minute adjustments."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Short break, browse latest game art trends."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Ensure all assets are properly named and organized for easy integration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Handoff finalized assets to the development team via shared drive and email confirmation to @cdev-1, @cdev-2, and @cdev-3."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with the development team to confirm receipt and address any immediate questions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the handoff process and update the asset tracker."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the week's work and plan for any follow-up tasks."
+    }
+]

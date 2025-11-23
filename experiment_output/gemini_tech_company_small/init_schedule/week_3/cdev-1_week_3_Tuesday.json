@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Do some research on stamina systems in similar games. Analyze how stamina affects movement (sprinting, dodging, etc.)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement the stamina resource. Define data structure (current stamina, max stamina, regeneration rate). Implement functions for stamina consumption and regeneration. Add unit tests for stamina functionality."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Integrate the stamina system with the movement system. Make sprinting consume stamina. Prevent sprinting when stamina is zero. Add unit tests for stamina usage during movement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Potentially add dodging or other movement actions that consume stamina. Experiment with different stamina costs and regeneration rates to find a good balance. Add unit tests for stamina cost of actions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the stamina system. Adjust stamina costs and regeneration rates based on initial playtesting. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test stamina system thoroughly, identifying any potential exploits or imbalances in gameplay."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write more unit tests and perform code review. Ensure that the code style is consistent."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the implemented stamina system. Push the changes to the remote repository."
+    }
+]

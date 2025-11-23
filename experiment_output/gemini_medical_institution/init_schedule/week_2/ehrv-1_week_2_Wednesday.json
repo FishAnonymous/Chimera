@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, prep for EHR vendor meeting. Need coffee."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with the EHR vendor to discuss the proposed system modifications for influenza data collection. Present the requirements document, explain the rationale behind each requirement, and address any questions or concerns raised by the vendor."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Debrief with @ehrdev-1 after the meeting. What were their impressions? Did the vendor seem receptive to the requests?"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Post-meeting follow-up: Send a summary of the discussion points and agreed-upon actions to the EHR vendor. Include a timeline for the next steps, such as a detailed system design proposal from the vendor."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document the vendor meeting, including the pros and cons of the approach. Share it with the project team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Communicate with @itpm-1 to update the project plan with the agreed-upon actions and timelines from the EHR vendor meeting. Ensure that the project schedule reflects the new milestones and dependencies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the latest articles on EHR interoperability standards. See if anything could impact our project."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, review notes and to-do list for tomorrow."
+    }
+]

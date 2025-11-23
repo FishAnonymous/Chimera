@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and summarize feedback from the reviews for both environment assets."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin modifying the first key environment asset based on feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break - Explore community forums related to game environment design."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue refining the first environment asset to better fit the gameplay goals."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on modifying the second environment asset based on feedback received."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Collaborate with @UI/UX Designer to ensure environmental assets align with gameplay mechanics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final adjustments on both environment assets, preparing them for presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day and ensure all tasks are documented and ready for the next day."
+    }
+]

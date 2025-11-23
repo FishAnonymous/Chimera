@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, quickly check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Arrive at the office. Attend the daily stand-up meeting. Briefly present the progress on the character model refinement."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Continue refining the player character model. Focus on the hands and feet, which are usually the trickiest parts. Aim to finish the base mesh refinement today."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Reach out to @TART-1 to discuss the rigging requirements for the character model. Topic: Character Rigging Requirements - Player Model"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Play a quick round of Counter-Strike with @3DMOD-1 and @TART-1 to unwind."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin working on the basic animations for the player character (idle, walk, run). Start with the idle animation, focusing on subtle movements and breathing."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Experiment with different animation techniques and software features. Consult online tutorials and documentation for reference."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Continue working on the walk cycle animation. Pay attention to weight distribution, timing, and overall realism."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day. Save the animation progress and create a backup. Prepare for tomorrow by listing animation checkpoints."
+    }
+]

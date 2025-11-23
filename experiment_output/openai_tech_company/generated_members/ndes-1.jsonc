@@ -1,0 +1,27 @@
+{
+    "name": "Ava Johnson",
+    "id": "ndes-1",
+    "ip": "10.0.0.21",
+    "age": 29,
+    "role": "Narrative Designer",
+    "description": "Responsible for crafting compelling narratives and character development that enhances player engagement through storytelling. Collaborates closely with other departments to ensure cohesive storytelling throughout the game.",
+    "tools": [
+        "Twine",
+        "Celtx",
+        "Final Draft",
+        "Notion",
+        "Trello"
+    ],
+    "mbti": "ENFP",
+    "interests": "creative writing, role-playing games",
+    "personality": "Imaginative and enthusiastic, loves exploring new ideas and concepts. Enjoys collaborative environments and values input from diverse perspectives to enrich narratives.",
+    "application": {
+        "NarrativeHub": {
+            "account_name": "narr-394856",
+            "password": "avaJ@story",
+            "permissions": "narrative_designer"
+        }
+    },
+    "email": "narr-394856@corp.com",
+    "container_id": "f420e78c9c8d"
+}

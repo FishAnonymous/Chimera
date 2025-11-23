@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback received from the last testing session regarding sound effects and music."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin refining sound effects based on feedback. Focus on main character footsteps and environmental sounds."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Edit background music to ensure it fits the current pacing of gameplay and enhances player experience."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Balance audio levels for sound effects, ensuring they don't overpower the music."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create audio asset list and notation of levels for all effects to keep track of changes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check in with @qtest-1 for any additional feedback from the ongoing testing sessions."
+    }
+]

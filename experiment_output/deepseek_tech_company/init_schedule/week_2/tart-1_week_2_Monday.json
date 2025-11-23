@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the week's goals and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cart-1 to gather initial input on art style preferences and discuss potential assets needed for the game."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Research and compile a list of technical constraints for asset creation based on engine limitations and performance requirements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft a document outlining the technical constraints for asset creation and share it with @3dmod-1 and @3dmod-2 for feedback."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Browse industry blogs and forums for inspiration on art styles and technical solutions."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @cart-1 on any additional art style details or references needed."
+    }
+]

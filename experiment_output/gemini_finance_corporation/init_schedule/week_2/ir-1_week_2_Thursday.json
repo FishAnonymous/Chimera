@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review the investor presentation draft. Make any final adjustments before sending it out for review."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare an email to @cio-1, @legal-1, @comp-1, and @mkt-1 attaching the investor presentation draft and requesting their feedback by the end of the day tomorrow. Clearly state the areas where I'm particularly seeking input."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on a checklist of essential information points that should be included in the investor presentation. Ensure the persentation contains all the necessary information."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the fund's financial model with @facc-1 and @facc-2 (Fund Accountants). Make any necessary adjustments on investor persentation based on the finacial model."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research and gather information on competitors or similar funds targeting UHNWI investors. Analyze their strategies, performance, and marketing materials to identify best practices and potential differentiation points for our fund."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Order lunch with some colleagues and chat about the progress of the presentation and the general atmosphere in the office. A healthy dose of socializing helps keep morale high."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Revise the 'Q&A' section of the investor presentation based on the competitor analysis. Add questions that address potential concerns about our fund's differentiation and competitive advantages."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Brainstorm with @mkt-1 (Marketing & Communications Specialist) on the visual design and branding of the investor presentation. Discuss the use of colors, fonts, and imagery to create a professional and appealing document."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Make any necessary adjustments to the presentation draft for tomorrow to be sent to key stakeholders for review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and update the action items list. Prepare a list of questions for the stakeholders who are reviewing the presentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails and finalize preparations for tomorrow's tasks. Pack up and head home, feeling good about having sent out the presentation for review."
+    }
+]

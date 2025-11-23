@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Conduct final playtest with @qtest-1 and @prod-1."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from playtest. Identify any last-minute balancing or system issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @ldes-1 and @lpro-1 to review playtest results and finalize all parameters."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement final balancing changes. Ensure all systems are stable and integrated."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review documentation and ensure all changes are properly recorded. Update task tracker."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send weekly progress report to @prod-1 and team. Wrap up for the week."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Begin gathering data for the preliminary budget, focusing on personnel costs."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to discuss personnel requirements and associated costs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Compile a list of personnel roles and their estimated salaries."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research industry benchmarks for hedge fund personnel costs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue compiling personnel cost data and start drafting the personnel budget section."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @cio-1 to discuss technology requirements for the fund."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research and list technology costs, including software licenses and infrastructure."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft the technology budget section and combine with personnel costs."
+    }
+]

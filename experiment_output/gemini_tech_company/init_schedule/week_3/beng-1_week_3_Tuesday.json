@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review yesterday's work. Check the CI/CD server and ensure it's running correctly."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Integrate the basic build script into the CI/CD system. Configure a job to trigger the build script on code commits."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Test the CI/CD integration by making a small change to the codebase and committing it. Monitor the build process in the CI/CD system."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any errors or failures in the CI/CD pipeline. Debug the build script and CI/CD configuration."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Research and select an automated testing framework (e.g., Unity Test Runner, GoogleTest). Evaluate compatibility with the game engine and CI/CD system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Set up the chosen testing framework in the development environment. Create a simple test case to verify basic functionality."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the testing framework setup and usage. Share the documentation with the development team @cdev-1, @cdev-2, @cdev-3, @lpro-1 to ensure everyone is on the same page (Topic: Automated Testing Framework Introduction)."
+    }
+]

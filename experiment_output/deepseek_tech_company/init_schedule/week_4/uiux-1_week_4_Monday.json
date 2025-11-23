@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review UI assets and animations that need polishing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss animation refinements for UI elements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Polish UI animations based on feedback from the meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review and update UI assets to ensure consistency with the game's visual style."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue polishing UI assets, focusing on button states and hover effects."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @ldes-1 to align on UI style and interaction requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start drafting the style guide, including color palettes, typography, and UI components."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress and prepare a to-do list for Tuesday."
+    }
+]

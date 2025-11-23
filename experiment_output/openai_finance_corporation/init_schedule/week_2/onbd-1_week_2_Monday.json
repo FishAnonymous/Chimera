@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and prioritize tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 to discuss the compliance requirements for the onboarding checklist and gather insights."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on finalizing the onboarding checklist for UHNWIs based on the insights gained from @comp-1."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review and edit the onboarding checklist with a focus on clarity and comprehensiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Share the finalized onboarding checklist with @ir-1 for feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @mkt-1 to begin brainstorming ideas for marketing materials for client outreach."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Create a draft outline for the marketing materials based on the discussion with @mkt-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails and wrap up the day."
+    }
+]

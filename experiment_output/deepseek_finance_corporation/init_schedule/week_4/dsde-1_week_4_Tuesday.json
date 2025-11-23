@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the refined report and prepare for a meeting with the quantitative research team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3 to discuss integrating findings into the investment strategy presentation."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break to clear mind, browse latest research papers on statistical arbitrage."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with the team to refine statistical models based on the historical data analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on integrating the refined models into the investment strategy presentation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cio-1 and @pm-1 to provide an update on progress and any blockers."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue refining the presentation, ensuring clarity and accuracy of data visualizations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the day's work and prepare for tomorrow's tasks."
+    }
+]

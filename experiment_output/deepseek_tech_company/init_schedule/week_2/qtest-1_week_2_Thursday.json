@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for any new builds or updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct stress testing on the prototype build to evaluate performance under heavy load."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Analyze performance data and report any bottlenecks to @lpro-1 and @tdev-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test UI elements and HUD functionality with @uiux-1 to ensure alignment with design."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review audio integration with @aud-1, checking for sync and quality issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update test documentation and prepare for final review."
+    }
+]

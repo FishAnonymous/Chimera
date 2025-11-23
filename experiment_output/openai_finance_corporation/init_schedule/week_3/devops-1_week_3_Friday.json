@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the setup of monitoring and management tools."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare presentation summarizing the week\u2019s work for the team meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct team meeting to present cloud infrastructure setups and monitoring tools."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collect feedback from team and finalize the documentation of tools implemented."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the week\u2019s tasks, check emails one last time before logging off."
+    }
+]

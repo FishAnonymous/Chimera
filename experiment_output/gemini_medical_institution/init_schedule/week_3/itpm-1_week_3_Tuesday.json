@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for responses from @ehrv-1, @da-1, @da-2, @clinlead-1, and @his-1 regarding the data abstraction process. Prioritize responding to urgent queries."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @da-1 and @da-2 to review their feedback on the data abstraction form after their pilot test. Address any issues or concerns they encountered and revise the form accordingly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on resolving data access issues identified by @da-1 and @da-2. This may involve further communication with @ehrv-1 and potentially @dba-1 (Database Administrator) to ensure they have the necessary permissions. Email: @ehrv-1, @dba-1 Topic: Data Access Permissions for Data Analysts."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Based on feedback from @da-1 and @da-2, refine the data abstraction form and create a standardized process document. Review the document with @trainer-1 to see if the training session is required. @trainer-1 Topic: training session requirement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the standardized abstraction process document with @trainer-1 (Training Coordinator) and discuss the need for training sessions for the data analysts. Adjust the standardized abstraction process based on the disucssion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 (Quality Assurance Testers) to discuss the data quality assurance process for the abstracted influenza data. Define metrics for data quality and establish a process for identifying and resolving data errors. @qatest-1, @qatest-2 Topic: Data Quality Assurance for Influenza Data."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work with @his-1 and @his-2 to create a preliminary data analysis plan for the abstracted influenza data. Determine the key metrics and visualizations that will be used to analyze trends. @his-1, @his-2 Topic: Data Analysis Plan for Influenza Data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document today's activities and update the project plan with progress made. Review the plan for tomorrow and identify any outstanding tasks."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the week's goals and prioritize tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @pm-1 to discuss the operational plans for fund launch and align on key deliverables."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Draft an outline of key phases for the fund launch, including pre-launch and launch preparation. Document key milestones."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @cio-1 and @qres-1 to gather input on required technology resources for the fund launch."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile a list of required human resources by consulting with @ir-1 and @onbd-1."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review financial resource requirements with @facc-1 and @facc-2."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Begin drafting a preliminary timeline for fund launch activities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by summarizing progress and preparing for Tuesday's tasks."
+    }
+]

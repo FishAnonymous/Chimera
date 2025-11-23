@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review Monday's notes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin prototyping the core functionality of the custom level editor. Focus on implementing basic scene creation and object placement features."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research available asset management solutions and consider how they can be integrated into the level editor workflow. Consult with @tart-1 (Technical Artist) regarding the art pipeline."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement basic asset importing functionality in the level editor prototype. Support common 3D model formats (e.g., .fbx, .obj)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Read through the design patterns in Game Programming Gems."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the level editor prototype. Implement object manipulation tools (e.g., move, rotate, scale)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement basic collision detection in the level editor prototype. Allow designers to define collision volumes for objects."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Create a test level using the level editor prototype. Identify any usability issues or missing features."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the progress on the level editor and outline the next steps for development."
+    }
+]

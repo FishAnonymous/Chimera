@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any final feedback from @lpro-1 or @prod-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize all foundational systems. Ensure they are stable and well-documented."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare a demo build for the team showcase. Include input handling, physics, and placeholder assets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the demo to the team. Gather feedback and note any last-minute adjustments."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address any final feedback. Commit all changes and update the project wiki."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week's work. Celebrate progress with the team!"
+    }
+]

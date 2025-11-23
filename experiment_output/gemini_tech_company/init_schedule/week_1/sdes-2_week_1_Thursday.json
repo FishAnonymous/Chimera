@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check emails. Read some articles about game design and economy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on the economy system.  Design the basic economic model, including how players earn and spend currency. Define the cost of items, crafting recipes, and upgrades."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @SDEV-1 on how to integrate the economy system with the server backend. Discuss data storage and security considerations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax a little bit."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement a basic currency system. Players can earn currency by completing quests, defeating enemies, or selling items."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement a simple shop interface where players can buy and sell items. Use placeholder UI elements for now."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the economy system to ensure it's balanced and engaging. Adjust prices and rewards as needed. Gather initial feedback from team members."
+    }
+]

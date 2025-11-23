@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the final report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Distribute the final report to relevant stakeholders (@cio-1, @coo-1, @pm-1, @ir-1)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Reflect on the week's work and note any lessons learned."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a summary of the week's achievements and any pending tasks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with the quantitative research team (@qres-1, @qres-2, @qres-3) to discuss next steps and upcoming projects."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Organize and archive all project files. Ensure documentation is up to date."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check emails and respond to any final queries for the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and plan for the following week."
+    }
+]

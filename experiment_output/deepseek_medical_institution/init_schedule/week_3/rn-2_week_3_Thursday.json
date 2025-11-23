@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, review patient records for any updates or new admissions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on entering detailed symptom descriptions and vaccination status. Verify data with @rn-3 and @mrs-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, check for any new emails or updates from @ehrv-1."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Resume data entry, ensuring all information is accurate and up-to-date."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend advanced training session on EHR functionalities for influenza tracking with @trainer-1 and @ehrdev-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Practice using advanced functionalities with real patient data. Discuss any issues with @ehrdev-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete any pending data entry tasks, ensure all records are saved and backed up."
+    }
+]

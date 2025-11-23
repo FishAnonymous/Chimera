@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at office, quick email check, and review the plan for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue research, focusing on risk tolerance. Identify different risk profiles within the UHNWI segment (e.g., entrepreneurs vs. inheritors). Check for articles and research from Vanguard or Fidelity regarding risk assessments for high-net-worth individuals."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Look into academic studies and surveys on risk aversion and investment decision-making among wealthy individuals."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare questions for Legal Counsel (@LEGAL-1) regarding regulatory considerations related to marketing investment products to UHNWIs with varying risk tolerances. @LEGAL-1 Topic: Regulatory Considerations for UHNWI Marketing and Risk Tolerance"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up on industry blogs and articles on marketing trends."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with Investor Relations (@IR-1) and Client Onboarding (@ONBD-1) to discuss preliminary findings and gather insights on UHNWI investment preferences and risk tolerance based on their direct interactions with clients."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Summarize the key insights from the meeting with @IR-1 and @ONBD-1 and integrate them into the research document."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Refine the risk tolerance research based on the inputs from Investor Relations and Client Onboarding."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a brief progress report for Project Manager (@PM-1) on the research conducted so far. @PM-1 Topic: UHNWI Investment Research - Progress Update"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

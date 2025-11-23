@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and wait for feedback from @pm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any feedback and make necessary revisions to the report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for a presentation to the entire team about the findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the presentation on competitor analysis."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collect feedback from the team after the presentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Reflect on the presentation and outline next steps for project execution."
+    }
+]

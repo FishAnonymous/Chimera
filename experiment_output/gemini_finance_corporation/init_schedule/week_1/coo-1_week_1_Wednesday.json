@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, get ready for work. Check schedule and prepare for the day ahead. Quick scan of financial news headlines on Bloomberg."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Hold a stand-up meeting with all team leads (@PM-1, @Larch-1, @Qres-1, @Ir-1, @Comp-1) to get a quick update on the progress of each team. Identify any roadblocks and ensure everyone is aligned."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review the fund's documentation with @Legal-1 and @Comp-1. Ensure all documents are accurate and compliant with SEC regulations. Prepare for the fund registration process."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @CIO-1 to discuss the fund's performance and adjust the investment strategy as needed. Review risk parameters and target returns. Make data-driven decisions."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Address any urgent issues or concerns raised by the team leads. Provide support and guidance as needed. Ensure everyone has the resources they need to succeed."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Review WSJ headlines while eating a quick lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Deep dive into resource allocation with @PM-1. Analyze team workloads and identify any potential bottlenecks. Reallocate resources as needed to ensure the project stays on schedule."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "@Facc-1, @Facc-2 - EMAIL: Request a detailed report on expenses to date and projected expenses for the remainder of the project. Scrutinize the report and identify any areas where costs can be reduced."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Spend time reviewing the trading platform's performance metrics. Work with @Larch-1 and @Devops-1 to optimize the platform for speed and efficiency."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the progress of the data science team (@Dsde-1, @Dsde-2). Ensure they are providing the quantitative researchers with the data they need to develop and refine the statistical arbitrage strategy."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

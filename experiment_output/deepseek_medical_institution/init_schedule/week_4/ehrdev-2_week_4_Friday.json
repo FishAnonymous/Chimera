@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct a final review of all EHR system configurations and workflows."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test the entire system with @qatest-1 and @qatest-2 to ensure everything is functioning as expected."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, browse tech forums."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Address any last-minute issues found during testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Provide technical support and ensure all system issues are resolved before the weekend."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @dba-1 to ensure database backups and system stability."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Document all final changes and prepare a summary report for the week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the week, send the summary report to @itpm-1 and @clinlead-1, and plan for next week."
+    }
+]

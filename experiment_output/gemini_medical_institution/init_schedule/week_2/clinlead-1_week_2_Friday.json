@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, check emails, and grab a coffee. Start browsing through some fashion websites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Oversee the training sessions for nurses and physicians on the updated workflows. Provide support and answer any questions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from the training participants on the updated workflows and training materials. Make note of any areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Work with @helpdesk-1 to address any technical issues or questions that arise during the training sessions. @PEOPLE: Technical Support During Training"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Enjoy the last day of the work week with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the feedback from the training sessions and identify any necessary revisions to the workflows or training materials."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Communicate any necessary revisions to the relevant team members, including @ehrdev-1, @ehrdev-2, @trainer-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of the week's activities, including the progress made on the updated workflows, any challenges encountered, and any lessons learned."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the summary report to the appropriate stakeholders."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave hospital."
+    }
+]

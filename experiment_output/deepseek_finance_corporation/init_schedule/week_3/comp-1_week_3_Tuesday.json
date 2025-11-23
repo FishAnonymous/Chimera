@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries regarding compliance documentation. Finalize any pending edits."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct internal training session for the team on updated regulatory requirements. Cover key changes and implications for our operations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Q&A session following the training. Address any concerns or questions from team members."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review KYC/AML processes to ensure they are fully operational. Check for any discrepancies or areas needing improvement."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @onbd-1 to discuss KYC/AML process efficiency and any client onboarding challenges."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update KYC/AML process documentation based on feedback from @onbd-1."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Respond to any urgent matters."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the progress of EHR integration with @ehrdev-1 and @ehrdev-2. Address any roadblocks or challenges encountered."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss the testing plan for the modified workflows and the implemented prompts. Ensure that the testing plan covers all aspects of the system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Participate in the initial testing of the prompts in the test environment. Provide feedback to the developers on any issues or areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine the training plan based on the feedback from the testing team. Include specific examples and scenarios to help users understand how to use the new system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work with @ehrv-1 to resolve data mapping and interoperability issues. Ensure that the data captured from the prompts is accurately transferred to other systems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Develop a communication plan to inform stakeholders about the upcoming changes to the EHR system. Clearly communicate the benefits of the new system and the training opportunities available."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consult with @da-1 and @da-2 regarding data extraction for influenza trend analysis. Ensure that the data is structured for easy reporting and analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document and communicate the project's progress, including challenges and accomplishments. This helps everyone stay informed and coordinated."
+    }
+]

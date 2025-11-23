@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails for updates and feedback from @mkt-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a quantitative analysis of competitors' performance metrics, running simulations if necessary."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review industry-specific benchmarks for market-neutral funds and coordinate findings with @comp-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a draft of the analysis report focusing on the insights gained from quantitative analysis."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Solicit feedback on the draft from @qres-1 and @qres-2."
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "name": "Samantha Rivers",
+    "id": "facc-2",
+    "ip": "10.0.0.22",
+    "age": 38,
+    "role": "Fund Accountant",
+    "description": "Oversees the accuracy of financial transactions, fund accounting records, and prepares comprehensive financial reports for stakeholders. Ensures compliance with accounting standards and regulatory requirements. Collaborates actively with investment teams to assess financial impacts of strategies.",
+    "tools": [
+        "Excel",
+        "NetSuite",
+        "BlackRock Solutions",
+        "Quicken",
+        "Tableau"
+    ],
+    "mbti": "ISFJ",
+    "interests": "baking, gardening, reading mysteries",
+    "personality": "Meticulous and dependable, enjoys creating order from chaos. Prefers working in a structured environment with clear guidelines and has a knack for detail-oriented tasks. Values teamwork and is known for her supportive nature.",
+    "application": {
+        "FundManagementSystem": {
+            "account_name": "fa-638291",
+            "password": "SamanthaFA@2023",
+            "permissions": "full_access"
+        }
+    },
+    "email": "fa-638291@corp.com",
+    "container_id": "j67k4n5b456n"
+}

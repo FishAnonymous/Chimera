@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start development of the statistical model for evaluating risk-return profiles. Research existing models and methodologies."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qres-1 and @qres-2 to discuss current methodologies and gather their insights on statistical models."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue development of the statistical model based on insights gathered from colleagues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Perform preliminary analysis on variables affecting risk-return profiles."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Write up findings and progress on statistical model in the project management tool."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check in with @devops-1 to ensure necessary computing resources are available for model development."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day and review the tasks completed."
+    }
+]

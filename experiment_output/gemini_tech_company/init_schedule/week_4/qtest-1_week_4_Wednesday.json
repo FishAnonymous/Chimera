@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Still waiting on feedback about weekly goals. Write another email to @prod-1, @ldes-1 and @lpro-1 requesting to schedule a quick meeting to discuss the importance of setting clear QA goals for the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Contact @lpro-1 to schedule the quick meeting. Emphasize on the importance of clear QA goals for effective testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assuming the meeting is scheduled, attend the meeting and advocate for the need for clearly defined testing objectives.  Offer to help create a more structured QA process."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "If no meeting, continue with testing shooting mechanics based on feedback from @cdev-1, @cdev-2, @cdev-3. Verify if the reported bugs have been fixed. Focus on regression testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Quick walk to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Write test cases based on new builds for Third Person Shooter games."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Based on the test cases that have been written, perform smoke tests on the current builds."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review any responses from the meeting with @comp-1, @facc-1, @facc-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a risk assessment procedure: Identify key operational risks associated with fund compliance."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a team meeting to discuss findings related to fund operations risks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document findings from the risk assessment and prepare for presentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send summary of findings to @pm-1 for review."
+    }
+]

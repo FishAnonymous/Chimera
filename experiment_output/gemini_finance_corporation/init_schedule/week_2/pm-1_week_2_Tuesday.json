@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Check emails and calendar for urgent matters. Prioritize tasks based on urgency and impact."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Review the summary report sent to the COO and CIO last night. Note any feedback or questions."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Browse Wall Street Journal and Bloomberg for market news and relevant regulatory updates. Identify any potential impacts on the project."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review submitted SMART goals from team members. Identify any that are unclear, unrealistic, or misaligned with project objectives."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send follow-up emails to team members whose SMART goals require clarification or revision. Provide specific feedback and guidance."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a consolidated report of all team members' SMART goals. Highlight any potential dependencies or conflicts between teams."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Discuss potential investment strategies with @qres-1, @qres-2 and @qres-3."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Research UHNWI investment preferences and trends. Identify potential marketing strategies for the fund. @mkt-1"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Schedule a meeting with @legal-1 and @comp-1 to discuss SEC regulations and compliance requirements for the fund registration process."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare agenda for meeting with @legal-1 and @comp-1, focusing on key regulatory milestones, required documentation, and potential compliance risks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update project plan with finalized SMART goals, dependencies, and resource allocation for each team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a progress update email to COO and CIO summarizing the status of SMART goal finalization, upcoming meetings with team leads, and the meeting with legal and compliance."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize daily tasks and prepare for tomorrow's schedule."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and confirm the QA review schedule with @qatest-1 and @qatest-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with QA testers to walk through the report and address any initial feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate QA feedback into the report, focusing on any identified errors or improvements."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Validate changes made based on QA feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation of the report findings for the IT Project Manager and Physician Champion."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @itpm-1 and @pchmp-1 to schedule the presentation for Friday."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Rehearse the presentation and refine slides based on rehearsal feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the report and presentation materials."
+    }
+]

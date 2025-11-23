@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, check emails. Look at the funny cat video sent by my wife. Review the preliminary technical specification document created yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the technical specification document based on yesterday's research and best practices. Add more details on data types, field lengths, validation rules, and workflow customizations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @dba-1 to discuss the database schema and potential impact of the proposed EHR system updates/modifications. Get their input on data storage, indexing, and performance considerations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a detailed data dictionary for the new data fields. This dictionary should include field names, data types, descriptions, validation rules, and any other relevant information. Share with @da-1 and @da-2"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Microwave yesterday's leftover pizza."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start prototyping some of the workflow customizations in a test environment. Experiment with different approaches for capturing data and guiding clinicians through the data collection process."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Conduct a preliminary risk assessment of the proposed EHR system updates/modifications. Identify potential challenges and develop mitigation strategies. Consider factors such as data migration, system downtime, and user training."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the technical specification document with the risk assessment findings and mitigation strategies. Ensure that the document is comprehensive and addresses all potential concerns."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation summarizing the proposed EHR system updates/modifications. This presentation will be used to communicate the plan to stakeholders and get their buy-in. @itpm-1 should be included in the email"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the week's progress and identify any outstanding tasks. Prioritize tasks for tomorrow based on urgency and importance."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up and head home. Might stop by the hardware store. "
+    }
+]

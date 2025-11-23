@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Email check and prepare the meeting room for the weekly review session."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Art team review meeting. Present the week's character sketches, environment concepts, prop designs, and color palettes. Gather feedback and discuss next steps. @Ldes-1 @3dmod-1 @TART-1"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Revise and polish selected art assets based on the morning session."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Free time to browse social media or watch tutorial videos."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin documenting design decisions and creating art style guides for other team members."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work on personal art projects or explore new software tools to improve skills."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final clean-up and organization. Submit timesheet. Wish my colleagues a great weekend!"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Head home early and enjoy the weekend."
+    }
+]

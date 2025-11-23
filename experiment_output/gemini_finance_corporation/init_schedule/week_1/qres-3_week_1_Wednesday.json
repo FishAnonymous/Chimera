@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and the news regarding current market situations, including volatitliy and trading volume."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Research and documentation on correlation risk within the context of the chosen statistical arbitrage strategies. Investigate potential scenarios where correlations between assets might break down, leading to unexpected losses."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Develop the correlation risk section of the risk management framework. Define methodologies for assessing and managing correlation risk, including stress testing and scenario analysis."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Consult with @DSDE-1 and @DSDE-2 regarding the implementation of correlation analysis tools and stress testing models. Discuss the data requirements and the technical feasibility of implementing these tools."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @DSDE-1 and @DSDE-2 on designing a stress test that simulates extreme market conditions and assesses the fund's resilience to correlation breakdowns. @PEOPLE = ['DSDE-1', 'DSDE-2'], topic = 'Correlation Risk Stress Testing Design'."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the updated risk management framework, incorporating the correlation risk section and the design for stress testing models."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation summarizing the key elements of the risk management framework, including volatility, liquidity, and correlation risks. This is for a team meeting scheduled for tomorrow."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Clear desk and prepare for departure."
+    }
+]

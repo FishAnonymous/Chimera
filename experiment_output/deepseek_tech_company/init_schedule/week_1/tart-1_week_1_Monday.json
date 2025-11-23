@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Research and brainstorm potential art styles for the game (e.g., stylized vs. realistic)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @cart-1 @3dmod-1 @3dmod-2 to discuss initial thoughts on art style and gather input from the concept and 3D modeling teams."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a shared document to compile references and mood boards for inspiration. Start collecting images and examples from various sources."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review technical constraints with @lpro-1 @beng-1 to understand limitations like polygon count and texture resolution."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the mood board and share it with the team for feedback. Update the document based on initial reactions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Experiment with small art style tests in-engine to see how different styles perform technically."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss findings with @cart-1 @3dmod-1 @3dmod-2 and adjust the direction if needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by documenting the progress and preparing for tomorrow's tasks."
+    }
+]

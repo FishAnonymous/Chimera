@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight feedback. Begin fixing critical bugs reported by QA."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 to discuss critical bug reports and prioritize fixes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start fixing high-priority bugs. Focus on crashes and game-breaking issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue bug fixing. Test fixes locally and verify with QA if possible."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document fixes and prepare a report for the team. Send update email to @prod-1 and @lpro-1."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any follow-ups. Finalize coding for EHR updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct unit testing on completed modules and fix any identified issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qatest-1 @qatest-2 to hand over updates for formal testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare deployment plan for updates, including rollback procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review test results from QA team and address any critical issues."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update documentation and user manuals based on implemented changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @itpm-1 to provide a weekly progress update and discuss next steps."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, organize files, and plan for the following week."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails. Review yesterday's AI implementation and prepare for attack animations."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Consult with @ldes-1 on the attack animations. Need to understand which animations are available and how they are named. Email @ldes-1: Subject: Attack Animation Assets Request"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement a simple attack animation for the player character. Use Unreal Engine's animation system to play the animation when the player attacks."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement an attack animation for the enemy character. Use Unreal Engine's animation system to play the animation when the enemy attacks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Watch a GDC talk about animation techniques in games."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the attack logic in the Character class. When the attack button is pressed, the character should play the attack animation and trigger the attack logic."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Integrate the attack animation with the combat system. Ensure that the attack animation is synchronized with the hit detection and damage application."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Test the attack animations in the test environment. Ensure that the animations play correctly and that the attacks are synchronized with the hit detection."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Debug and fix any issues with the attack animations. Ensure that the animations play smoothly and that there are no visual glitches."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Commit changes to Git. Tomorrow, focus on Hit Detection and health values."
+    }
+]

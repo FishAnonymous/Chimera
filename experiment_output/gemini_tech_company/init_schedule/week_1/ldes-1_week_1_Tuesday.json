@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any emails, especially feedback from @PROD-1 regarding the game concept document."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Revise the game concept document based on the feedback from @PROD-1. Clarify any ambiguities and incorporate suggestions."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Schedule a meeting with @LVDN-1 (Level Designer) to discuss the basic level layout. @PEOPLE: @LVDN-1, Topic: Initial Level Layout Discussion"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @LVDN-1 (Level Designer). Discuss the overall style and feel of the game, and brainstorm ideas for level design. Share the game concept document to @LVDN-1 for reference."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin sketching out a basic level layout. Focus on creating a sense of flow and providing opportunities for engaging gameplay. Experiment with different layouts and perspectives."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the level layout sketch based on feedback from @LVDN-1 and personal reflections. Consider different pathways, cover options, and potential combat encounters."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start drafting the section on core game mechanics for the design document. Include detailed descriptions of each mechanic, its intended function, and how it interacts with other systems."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the drafted section on core game mechanics. Ensure clarity, consistency, and completeness. Send the draft to @SDES-1 (Systems Designer) for feedback. @PEOPLE: @SDES-1 Topic: Core Mechanics Review"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for tomorrow. Check if I have any meetings."
+    }
+]

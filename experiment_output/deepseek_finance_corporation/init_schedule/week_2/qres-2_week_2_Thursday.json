@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and make final adjustments to the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present findings to the team during the weekly meeting. Discuss potential next steps and gather feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up on any questions or additional data requests from the team."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Begin exploring new datasets or tools suggested during the meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on implementing any new methodologies or tools discussed in the meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the new processes and share with @qres-1 and @qres-2 for peer review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day, ensuring all documentation is up-to-date and tasks are logged."
+    }
+]

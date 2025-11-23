@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Call with the EHR vendor to discuss any pending issues and next steps for system updates."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with @rn-1, @rn-2, and @rn-3 to gather feedback on system usability."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile feedback and share with @ehrdev-1 and @ehrdev-2 for potential improvements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and update the EHR system documentation based on recent feedback and updates."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Email @pchmp-1 and @clinlead-1 with a summary of user feedback and any planned improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @his-1 and @his-2 to ensure data integrity post-updates."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse latest trends in EHR systems and vendor updates."
+    }
+]

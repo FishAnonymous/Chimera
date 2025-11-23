@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, follow up on any pending requests. Review integration notes from @cdev-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue BGM integration, focusing on seamless transitions between scenes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, listen to a podcast on sound design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compose BGM for the victory and defeat screens. Ensure emotional impact matches gameplay."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @prod-1 with a progress update and any blockers."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize files and update the audio asset tracker."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback. Refine physics and input systems based on feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement additional physics features (e.g., ragdoll, projectile physics)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Test new physics features with placeholder assets. Gather feedback from @qtest-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @lvdn-1 to ensure physics system works with level design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimize version control setup. Clean up branches and merge any pending changes."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review placeholder asset integration. Replace any outdated assets with new ones from @3dmod-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test all foundational systems together in a demo scene. Identify any integration issues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document any remaining issues. Update task tracker and plan for Friday."
+    }
+]

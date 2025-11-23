@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review API integration plans with @sdev-1 and @sdev-2."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qres-1, @qres-2, and @qres-3 to ensure API integrations align with quantitative research needs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review frontend development status with @sdev-1 and @sdev-2 to ensure API integrations are aligned."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update API documentation and share with the development team for implementation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Test API endpoints to ensure they meet the required specifications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and respond to any pending queries from the team."
+    }
+]

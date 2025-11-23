@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review received feedback on mood boards."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Make adjustments to mood boards based on feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Final review of the mood boards and prepare for presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation for the team to showcase the mood boards and referenced materials."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Schedule a meeting with the design team to present the mood boards."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out calendar invites to team members for the presentation."
+    }
+]

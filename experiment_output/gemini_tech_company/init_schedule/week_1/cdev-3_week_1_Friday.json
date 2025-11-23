@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails and respond."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the previous day's progress and address any outstanding issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "I will ask @3dmod-1 to provide the basic model style of the whole game, and try to match it with the UI."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Perform unit tests on UI elements. Ensure that the UI elements are functioning correctly and that there are no unexpected errors."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address the potential bugs reported by @QTEST-1 after the early-stage test."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a build of the game with the implemented UI elements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Submit the build to the QA team for testing. I will email @QTEST-1 and @BENG-1"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the UI implementation. Create a document that describes the UI elements, their functionality, and how to use them."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks. Identify the key goals and create a prioritized task list. Get some ideas from @LPRO-1"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit changes to the version control system with a descriptive commit message."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

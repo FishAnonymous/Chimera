@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from @prod-1. Make necessary adjustments to documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Assist @cdev-1, @cdev-2, and @cdev-3 with level integration, providing clarifications as needed."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break. Browse level design portfolios for inspiration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue supporting client developers with integration tasks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test integrated levels in the build and log any issues for @qtest-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @qtest-1 to ensure all level functionalities are tested."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update documentation based on testing feedback."
+    }
+]

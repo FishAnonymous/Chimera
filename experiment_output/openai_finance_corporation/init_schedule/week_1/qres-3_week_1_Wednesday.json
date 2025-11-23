@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review documentation from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Schedule a meeting with @pm-1 to discuss project timelines and expected deliverables."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Implement feedback from @pm-1 into the model development plan."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the statistical model, adding more variables focusing on different market scenarios."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @audit-1 for any compliance considerations related to the statistical model."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct peer review of model components with @qres-1 and @qres-2 for validation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update the model documentation with new changes and feedback received."
+    }
+]

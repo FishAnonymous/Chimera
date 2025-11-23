@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any queries. Finalize the list of EHR data elements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @dba-1 to discuss database requirements for storing and analyzing the identified data elements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on SQL queries to test data extraction for the identified elements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a dry run of the refined data collection workflow with @mrs-1 and @mrs-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document any issues encountered during the dry run and plan fixes."
+    }
+]

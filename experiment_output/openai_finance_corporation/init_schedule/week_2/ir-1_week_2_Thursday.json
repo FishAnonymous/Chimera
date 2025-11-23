@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold team review meeting to go over the investor presentation and outreach materials."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Discuss potential edits and finalize the presentation for upcoming investor meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare mailing list of current and prospective UHNWIs for outreach."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft an email communication for outreach to UHNWIs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized investor presentation and outreach email to @onbd-1 for distribution."
+    }
+]

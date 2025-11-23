@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the current state of technical art assets and shaders in progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss any outstanding issues with 3D models that require shader adjustments."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on finalizing shaders for character models, ensuring compatibility with the game engine."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Optimize shader performance by reducing unnecessary calculations and testing in-engine."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @lpro-1 and @cdev-1 to confirm shader specifications and performance benchmarks."
+    }
+]

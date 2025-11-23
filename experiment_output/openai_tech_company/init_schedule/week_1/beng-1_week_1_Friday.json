@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the report created on Thursday and refine it further."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with all team leads (@Lead Programmer, @Systems Designers, @Client Developers) to showcase the build process and receive inputs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Attend the meeting and present the findings and automation scripts. Gather insights for improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up feedback from the meeting and outline next steps for the following week based on team inputs."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Leisure time to unwind, reflect on the week's achievements, and prepare for next week."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, catch up on financial news from the FT. Skim through any overnight market movements."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Grab a smoothie and head to the office."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check emails. Follow up with @dsde-1 and @dsde-2 regarding the data request. Subject: Gentle Reminder - Market Event Data Request."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Deep dive into liquidity risk modeling. Begin developing a basic model using historical trading data and order book snapshots (if available)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Reach out to @sdev-1 and @sdev-2. Subject: Request for API Access - Order Book Data. Request access to real-time or delayed order book data for model validation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review the initial correlation risk management strategies documented by @qres-1. Brainstorm ways to incorporate dynamic correlation adjustments based on market conditions.  Email: @qres-1, 'Correlation risk discussion'."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break! Catch up with colleagues, discuss current events."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the liquidity risk model. Test the initial model with backtesting data and fine-tune parameters based on results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin researching techniques for modeling correlation risk. Explore methods like copulas or dynamic conditional correlation (DCC) models."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress on liquidity risk model development and initial findings on correlation risk modeling. Plan for tomorrow's tasks."
+    }
+]

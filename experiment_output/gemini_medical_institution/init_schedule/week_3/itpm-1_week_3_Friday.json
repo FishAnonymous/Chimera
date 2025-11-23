@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent inquiries. Review the project plan for the upcoming week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a team meeting with all project members to review the progress made during the week, discuss any challenges encountered, and plan for the upcoming week. Solicit feedback and suggestions from the team. Everyone Topic: Weekly Project Progress Review."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the data analysis plan based on feedback from @pchmp-1, @clinlead-1, @his-1, and @his-2. Ensure the plan is aligned with the project objectives and timelines. @pchmp-1, @clinlead-1, @his-1, @his-2 Topic: Finalizing Data Analysis Plan."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the data abstraction process with @da-1 and @da-2 to identify any areas for improvement. Document best practices and lessons learned. @da-1, @da-2 Topic: Data Abstraction Process Review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin drafting a report summarizing the key findings of the influenza data analysis. Include visualizations and tables to illustrate the trends and patterns identified. Work with @his-1, @his-2 to improve the visualization."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the preliminary findings of the influenza data analysis to @clinlead-1 and @pchmp-1 for their review and feedback. Refine the report based on their input. @clinlead-1, @pchmp-1 Topic: Review of Preliminary Findings."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Update the project documentation with all relevant information, including the data abstraction form, data analysis plan, and progress reports."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the project plan for the upcoming week and distribute it to all team members. Review personal goals and objectives for the upcoming week. Ensure all tasks have been completed, and prepare for the weekend."
+    }
+]

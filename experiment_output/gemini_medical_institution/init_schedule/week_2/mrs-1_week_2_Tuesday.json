@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for feedback from @HIS-1 and @DA-1 regarding the data abstraction protocol and standardized form."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Incorporate feedback received from @HIS-1 and @DA-1 into the data abstraction protocol and standardized form. Make necessary revisions and adjustments to address their concerns and suggestions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the data abstraction protocol and standardized form based on the received feedback and revisions. Ensure both documents are accurate, complete, and user-friendly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare the training session agenda, outline topics such as the introduction of the finalized protocol, explanation of EHR data entry, and quality control procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Go out to buy lunch with @MRS-2."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the training materials for data abstractors, focusing on the finalized data abstraction protocol, EHR data entry process, and quality control procedures."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reach out to @TRAINER-1 to coordinate the logistics of the data abstractor training session, including scheduling, location, and participant registration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize all preparation for the training session."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review the current nursing assessment workflow for influenza symptoms."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @rn-1, @rn-2, @rn-3 to discuss necessary modifications to the nursing assessment workflow for influenza symptoms."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft modifications to the nursing assessment workflow based on feedback from the nursing team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft modifications with @pchmp-1 to ensure alignment with physician expectations."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the nursing assessment workflow modifications and submit to @ehrdev-1, @ehrdev-2 for implementation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @itpm-1 to provide an update on progress and discuss next steps."
+    }
+]

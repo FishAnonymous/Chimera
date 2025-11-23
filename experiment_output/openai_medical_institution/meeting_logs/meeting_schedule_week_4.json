@@ -1,0 +1,120 @@
+[
+    {
+        "week": 4,
+        "id": "da-2",
+        "detailed_goals": [
+            "Finalize detailed analysis of seasonal influenza trends based on team feedback, ensuring accuracy as confirmed by Quality Assurance findings.",
+            "Prepare a summary report detailing findings, trends, and insights for presentation to clinical leads and stakeholders, ensuring the report meets documentation standards emphasized by Medical Records Specialists.",
+            "Collaborate with Quality Assurance Testers to ensure full alignment on collected data accuracy."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "ehrv-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "clinlead-1",
+        "detailed_goals": [
+            "Establish feedback mechanisms to assess the effectiveness of EHR data features and suggest modifications based on clinical insights."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qatest-1",
+        "detailed_goals": [
+            "Conduct a final review of collected data ensuring it meets all required standards for accuracy with assistance from Help Desk Support.",
+            "Collaborate with Data Analysts to adjust data collection strategies based on QA feedback correlating to requirements specified by Clinical Leads.",
+            "Assist in compiling documentation necessary for the final report on seasonal influenza trends ensuring clarity for all stakeholders."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "rn-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "ehrdev-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "itpm-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "dba-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "da-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "trainer-1",
+        "detailed_goals": [
+            "Conduct follow-up training sessions or refresher courses based on outstanding challenges noted during the data entry process, ensuring continual support.",
+            "Finalize updated user manuals and FAQs addressing complex concerns from both RNs and Medical Records Specialists.",
+            "Prepare a detailed report on Help Desk Support's impact on the data collection phase, ensuring recognition of collaborative efforts across departments."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "qatest-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "rn-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "ehrdev-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "rn-3",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "helpdesk-1",
+        "detailed_goals": [
+            "Conduct follow-up training sessions or refresher courses for staff based on ongoing challenges faced during the data entry process.",
+            "Finalize and publish updated user manuals and FAQs addressing the most common concerns.",
+            "Prepare a report on the impact of Help Desk support on the data collection phase for seasonal influenza."
+        ]
+    },
+    {
+        "week": 4,
+        "id": "his-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "mrs-2",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "pchmp-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "mrs-1",
+        "detailed_goals": []
+    },
+    {
+        "week": 4,
+        "id": "his-1",
+        "detailed_goals": []
+    }
+]

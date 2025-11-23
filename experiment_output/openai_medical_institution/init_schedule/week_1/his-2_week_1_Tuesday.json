@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and review responses from yesterday's email."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up with @Database Administrator about data storage capacity and integrity checks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a working session with @Training Coordinator to develop training plans for staff on new EHR functionalities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Inspect existing EHR integration and workflow documentation for necessary updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue data mapping based on feedback from the clinical lead and other relevant stakeholders."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @Help Desk Support to ensure user queries on EHR integration are adequately addressed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @Physician Champion to gather feedback on current clinical needs for EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day and make a checklist for the responsibilities for Wednesday."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for urgent requests or updates. Prioritize emails from @clinlead-1 and @his-1 related to the EHR collection project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goals: medical record identification, data abstraction form development, and training preparation. Create a detailed personal task list for each goal."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin identifying the location of historical medical records. Focus on electronic records first. Contact @his-1 via email to inquire about the structure of the EHR system and any known repositories for influenza-related data. @his-1 Subject: Inquiry Regarding EHR Data Repositories for Influenza Information"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research data retention policies for both electronic and paper records at the institution. Document the policies and note any implications for the project."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start compiling a list of potential storage locations for paper records containing influenza-related information. Include specific departments or archives. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Review relevant articles on medical record management best practices. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft an email to @mrs-2 and @mrs-1 to request their input on locating specific paper record storage areas. @mrs-2 @mrs-1 Subject: Request for Input on Locating Influenza-Related Paper Records"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin drafting a preliminary data abstraction form. Focus on patient demographics (name, DOB, MRN, address). Refer to existing data abstraction forms for guidance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research and list the specific EHR data elements required for the abstraction form (vaccination status, diagnosis codes (ICD-10), symptoms, lab results, prescriptions, hospitalizations)."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue populating the preliminary data abstraction form with identified EHR data elements. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review task list and ensure all items have been addressed. Prepare for tomorrow."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review yesterday's progress. Work on enemy AI group behavior (e.g., flanking, covering)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement cooldown mechanics for character abilities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @qtest-1 to discuss testing scenarios for abilities and AI."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Debug and fix issues found during testing."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prototype in-game HUD elements (e.g., ammo counter, minimap)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @uiux-1 and @tart-1 to align on HUD design and technical implementation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement HUD elements. Test visibility and functionality during gameplay."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and issues. Plan for next day's tasks."
+    }
+]

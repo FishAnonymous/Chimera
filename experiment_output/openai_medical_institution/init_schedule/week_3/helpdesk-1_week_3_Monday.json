@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the support tickets related to EHR data input for influenza."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start analyzing support tickets to identify common issues regarding EHR data input."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a break to refresh my mind."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue analyzing the remaining support tickets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Compile a summary of common issues identified in EHR data input from the support tickets analysis."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @EHR Integration Developer to discuss insights from the ticket analysis and seek their input on improving data input processes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the discussion from the meeting and create a draft for updates on training materials and support documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and address any immediate support tickets before ending the day."
+    }
+]

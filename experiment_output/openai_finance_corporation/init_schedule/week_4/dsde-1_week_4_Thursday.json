@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the company system, check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Revise the statistical model based on team feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Write a summary report of the findings and strategies presented."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send the summary report to the team, including @pm, @qres-3, and @coo-1."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day and reflect on the project outcomes."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and manage communication channels."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ir-1 (Head of Investor Relations) to discuss the communication strategy targeting UHNWIs."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft the communication strategy document outlining key messages and channels to be used."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the communication strategy document with @comp-1 (Compliance Officer) for regulatory considerations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the communication strategy document based on feedback from @comp-1."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out the final communication strategy to all team members for awareness and alignment."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare training materials on the communication strategy for offerings involving UHNWIs."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Contact @onbd-1 (Client Onboarding Specialist) for insights about UHNWIs engagement."
+    }
+]

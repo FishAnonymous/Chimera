@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the Medical Records system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a review of the accuracy of data collected so far this week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @clinlead-1 to discuss clinical data entry challenges."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collate feedback from the team on the newly implemented checklist."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update the data accuracy checklist based on team feedback."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @qatest-1 and @qatest-2 regarding data integrity testing results."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share results of accuracy improvements with the team via email."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log the day's activities and prepare to close the day."
+    }
+]

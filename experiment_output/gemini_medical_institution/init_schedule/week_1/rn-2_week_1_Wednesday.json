@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with a positive attitude! Share a funny joke with @rn-3 to lighten the mood."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check the EHR system for any alerts or updates related to influenza protocols or patient care. Respond to any outstanding messages."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on patient assessments, emphasizing clear and accurate data entry into the EHR system. Maintain a warm and approachable demeanor to put patients at ease."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Confirm the current workflow is correct with @clinlead-1. @PEOPLE = @clinlead-1 Topic: Workflow Confirmation"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch in the cafeteria with @rn-2. Discuss upcoming weekend events and share funny stories."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments, paying close attention to detail when documenting medical history and vaccination status. Ensure consistency and standardization in data entry."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address the concern that I had with @clinlead-1 based on the suggestions provided."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @his-1 to identify any data entry errors or inconsistencies within the EHR. Focus on improving data quality and accuracy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover, communicating patient status and updating the EHR accordingly."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Finalize the daily review and submit shift report. Reflect on the successes and challenges of the day."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home, looking forward to a relaxing evening with family."
+    }
+]

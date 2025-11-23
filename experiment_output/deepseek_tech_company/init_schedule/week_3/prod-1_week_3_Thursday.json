@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight updates from the team."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 and @ldes-1 to finalize the prototype review agenda."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Send the prototype review agenda to @ALL and schedule the review meeting for Week 4."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review any remaining tasks for the prototype and assign priorities."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @qtest-1 to ensure all QA tests are up-to-date for the prototype."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check in with @beng-1 on build stability and deployment readiness."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and update risk assessment for the final prototype phase."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send a progress update email to all stakeholders. @ALL"
+    }
+]

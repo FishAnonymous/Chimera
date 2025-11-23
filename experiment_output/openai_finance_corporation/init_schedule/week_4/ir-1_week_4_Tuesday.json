@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Update the investor presentation with visuals received from @mkt-1."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @qres-3 and @facc-2 to discuss market positioning data and expected returns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate insights from the meeting into the investor presentation, focusing on expected returns and market positioning."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the investor presentation and prepare notes for effective delivery."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email the finalized presentation to @audit-1 for feedback and suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Begin drafting an outreach email for current and prospective investors."
+    }
+]

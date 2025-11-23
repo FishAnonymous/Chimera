@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the hospital system, check emails, and review the weekly schedule."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Attend training session on the EHR system's features for documenting influenza cases."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @Clinical Lead to discuss any challenges faced in the EHR training."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Discuss with @Health Informatics Specialist about data collection processes used in documentation."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Provide feedback on documentation processes based on the training session."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finish daily updates and check emails for any communications from colleagues."
+    }
+]

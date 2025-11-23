@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and prepare for a team feedback session."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up a meeting with @3dmod-1, @ldes-1, and @sdes-1 to discuss animation refinements and gather suggestions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement feedback from the team, refining animations and blending techniques."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Run final tests on the animations in the game engine, focusing on transitions between idle, walk, and run."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qtest-1 to set up a testing schedule for the animations with potential players."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make notes of any final adjustments needed based on the testing results."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review the current physician examination workflow."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pchmp-1 to discuss updates needed for the physician examination workflow to include prompts for influenza diagnosis and testing."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft updates to the physician examination workflow based on feedback from the physician champion."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft updates with @his-1, @his-2 to ensure compliance with health informatics standards."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Finalize the physician examination workflow updates and submit to @ehrdev-1, @ehrdev-2 for implementation."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @itpm-1 to provide an update on progress and discuss next steps."
+    }
+]

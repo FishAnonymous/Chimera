@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and prioritize tasks for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft initial compliance documentation for fund registration."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @comp-1 to discuss compliance requirements and gather insights."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Review feedback received from the compliance officer on the compliance documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Edit compliance documentation based on the feedback received."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with the @ir-1 to discuss investor requirements and disclosures."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Finalize the updated compliance documentation for review."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to any outstanding emails."
+    }
+]

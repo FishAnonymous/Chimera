@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any final queries from @comp-1 or @ir-1 regarding the audit report submission."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a debrief session with @pm-1 and @cio-1 to discuss the outcomes of the week's audits and any follow-up actions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the audit policies and procedures based on the week's findings. Share updates with @comp-1 for compliance review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a cross-departmental meeting with @dsde-1, @dsde-2, and @sdev-2 to discuss any system improvements identified during audits."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week's tasks, ensure all documentation is filed, and prepare a summary report for @coo-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Sign off for the week and plan for any pending tasks to be addressed next week."
+    }
+]

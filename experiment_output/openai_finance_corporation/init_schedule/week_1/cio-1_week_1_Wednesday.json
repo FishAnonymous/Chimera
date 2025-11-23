@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and update progress on investment strategy proposal."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Distribute draft proposals to colleagues, including @coo-1 and @legal-1 for feedback on operational implications."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hold a feedback session with @mkt-1 to discuss communication strategies for presenting to stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather and analyze feedback on proposals, making necessary adjustments to criteria and strategy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @sdev-1 and @sdev-2 to discuss software tools required for analysis of portfolio performance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the overall project timeline and adjust milestones based on feedback received."
+    }
+]

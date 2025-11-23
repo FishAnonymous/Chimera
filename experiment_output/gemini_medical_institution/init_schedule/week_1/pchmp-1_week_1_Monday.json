@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, review emails and calendar for the week. Prioritize tasks based on urgency and importance."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review project documentation regarding EHR collection and seasonal influenza trend analysis. Focus on understanding the clinical objectives and desired patient care outcomes."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @clinlead-1 and @rn-1 to discuss clinical priorities for seasonal influenza data collection and how it will impact patient care. Ask for their initial feedback on the current data collection processes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research best practices and guidelines for seasonal influenza surveillance and data collection from reputable sources like the CDC and WHO."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review meeting notes from the morning and identify key action items. Draft an email to @itpm-1 requesting the project meeting schedule for the week."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Contact @his-1 to discuss data quality metrics and how they will be applied to seasonal influenza data. Request information on existing data quality reports."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document all the reviews and the communications into a structured report. Include areas of concerns and suggestions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for tomorrow's meeting by outlining key discussion points and questions. Review relevant documentation again."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check on emails and calendar. Prepare for the next day and make sure there are no urgent pending issues."
+    }
+]

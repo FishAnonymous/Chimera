@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Follow up with SEC on submission status if possible."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a summary report for @coo-1 on the week's legal activities and submission status."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @pm-1 and @cio-1 to provide an update on the SEC submission and any next steps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review any preliminary feedback from the SEC and prepare for potential follow-up requests."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize and archive all documentation related to the SEC submission for future reference."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @comp-1 to discuss any additional compliance measures needed post-submission."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare a to-do list for next week, focusing on SEC follow-up and investor onboarding."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Browse industry news for any updates on hedge fund regulations or market trends."
+    }
+]

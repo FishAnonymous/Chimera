@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Browse some QA forums."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin focusing on cross-validation strategies. Review the completed data element checklist and the identified data quality issues."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Identify key data elements that require cross-validation against source documents (e.g., medical records, lab reports). Prioritize based on the identified data quality issues."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to understand the process for accessing and reviewing medical records. Discuss the feasibility of manually cross-validating a sample of influenza cases."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Develop a cross-validation protocol, outlining the steps for comparing data elements in the EHR system against source documents. Define the criteria for identifying discrepancies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Hang around and chat with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Pilot test the cross-validation protocol on a small sample of influenza cases. Document the time required for each case and any challenges encountered."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Refine the cross-validation protocol based on the pilot test results. Simplify the steps and improve the clarity of the instructions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation for @itpm-1 and @clinlead-1, outlining the cross-validation protocol and the estimated time and resources required for full implementation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the overall data quality report with the cross-validation findings and recommendations."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare the plan for tomorrow's activity, focusing on summarizing and finalizing the data quality report."
+    }
+]

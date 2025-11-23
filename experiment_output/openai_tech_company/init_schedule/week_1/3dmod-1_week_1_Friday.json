@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Draft a detailed report summarizing the findings of the week: character movement styles and props."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Send the weekly report to @Producer and @LeadGameDesigner for review and further feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Reflect on the week's progress, noting successes and areas for improvement."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Loaf around, browsing game design websites or playing games for inspiration and relaxation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the workweek, make a preliminary plan for next week's goals based on this week's outcomes."
+    }
+]

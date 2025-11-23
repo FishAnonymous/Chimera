@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the asset integration progress."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work with the art team to begin implementing detailed assets into the game levels."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with the level designer (@lvdn-1) on how to best utilize the new assets."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Conduct a first round of internal playtesting, focusing on recently integrated assets."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Gather feedback from playtesters regarding their experience with the new assets."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and review any updates from the weekend regarding the EHR collection process."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 and @ehrdev-1 to discuss the current status of EHR data integration and any issues that need addressing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review EMR records for completeness and accuracy, focusing on recent entries that may affect seasonal influenza analysis."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @his-1 and @his-2 to request insights on any recent trends or issues in health informatics that could impact the EHR collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in team stand-up meeting to discuss the progress of the EHR project and share insights from the previous tasks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work on compiling a report on the current seasonal influenza data derived from EHR entries to identify patterns and trends."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @rn-1 and @rn-2 to confirm any recent influenza cases they have documented that may need to be added to the EHR."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End-of-day review of progress made, ensure all tasks are updated in the tracking system, and check emails one last time."
+    }
+]

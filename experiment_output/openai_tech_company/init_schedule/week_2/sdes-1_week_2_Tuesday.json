@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback and notes from Monday's discussions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin creating the first prototype focusing on the first core mechanic."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Continue developing the first prototype, integrating user interactions and environmental responses."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start creating the second prototype focusing on the second core mechanic."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Integrate interactions between the first and second mechanics within the prototypes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the progress of both prototypes and prepare for peer reviews."
+    }
+]

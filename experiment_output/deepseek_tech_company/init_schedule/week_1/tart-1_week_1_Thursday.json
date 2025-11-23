@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any additional feedback or questions from the team regarding the art style."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 @3dmod-2 to discuss how the art style will be implemented in 3D models and animations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a style guide document detailing the art style for reference by the entire team."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the style guide with @cart-1 @uiux-1 for consistency and clarity."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the style guide and share it with the team. Ensure it includes examples and references."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Work with @tdev-1 to develop any necessary tools or scripts to support the art style implementation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the tools and scripts in a small prototype to ensure they work as intended."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the tools and scripts and share them with the team."
+    }
+]

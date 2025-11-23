@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize data for the seasonal flu report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send finalized data report to @ehrv-1 for review and integration."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with @itpm-1 to discuss updates on IT project milestones related to EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for the upcoming weekly review meeting with administration by creating a summary of progress."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up remaining tasks, make sure all data is backed up, and prepare for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out from the OA system and reflect on the week\u2019s achievements and challenges."
+    }
+]

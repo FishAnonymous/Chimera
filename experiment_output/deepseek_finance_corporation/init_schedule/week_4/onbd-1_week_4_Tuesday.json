@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent client queries. Review the day's schedule for onboarding meetings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final onboarding meeting with first UHNWI client. Walk through documentation, compliance requirements, and fund details."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up with @legal-1 to ensure all signed documents are properly filed and stored."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Update CRM system with notes and documents from the morning meeting. Ensure all client records reflect the latest status."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare for the next onboarding meeting, reviewing client background and specific requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct second onboarding meeting with another UHNWI client."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by updating CRM and sending follow-up emails to clients."
+    }
+]

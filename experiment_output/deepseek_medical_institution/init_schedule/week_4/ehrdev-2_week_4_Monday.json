@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for any urgent issues or updates from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the remaining EHR system configurations and prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work on completing the remaining EHR system configurations, focusing on critical areas first."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse tech forums for any new updates or tools related to EHR systems."
+    },
+    {
+        "Time": "11:15",
+        "Activity": "Continue working on EHR system configurations."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume work, start testing new data fields added to the EHR system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Document any issues found during testing and prepare a report for the QA team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qatest-1 and @qatest-2 with the testing report and any questions regarding the new data fields."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Provide technical support for any system issues reported by the help desk or clinical staff."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day, update the task tracker, and plan for tomorrow."
+    }
+]

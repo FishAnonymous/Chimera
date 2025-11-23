@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the week's accomplishments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up a final team meeting for the week to discuss accomplishments and next week's focus."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with the entire team to share achievements and any outstanding issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Wrap up the week by finalizing any loose ends in the project document."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send out the summary report to all team members summarizing the week\u2019s progress and expectations for next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log off for the week and check personal websites of interest before leaving."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback received from @lvdn-1 on the rough sketches."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine the rough sketches based on the feedback. Start developing more defined layouts."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @sdes-1 (Systems Designer) for understanding gameplay mechanics that will influence level design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining level layouts, focusing on integrating systems design insights."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a presentation for the design team on the proposed layouts."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email the presentation to @prod-1 (Producer) and @lvdn-1 for final reviews before the team meeting."
+    }
+]

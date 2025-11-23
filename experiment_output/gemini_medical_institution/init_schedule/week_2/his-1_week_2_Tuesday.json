@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to urgent requests. Review yesterday's notes and spreadsheet."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Work with @da-1 and @da-2 to query the EHR database for specific examples of the data quality issues identified in the meeting. Focus on finding concrete instances to illustrate the problems."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Examine the data samples and try to pinpoint the exact source of the errors. Is it a data entry error? A validation problem? A system integration issue? Document everything."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Maybe grab a sandwich from the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the identified root causes, start outlining a draft process for reporting data quality issues. Consider different reporting channels, such as a dedicated email address, a web form, or a ticketing system. Review existing help desk procedures."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Consult with @helpdesk-1 to understand their current workflow for handling data-related inquiries. Identify opportunities to integrate the new data quality reporting process with their existing system."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue refining the draft data quality reporting process. Consider different roles and responsibilities, such as who is responsible for triaging the reports, investigating the issues, and implementing corrective actions. Plan to discuss this draft with the clinical lead tomorrow."
+    }
+]

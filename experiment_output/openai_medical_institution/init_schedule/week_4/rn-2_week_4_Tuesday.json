@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Start analysis of seasonal influenza data from previous years."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Get feedback from @qatest-1 and @qatest-2 on the EHR testing results."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft an outline for the EHR trend analysis report."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to discuss any discrepancies in the medical records associated with the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the trend analysis report, focusing on data visualization."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Collaborate with @pchmp-1 for clinical input on influenza trends and patient outcomes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @trainer-1 to arrange a training session on the updated EHR features."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "End of day review. Ensure all communications have been sent and tasks are on track."
+    }
+]

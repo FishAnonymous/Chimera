@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and review yesterday's progress on bug reporting system. Check if there are any critical issues raised by the @Qtest-1 team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Address any critical bugs or issues reported by the QA team or playtesters. Prioritize fixing issues that block progress or significantly impact the player experience."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refactor the code base to improve its overall quality and maintainability. Address any code smells or technical debt that have accumulated over the week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Optimize the game's performance. Profile the code to identify bottlenecks and optimize the areas that are consuming the most resources."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Write unit tests for the core modules. Ensure that the code is well-tested and that any changes do not introduce regressions."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a build of the game and distribute it to the QA team and playtesters for further testing and feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Write a summary report of the week's progress. Highlight the key accomplishments, challenges faced, and lessons learned."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for the next week's goals and tasks. Prioritize the most important tasks and create a detailed schedule for the week ahead."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Commit the changes to the version control system. Review and organize all notes and documentation from the week. Prepare for the weekend."
+    }
+]

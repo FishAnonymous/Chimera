@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback on character models from the previous week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start refining character models based on feedback. Focus on proportions and details."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Take a short break, browse 3D art forums for inspiration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue refining character models. Pay attention to texture and shading."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Check in with @3dmod-2 to discuss progress and share techniques for refining models."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Finalize refinements on one character model and prepare it for rigging."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send the refined model to @tart-1 for technical review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the changes made and update the project tracker."
+    }
+]

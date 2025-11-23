@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for overnight updates or critical alerts. Respond to any urgent emails from supervisors or colleagues."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Brief team huddle with @rn-2, @pchmp-1, and @qatest-1 to discuss the day's patient assignments and potential challenges. Share any observations or concerns from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Focus on completing patient assessments, emphasizing accurate data entry into the EHR. Pay special attention to medication reconciliation and allergy verification."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccinations to scheduled patients in the morning clinic. Provide clear and concise instructions regarding potential side effects and post-vaccination care. Document vaccine details meticulously."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Check out the local food trucks with @da-1 and @his-1; discuss favorite recipes and new restaurants in town."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and data entry into the EHR. Focus on patients with complex medical histories or multiple comorbidities. Collaborate with physicians and other healthcare providers as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @trainer-1 to request access to the latest EHR training materials for refresher purposes. @trainer-1 topic: EHR training materials"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Administer influenza vaccinations during the afternoon clinic, ensuring efficient workflow and patient comfort. Address any patient concerns or questions regarding the vaccine."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review patient charts for completeness and accuracy. Address any discrepancies or missing information. Prepare for handover to the next shift."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails, complete any outstanding tasks, and prepare for tomorrow's shift. "
+    }
+]

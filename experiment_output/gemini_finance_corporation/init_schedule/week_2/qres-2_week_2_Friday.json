@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Coffee and check the news. It's Friday, time to finish strong!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Respond to emails and finalize any outstanding tasks for the week."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Run the backtesting script on a larger dataset and analyze the results. Identify any areas where the strategy could be improved."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the backtesting results and summarize the key findings. Prepare a presentation for next week's team meeting."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Celebrate Friday with the team! Maybe go out for a team lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize the risk management framework document and the backtesting methodologies document. Ensure that both documents are well-organized and easy to understand."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Submit the risk management framework and backtesting methodologies documents for review by @comp-1 and @legal-1. @comp-1 @legal-1 Topic: Review Documents."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the week's accomplishments and plan for next week. Make sure to set realistic goals and prioritize tasks effectively."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Head home and enjoy the weekend!"
+    }
+]

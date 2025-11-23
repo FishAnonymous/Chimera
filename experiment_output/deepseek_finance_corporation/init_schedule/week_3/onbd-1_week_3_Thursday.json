@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent client requests. Review scheduled meetings for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct introductory meeting with Client C. Discuss investment goals and risk tolerance."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Collect and verify KYC/AML documents from Client C. Coordinate with @facc-2 for account setup."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct introductory meeting with Client D. Provide detailed fund performance data and answer queries."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Verify KYC/AML documents from Client D. Follow up with @legal-1 for any legal clarifications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update client records and send meeting summaries to @ir-1 and @pm-1."
+    }
+]

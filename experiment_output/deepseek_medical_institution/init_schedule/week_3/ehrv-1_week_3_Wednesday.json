@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize presentation materials for vendor meeting. Include use cases and workflow diagrams."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Host meeting with EHR vendor (virtual). Present requirements, discuss customization options, and timeline."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Debrief with @itpm-1 and @clinlead-1 on vendor responses. Identify gaps and next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email vendor summary to @da-1 and @da-2 for data analysis implications. CC @qatest-1 and @qatest-2 for QA input."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update project tracker with vendor commitments. Flag any risks to @itpm-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Brainstorm creative solutions for any vendor limitations. Sketch ideas for internal workarounds."
+    }
+]

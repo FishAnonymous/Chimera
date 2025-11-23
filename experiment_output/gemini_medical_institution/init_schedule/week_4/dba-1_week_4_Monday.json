@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log into my workstation, and check emails. Review any urgent requests or notifications from the weekend. I'll start by browsing some database administration blogs to stay updated on best practices - maybe dba.stackexchange.com."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin planning the week's tasks. The goal is to define data types and implement constraints for EHR data. I'll create a detailed checklist breaking down the EHR database schema into manageable segments."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Review existing database schema documentation, if any, to understand current data types and constraints. If documentation is lacking, I'll make a note to prioritize creating it later."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Identify key tables related to EHR and influenza data, focusing on the tables that are critical for the seasonal influenza trend analysis. Start with tables containing patient demographics, diagnosis codes, and vaccination records."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin defining data types for the columns in the identified tables. Focus on patient ID, date of birth, diagnosis codes, vaccination dates, and other key fields. Consult with @his-1 and @his-2 (Health Informatics Specialists) via email to ensure the data types align with reporting and analysis requirements. Topic: EHR Data Type Standardization."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. I'll head to the hospital cafeteria for a quick and quiet lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue defining data types. Address numeric fields like patient age and temperature readings, ensuring appropriate precision and scale. For text fields like patient names and addresses, determine maximum lengths and character sets."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start working on implementing NOT NULL constraints for required fields such as patient ID, admission date, and diagnosis code. Script out the necessary ALTER TABLE statements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the ALTER TABLE statements on a development database instance. Verify that the NOT NULL constraints prevent insertion of records with missing data in the specified columns."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the data type definitions and NOT NULL constraints in a central repository. I prefer using a simple spreadsheet for now, but plan to migrate to a more robust data dictionary solution later. Back up the changes I've made so far."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress, plan for tomorrow, and respond to any pending emails. Wind down by reading a tech article on database performance optimization."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review feedback from @qatest-1 and @qatest-2 regarding the proposed EHR changes."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Analyze the feedback received to integrate the quality assurance and testing procedures into the seasonal influenza data collection."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @trainer-1 to discuss potential training needs for clinical staff regarding the updated EHR system and influenza data collection processes. Share insights from previous interviews with nurses and physicians."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Start drafting a presentation to the key clinical staff explaining the goals and objectives related to seasonal influenza data collection."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the presentation. Pay attention to the wording to make it impactful to the audience."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send the draft to @clinlead-1 to get feedback about the content of the presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all communications and the notes so far. Make an outline of a plan to continue for next week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check on emails and calendar."
+    }
+]

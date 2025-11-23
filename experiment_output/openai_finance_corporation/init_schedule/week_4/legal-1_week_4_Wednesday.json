@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the compliance documentation with the project manager @pm-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize all aspects of compliance documentation, ensuring completeness."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare for a meeting with @comp-1 to obtain final sign-off on the compliance documentation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Conduct final edits and adjustments based on the compliance officer's feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @comp-1 for final review and feedback on compliance documentation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Adjust the compliance documentation based on final feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Submit the finalized compliance documentation for formal registration."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check and respond to any outstanding emails."
+    }
+]

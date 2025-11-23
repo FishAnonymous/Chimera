@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any urgent messages or alerts related to influenza protocols. Quick scan of relevant medical news websites (WebMD, Mayo Clinic) to stay updated on current influenza trends and treatment recommendations. Always good to be in the know!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review standardized protocols and tools for assessing influenza symptoms as defined by @clinlead-1 Nadia Silva. Pay close attention to any recent updates or clarifications. This is a must to make sure the assessment is correct!"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin patient assessments for influenza symptoms. Focus on accurate data collection and documentation in the EHR, including demographic info, medical history, and vaccination status. Talk to the patients to relieve their anxiety."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a quick bite in the cafeteria and chat with colleagues about weekend plans. This is my favorite part for everyday work!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry. Prioritize patients presenting with respiratory symptoms. Also check the news and social media to see what others are doing."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up on any pending lab results related to influenza tests. Ensure results are accurately recorded in the EHR and communicated to relevant physicians. If there is any difficulty, contact @helpdesk-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review patient charts for completeness and accuracy. Address any discrepancies or missing information before end of day. This will guarantee that no error would be remained for tomorrow."
+    }
+]

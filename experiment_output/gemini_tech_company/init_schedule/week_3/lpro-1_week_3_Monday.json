@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and respond to any urgent requests. Review the week's goals and Naomi's design document thoroughly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin defining core game mechanics: Movement. Outline the different movement types (walking, running, crouching, jumping), their speeds, and associated animations. Note initial values for testing."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start documenting the movement mechanics definition. Create a detailed document outlining the different movement types, their input triggers, speeds, and animation states. Emphasize clarity and future maintainability."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Define core game mechanics: Combat. Outline basic combat actions (attack, block, dodge), their input methods, and initial damage values. Consider the relationship between movement and combat."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue documenting the combat mechanics definition. Add this to the existing documentation, outlining the combat actions, input triggers, damage calculations, and animation states. Cross-reference with the movement section where relevant."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Define core game mechanics: Interactions. Brainstorm potential interactive elements in the game world (doors, switches, items). Describe how the player will interact with these elements and the consequences of those interactions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the interaction mechanics. Add to the existing document, detailing the types of interactive elements, interaction triggers, and possible outcomes. Include any dependencies on movement or combat."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review all documented core game mechanics (Movement, Combat, Interactions) for completeness and clarity. Ensure consistency in terminology and formatting. Prepare for discussion with Lead Game Designer."
+    }
+]

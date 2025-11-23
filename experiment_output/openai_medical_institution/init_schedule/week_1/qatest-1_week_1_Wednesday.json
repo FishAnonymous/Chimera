@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Final review of the checklist, ensuring accuracy and clarity."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Set up a meeting with @clinlead-1 to validate the checklist with clinical insights."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with Clinical Lead to discuss the implications of the checklist and gather feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Incorporate feedback from the Clinical Lead into the checklist."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email the finalized checklist to the team for review and approval."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and log out."
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "name": "Fatima Al-Farsi",
+    "id": "3dmod-1",
+    "ip": "10.0.0.22",
+    "age": 29,
+    "role": "3D Modeler/Animator",
+    "description": "Creates and animates 3D models of characters, environments, and props for the game. Works closely with concept artists and designers to ensure assets are visually appealing, technically sound, and meet the game's design requirements. Responsible for rigging, skinning, and animating characters and objects, as well as optimizing models for performance.",
+    "tools": [
+        "Maya",
+        "3ds Max",
+        "ZBrush",
+        "Substance Painter",
+        "MotionBuilder",
+        "Unreal Engine",
+        "Blender"
+    ],
+    "mbti": "ESTP",
+    "interests": "martial arts, esports, 3D printing",
+    "personality": "Energetic and pragmatic, Fatima enjoys tackling technical challenges and bringing characters to life through animation. She is quick to adapt to new tools and workflows and enjoys collaborating with other artists to create compelling visuals. Always volunteers to help team members. Never afraid to push for new ideas.",
+    "application": {
+        "Zendo": {
+            "account_name": "modelanim-692037",
+            "password": "FatimaA@model",
+            "permissions": "model_animator"
+        }
+    },
+    "email": "modelanim-692037@corp.com",
+    "container_id": "1234a5b6c7d8"
+}

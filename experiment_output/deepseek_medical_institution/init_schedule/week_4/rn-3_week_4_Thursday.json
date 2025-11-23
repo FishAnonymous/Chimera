@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Verify that all feedback from the training sessions has been addressed. Check with @ehrdev-1 and @ehrdev-2 for updates."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct a final walkthrough of the EHR system with @qatest-1 and @qatest-2 to ensure all issues are resolved."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @his-1 and @his-2 to confirm that all data analytics requirements are met for the influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a team meeting with all members to review the status of EHR implementation and training."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Provide a summary of your findings and recommendations to @itpm-1 and @clinlead-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Follow up with @ehrv-1 to ensure all vendor-related issues are resolved."
+    }
+]

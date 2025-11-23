@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, log into the system, and check emails for any urgent updates or requests. Respond to any immediate inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the overall project goals for EHR collection and seasonal influenza trend analysis. Re-familiarize myself with the existing documentation and project scope."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin drafting an initial outline for the detailed requirements specifications document. Focus on identifying the key areas of the EHR system that will require updates or modifications."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Schedule a meeting with @clinlead-1 and @rn-1 to discuss the clinical requirements for the EHR updates. Need to understand their specific needs for data collection related to influenza trends."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Email @clinlead-1 and @rn-1: Subject: EHR Update Requirements Discussion. Body: 'Hi [Clinlead-1 Name] and [RN-1 Name], I'd like to schedule a brief meeting to discuss the clinical requirements for the upcoming EHR updates related to influenza trend analysis. Please let me know what time works best for you both. Thanks, Emily Carter.'"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue working on the initial draft of the requirements specifications document. Research any relevant industry standards or regulations that may impact the required updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Grab a quick and healthy lunch at the hospital cafeteria and chat with colleagues."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meeting with @clinlead-1 and @rn-1 to gather detailed clinical requirements for data collection, reporting, and analysis related to seasonal influenza trends. Take detailed notes."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the notes from the meeting with @clinlead-1 and @rn-1. Begin incorporating their feedback into the requirements specifications document."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research existing EHR functionalities related to influenza data collection. Identify any potential gaps or limitations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Continue refining the requirements specifications document, focusing on clarity, completeness, and accuracy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the day's progress and identify any outstanding questions or issues. Plan for tomorrow's activities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any emails that require attention. Organize the tasks that need to be completed tomorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day and head home."
+    }
+]

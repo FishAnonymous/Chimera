@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Grab a coffee and mentally prepare for the meeting. Briefly check any overnight news."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize presentation. Make any last-minute adjustments based on overnight developments."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meeting with @coo-1 (Chief Operating Officer), @cio-1 (Chief Investment Officer), @legal-1 (Legal Counsel), and @facc-2 (Fund Accountant). Present the research on accounting and reporting requirements for SEC-registered funds targeting UHNWIs and the preliminary framework for tracking fund performance and expenses. Discuss the pros and cons of commercial software vs. custom development. Gain consensus on the path forward."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Casual lunch with the team after the meeting."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the outcome of the meeting. Summarize key decisions and action items. Assign responsibilities for next steps."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "If the decision is to pursue a commercial software solution, begin contacting vendors to schedule further demos or request proposals. If the decision is to build a custom solution, work with the development team to define the project scope and timeline. Contact @larch-1 and @sdev-1 to start outlining specific development tasks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a project plan for the next phase, outlining the key milestones and deliverables. Prioritize tasks based on their importance and dependencies."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the week's accomplishments and the plan for next week. Distribute this to relevant stakeholders."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the week. Head home and relax. Time for some well-deserved downtime."
+    }
+]

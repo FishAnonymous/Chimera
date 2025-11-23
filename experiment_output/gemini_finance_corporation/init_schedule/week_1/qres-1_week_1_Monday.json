@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Check emails and internal communication channels for urgent updates or requests. Quickly scan financial news for any overnight market events that might impact our strategies."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Independent Research: Deep dive into current literature on statistical arbitrage strategies. Focus on identifying strategies with proven track records and those adaptable to the UHNWI investment landscape, paying close attention to regulatory constraints."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Initial Strategy Brainstorming: Begin documenting potential statistical arbitrage strategies that align with the fund's objectives. Consider factors like data availability, backtesting feasibility, and potential for alpha generation. Note down initial ideas regarding pairs trading, index arbitrage, or other relevant strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Relax and recharge. Maybe read a non-finance related article to clear my head."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Risk Factor Identification: Begin listing potential risk factors associated with the identified strategies. Consider market volatility, liquidity constraints, correlation risks, and model risks. Research how these risks are typically managed in similar funds."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Literature Review: Spend time on SSRN or similar academic databases to find papers detailing risk management in statistical arbitrage."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up: Organize notes and findings from the day. Prepare a brief summary of potential strategies and associated risk factors to share with the team. Plan for tomorrow's tasks."
+    }
+]

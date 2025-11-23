@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "09:00",
+        "Activity": "Log in and review yesterday's notes. Refine the risk framework document based on further consideration of feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Start prototyping a basic real-time risk monitoring tool. Focus on displaying key risk metrics such as portfolio VaR, exposure to specific factors, and individual position volatility. Use synthetic data for initial testing."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Contact @SDEV-1, @SDEV-2 to ask about the available data stream, and the potential difficulties of getting the data at the desired frequency (real-time). @LARCH-1 to understand how the real-time data are handled in the existing architecture. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue developing the real-time risk monitoring tool prototype. Implement basic alerting functionality based on predefined thresholds for risk metrics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Research different methods for stress testing a portfolio. Focus on scenario analysis and historical stress tests.  Read about techniques for generating realistic stress scenarios."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the progress made on the risk monitoring tool and identify next steps. Prepare a brief presentation outlining the proposed stress testing methodology."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

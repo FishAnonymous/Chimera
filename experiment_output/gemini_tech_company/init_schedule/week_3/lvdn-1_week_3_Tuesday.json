@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Morning routine: emails, coffee, quick scan of game development news sites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check-in meeting with @Ldes-1. Present yesterday's blockout progress and get feedback. Discuss any potential issues or alternative approaches."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Based on feedback from @Ldes-1, refine the blockout of the first level. Adjust pathways, resize areas, and generally polish the overall layout. Maybe add some verticality to the design."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Start prototyping enemy placement in the blocked-out areas. Focus on creating initial encounters that are challenging but not overwhelming. Consider different enemy types and their attack patterns."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab a bite and chat with @3dmod-1 about potential environment assets for the first level."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue prototyping enemy encounters. Experiment with ambushes, flanking maneuvers, and varying enemy densities. Record observations on difficulty and player behavior."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin experimenting with basic lighting. Add simple point lights to highlight key areas and create a sense of atmosphere. Don't need anything fancy yet, just basic illumination."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and update @Ldes-1 on the enemy placement and lighting tests. Prepare a list of questions for @Sdes-1 regarding enemy AI behavior."
+    }
+]

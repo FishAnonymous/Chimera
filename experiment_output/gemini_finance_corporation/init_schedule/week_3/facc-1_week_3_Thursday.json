@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, morning routine."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Gather all necessary data for preparing preliminary financial statements, including trading activity, expense reports, and asset valuations."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin preparing the preliminary balance sheet, listing all assets, liabilities, and equity accounts."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare the preliminary income statement, detailing all revenues and expenses for the reporting period."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab a sandwich and browse news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare the preliminary statement of cash flows, summarizing all cash inflows and outflows during the reporting period."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the preliminary financial statements for accuracy and completeness. Identify any errors or discrepancies and make necessary corrections."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @facc-2 (Fund Accountant) to schedule a peer review of the preliminary financial statements. Topic: Peer Review of Preliminary Financial Statements."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave work."
+    }
+]

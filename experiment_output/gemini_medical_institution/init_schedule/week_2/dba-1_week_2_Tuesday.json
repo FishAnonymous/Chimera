@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and respond to urgent requests. Check the status of the email sent yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the feedback from @his-1 and @his-2 regarding data type requirements. Incorporate their suggestions into the database schema design."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Focus on designing tables related to influenza test results and vaccination records. Create draft table definitions with relevant columns."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research best practices for storing laboratory test results and vaccination data in healthcare databases. Pay attention to data standardization and coding schemes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Define data types for each column in the influenza test results and vaccination records tables. Consider appropriate data types for storing coded values (e.g., test codes, vaccine codes)."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Check up the documentation for the LIS system that the lab uses. This will help in defining data types. @ehrdev-1 @ehrdev-2. Topic: LIS documentation"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the data types chosen for each column, along with explanations. Note any coding schemes or value sets used."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the table designs and data type definitions for influenza test results and vaccination records. Address any issues or inconsistencies."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Create a backup of the database schema design document. Prepare for tomorrow's tasks by listing the remaining table designs to complete."
+    }
+]

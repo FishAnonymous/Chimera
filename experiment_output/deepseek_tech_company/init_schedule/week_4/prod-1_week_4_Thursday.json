@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the mid-week progress report with @prod-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @tart-1 and @3dmod-2 to discuss any technical art or animation adjustments needed."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @beng-1 and @tdev-1 to ensure build stability and tooling support for the latest refinements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a final playtesting session with @qtest-1 and @ldes-1 to verify all refinements are correctly implemented."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with the entire team to review the final playtesting results and confirm all gameplay refinements are complete."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Finalize the playtesting documentation and prepare a summary for stakeholders."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the finalized playtesting report to stakeholders and schedule a follow-up meeting if needed."
+    }
+]

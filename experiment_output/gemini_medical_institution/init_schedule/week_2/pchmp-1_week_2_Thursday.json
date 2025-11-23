@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review emails, prioritize tasks. Briefly browse healthcare policy news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare talking points for a meeting with hospital leadership regarding the value and benefits of the EHR system. Focus on improved patient outcomes, enhanced efficiency, and cost savings."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with hospital leadership. Presented talking points regarding the benefits of EHR."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the Quality Assurance testing results from @qatest-2 and identify areas for improvement in data accuracy and completeness."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with the Data Analysts @da-1, @da-2 to review preliminary influenza trend data and identify any unexpected patterns or outliers. Discuss potential explanations for these findings."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Network with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Organize a focus group with nurses, physicians, and medical records specialists to gather feedback on the EHR system's impact on their workflow and patient care. Facilitate an open and constructive discussion."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Summarize the key findings from the focus group and share them with the EHR Vendor Liaison @ehrv-1, Clinical Lead @clinlead-1, and IT Project Manager @itpm-1. Develop an action plan to address the identified issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and approve any change requests related to the EHR system. Ensure that all changes are properly documented and tested before implementation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a presentation for the hospital's medical staff on the progress of EHR implementation and the benefits of using the system. Highlight success stories and address any remaining concerns."
+    }
+]

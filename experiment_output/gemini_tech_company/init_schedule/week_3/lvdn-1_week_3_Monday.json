@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Boot up the system, grab a coffee, and check emails. Anything urgent from @Ldes-1 or @Prod-1? Gotta be responsive, even if it's just to acknowledge receipt."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Dive into the design documents and concept art provided by @Cart-1. Need to refresh my memory on the overall aesthetic and narrative direction before I start building anything."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @Ldes-1 to nail down the specific goals for the first level. What's the core gameplay loop we want to showcase? What's the intended difficulty curve? Need a clear direction before I start blocking things out."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Firing up the level editor. Time to start blocking out the main pathways for the first level. Focus on the core navigation, ensuring a good flow and logical progression. Think wide corridors for initial combat, maybe narrowing paths for tension?"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Gotta recharge. Maybe browse some environment art on ArtStation for inspiration. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue blocking out the main areas of the first level. Think about distinct visual landmarks to help the player orient themselves. Natural rock formations? A crashed vehicle? Something memorable."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Quick playtest of the blocked-out areas. Just walking the paths, checking for any obvious dead ends or confusing intersections. Need to get a feel for the scale and pacing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and any initial thoughts or challenges. Prepare a brief update for @Ldes-1 for tomorrow morning's check-in. Also, respond to any lingering emails from earlier in the day."
+    }
+]

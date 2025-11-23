@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital, check emails, and review the schedule for the day. Plan to browse Instagram for a while."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the updated nursing assessment and physician examination workflows based on all the feedback received."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to discuss the testing plan for the updated workflows in the EHR system. Ensure they understand the expected functionality and potential issues. @PEOPLE: Testing Plan Discussion"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Provide @qatest-1 and @qatest-2 with the necessary documentation and access to the EHR test environment to begin testing the updated workflows."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Relax and enjoy lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Monitor the progress of the testing process and address any questions or issues raised by the QA testers. Communicate with @ehrdev-1, @ehrdev-2 to fix problems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review the test results with @qatest-1 and @qatest-2. Identify any areas that require further attention or modifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Work with @ehrdev-1 and @ehrdev-2 to resolve any bugs or issues identified during the testing process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the training materials based on the findings from the testing process."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave hospital."
+    }
+]

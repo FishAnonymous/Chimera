@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, respond to any urgent requests."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the risk management framework presentation. Ensure all materials are accurate and up-to-date."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the risk management framework to the CIO and COO. Clearly articulate the key elements of the framework, the results of the stress tests, and the proposed risk mitigation strategies."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any questions or concerns raised by the CIO and COO. Incorporate their feedback into the risk management framework and presentation materials."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Based on the feedback from the CIO and COO, revise the risk management framework document and models as necessary."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send an email to @CIO-1 and @COO-1 summarizing the changes made to the risk management framework based on their feedback. Include the updated document and models as attachments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin planning for the next week's goals and tasks. Review the project plan and identify any potential roadblocks or challenges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Catch up on industry news and trends. Browse articles and research papers related to quantitative finance and risk management. Maybe check out some articles on Risk.net."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "End of the week. Ensure all work is properly documented and organized."
+    }
+]

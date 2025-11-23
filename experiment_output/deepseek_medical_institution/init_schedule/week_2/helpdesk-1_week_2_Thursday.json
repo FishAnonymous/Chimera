@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and help desk tickets for any new inquiries."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up on any unresolved tickets and prioritize them based on urgency."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a training session for the nursing staff (@rn-1, @rn-2, @rn-3) on how to use the new ticketing system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from the nursing staff on the training session and identify any areas for improvement."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the training materials based on the feedback received."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Respond to any new help desk inquiries, ensuring prompt resolution within 1-2 business hours."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Test the phone support channel for the ticketing system to ensure it is functional and user-friendly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document any issues found during testing and report them to @ehrdev-1 and @ehrdev-2 for resolution."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check emails and tickets one last time before ending the day."
+    }
+]

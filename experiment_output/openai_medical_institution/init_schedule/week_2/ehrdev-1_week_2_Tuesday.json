@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for new communications regarding EHR integration."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @Clinical Lead to align on integration needs based on clinical feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Work on integrating clinical data into the EHR system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test integration processes with @Quality Assurance Tester to ensure data accuracy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Communicate findings from testing to @IT Project Manager for any necessary adjustments."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Begin compiling analysis of seasonal influenza data trends with @Health Informatics Specialist."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review and respond to emails."
+    }
+]

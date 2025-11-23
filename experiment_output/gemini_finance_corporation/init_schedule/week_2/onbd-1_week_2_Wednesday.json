@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up and take my time getting ready. Grab a coffee and check the news before heading to the office. Log in and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the progress and the questions for @ir-1 regarding the suitability assessment."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Email @ir-1 about the suitability assessment questionnaire. @PEOPLE = [ir-1], Topic = Questions regarding the UHNWI Suitability Assessment."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Continue refining the suitability assessment questionnaire based on my own review and the potential feedback from @ir-1. Focus on making it as effective as possible."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research some example suitability questionnaires specifically used for statistical arbitrage funds. Try to find specific questionnaires for UHNWIs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - grab a quick salad and catch up on some celebrity gossip online."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Receive the onboarding process review from @comp-1 and start to address each of the questions and concerns that they had regarding it. @PEOPLE = [comp-1], Topic = Onboarding Process Review."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a break and order a new purse online. Been eyeing that one for awhile!"
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Continue working on the onboarding process questions that @comp-1 had, and make sure all concerns have been covered."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Send the new onboarding process to @comp-1 for approval. @PEOPLE = [comp-1], Topic = Onboarding Process - Final Review."
+    }
+]

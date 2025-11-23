@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Conduct a brief meeting with the EHR team to confirm training session logistics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Lead the first training session for nurses, focusing on EHR functionalities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather immediate feedback from participants regarding the training session."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule follow-up sessions based on feedback received during the training."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Repeat training session with different group of users, incorporate lessons learned."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review participant feedback from both training sessions and adjust future sessions accordingly."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send a feedback report to @trainer-1 and @clinlead-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan a Q&A session for end users, schedule the time and materials needed."
+    }
+]

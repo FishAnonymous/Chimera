@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the QA system, check emails, and make adjustments to findings based on colleague feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare for team presentations by creating slides based on the summarized findings."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Contact @Clinical Lead and @EHR Vendor Liaison to review findings and solicit input for the presentation."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Finalize the presentation slides and rehearse presentation delivery."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct final review of work to ensure all findings and solutions are clearly communicated in the presentation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Present findings to the team, addressing comments and questions as they arise."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Gather feedback from the team members post-presentation and document any additional follow-up tasks."
+    }
+]

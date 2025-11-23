@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to project management software and check for overnight notifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check email and respond to urgent requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Consolidate all information gathered from team leads into a comprehensive project schedule using project management software. Define task dependencies, assign resources, and set realistic deadlines."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Identify potential bottlenecks and critical path tasks within the project schedule. Brainstorm mitigation strategies to minimize risks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the project schedule with @lpro-1 (Lead Programmer) and @ldes-1 (Lead Game Designer) to validate accuracy and feasibility. Make necessary adjustments based on their feedback. @PEOPLE"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue refining the project schedule based on feedback received. Ensure all tasks are clearly defined and aligned with project goals."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out a preliminary project schedule draft to all team leads for final review and approval. Request feedback by end of day Friday. @PEOPLE"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin drafting the initial weekly progress report for executive leadership. Summarize key milestones, achievements, and potential risks."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address any outstanding emails and prepare for Thursday's activities."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Loaf around by browsing websites of interest. "
+    }
+]

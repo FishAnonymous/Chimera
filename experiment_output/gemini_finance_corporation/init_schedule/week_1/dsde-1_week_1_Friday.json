@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day with a relaxed review of the week's accomplishments and challenges. Reflect on the progress made and identify any areas that need further attention."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the data source research and data cleaning/analysis plans. Make sure all documents are complete and well-organized. Share the plans with @qres-1, @qres-2, and @qres-3 for their review and feedback. Email the three of them with the topic 'Data Source and Analysis Plans for Review'."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @pm-1 to discuss the project timeline and deliverables. Review the progress made on the data research and planning tasks. Make sure the work is aligned with the overall project goals. Email him with the topic 'Weekly Data Science Progress Meeting'."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Address any remaining questions or concerns related to the data research and planning tasks. Follow up with colleagues as needed. Make sure all loose ends are tied up before the end of the week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Order pizza with the team to celebrate the end of the week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Explore some advanced statistical arbitrage strategies. Read academic papers and industry articles on different approaches. Consider the potential risks and rewards of each strategy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start planning for next week's tasks. Identify the specific goals and objectives. Create a detailed schedule for the week's activities. Relax for a little bit, maybe browse some photography websites."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by cleaning up the workspace and organizing all files and documents. Submit a weekly progress report to @pm-1 and @cio-1 summarizing the week's accomplishments and challenges. Send an email titled 'Weekly Progress Report: Data Science'."
+    }
+]

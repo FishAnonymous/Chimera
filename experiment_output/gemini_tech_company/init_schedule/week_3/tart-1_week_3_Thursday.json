@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Research different anti-aliasing techniques."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Create a test scene to evaluate the performance of the shader and materials on different hardware configurations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Optimize the shader code and material settings to improve performance without sacrificing visual quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the technical art requirements document based on the performance testing results. Specify the recommended settings for different hardware tiers."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the shader and material creation process, along with the performance testing results, to the art team."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from the art team and address any concerns or questions they have regarding the shader and materials."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Implement any necessary changes or improvements to the shader and materials based on the art team's feedback."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities. Clear inbox."
+    }
+]

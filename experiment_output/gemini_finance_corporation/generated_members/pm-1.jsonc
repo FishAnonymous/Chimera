@@ -1,0 +1,27 @@
+{
+    "name": "Chloe Martinez",
+    "id": "pm-1",
+    "ip": "10.0.0.29",
+    "age": 36,
+    "role": "Project Manager",
+    "description": "Oversees project planning, execution, and delivery while ensuring alignment with organizational goals. Facilitates communication between teams and stakeholders to streamline operations and drive project success.",
+    "tools": [
+        "Microsoft Project",
+        "Asana",
+        "Jira",
+        "Trello",
+        "Slack"
+    ],
+    "mbti": "ENTJ",
+    "interests": "strategic games, hiking, writing",
+    "personality": "Naturally assertive and goal-oriented, enjoys taking charge of projects and motivating teams. Values efficiency and clearly defined objectives, often prioritizes strategic planning.",
+    "application": {
+        "ProjectManagerApp": {
+            "account_name": "pm-587342",
+            "password": "ChloePM@2023",
+            "permissions": "project_management"
+        }
+    },
+    "email": "pm-587342@corp.com",
+    "container_id": "q92r7f1e2034"
+}

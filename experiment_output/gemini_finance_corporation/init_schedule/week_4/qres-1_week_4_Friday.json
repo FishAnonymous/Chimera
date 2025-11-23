@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, prepare for the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final review of the presentation slides and notes. Address any feedback received from the CIO and COO."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the risk management framework to the CIO and COO. Answer their questions and address any concerns they may have."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Relax after the presentation."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document the presentation feedback from CIO and COO. Plan for implementing feedback and iterate the current risk management framework."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan for the next week and arrange related meetings with colleagues."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Review all the tasks for this week."
+    }
+]

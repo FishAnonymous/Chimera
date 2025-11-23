@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the project management tool, check emails and respond to any urgent queries regarding ongoing training and onboarding."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @trainer-1 to discuss the training schedule and identify departments needing immediate onboarding support."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Create a consolidated training schedule for all departments, including relevant deadlines and training materials."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @rn-1, @rn-2, and @rn-3 to gather feedback on current training processes and collect any suggestions for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review feedback received from nursing staff regarding the ongoing training and prepare a summary of key points."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @his-1 and @his-2 to ensure the training materials are updated per latest regulatory requirements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Schedule a follow-up meeting with all department leads to ensure alignment on training objectives and outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of the training schedule and submit it for necessary approvals to @clinlead-1."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Log off for the day."
+    }
+]

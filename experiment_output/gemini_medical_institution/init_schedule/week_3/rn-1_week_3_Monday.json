@@ -1,0 +1,74 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the hospital. Check my emails and the hospital's internal communication system for any urgent updates or messages from @clinlead-1 or other team members regarding new influenza protocols or EHR updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the latest hospital guidelines on influenza assessment and testing. Focus on any changes to the standardized protocols and tools integrated into the EHR since last week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Check the EHR system for updates or modifications related to influenza documentation. If any updates are observed, contact @ehrdev-1 or @ehrdev-2 to clarify the changes and their impact on my workflow."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin patient rounds in my assigned unit. Focus on patients presenting with respiratory symptoms or those identified as high-risk for influenza complications."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Assess Patient 1 (Mr. Johnson) for influenza symptoms. This includes taking his temperature, checking for cough, sore throat, body aches, and fatigue. Document all findings in the EHR using the standardized influenza assessment tool."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Assess Patient 2 (Ms. Lee) for influenza symptoms. This includes taking her temperature, checking for cough, sore throat, body aches, and fatigue. Document all findings in the EHR using the standardized influenza assessment tool."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "If either patient requires influenza testing, collect the necessary samples (nasal swab) according to hospital protocols. Ensure proper labeling and timely delivery to the lab."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue patient rounds, focusing on influenza symptom assessment and accurate EHR documentation for each patient. Prioritize patients presenting with acute respiratory issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Chat with colleagues in the breakroom about their weekend. Browse Pinterest for some interior design inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume patient rounds and influenza symptom assessment. Focus on high-risk patients (elderly, immunocompromised, chronic conditions)."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Assess Patient 3 (Mrs. Davis) for influenza symptoms. This includes taking her temperature, checking for cough, sore throat, body aches, and fatigue. Document all findings in the EHR using the standardized influenza assessment tool."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Carefully review Patient 1's (Mr. Johnson) EHR entry to ensure all required fields are accurately completed, including demographic information, medical history, vaccination status, and current symptoms."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Carefully review Patient 2's (Ms. Lee) EHR entry to ensure all required fields are accurately completed, including demographic information, medical history, vaccination status, and current symptoms."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up on lab results for any influenza tests ordered earlier in the day. Document the results accurately in the patients' EHRs."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Email @his-1 and @his-2 to inform them that I am consistently using the EHR's influenza assessment tool and accurately entering patient data. Offer feedback on the tool's usability and suggest potential improvements if needed. Topic: EHR Influenza Assessment Tool Feedback"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift change. Review patient charts with the incoming nurse, highlighting any patients with suspected or confirmed influenza and ensuring all relevant information is communicated."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final documentation and EHR review before leaving for the day. Ensure all tasks are completed and accurately recorded."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of shift."
+    }
+]

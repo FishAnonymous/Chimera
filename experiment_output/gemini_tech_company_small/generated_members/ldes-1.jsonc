@@ -1,0 +1,27 @@
+{
+    "name": "Ricardo Silva",
+    "id": "ldes-1",
+    "ip": "10.0.0.12",
+    "age": 29,
+    "role": "Game Designer",
+    "description": "Designs and implements gameplay mechanics, creates level layouts, and balances game systems. Works closely with artists and programmers to ensure a cohesive and engaging player experience. Focuses on gameplay flow and player progression.",
+    "tools": [
+        "Unity",
+        "Unreal Engine",
+        "Adobe Photoshop",
+        "JIRA",
+        "Playtesting Tools"
+    ],
+    "mbti": "ENFP",
+    "interests": "board games, rock climbing, world travel",
+    "personality": "Enthusiastic and creative. Loves brainstorming new ideas and thrives in collaborative environments. Can sometimes get sidetracked by new projects.",
+    "application": {
+        "Zendo": {
+            "account_name": "gdes-654321",
+            "password": "ricardoS@game",
+            "permissions": "game_designer"
+        }
+    },
+    "email": "gdes-654321@corp.com",
+    "container_id": "c4d5e6f7a8b9"
+}

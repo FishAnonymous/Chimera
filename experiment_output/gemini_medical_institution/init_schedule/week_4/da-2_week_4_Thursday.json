@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Prepare for consultation with QA Testers."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @QATEST-1 and @QATEST-2 to review the report template for usability and accessibility issues. Discuss any potential challenges for users with disabilities or limited technical skills."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate accessibility best practices into the report template design. Ensure that the report is compatible with screen readers, uses appropriate color contrast, and provides alternative text for images."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the structure and content of the report template. Ensure that all sections are complete, accurate, and consistent in style and tone."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Read some news about AI models."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on generating the data visualizations for each section of the report. Use appropriate software or tools to create clear, compelling charts and graphs based on the design specifications."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Populate the report template with the generated data visualizations. Ensure that the visualizations are properly sized, positioned, and labeled."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the complete report template with all data visualizations included. Ensure that the report is visually appealing, easy to read, and effectively communicates the key findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Submit the report template to @ITPM-1 for review and approval. Include a summary of the design process, the key features of the template, and any remaining open issues."
+    }
+]

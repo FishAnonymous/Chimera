@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and follow up on the implementation plan from @ehrv-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a presentation summarizing the week's activities, findings, and proposed changes."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Practice the presentation to ensure clarity and coverage of all important points."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present findings to the clinical team and gather additional input."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from the presentation and discuss how to implement improvements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Plan next steps based on feedback received during the presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send out an email to all staff summarizing the week's efforts and upcoming changes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by reflecting on accomplishments and areas for improvement."
+    }
+]

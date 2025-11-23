@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, settle in. Enjoy a cup of peppermint tea. Reflect on the week's accomplishments and challenges."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check the help desk system for any urgent issues that need immediate attention. Review all open tickets and prioritize accordingly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Follow up on any outstanding escalated issues. If a resolution is available, work with the appropriate team members to implement it and verify that it is working correctly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any remaining tickets in the queue, focusing on providing clear and concise instructions to users and documenting all troubleshooting steps."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review the internal knowledge base for any outdated or inaccurate information. Update the knowledge base with any new solutions or troubleshooting tips."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Meet with @ITPM-1 briefly to discuss any recurring issues or potential areas for improvement in the help desk process."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a leisurely lunch and perhaps browse a bookstore."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Use any remaining time to focus on personal development by reading articles or watching videos related to help desk support, EHR systems, or IT troubleshooting."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin preparing a weekly report summarizing the help desk's activities, including the number of tickets received, the average resolution time, and the most common types of issues reported."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review all documentation created throughout the week to ensure accuracy and completeness. Organize files and folders for easy access in the future."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Complete the weekly report and submit it to the appropriate team members."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare for the end of the week by cleaning up the work area, organizing notes, and creating a list of tasks to be completed next week. Reflect on the week and acknowledge any areas where I can improve."
+    }
+]

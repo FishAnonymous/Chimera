@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up with @mrs-1 and @mrs-2 on any pending data verification requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 to review data quality issues and discuss potential resolutions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement corrections to data quality metrics based on feedback from the Clinical Lead."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Validate corrected data quality metrics against original data sets."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Consolidate all sections of the report (template, KPIs, visualizations, data quality metrics) into a single document."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @qatest-1 and @qatest-2 to schedule a review of the consolidated report for quality assurance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Perform a self-review of the report, checking for consistency and accuracy."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make final adjustments to the report based on self-review findings."
+    }
+]

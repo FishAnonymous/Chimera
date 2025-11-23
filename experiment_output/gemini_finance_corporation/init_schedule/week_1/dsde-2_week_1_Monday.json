@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "07:00",
+        "Activity": "Wake up, have coffee, and review the weekly goals. Mentally prioritize tasks: data source research is paramount, followed by data cleaning/analysis planning."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and company announcements, focusing on anything relevant to data acquisition or compliance. Archive irrelevant emails to maintain inbox clarity."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Initial research into potential data sources. Begin with publicly available financial data APIs (e.g., IEX Cloud, Alpha Vantage) and academic datasets related to market anomalies. Document initial findings in a structured format (e.g., a markdown file in a dedicated project directory)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Investigate alternative data sources, such as news sentiment analysis APIs (e.g., NewsAPI, Bloomberg News) and social media data feeds (with a focus on feasibility and compliance). Record pros and cons for each source, focusing on cost, coverage, and data quality."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Draft an email to @qres-1, @qres-2, @qres-3 regarding the types of data sources they have found most promising in the past for similar statistical arbitrage strategies. Ask for any insights or suggestions on specific vendors or data formats. @PEOPLE topic: Data Source Recommendations for Stat Arb."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Browse Arxiv for relevant papers on statistical arbitrage and machine learning in finance."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue researching data sources, focusing on those suggested by the quantitative research team. Prioritize sources with readily available APIs or historical data dumps."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin drafting a preliminary data cleaning and analysis plan. Outline steps for handling missing data, outlier detection, and data normalization. Focus on robust and reproducible methods."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and update the project documentation. Plan for tomorrow: Deep dive into the chosen data cleaning techniques. Briefly browse Reddit's r/datascience to wind down."
+    }
+]

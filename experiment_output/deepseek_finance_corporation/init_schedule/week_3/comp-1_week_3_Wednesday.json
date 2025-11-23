@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and follow up on any pending compliance documentation approvals."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Perform a thorough audit of KYC/AML processes. Test operational workflows to identify any bottlenecks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @audit-1 to schedule an external review of KYC/AML processes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a report on the current state of KYC/AML processes, highlighting areas for improvement."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @coo-1 to present findings and discuss next steps for process optimization."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update compliance policies based on the meeting with @coo-1."
+    }
+]

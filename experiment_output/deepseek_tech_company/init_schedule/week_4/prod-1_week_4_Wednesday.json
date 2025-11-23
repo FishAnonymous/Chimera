@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any overnight playtesting reports from @qtest-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @lpro-1 and @sdev-1 to discuss backend adjustments needed for gameplay refinements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Coordinate with @lvdn-1 and @ndes-1 to ensure level design and narrative elements align with gameplay refinements."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the latest build with @qtest-1 and @ldes-1 to confirm refinements are effective and document any remaining issues."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @aud-1 to discuss any audio adjustments needed based on playtesting feedback."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Update the project tracker with the latest refinement status and assign tasks for remaining issues."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a mid-week progress report for the team and stakeholders."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, settle in, and grab a cup of coffee. Check emails for any urgent requests or updates regarding the EHR collection and influenza trend analysis project."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goal: abstracting data from the 2023-2024 influenza season, prioritizing electronic records. Target is 200 records per week with @mrs-2 (Grace Ito)."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin abstracting data from electronic health records (EHRs) related to the 2023-2024 influenza season. Focus on identifying relevant patient records in the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Develop an initial data extraction template including all the fields related to the seasonal influenza, e.g. Date of diagnosis, symptoms, vaccination status, lab results (influenza A/B), treatment, comorbidities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue data abstraction from EHRs, focusing on accurately recording relevant information into the data extraction template. Aim to complete the abstraction of 25 EHRs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Head to the local cafe for a quiet lunch and some time to relax."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume data abstraction from EHRs. Focus on maintaining data quality and accuracy. Complete abstraction of another 25 EHRs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the extracted data for any inconsistencies or missing information. Refine the abstraction process as needed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a brief summary report on the progress made today, including the number of records abstracted and any challenges encountered. Share with @mrs-2 (Grace Ito)."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to some emails that I missed in the morning, and prepare the list for the things I want to finish tommorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up work for the day and head home."
+    }
+]

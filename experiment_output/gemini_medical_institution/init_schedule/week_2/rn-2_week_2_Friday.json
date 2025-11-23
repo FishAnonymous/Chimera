@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any updates or alerts. Address any urgent emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Team huddle with @rn-2, @ehrdev-1, and @dba-1 to discuss EHR integration challenges and any system performance issues. Share feedback on data entry workflows and suggest improvements."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Patient assessments for the last day of the work. Focus on getting the data entered into the EHR."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Administer influenza vaccinations for the last day. "
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Treat the team (@rn-1, @rn-2, @rn-3, @clinlead-1) to pizza to celebrate a successful week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and enter the data into the EHR system."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @clinlead-1 to follow-up with EHR data entry, @clinlead-1 topic: EHR Data Entry"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Last round of influenza vaccinations for the week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final review of patient charts and the preparation of the handover notes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to the final emails. Weekend!"
+    }
+]

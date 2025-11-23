@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails and build status. Review combat system documentation and bug reports."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Fix any bugs reported in the combat system from @qtest-1. Refactor combat system based on design feedback and testing."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Begin implementing basic AI behavior for enemies. Focus on simple patrol and attack patterns. Review design document from @ldes-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement enemy AI perception system. Allow enemies to detect the player based on sight and sound. Send email to @aud-1 on the audio related resources and integration @PEOPLE"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement enemy AI combat behavior. Allow enemies to engage in melee and ranged combat based on player distance. Work closely with combat system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test enemy AI behavior in various scenarios. Fine-tune AI parameters (aggro range, attack frequency, etc.) to achieve the desired challenge level. Send request to @qtest-1 on testing the AI module @PEOPLE."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the AI system, including code structure, perception logic, and combat behavior. Check code in."
+    }
+]

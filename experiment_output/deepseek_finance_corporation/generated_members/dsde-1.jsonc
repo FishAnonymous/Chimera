@@ -1,0 +1,27 @@
+{
+    "name": "Liam Johnson",
+    "id": "dsde-1",
+    "ip": "10.0.0.14",
+    "age": 29,
+    "role": "Data Scientist",
+    "description": "Focuses on extracting insights from complex data sets using machine learning algorithms, enabling data-driven decision making. Collaborates with other teams to improve data collection and processing techniques.",
+    "tools": [
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "Jupyter Notebook",
+        "Tableau"
+    ],
+    "mbti": "ISFP",
+    "interests": "photography, hiking, reading sci-fi",
+    "personality": "Creative and introspective, enjoys exploring new ideas and perspectives. Often prefers a quiet environment to foster deep concentration and personal inspiration.",
+    "application": {
+        "DataInsight": {
+            "account_name": "ds-482391",
+            "password": "LiamDS@2023",
+            "permissions": "read_write"
+        }
+    },
+    "email": "ds-482391@corp.com",
+    "container_id": "e45g7h2j123a"
+}

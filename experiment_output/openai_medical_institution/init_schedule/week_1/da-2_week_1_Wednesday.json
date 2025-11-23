@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails. Finalize the presentation for the team meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the draft methodology and metrics in the team meeting including @clinlead-1, @itpm-1, and @ehrv-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather feedback from team members during the meeting and discuss any changes required."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review notes from the team meeting and begin implementing changes to the methodology."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send updated methodology draft to @clinlead-1 and @ehrdev-1 for their insights."
+    }
+]

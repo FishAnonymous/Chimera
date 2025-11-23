@@ -1,0 +1,78 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, blast some upbeat music to get pumped for the day! Log into the EHR and check for any urgent messages."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review patient schedules and prioritize assessments based on appointment times and patient needs."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Patient assessment and EHR entry. Start with a warm greeting and build rapport."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "More patient assessments and EHR data entry. Maintain a high level of accuracy and attention to detail."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Take a short break for a walk around the department, stretch and get some fresh air."
+    },
+    {
+        "Time": "10:15",
+        "Activity": "Continue patient assessments and EHR documentation. Provide clear and concise instructions to patients regarding follow-up care."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Patient assessment and accurate EHR entry. Making sure to document everything."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "If all tasks are done, start browsing social media to see if there are any interesting news. If not, browse some videos related to nursing techniques."
+    },
+    {
+        "Time": "12:15",
+        "Activity": "Lunch! Grab a tasty lunch and chat with coworkers about the day. Sharing is caring!"
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Patient assessment and EHR entry. Be kind and patient."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Patient assessment and EHR documentation. Make sure the data is correct."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Another round of patient interactions. Making sure I am being friendly!"
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Enter the data into the EHR."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Another patient, repeat the process."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "More EHR entry."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Reflect on the day's patient interactions and identify any learning opportunities. Think about how to improve the patient experience."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review EHR data and look for missing data."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare and organize stuff for tomorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Time to head home. Maybe stop for ice cream on the way!"
+    }
+]

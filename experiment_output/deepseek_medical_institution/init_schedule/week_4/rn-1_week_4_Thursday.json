@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Attend a debrief session with @pchmp-1 on physician feedback regarding EHR usability."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Work with @da-1 and @da-2 to analyze seasonal influenza trends from entered data."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Enter remaining patient data, focusing on high-priority cases."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize data entry and verify all records with @mrs-1 and @mrs-2."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a report on data accuracy and workflow feedback for @clinlead-1."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Relax and browse medical journals for personal interest."
+    }
+]

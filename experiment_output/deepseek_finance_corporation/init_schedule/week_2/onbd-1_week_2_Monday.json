@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review the onboarding checklist draft from last week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 to discuss compliance requirements for UHNWIs and update the onboarding checklist accordingly."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review and finalize the onboarding checklist, ensuring all documentation is clearly outlined."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @ir-1 to align on the client meeting schedule and discuss key talking points for introductory meetings."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Send out finalized onboarding checklist to @pm-1 for approval."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up with @mkt-1 to ensure marketing materials are ready for client meetings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

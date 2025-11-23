@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails. Review the data quality reporting process flowchart."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @qatest-1 and @qatest-2 to review the data quality reporting process and flowchart. Discuss their feedback and suggestions for improvement. Take notes on their recommendations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Incorporate the feedback from @qatest-1 and @qatest-2 into the data quality reporting process. Refine the process based on their suggestions, paying close attention to testability and validation. Update the flowchart accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. People watching in the cafeteria."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create a formal document outlining the data quality reporting process. Include a detailed description of the steps involved, the roles and responsibilities, the reporting channels, and the escalation procedures. Document all changes made based on feedback from clinicians and QA."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Circulate the draft document to all relevant stakeholders, including @da-1, @da-2, @dba-1, @ehrdev-1, @clinlead-1, @rn-1, @qatest-1, @qatest-2 and @helpdesk-1, for final review and approval. @PEOPLE Data Quality Reporting Process - Final Review"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a short presentation summarizing the data quality reporting process. This presentation will be used to train staff on the new process. Plan for tomorrow's activities: Focus on addressing any final feedback and preparing training materials."
+    }
+]

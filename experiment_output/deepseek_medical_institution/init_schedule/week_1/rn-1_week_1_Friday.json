@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system and check for any weekend preparation tasks."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Conduct final patient assessments for the week, ensuring all influenza symptoms are documented."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Complete all pending EHR data entries and cross-check for accuracy."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @itpm-1 and @ehrv-1 with a summary of the week's data collection and any issues encountered."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Participate in a team debrief with @clinlead-1 and @pchmp-1 to discuss the week's findings and improvements."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Update the EHR with any final notes or corrections from the debrief."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Organize and archive patient assessment records for the week."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Log out of the EHR system and prepare for the weekend."
+    }
+]

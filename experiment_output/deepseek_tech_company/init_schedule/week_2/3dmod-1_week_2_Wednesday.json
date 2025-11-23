@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any additional feedback on the rig."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the rig for the first key character. Ensure all controls are working correctly."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin creating basic animations (idle, walk, run) for the rigged character."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on basic animations. Focus on fluidity and realism."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review animations with @3dmod-2 for feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Make adjustments to animations based on feedback."
+    }
+]

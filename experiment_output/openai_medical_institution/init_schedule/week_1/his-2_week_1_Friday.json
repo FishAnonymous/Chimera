@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails, and finalize any outstanding communications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare for the leadership meeting by setting up necessary materials and agenda."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend leadership meeting to present progress on EHR system implementation and seasonal influenza trends."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from the leadership meeting and discuss it with the team."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review and prioritize tasks for the next week based on feedback received."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize documentation for this week and update project management tools with new data."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan personal development goals for the next week and reflect on the week's achievements."
+    }
+]

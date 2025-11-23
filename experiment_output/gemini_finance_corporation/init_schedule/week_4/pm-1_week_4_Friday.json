@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office, check emails, and prioritize tasks based on urgency. Briefly check the stock market."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Review the project status with the Compliance Officer (@comp-1) to ensure that the project is following all regulatory requirements. Address any issues and ensure that the project is on track."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalizing the project report. Finalize the project report, summarizing accomplishments and lessons learned."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Reviewing the fund's legal structure with the Legal Counsel (@legal-1) to ensure that the project is following all legal requirements. Address any issues and ensure that the project is on track."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with the Chief Investment Officer (@cio-1) to present the project's final report."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Casual lunch with team members to celebrate the end of the week."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Reviewing the feedback and final project plan"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap-up: Complete administrative tasks, prepare for the next week, and ensure the project is in good shape for the weekend."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Leaving the office. Enjoy the weekend."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Review yesterday's server architecture outline and database schema sketches."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Consult with @SDES-1 and @LDES-1 regarding game mechanics and data requirements. Discuss the type of data the server will need to persist and how frequently it will be accessed."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Refine the database schema based on feedback from designers. Start creating a more detailed entity-relationship diagram (ERD) for the database."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Investigate database technologies further, focusing on those that align with the chosen server architecture (e.g., PostgreSQL for relational data, MongoDB for document-oriented data)."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Set up a local development environment with the chosen database technology. Install the necessary drivers and tools for interacting with the database."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Begin writing the database schema definition (e.g., SQL DDL statements for PostgreSQL, or JSON schema for MongoDB). Focus on player profile and basic game state tables/collections."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the database schema definition by creating sample tables/collections and inserting dummy data. Verify that the schema meets the requirements for storing player data and game state."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's progress, identify any roadblocks, and plan for tomorrow's activities."
+    }
+]

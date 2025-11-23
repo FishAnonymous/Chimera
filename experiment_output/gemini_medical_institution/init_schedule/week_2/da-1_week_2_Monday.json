@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and quickly check emails for urgent requests. Skim through the latest news on data analytics trends and tools."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the goal for the week: Define initial data quality metrics for EHR data related to influenza tracking, and set weekly targets for improvement of the data quality of the EHR. Consider potential metrics and areas to focus on."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorm potential data quality metrics. Focus on completeness, accuracy, consistency, and timeliness. Examples: % of patients with complete vaccination history, % of influenza test results recorded, % of diagnoses coded correctly using ICD-10."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @clinlead-1 and @rn-1 to schedule a brief meeting to discuss the most critical data elements for influenza tracking from a clinical perspective. @dba-1 to understand data storage."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research existing data quality frameworks and best practices for EHR data. Look for relevant articles and guidelines."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Grab a quick lunch and chat with colleagues about weekend plans. "
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @clinlead-1 and @rn-1 to discuss clinical priorities for influenza tracking data. Ask about their biggest pain points related to data quality. Understand from their perspective."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Based on the meeting, refine the list of potential data quality metrics. Prioritize metrics that align with clinical needs and are feasible to measure."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start drafting a document outlining the proposed data quality metrics, including definitions, measurement methods, and target thresholds."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the drafted document. Make revisions and ensure clarity. Prepare for tomorrow."
+    }
+]

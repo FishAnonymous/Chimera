@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, respond to any urgent requests. Review yesterday's work."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start concept art for the sniper character, emphasizing stealth and precision elements."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, browse sniper reference images for inspiration."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Continue sniper concept, adding details like camouflage and specialized gear."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin rough sketches for the forest environment, focusing on natural elements and cover points."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss forest sketches with @lvdn-1 for gameplay integration feedback."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine forest sketches based on feedback, finalize rough draft."
+    }
+]

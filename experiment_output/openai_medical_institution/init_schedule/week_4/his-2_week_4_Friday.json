@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and finalize reports for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a feedback session with the team regarding integration."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Update project documentation with feedback from the session."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare for upcoming week tasks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Finalize any outstanding queries related to EHR integration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct any last-minute testing before the week ends."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out progress updates to all stakeholders."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan and prioritize tasks for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week, log off, and review personal achievements."
+    }
+]

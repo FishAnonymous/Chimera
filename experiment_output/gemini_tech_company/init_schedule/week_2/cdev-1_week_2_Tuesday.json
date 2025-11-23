@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails and messages. Look up new libraries and SDK in client development that might be useful for the game."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the client-side architecture. Focus on making it scalable and maintainable. Research design patterns suitable for large-scale game projects."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Implement the HUD (Heads-Up Display) UI element. Include basic information like health, ammo, and score. Use placeholder graphics for now."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Contact Concept Artist @CART-1 and 3D Modeler/Animator @3DMOD-1 to discuss the visual design of the HUD elements. Ask for feedback on the layout and functionality. Request any available assets."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Integrate the placeholder graphics for the HUD elements. Implement animations for health depletion and ammo reloading. Add sound effects for feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Try out a new restaurant nearby with workmates!"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start implementing the settings panel UI element. Include options for graphics, audio, and controls. Use placeholder values for now."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research how to save and load settings data to a file. Implement the functionality to persist the settings changes between game sessions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Add input fields and dropdown menus for each setting option. Implement validation to ensure that the settings values are within acceptable ranges."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Commit the changes to the version control system. Write a detailed commit message explaining the changes made."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow, review the completed tasks. Do some debugging and testing for the codes and make sure everything works fine."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave the office."
+    }
+]

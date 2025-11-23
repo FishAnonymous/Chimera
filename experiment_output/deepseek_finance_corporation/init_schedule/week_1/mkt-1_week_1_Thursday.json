@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the finalized communication strategy. Prepare a presentation for stakeholder review."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @coo-1 and @cio-1 to schedule a strategy review meeting for Friday."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Test the proposed digital marketing channels with a small audience segment. Gather initial feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine the presentation based on test results. Highlight key takeaways and adjustments needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Coordinate with @legal-1 to ensure all communication materials comply with SEC regulations."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Prepare talking points and FAQs for the stakeholder meeting."
+    }
+]

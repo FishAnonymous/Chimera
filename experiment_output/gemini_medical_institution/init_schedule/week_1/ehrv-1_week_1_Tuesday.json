@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Quick check on emails and address any urgent requests or questions from the vendor or internal stakeholders."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin reviewing the current EHR system's documentation focusing on data collection capabilities, reporting functionalities, and integration options."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Contact @EHRDev-1 and @EHRDev-2 (EHR Integration Developers) to understand the technical aspects of data extraction, transformation, and loading (ETL) from the EHR system. Ask for insights on potential challenges and limitations."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review provided documents on data collection from @EHRDev-1 and @EHRDev-2, and prepare a summarized report to be discussed with other related colleagues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time. Maybe read an interesting article about data interoperability in healthcare."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct a thorough assessment of the EHR system's capabilities for influenza data collection. Identify any gaps or limitations in meeting the hospital's requirements. Document findings in a detailed report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Consolidate findings into a comprehensive report that compares existing EHR capabilities against the hospital's requirements. Highlight any areas where the EHR system falls short. Create a detailed Gap Analysis report."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the Gap Analysis report to @ITPM-1, @ClinLead-1, @HIS-1, @HIS-2, @EHRDev-1, @EHRDev-2, and @DA-1, @DA-2 (Data Analysts) for review and feedback."
+    }
+]

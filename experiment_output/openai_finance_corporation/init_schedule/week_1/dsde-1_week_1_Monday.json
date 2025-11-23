@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the company system, check emails, and review the weekly goals to align my work plan."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start researching and gathering data on historical performance trends in market-neutral funds."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Compile initial findings and identify key metrics to analyze."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue analysis of historical performance trends focusing on various market conditions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare visualizations of the analyzed data for enhanced understanding."
+    },
+    {
+        "Time": "17:50",
+        "Activity": "Check emails and wrap up the day's work."
+    }
+]

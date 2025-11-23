@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office. Greet the team and check emails for urgent updates or requests. Grab a cup of coffee and catch up on team news."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review this week's goals: physician examination workflow modification, influenza order sets implementation, and physician guideline awareness. Create a detailed task list for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ITPM-1 (IT Project Manager) to discuss project timelines and resource allocation for the influenza-related EHR modifications. Confirm priorities and potential roadblocks."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @EHRDEV-1, @EHRDEV-2 (EHR Integration Developers): Request update on progress with implementing the modifications on the EHR regarding the influenza diagnosis and testing prompts in the physician examination workflow. @EHRDEV-1, @EHRDEV-2 - can we schedule a quick meeting this afternoon to review this? @PCHMP-1 physician's inputs are required as well. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Research current influenza guidelines and recommendations from reputable sources (CDC, WHO) to ensure the EHR modifications are up-to-date. Take notes on key points."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Chat with colleagues in the break room."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @EHRDEV-1, @EHRDEV-2, and @PCHMP-1 to review the current state of EHR modifications for influenza diagnosis and testing. Discuss physician feedback and necessary adjustments to prompts."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Draft specifications for influenza testing order sets (influenza A/B PCR) and antiviral medication order sets. Consider dosage, frequency, and contraindications. Consult clinical resources as needed."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @RN-1, @RN-2, @RN-3 (Registered Nurses): Can you review the draft order sets for influenza testing and antiviral medications? Your input on clinical accuracy and usability is greatly appreciated. Please send your feedback by Wednesday COB."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress on the EHR modification project. Prepare for tomorrow's tasks."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review the report sent to @itpm-1. Address any feedback received."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @his-1 and @his-2 to discuss health informatics perspectives on workflow modifications."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Draft a preliminary workflow modification plan based on input from clinical staff and informatics specialists."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present the draft workflow modification plan to @clinlead-1 and @pchmp-1 for approval."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Incorporate feedback from leadership into the workflow modification plan."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the finalized workflow modification plan to @itpm-1 and @ehrdev-1 for implementation."
+    }
+]

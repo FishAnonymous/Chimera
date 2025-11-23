@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Briefly browse social media (Instagram) for interesting content."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the week's goal: 'Design a preliminary client onboarding process tailored to UHNWIs, including KYC/AML compliance and suitability assessments.' Make a quick list of the key components: KYC, AML, Suitability, UHNWI specifics."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Brainstorming session: what makes onboarding UHNWIs different? Think about personalized service, discretion, complex financial situations. Jot down all ideas."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Research KYC/AML requirements specifically for UHNWIs. Check regulations from SEC and any other relevant bodies. This is key for Compliance. @PEOPLE: @comp-1, topic: KYC/AML Requirements for UHNWI Onboarding."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin outlining the KYC/AML portion of the onboarding process. Focus on documenting the steps required, data needed, and verification procedures."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break! Head out with @mkt-1 and @ir-1 to a new restaurant nearby to chat and relax."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue outlining the KYC/AML process. Think about the documentation needed from the client and how to streamline the process while ensuring compliance."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Start researching suitability assessments for UHNWIs. Their investment goals and risk tolerance are likely different from typical clients. This involves understanding their existing portfolio and financial objectives. @PEOPLE: @qres-1, @qres-2, @qres-3, topic: UHNWI Investment Profiles and Risk Assessments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Outline the suitability assessment process. Determine the information needed from the client, how to analyze it, and how to document the results. Need to consult Legal on this. @PEOPLE: @legal-1, topic: Suitability Assessment Legal Requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up for the day. Review notes and to-do list for tomorrow. Send reminder emails regarding KYC/AML requirements for UHNWI Onboarding to @comp-1, and suitability assessment to @legal-1."
+    }
+]

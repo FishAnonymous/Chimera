@@ -1,0 +1,27 @@
+{
+    "name": "Naomi Wong",
+    "id": "cdev-3",
+    "ip": "10.0.0.13",
+    "age": 32,
+    "role": "Client Developer",
+    "description": "Manages the development of client-side functionalities, focusing on performance and user experience. Works extensively with design and backend teams to create features that resonate with players.",
+    "tools": [
+        "IntelliJ IDEA",
+        "React Native",
+        "Firebase",
+        "CSS3",
+        "Webpack"
+    ],
+    "mbti": "ENTP",
+    "interests": "traveling, virtual reality",
+    "personality": "Innovative and assertive, thrives in dynamic environments. Enjoys tackling challenges and brainstorming with team members to come up with unique solutions.",
+    "application": {
+        "DevHub": {
+            "account_name": "cdev-394823",
+            "password": "naomiW@clientdev",
+            "permissions": "client_developer"
+        }
+    },
+    "email": "cdev-394823@corp.com",
+    "container_id": "5ab3d7e2f05c"
+}

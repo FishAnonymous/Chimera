@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log into the system, check emails, and review feedback from the previous day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in a strategy meeting with management to discuss EHR implementation and challenges."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Assist @trainer-1 in preparing materials for EHR training sessions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review compliance with healthcare regulations concerning EHR with @clinlead-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize influenza trend report and prepare for presentation to the healthcare board."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @hers-1 and @hers-2 to review any final adjustments to the report."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Set up records for the upcoming EHR software testing sessions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send out reminders for training sessions and EHR testing."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

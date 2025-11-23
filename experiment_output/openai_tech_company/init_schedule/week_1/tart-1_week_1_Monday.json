@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the project goals for the week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @3dmod-1 and @3dmod-2 to discuss existing asset formats and relevant details regarding their capabilities."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Begin reviewing existing asset formats and documenting notes on optimal settings for importing into the game engine."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing existing asset formats and finalize optimal settings documentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft the initial guidelines for asset preparation based on imported settings."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email @prod-1 for feedback on the draft guidelines and outline. Request a review and any additional suggestions."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any updates from the EHR vendor."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare a weekly progress report summarizing achievements, challenges, and next steps."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the weekly progress report in a team meeting with @itpm-1, @clinlead-1, and @ehrv-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Discuss any roadblocks and brainstorm solutions with the team."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Follow up on action items from the team meeting and assign tasks as needed."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Coordinate with @helpdesk-1 to ensure support readiness for any upcoming EHR changes."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by organizing notes and setting priorities for the next week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Browse social media and relax before the weekend."
+    }
+]

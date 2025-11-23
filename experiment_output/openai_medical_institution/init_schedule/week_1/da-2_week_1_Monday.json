@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review the historical seasonal influenza data available in the EHR system."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @mrs-1 and @mrs-2 to gather insights on current quality issues as highlighted by the Medical Records Specialists' feedback."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Analyze the feedback from the Medical Records Specialists and identify key issues affecting data quality."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Break for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and consolidate findings on quality issues, and begin drafting initial metrics for analyzing seasonal influenza trends."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Meet with @rn-1, @rn-2, and @rn-3 to align the developed metrics with clinical practices."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the developed metrics and prepare notes for the methodology draft."
+    }
+]

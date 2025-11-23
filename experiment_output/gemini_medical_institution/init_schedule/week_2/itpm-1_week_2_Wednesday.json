@@ -1,0 +1,58 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive, coffee, review."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up with @ehrdev-1 and @ehrdev-2 on the implementation of the data abstraction action plan."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Monitor the progress of the influenza data upload to the database. Coordinate with @dba-1 to resolve any issues."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Review the initial data quality reports from @qatest-1 and @qatest-2. Identify any data quality issues."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Discuss the data quality issues with @da-1 and @da-2 to determine the root cause and potential solutions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Develop a plan to address the identified data quality issues. Assign tasks to @ehrdev-1, @ehrdev-2, @da-1, and @da-2."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Communicate the data quality remediation plan to the relevant team members. Schedule follow-up meetings as needed."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Monitor the progress of the data quality remediation efforts."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Review the training schedule with @trainer-1. Ensure adequate training is planned for all users."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Address any questions or concerns from @trainer-1 regarding the training schedule."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the day's activities and plan for tomorrow."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of Day"
+    }
+]

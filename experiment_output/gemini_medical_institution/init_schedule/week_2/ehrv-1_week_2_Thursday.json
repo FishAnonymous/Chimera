@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Emails. Catching up on any new developments."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up with EHR vendor about documentation and system modifications. Expecting an update."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Discuss with @ehrdev-2 the possible integration issues with the modified system."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Meet friends for lunch to release stress."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "After the initial discussion about integration and modifications, prepare a test plan with @qatest-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any pending questions regarding documentation and system modifications."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day, review notes and to-do list for tomorrow."
+    }
+]

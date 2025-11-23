@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review any relevant emails from colleagues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ehrv-1 to discuss the EHR vendor updates and requirements."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze data reports from the previous week regarding EHR collection."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @mrs-1 and @mrs-2 to gather any missing data related to patient records."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin trend analysis on seasonal influenza cases from the last year."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Draft initial findings from the trend analysis."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send email updates to @clinlead-1 and @his-1 regarding preliminary findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and plan tasks for the next day."
+    }
+]

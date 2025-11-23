@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and review emails for updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue monitoring daily cash flow activities for today and record the data accordingly."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Prepare a draft of the monthly financial statements based on recorded cash flow activities."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @qres-1 to discuss any financial modeling changes that may affect reports."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct variance analysis on previous month's financial data against budget."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document findings from the variance analysis."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Final review of the monthly financial statements and make necessary adjustments."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the draft financial statements to @audit-1 for initial review."
+    }
+]

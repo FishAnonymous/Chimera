@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review any feedback received overnight and prioritize tasks for the day."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize integration changes based on feedback received from QA and scrutiny from the Clinical Lead."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct final testing and prepare for deployment of new EHR features."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Align with @Training Coordinator on final changes to training materials based on EHR updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Work on deployment plans and timelines in collaboration with @IT Project Manager."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare user documentation and quick reference guides for new EHR features."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct a final review of all newly integrated features with @Clinical Lead."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft a deployment announcement email for team and clinical staff."
+    }
+]

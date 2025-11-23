@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the database, review tasks for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Focus on preparing final reports for EHR collection completion for the week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Gather feedback from @Data Analysts and @Clinical Lead on the reports."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback into the final reports and send to the necessary stakeholders."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review week\u2019s accomplishments and identify any overdue tasks."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Prepare a plan for next week\u2019s tasks based on this week\u2019s outcomes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Check and respond to emails, and conclude the week with reflections."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Conduct a final review of all deployment scripts and documentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qtest-1 to discuss the handoff process and ensure QA has all necessary information."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make any last-minute adjustments based on feedback from QA."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize and package all deployment scripts and documentation for handoff."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Officially hand off deployment scripts and documentation to @qtest-1 for testing."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Follow up with @qtest-1 to confirm receipt and address any immediate questions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the handoff process and update any internal records."
+    }
+]

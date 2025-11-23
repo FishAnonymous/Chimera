@@ -1,0 +1,159 @@
+{
+  "core_project_team": {
+    "it_and_data_team": {
+      "roles": [
+        {
+          "role_name": "IT Project Manager",
+          "abbr": "itpm",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Oversee end-to-end project execution",
+            "Facilitate communication between departments and vendors",
+            "Resource scheduling and milestone tracking"
+          ]
+        },
+        {
+          "role_name": "Health Informatics Specialist",
+          "abbr": "his",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Design EHR data workflows",
+            "Define clinical data mapping standards",
+            "Ensure regulatory compliance (HIPAA)"
+          ]
+        },
+        {
+          "role_name": "EHR Integration Developer",
+          "abbr": "ehrdev",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Develop EHR data import/export interfaces",
+            "Custom EHR module setup",
+            "Resolve system integration issues"
+          ]
+        },
+        {
+          "role_name": "Data Analyst",
+          "abbr": "da",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Cleanse and validate patient data",
+            "Conduct influenza trend analysis",
+            "Create data visualizations and weekly reports"
+          ]
+        },
+        {
+          "role_name": "Database Administrator",
+          "abbr": "dba",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Set up and optimize clinical databases",
+            "Monitor data integrity and permissions",
+            "Backup and disaster recovery planning"
+          ]
+        }
+      ]
+    },
+    "clinical_and_medical_team": {
+      "roles": [
+        {
+          "role_name": "Clinical Lead",
+          "abbr": "clinlead",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Guide clinical workflow requirements",
+            "Validate data collection methods",
+            "Clinician-liaison for EHR adoption"
+          ]
+        },
+        {
+          "role_name": "Physician Champion",
+          "abbr": "pchmp",
+          "count": 1,
+          "outsource": 0,
+          "responsibilities": [
+            "Promote EHR use among peers",
+            "Review clinical protocol adherence",
+            "Provide clinical feedback for system improvements"
+          ]
+        },
+        {
+          "role_name": "Registered Nurses",
+          "abbr": "rn",
+          "count": 3,
+          "outsource": 0,
+          "responsibilities": [
+            "Assist in patient data entry",
+            "Pilot EHR workflows",
+            "Identify and report usability issues"
+          ]
+        },
+        {
+          "role_name": "Medical Records Specialist",
+          "abbr": "mrs",
+          "count": 2,
+          "outsource": 0,
+          "responsibilities": [
+            "Digitize historical records",
+            "Audit EHR entries for completeness",
+            "Support data abstraction processes"
+          ]
+        }
+      ]
+    }
+  },
+  "support_teams": {
+    "roles": [
+      {
+        "role_name": "EHR Vendor Liaison",
+        "abbr": "ehrv",
+        "count": 1,
+        "outsource": 1,
+        "responsibilities": [
+          "Coordinate with EHR software vendor",
+          "Resolve technical escalation",
+          "Provide vendor-led training sessions"
+        ]
+      },
+      {
+        "role_name": "Quality Assurance Tester",
+        "abbr": "qatest",
+        "count": 2,
+        "outsource": 1,
+        "responsibilities": [
+          "Test record accuracy and data transfer",
+          "Simulate clinical scenarios for system validation",
+          "Log and track software defects"
+        ]
+      },
+      {
+        "role_name": "Training Coordinator",
+        "abbr": "trainer",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "Develop EHR workflow training guides",
+          "Host onboarding sessions for staff",
+          "Gather feedback and adjust training materials"
+        ]
+      },
+      {
+        "role_name": "Help Desk Support",
+        "abbr": "helpdesk",
+        "count": 1,
+        "outsource": 0,
+        "responsibilities": [
+          "Answer EHR user queries",
+          "Troubleshoot login/access issues",
+          "Escalate unresolved issues to IT/developer team"
+        ]
+      }
+    ]
+  }
+}

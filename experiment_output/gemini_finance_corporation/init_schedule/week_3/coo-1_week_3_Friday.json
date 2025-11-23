@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office. Review overnight emails and market news."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Schedule a call with all team leaders (@LARCH-1, @QRES-1, @DSDE-1, @SDEV-1, @ONBD-1) to review the progress from this week, and make plans for next week @PEOPLE; Topic: Review progress and plan for next week."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Call with all team leaders (@LARCH-1, @QRES-1, @DSDE-1, @SDEV-1, @ONBD-1) to review the progress from this week, and make plans for next week @PEOPLE; Topic: Review progress and plan for next week."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Address any concerns that team leaders have and provide suggestion."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize the tasks for next week."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch - Free lunch with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address emails and pending administrative tasks."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Clean up all works."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Leave the office."
+    }
+]

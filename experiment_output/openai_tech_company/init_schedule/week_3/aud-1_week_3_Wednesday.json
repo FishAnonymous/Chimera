@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @qtest-1 and adjust the sound experience package accordingly."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct preliminary playtests with selected team members for audio experience feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collect feedback from the playtests and analyze the audio experience metrics."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize a meeting with @ndes-1 to discuss narrative impact of audio on gameplay."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the outcomes of the playtests and prepare a report of suggested audio changes."
+    }
+]

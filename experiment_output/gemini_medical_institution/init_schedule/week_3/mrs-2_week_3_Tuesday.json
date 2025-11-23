@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, get coffee, and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review progress from yesterday and discuss any challenges with @mrs-2 (Grace Ito) regarding the EHR abstraction process. @mrs-2 Discuss strategies for improving efficiency and accuracy."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Continue data abstraction from EHRs. Focus on electronic records. Aim to complete abstraction of 30 EHRs today."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Collaborate with @his-1 (Health Informatics Specialist) and @his-2 to clarify any questions about the data extraction template. Topic: Data extraction template clarification. Also, discuss the requirements for cleaning and standardizing the collected data."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Enjoy a sandwich at my desk while browsing photography websites for inspiration."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume EHR data abstraction. Focus on extracting influenza-related symptoms and lab results. Aim to complete another 30 EHRs."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the data abstraction process and identify areas for improvement. Adjust the template if needed based on findings."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the progress report, including number of records abstracted and any challenges. Share the report with Grace Ito. @mrs-2"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities and prioritize tasks based on the project timeline."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave work."
+    }
+]

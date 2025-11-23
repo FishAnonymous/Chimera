@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails, review feedback from yesterday's meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Refine all character concepts (soldier, sniper, medic) based on feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Short break, browse color palette inspiration websites."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Define color palettes for characters, ensuring consistency with game tone."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Refine environment sketches (urban, forest, industrial) based on feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Define color palettes for environments, aligning with character palettes."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare presentation of all concepts for Friday review."
+    }
+]

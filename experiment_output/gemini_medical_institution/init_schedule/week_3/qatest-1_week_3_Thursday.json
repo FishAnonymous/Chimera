@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Confirm that the test plan has been shared successfully."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Begin executing the test plan for validating the data quality metrics. Document all test results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Browse through scientific articles to look for new data metric methods"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue executing the test plan. Focus on identifying any data quality issues or discrepancies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary of the test results. Include details of any data quality issues identified."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Email @da-1 and @da-2 to schedule a meeting to discuss the test results and the identified data quality issues. Subject: 'Discussion of Data Quality Test Results'"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Meeting with @da-1 and @da-2 to discuss the test results. Identify root causes and potential solutions for the data quality issues."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Log off."
+    }
+]

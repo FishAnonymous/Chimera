@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails for feedback and additional information."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Arrange meetings with the top asset managers based on previous assessments."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Prepare presentation materials regarding chosen asset managers and their investment strategies."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the executive team and discuss strategic direction."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Gather feedback from the team and make necessary adjustments in the strategy."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Email @mkt-1 and @onbd-1 about upcoming presentations to potential investors."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review emails and calendar for the week. Prioritize tasks based on deadlines and importance. Briefly browse industry news for any relevant updates on EHR systems and healthcare trends."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Prepare an agenda for a meeting with the Clinical Lead @clinlead-1 to discuss the progress of EHR data collection, potential roadblocks, and gather their insights. Focus on actionable feedback and collaborative problem-solving."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @clinlead-1. Discussed data collection progress, identified key challenges, and brainstormed solutions. Documented action items and assigned responsibilities."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Review the project plan and Gantt chart with the IT Project Manager @itpm-1 to understand timelines, resource allocation, and potential delays. Ask about the risk management plan."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @itpm-1. Discussed project timelines, resource allocation, and potential delays. Emphasized the importance of timely data collection for the influenza trend analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Catch up on personal emails and news."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft an email to all Registered Nurses @rn-1, @rn-2, @rn-3 requesting feedback on the EHR system's usability, workflow integration, and data entry processes. Include a link to a short, anonymous survey."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Analyze initial survey responses from nurses. Identify common themes and areas of concern. Prepare a summary report for discussion with the Clinical Lead @clinlead-1 and EHR Vendor Liaison @ehrv-1."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review key performance indicators (KPIs) related to EHR adoption and data completeness. Identify any areas where performance is lagging. Discuss strategies for improvement with the Data Analysts @da-1, @da-2."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a brief project status update for senior management, highlighting progress, challenges, and planned activities for the upcoming week. Focus on the positive impact of the EHR on patient care."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, check emails. Quick scroll through Instagram."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the data abstraction form based on the data testing results. Ensure it is ready for deployment."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Meet with @TRAINER-1 to coordinate the training sessions for the data abstractors. Discuss logistics, scheduling, and participant recruitment. Topic: Data Abstractor Training Coordination"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Finalize the training materials, incorporating feedback from the training coordinator. Ensure the materials are clear, concise, and engaging."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a presentation to introduce the data abstraction form and the training program to the data abstractors. Include examples and scenarios to illustrate key concepts."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab a sandwich from the deli and eat at my desk while reading about new camera lenses."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct the first training session for the data abstractors. Introduce the project, the data abstraction form, and the EHR data entry process."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Address questions and concerns from the data abstractors. Provide hands-on support and guidance."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Gather feedback from the data abstractors on the training session. Identify areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the feedback and plan for adjustments to the training program."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Prepare a summary of the training session and the feedback received."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

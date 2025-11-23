@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, log in to the computer, and check emails for any urgent updates or requests. Briefly browse health informatics news websites for industry updates."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the list of identified data quality issues from last week. Prioritize issues based on severity and frequency of occurrence. Focus on issues impacting critical reporting for seasonal influenza trends."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin analyzing the root cause of the top priority data quality issue. For example, if there are inconsistencies in how influenza vaccination dates are recorded, I will investigate the data entry process within the EHR system."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "If the data quality issue relates to data entry inconsistencies, draft an email to @rn-1, @rn-2, @rn-3, @mrs-1, @mrs-2, @pchmp-1 to inquire about the current data entry workflows. @PEOPLE Data Entry Workflow Inquiry."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review EHR system documentation and audit logs to understand how vaccination data is captured and stored. Look for any system errors or unexpected behavior that could be contributing to the issue."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Visit the hospital cafeteria for lunch."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue root cause analysis. If the problem seems system-related, prepare a summary of findings and potential causes, draft an email to @ehrdev-1, @ehrdev-2, @dba-1 to solicit their input. @PEOPLE EHR Data Issue."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research industry best practices for data quality reporting and issue tracking in healthcare. Look for examples of standardized reporting templates and workflows."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Start outlining the steps involved in reporting a data quality issue, from initial detection to resolution. Consider different roles and responsibilities within the process."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Draft a preliminary document outlining the proposed data quality issue reporting process. Save the draft and prepare for the end of the workday. "
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to any outstanding emails and complete administrative tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of workday."
+    }
+]

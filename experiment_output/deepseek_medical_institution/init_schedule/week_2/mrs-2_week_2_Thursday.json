@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Finalize documentation for the data abstraction protocol."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @qatest-1 and @qatest-2 for quality assurance review of the protocol."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Break. Relax and browse personal interests."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate QA feedback into the protocol and documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit the finalized protocol and documentation to @itpm-1 for approval."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @ehrv-1 to ensure vendor compatibility with the new protocol."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a summary report of the week's progress for the team."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day, organize notes, and plan for Friday."
+    }
+]

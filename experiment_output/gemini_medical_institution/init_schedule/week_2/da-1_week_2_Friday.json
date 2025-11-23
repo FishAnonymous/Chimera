@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, email. Listen music."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @trainer-1 and @ehrdev-1 to discuss data quality improvement training. Get buy-in on setting weekly targets for improvement. "
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Follow up with the stakeholder to communicate the importance of the data quality and the goals."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Create a dashboard to track progress against the weekly targets. The dashboard should display the current performance of each data quality metric and highlight areas that need attention."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Lunch with friend."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test and refine the data quality dashboard. Ensure it is accurate, user-friendly, and provides actionable insights."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Share the dashboard with stakeholders and provide training on how to use it to monitor data quality performance."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week's accomplishments and identify any outstanding tasks. Plan for the following week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final email check and wrap up. Prepare for the weekend!"
+    }
+]

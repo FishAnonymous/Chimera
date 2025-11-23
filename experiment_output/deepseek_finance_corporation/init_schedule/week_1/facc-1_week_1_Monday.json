@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails, and review any updates from the team."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Start gathering data for the preliminary budget by reviewing past fund operations and similar funds' cost structures."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @comp-1 and @legal-1 to discuss compliance costs and legal fees for fund registration."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Break down technology costs by consulting with @devops-1 and @larch-1 about infrastructure and software needs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft the personnel cost estimates by coordinating with @coo-1 and @pm-1 to understand team roles and salaries."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Review initial budget draft and make adjustments based on gathered data."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Send an email to @mkt-1 to outline marketing expenses and expected ROI."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by summarizing the progress and preparing for tomorrow's tasks."
+    }
+]

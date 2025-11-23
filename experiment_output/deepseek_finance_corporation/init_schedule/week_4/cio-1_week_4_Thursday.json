@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review updated strategy documents."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize asset manager selection criteria with @qres-1, @qres-2, @qres-3."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @devops-1 to ensure infrastructure supports the new strategy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review final performance metrics and risk assessments with @dsde-1, @dsde-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @onbd-1, @mkt-1 to prepare client communication materials."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Final check on all documentation before submission to SEC."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, savor a cup of coffee, and reflect on the accomplishments of the week."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check work email and address any urgent issues."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct final testing of all three support channels (phone, email, portal), ensuring that they work seamlessly together and meet the needs of the hospital staff. @QATEST-1 @QATEST-2 Topic: Help Desk system testing."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break to listen to upbeat music and celebrate the progress made this week."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Document the setup and configuration process for all three support channels. To simplify the maintenance in the future."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Enjoy a meal with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address any remaining bugs or issues identified during testing."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Create a training guide for the help desk team, outlining how to use the new system and address common user issues. @helpdesk-1 Topic: Help Desk team Training on new system."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with the training coordinator to schedule training sessions for the help desk team and other hospital staff. @Trainer-1 Topic: Staff Training Schedule"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write a summary report of the week's accomplishments and challenges, outlining the next steps for the help desk project."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the weekly work log."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Clock out and head home, feeling proud of the progress made and excited for the weekend."
+    }
+]

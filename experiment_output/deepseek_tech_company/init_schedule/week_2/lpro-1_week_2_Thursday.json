@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review final feedback on the technical feasibility report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdev-1 and @beng-1 to discuss server-side implications of the proposed features."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work on integrating the prototype with the server-side components."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the integrated prototype and document any issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Share integration progress and findings with @sdev-1 and @beng-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

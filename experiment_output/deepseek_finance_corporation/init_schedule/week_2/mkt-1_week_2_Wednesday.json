@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent queries. Review the webinar agenda and speaker bios."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @pm-1 to discuss the timeline and logistics for the webinar/private event."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Finalize the webinar agenda and speaker bios, and send for approval to @cio-1 and @ir-1."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @devops-1 to set up the technical infrastructure for the webinar."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft promotional emails and social media posts for the webinar/private event."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review promotional content with @comp-1 to ensure compliance with SEC regulations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send finalized marketing materials to the design team for final touches."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by organizing notes and preparing for tomorrow's tasks."
+    }
+]

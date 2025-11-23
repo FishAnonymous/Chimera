@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review the collected data for accuracy and completeness."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Contact @Helpdesk Support for assistance in final review of collected data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Conduct a final review of collected data with @Helpdesk Support."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Prepare a summary of findings from the data review."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @Data Analyst to discuss QA feedback and data collection strategies."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document changes to data collection strategies based on QA feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review documentation standards with @Clinical Lead."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up and prepare tasks for tomorrow."
+    }
+]

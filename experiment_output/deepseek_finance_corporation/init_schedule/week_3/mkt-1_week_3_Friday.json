@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review the week's marketing performance. Prepare a comprehensive report for the leadership team (@coo-1, @cio-1, @pm-1)."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Present the marketing report in the weekly team meeting. Discuss successes and areas for improvement."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Coordinate with @comp-1 and @legal-1 to ensure all marketing materials are compliant with SEC regulations."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Plan next week's marketing activities, including any follow-up campaigns or additional webinars."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Wrap up the week by organizing files and updating the marketing calendar. Send a summary email to the team."
+    }
+]

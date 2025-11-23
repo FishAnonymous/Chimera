@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and set up for the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the statistical model and its findings to @cio-1, @ir-1, and @comp-1."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather feedback from the presentation to refine the model further."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Plan next week's tasks based on the feedback received during the presentation."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @mkt-1 regarding upcoming marketing efforts for the fund to align on messaging."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize all documentation and results from the week's work for records."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the week\u2019s accomplishments and relax before the weekend."
+    }
+]

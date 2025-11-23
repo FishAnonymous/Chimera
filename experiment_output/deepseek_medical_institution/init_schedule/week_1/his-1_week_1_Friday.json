@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Finalize all documentation and prepare for the final review meeting."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Final review meeting with @itpm-1, @clinlead-1, @pchmp-1 to approve the EHR data elements and collection workflow."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Incorporate any last-minute feedback from the review meeting."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Email @mrs-1 and @mrs-2 to ensure medical records team is ready for implementation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Submit finalized workflow and documentation to @itpm-1 for project archive."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Reflect on the week's work and identify areas for improvement in future projects."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Browse health informatics research papers on influenza trends."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Plan for next week's tasks and wrap up for the day."
+    }
+]

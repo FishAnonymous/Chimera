@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any new feedback. Plan the day's tasks."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Polish the final set of 3D models, ensuring all details are perfect."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break, relax with some light reading."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Finalize textures and details on the last set of models."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and finalize all animations, ensuring they are smooth and cohesive."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @cdev-1 and @cdev-2 to discuss asset integration timelines."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Perform final optimizations on all assets, ensuring they are ready for integration."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare all assets for handoff, including final checks and documentation."
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, make tea (Ginger Peach today!). Review overnight tickets and emails."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Follow up with @ehrv-1 regarding the data export bug report from yesterday. Inquire about the estimated timeframe for a fix and if any temporary workarounds are available."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address a new ticket from @rn-3 reporting an issue with printing patient summaries from the EHR. Troubleshoot the issue by first attempting to print a patient summary on a test system."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Discover that the printing issue is related to a recent update to the EHR's printing module. The update has introduced a bug that causes the print preview to display incorrectly and the printed output to be garbled."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Escalate the printing bug to senior IT staff and @ehrv-1. Inform them of the issue and provide details about the affected module and the observed symptoms. @PEOPLE"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "While waiting for a response, begin working on another ticket from @his-2 reporting issues with data validation rules in a specific EHR form. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Investigate the data validation rules in the specified EHR form. Discover that the rules are not functioning as expected, allowing users to enter invalid data. Email @clinlead-1 to confirm if the rule is correct or not. @PEOPLE"
+    },
+    {
+        "Time": "11:30",
+        "Activity": "After receiving confirmation from @clinlead-1 that the data validation rules are incorrect, work with @ehrdev-1 to modify the rules in the EHR system. Implement the necessary changes and test thoroughly to ensure they function as expected."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Catch up on some news articles about social justice issues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Receive a response from @ehrv-1 regarding the printing bug. They acknowledge the issue and are working on a fix. A temporary workaround is provided: exporting the patient summary to PDF and then printing the PDF file. Communicate the workaround to @rn-3 and update the ticketing system."
+    },
+    {
+        "Time": "14:30",
+        "Activity": "Monitor the ticketing system and address new incoming tickets."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "A user, @mrs-2, is reporting issues with accessing archived patient records. Research the archive process and common access problems."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Discover that the user's account does not have the necessary permissions to access archived records. Escalate the issue to @itpm-1 to adjust the permissions. @PEOPLE"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Confirm that the user can now access the archived records. Document the solution in the knowledge base. Update the ticketing system and close the ticket."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on the knowledge base article, focusing on data validation rule issues and printing problems."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Check emails one last time. Prepare for the next day's tasks."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Leave for the day."
+    }
+]

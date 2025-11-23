@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails, and assess the week\u2019s accomplishments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize wireframes and prototypes based on all feedback received."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a report summarizing the work done this week, challenges faced, and solutions applied."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out a completed report to all team members (@cdev-1, @sdes-1, @ldes-1, @prod-1)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Plan tasks for next week based on the feedback and outcomes from this week."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week and log out."
+    }
+]

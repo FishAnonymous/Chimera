@@ -1,0 +1,27 @@
+{
+    "name": "Kenji Tanaka",
+    "id": "lpro-1",
+    "ip": "10.0.0.10",
+    "age": 38,
+    "role": "Lead Programmer",
+    "description": "Oversees all programming aspects of the game development, including engine architecture, gameplay implementation, and optimization. Provides technical leadership and guidance to the programming team.",
+    "tools": [
+        "C++",
+        "Unreal Engine",
+        "Git",
+        "JIRA",
+        "Visual Studio"
+    ],
+    "mbti": "ENTJ",
+    "interests": "robotics, strategy games, hiking",
+    "personality": "Highly organized and detail-oriented. Excellent problem-solver. Can be overly critical but always strives for the best possible outcome.",
+    "application": {
+        "Zendo": {
+            "account_name": "ldp-872315",
+            "password": "kenjiT@lead",
+            "permissions": "lead_programmer"
+        }
+    },
+    "email": "ldp-872315@corp.com",
+    "container_id": "a2b9d1c7e3f4"
+}

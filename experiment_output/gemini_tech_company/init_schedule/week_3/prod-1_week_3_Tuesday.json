@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to project management software and check overnight notifications."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check email and respond to urgent requests."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @sdes-1 and @sdes-2 (Systems Designers) to gather detailed information on game systems, dependencies, and deadlines. Discuss the core mechanics of the game."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ndes-1 (Narrative Designer) to gather detailed information on story, characters, and dialogue tasks, dependencies, and deadlines. Review the game's narrative direction."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @cart-1 (Concept Artist) to gather information on visual style and concept art deliverables."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @tart-1 (Technical Artist) to gather detailed information on technical art requirements, pipelines, and dependencies. Discuss optimization strategies and performance considerations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @tdev-1 (Tools Developer) to gather information on tool requirements and development timelines. Identify any potential tool-related bottlenecks."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @beng-1 (Build Engineer) to gather information on build processes, version control, and release pipelines. Ensure smooth integration and deployment procedures."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the preliminary project schedule based on the information gathered. Identify critical path tasks and potential risks."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Address outstanding emails and prepare for Wednesday's activities."
+    }
+]

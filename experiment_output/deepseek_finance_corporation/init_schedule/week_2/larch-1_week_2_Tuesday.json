@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any feedback from @cio-1 and @coo-1 on the technical specification."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize the technical specification document based on feedback and share it with the development team."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Meet with @dsde-1 and @dsde-2 to discuss data requirements and integration points for the client portal."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin coding the initial framework for the client portal, focusing on authentication and basic dashboard layout."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress with @sdev-1 and @sdev-2, addressing any immediate technical challenges."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the day's progress and update the project tracker."
+    }
+]

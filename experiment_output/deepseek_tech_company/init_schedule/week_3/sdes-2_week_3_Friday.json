@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the playtest report and prioritize balancing changes."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ldes-1 and @lpro-1 to discuss the balancing changes and finalize the parameters."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the balancing changes, focusing on weapon damage, enemy health, and economy adjustments."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the balancing changes in the development environment. Ensure all parameters are working as intended."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the final balancing parameters and prepare a summary for the team. Send an update email to @prod-1 and @ldes-1."
+    }
+]

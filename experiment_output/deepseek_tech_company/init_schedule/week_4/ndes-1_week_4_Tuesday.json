@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review polished narrative elements from Monday, make final adjustments."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Prepare documentation for voice actors, including character bios, tone, and emotional context."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Email @prod-1 to confirm voice actor budget and scheduling."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize voice actor documentation, ensuring clarity and completeness."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meet with @cdev-1, @cdev-2, @cdev-3 to discuss narrative handoff requirements."
+    }
+]

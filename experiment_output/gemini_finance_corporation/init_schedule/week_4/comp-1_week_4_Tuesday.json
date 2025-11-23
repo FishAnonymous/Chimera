@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, and review the agenda for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the outline for the compliance training program. Include topics such as insider trading, code of ethics, and conflicts of interest. Research example compliance training programs."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Email @IR_1 and @PM_1 to schedule a meeting to discuss the best approach for delivering the compliance training to all relevant personnel. @PEOPLE: IR_1, PM_1. Topic: Compliance Training Delivery"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Continue working on the procedures for monitoring and reporting compliance with SEC regulations. Focus on the reporting aspects and create a template for compliance reports."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break - light lunch at desk while reviewing some articles on recent SEC enforcement actions."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meeting with @IR_1 and @PM_1 to discuss the compliance training program. Determine the most effective method of delivery, considering factors such as time constraints and learning styles. Create compliance survey."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Work on the presentation slides for the compliance training, including visuals and relevant examples. Reference the compliance manual."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Contact @ONBD_1 to confirm that the onboarding process incorporates compliance training. @PEOPLE: ONBD_1 Topic: Onboarding and Compliance training alignment"
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Update tomorrow's task list. Review procedure monitoring draft."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day. Organize documents."
+    }
+]

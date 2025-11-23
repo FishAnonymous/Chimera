@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails. Morning stretching and mindful breathing exercise."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Playtesting session with @LDes-1 and @QTest-1. Observe players and gather feedback on the combat, progression, and economy integration. Take detailed notes."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze the playtesting feedback and identify areas for improvement. Prioritize the most critical issues."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Have a friendly chat with colleagues."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Implement the necessary adjustments to the combat, progression, and economy integration based on the playtesting feedback. Focus on improving the player experience and addressing balance issues."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the changes made and update the design document."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Research crafting systems and gather inspiration for the game. Look into the crafting and resource gathering aspect of other games, and create a small documentation about the summary of my work"
+    }
+]

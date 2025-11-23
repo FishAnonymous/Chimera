@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails, celebrate the start of the weekend. Coffee time!"
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Plan the schedule for the next week."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Finalize the setup schedule and plan with @ehrv-1"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Work with @mrs-1 and @mrs-2 to finalize the data cleaning plan."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Communicate with @qatest-1, @qatest-2 to start the process of data test."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break - Have a good lunch and rest."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the entire process of the plan, and find the potential problems."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Have a meeting with all the team members to discuss the plan and gather their feedback."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address the questions and concerns of the team members."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the day's accomplishments, update the project plan, and respond to emails."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Relax and get ready for the weekend."
+    }
+]

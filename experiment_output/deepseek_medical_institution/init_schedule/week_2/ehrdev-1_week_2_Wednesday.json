@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prepare for the day."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Meet with @ehrv-1 to discuss the feasibility of the proposed EHR system updates and any potential constraints."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Document the vendor's feedback and update the requirements specifications accordingly."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Collaborate with @ehrdev-2 to brainstorm potential solutions for any technical challenges identified during the vendor meeting."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @qatest-1 and @qatest-2 to inform them about upcoming changes and prepare for future testing phases."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update project documentation and prepare a summary report for the IT project manager."
+    }
+]

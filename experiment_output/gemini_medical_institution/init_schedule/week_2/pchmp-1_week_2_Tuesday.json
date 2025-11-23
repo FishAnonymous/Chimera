@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review emails and address urgent requests. Prioritize tasks for the day. Briefly check industry journals for relevant articles."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Schedule a meeting with a group of Medical Records Specialists @mrs-1, @mrs-2 to discuss their experiences with EHR data entry, retrieval, and accuracy. Prepare open-ended questions to facilitate discussion."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meeting with @mrs-1, @mrs-2. Discussed data entry, retrieval, and accuracy of EHR. Focus on challenges faced in daily workflow and potential solutions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @ehrv-1 to discuss nurse feedback received and prioritize the resolution of usability issues. Ensure the vendor understands the clinical impact of these issues."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Follow up email to @ehrv-1 summarizing the nurse feedback and requested solutions. Set a timeline for resolution."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Read a book related to leadership and management."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Walk through the EHR system with a Quality Assurance Tester @qatest-1 to identify potential data quality issues and workflow bottlenecks. Focus on the end-user experience."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Document and report any identified data quality issues to @qatest-1. Follow up with the IT Project Manager @itpm-1 to ensure timely resolution."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the influenza data collection protocol with the Health Informatics Specialists @his-1, @his-2 to ensure data consistency and accuracy. Clarify any ambiguities in the protocol."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Attend a virtual meeting with other Physician Champions from different hospitals to share best practices and lessons learned related to EHR implementation and utilization."
+    }
+]

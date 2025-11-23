@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at work, settle in, grab a coffee, and check personal emails and news websites."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Log in to the EHR system and review any urgent notifications or messages related to medical records access or system updates."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin abstracting data from the 2023-2024 influenza season records. Start with electronic records, prioritizing those with complete vaccination and diagnosis data."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Focus on the first batch of 25 records. Methodically extract patient demographics, vaccination dates, influenza diagnosis codes (ICD-10), antiviral medication usage, and relevant lab results."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Take a short break to stretch and clear my head. Maybe browse some photography blogs."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Head to the cafeteria for lunch."
+    },
+    {
+        "Time": "13:30",
+        "Activity": "Continue data abstraction, focusing on the next batch of 25 electronic records. Pay close attention to any inconsistencies or missing information."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Encountered an issue with accessing specific lab results within the EHR. Compose an email to @helpdesk-1 describing the problem and requesting assistance with access permissions."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Continue data abstraction while waiting for help desk's reply. Focus on information already readily available like demographics and vaccination dates."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the 50 records abstracted today to ensure data accuracy and completeness. Make necessary corrections."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Document the number of records completed and any challenges encountered in the daily log. Prepare for tomorrow's work."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day and head home."
+    }
+]

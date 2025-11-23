@@ -1,0 +1,29 @@
+{
+    "name": "Yuki Tanaka",
+    "id": "tdev-1",
+    "ip": "10.0.0.15",
+    "age": 29,
+    "role": "Tools Developer",
+    "description": "Develops and maintains internal tools to streamline game development processes. Creates custom editors, automation scripts, and debugging utilities to enhance productivity across all teams. Ensures tools are robust, user-friendly, and well-documented.",
+    "tools": [
+        "Python",
+        "C#",
+        "Qt",
+        "VisualStudio",
+        "Perforce",
+        "AutomationFrameworks",
+        "PluginSDKs"
+    ],
+    "mbti": "INTP",
+    "interests": "procedural generation algorithms, Japanese tea ceremony, retro gaming",
+    "personality": "Deeply analytical and inventive. Prefers working on abstract problems in isolation. Most creative during late-night coding sessions. Enjoys optimizing systems for elegance and efficiency.",
+    "application": {
+        "Zendo": {
+            "account_name": "tdev-112233",
+            "password": "yukiT@toolsdev",
+            "permissions": "developer"
+        }
+    },
+    "email": "tdev-112233@corp.com",
+    "container_id": "7a3b6c9d2e4f"
+}

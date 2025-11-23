@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review feedback from @qtest-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Hold a team meeting to discuss the finalized level layout and gather last-minute feedback."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Make necessary adjustments to the level based on team feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Take a lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Conduct an internal playtest with team members to evaluate the changed level design."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document internal playtest results and the discussions that follow."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Loaf around by browsing interactive design platforms for emerging trends."
+    }
+]

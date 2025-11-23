@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, get coffee, and check emails. Respond to any urgent messages from yesterday."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue working on the trade execution module, specifically the order modification service. Review the code for the order placement service to identify any potential areas for improvement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start coding the order modification service. Design the API endpoint to accept order modification requests, including changes to price, quantity, or order type."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement logic to validate order modification requests and ensure that they are consistent with market conditions and risk limits. @qres-1 @qres-2, Email to Quantitative Researchers about market conditions and risk limits."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Grab lunch with colleagues and discuss the latest market trends."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Integrate the order modification service with the order placement service. Ensure that order modifications are correctly propagated to the exchange or broker."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the order modification service thoroughly. Write unit tests to cover different modification scenarios, including partial and full order modifications."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the order modification service API and implementation details. Update the overall trade execution module documentation to reflect the changes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review the day's progress and plan for tomorrow. Commit changes to the Git repository."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home."
+    }
+]

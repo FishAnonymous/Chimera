@@ -1,0 +1,28 @@
+{
+    "name": "Rajesh Kumar",
+    "id": "ehrdev-2",
+    "ip": "10.0.0.14",
+    "age": 40,
+    "role": "EHR Integration Developer",
+    "description": "Focuses on developing and maintaining robust data interfaces between various clinical systems and the hospital's EHR. Expert in HL7, FHIR, and other healthcare data exchange standards. Actively involved in troubleshooting complex integration issues and optimizing data workflows. Plays a key role in ensuring data accuracy and compliance with regulatory requirements.",
+    "tools": [
+        "HL7 Interface Engines (e.g., Iguana)",
+        "FHIR",
+        "SQL",
+        "C#",
+        ".NET Framework",
+        "API Management Platforms"
+    ],
+    "mbti": "ISTP",
+    "interests": "motorcycle repair, home automation, ethical hacking",
+    "personality": "Quietly confident and highly skilled. Prefers hands-on problem solving and enjoys diving deep into technical challenges. Can be somewhat reserved, but always willing to share expertise and offer assistance when needed. Appreciates efficiency and dislikes unnecessary meetings.",
+    "application": {
+        "Zendo": {
+            "account_name": "ehr-987123",
+            "password": "rajeshK@connect",
+            "permissions": "developer"
+        }
+    },
+    "email": "ehr-987123@hospital.org",
+    "container_id": "c7d8e9f0a1b2"
+}

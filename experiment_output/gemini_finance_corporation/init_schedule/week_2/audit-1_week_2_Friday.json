@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, check emails and calendar for any urgent updates or meetings."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Final review of the audit checklist. Ensure it is comprehensive, clear, and practical."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Conduct a peer review of the audit checklist with another auditor or senior professional to identify any potential gaps or weaknesses."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Incorporate feedback from the peer review into the final version of the audit checklist."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a presentation summarizing the key audit considerations for the statistical arbitrage fund. Highlight potential risks and challenges."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Present the audit checklist and key considerations to @CIO, @COO, @Legal Counsel, and @Compliance Officer."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the audit checklist based on feedback from the presentation. Distribute the final version to the relevant stakeholders."
+    }
+]

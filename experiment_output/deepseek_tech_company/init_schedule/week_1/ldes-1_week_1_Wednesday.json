@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review feedback on the Level Design section."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @ndes-1 to finalize the Narrative section, ensuring it complements gameplay and level design."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Draft the Narrative section, focusing on character backstories, dialogue, and mission objectives."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review and refine the Narrative section, ensuring consistency with gameplay and level design."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Meet with @uiux-1 to discuss how narrative elements will be presented in the UI (e.g., mission logs, dialogue boxes)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Finalize the Narrative section and integrate it into the GDD."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Send the completed draft of the GDD to @prod-1 @lpro-1 @ndes-1 @lvdn-1 for final review."
+    }
+]

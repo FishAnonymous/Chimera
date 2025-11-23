@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, email check, and coffee. Browse interesting facts online."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Finalize the SQL queries for data extraction. Ensure all queries are accurate, efficient, and well-documented."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Execute the SQL queries on the production database to measure the baseline performance of each data quality metric."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Analyze the results of the data quality measurements. Identify areas where data quality is particularly low."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a presentation summarizing the baseline data quality measurements and highlighting areas for improvement."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break: Get lunch with team members."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Email @itpm-1 and @clinlead-1 to schedule a presentation of the findings and get buy-in on setting weekly targets for improvement. "
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Research and brainstorm potential strategies for improving data quality in the identified areas. Consider process changes, training, and system modifications."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft a proposal outlining the proposed strategies for data quality improvement, including estimated costs and timelines."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the proposal. Prepare for presentation."
+    }
+]

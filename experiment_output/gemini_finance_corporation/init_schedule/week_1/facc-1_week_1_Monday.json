@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, grab a coffee, and check emails. Skim through industry news and updates on financial regulations. Maybe browse Reddit for a quick laugh."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start researching SEC regulations for funds targeting UHNWIs. Focus on areas like reporting frequency, required disclosures, and specific compliance mandates. Download relevant documents and create a basic outline for key requirements."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Contact @legal-1 (Legal Counsel) via email. Subject: SEC Fund Regulations - Clarification Needed. Ask for clarification on the most pertinent regulations for our specific fund structure (market-neutral statistical arbitrage). Request any relevant precedents or internal guidelines."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Continue researching SEC regulations. Dive deeper into specific forms and schedules required for reporting. Start compiling a list of essential data points we'll need to track."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Head out with colleagues for some food at a nearby restaurant."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Resume researching SEC regulations. Focus on potential pitfalls and areas of ambiguity. Look for examples of enforcement actions related to similar funds."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Begin drafting a preliminary framework for tracking fund performance. Outline key metrics like Net Asset Value (NAV), returns (gross and net of fees), and Sharpe ratio. Consider how we'll source the data needed for these calculations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the preliminary performance tracking framework. Identify potential gaps and areas for improvement. Brainstorm ways to automate data collection and reporting."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up for the day. Respond to any outstanding emails. Plan for tomorrow's tasks."
+    }
+]

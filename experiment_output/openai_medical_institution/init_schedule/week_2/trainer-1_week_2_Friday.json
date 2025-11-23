@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and analyze feedback received from training sessions."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Consolidate all feedback and identify key areas for improvement in training sessions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare a final report summarizing the onboarding sessions and support provided during data collection."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Send final report to @clinlead-1, @pchmp-1, and @itpm-1 for their review."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Log out of OA system for the week."
+    }
+]

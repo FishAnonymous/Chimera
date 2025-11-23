@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the system, check emails and calendar."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Review emails and address any queries or concerns raised by hospital staff regarding the kick-off announcement."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Contact @mrs-1 and @mrs-2 to understand if they need special considerations"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin developing a presentation slide deck for department meetings. Cover the same key information as the overview document and FAQs."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Coordinate with @trainer-1 to schedule training sessions for different departments based on their roles and responsibilities in the EHR project."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue working on the presentation slide deck, adding visuals and making it engaging for the audience."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send out calendar invites for the training sessions scheduled with various departments."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Check on the status of EHR development process with @ehrdev-1 and @ehrdev-2"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review project plan and confirm all tasks for Thursday."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Respond to emails and prepare for tomorrow's tasks."
+    }
+]

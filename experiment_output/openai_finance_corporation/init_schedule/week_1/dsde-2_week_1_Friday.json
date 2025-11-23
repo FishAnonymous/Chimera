@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system and check for feedback from @ir-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback from @ir-1 and finalize the presentation for the team meeting."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare additional data and support materials for the team presentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Present findings to the entire team and gather insights/observations."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Discuss next steps and assign follow-up tasks to relevant team members."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Close the week by reviewing all project tasks and documenting any outstanding issues."
+    }
+]

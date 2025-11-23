@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and browse through Unity asset store. Look for some useful assets that could be quickly implemented to improve the art pipeline."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @uiux-1 Mei, @cdev-2 Aisha, @cdev-3 Javier and @cdev-1 David to discuss the UI elements. Understand the functionality of the UI elements and how they interact with the game world.  @uiux-1 @cdev-2 @cdev-3 @cdev-1 [Subject: UI Element Collaboration]"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Collaborate with the UI/UX team to ensure that the UI elements are visually appealing and functional. Provide technical guidance on implementing the UI elements in the game engine."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Maybe grab some fastfood."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Create example materials based on the developed shader. Showcase how different textures and parameters can affect the final look of the assets."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the created materials in the game engine with various lighting conditions and environments. Identify any potential issues or areas for improvement."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Update the technical art requirements document with any new findings or adjustments based on the material testing."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Plan for tomorrow's activities. Clear inbox."
+    }
+]

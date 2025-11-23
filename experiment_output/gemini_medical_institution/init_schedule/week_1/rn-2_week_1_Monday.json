@@ -1,0 +1,46 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Start the day! Grab a coffee and chat with @rn-1 and @rn-3 about weekend plans to get some positive energy going before diving into work."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Log into the EHR system and quickly browse the latest hospital updates and patient statistics. Check for any urgent messages or notifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review the standardized protocols and tools for assessing influenza symptoms within the EHR. Make sure I'm super clear on the latest updates and changes. Send an email to @clinlead-1 to confirm if there are any updates to the protocol. @PEOPLE = @clinlead-1 Topic: Protocol Updates"
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Begin patient assessments for influenza symptoms. Focus on accurately documenting observations using the EHR's standardized tools. Make it a point to connect with each patient, smile, and make them feel comfortable."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch time! Head to the cafeteria with @rn-1 and @rn-3 and catch up on the latest hospital gossip and plan for happy hour."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue patient assessments and EHR data entry. Pay extra attention to detail when inputting demographic information, medical history, and vaccination status. Double-check all entries for accuracy."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Having some challenges with a specific EHR data entry field. Send an email to @helpdesk-1 and @ehrdev-2 to ask about the specific data entry field. @PEOPLE = @helpdesk-1, @ehrdev-2 Topic: EHR Data Entry Challenges"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Follow up on patient assessments. Discuss findings with colleagues and physicians to determine next steps. Communicate important findings and make sure patients are well-informed."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare for shift handover, clearly communicating patient status to the oncoming nurses. Documented important information and observations in the EHR."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review and summarize my tasks for the day. Submit my shift report."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head home, excited for a relaxing evening."
+    }
+]

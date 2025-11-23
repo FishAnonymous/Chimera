@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check for feedback on dialogue scripts from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Incorporate feedback and finalize the dialogue scripts for pivotal interactions."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin developing scene breakdowns, listing key narrative moments for the first act."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Detail player choices and emotional beats in the scene breakdowns."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Collaborate with @Lead Game Designer to ensure that the narrative moments align with gameplay mechanics."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Wrap up the day by documenting any further notes from the collaboration session."
+    }
+]

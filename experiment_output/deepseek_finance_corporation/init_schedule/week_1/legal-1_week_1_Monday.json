@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review compliance documentation for fund registration, focusing on SEC requirements and previous fund registrations for reference."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @comp-1 to discuss the scope of compliance documentation needed for fund registration, including any specific SEC regulations that apply to market-neutral statistical arbitrage funds."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Outline required documentation, starting with Form N-1A and Form ADV. Identify sections that need detailed input from other teams (e.g., CIO for investment strategy)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Draft initial sections of Form N-1A, focusing on the fund's investment objectives and strategies. Cross-reference with @cio-1 for accuracy."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue drafting Form N-1A, focusing on risk factors and fee structures. Collaborate with @facc-1 and @facc-2 to ensure all financial disclosures are accurate."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Set up a compliance timeline for document preparation, including internal review deadlines and SEC submission targets. Share with @pm-1 for project tracking."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review initial drafts with @legal-1 to ensure all legal requirements are met. Discuss any potential regulatory hurdles."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the day by updating the compliance documentation tracker and sending a summary email to @comp-1, @pm-1, and @cio-1 with progress and next steps."
+    }
+]

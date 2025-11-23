@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:30",
+        "Activity": "Arrive at the office, grab a coffee. Check emails and catch up on overnight market movements. Talk about last night's game with @SDEV-1 and @QRES-2"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Start designing the stress test scenarios for the fund's portfolio. Consider a variety of scenarios, including market crashes, interest rate shocks, and geopolitical events."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Consult with @CIO and @QRES-1 to refine the stress test scenarios. Ensure that the scenarios are realistic and relevant to the fund's investment strategy (Topic: Stress Test Scenario Design)."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement the stress test scenarios using historical data and simulations. Work with @SDEV-1 to access the necessary data and run the simulations efficiently."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break. Check out some research on tail risk hedging strategies. Maybe explore some options strategies for portfolio protection."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the results of the stress tests. Identify the vulnerabilities in the fund's portfolio. Determine the potential losses under each stress test scenario."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Present the stress test results to @CIO and @PM-1. Discuss potential mitigation strategies to reduce the fund's exposure to the identified risks (Topic: Stress Test Results and Mitigation Strategies)."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Begin documenting the stress test methodology and results. Prepare a report that can be shared with investors and regulators."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Refine the real-time risk monitoring tool based on the insights gained from the stress tests. Adjust alert thresholds and add new risk metrics as needed. Prepare for refining tools for risk management tomorrow."
+    }
+]

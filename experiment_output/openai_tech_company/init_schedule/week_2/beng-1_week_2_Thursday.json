@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check the CI documentation for completeness."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Send out the initial draft of the CI process documentation to @lpro-1 and @prod-1 for feedback."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Schedule a team meeting to discuss the CI process and documentation."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare for the upcoming team meeting by gathering insights and questions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Conduct the team meeting to discuss CI processes and gather input for final documentation."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Follow up on the outcomes of the meeting and make necessary documentation adjustments."
+    }
+]

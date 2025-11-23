@@ -1,0 +1,26 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check in with @QA Tester and @Producer for updates on any narrative-related testing feedback."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct a brainstorming session with @Lead Game Designer and @Systems Designers to integrate narrative seamlessly into gameplay."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Update the narrative document based on input from the brainstorming session."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Send out invites for narrative playtest sessions to team members and focus groups."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Plan the structure of the narrative playtest sessions, detailing aspects to focus on for player engagement."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Wrap up by reviewing progress on the narrative document and preparing materials for playtest sessions."
+    }
+]

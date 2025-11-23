@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Review feedback from @qatest-1 and @qatest-2 on the audit report."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Address any remaining issues in the dataset based on QA feedback. Finalize the dataset for analysis."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Take a short break. Verify that all corrections have been accurately applied."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin documenting the complete abstraction process, including steps taken and tools used."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue documentation, detailing any challenges faced and solutions implemented."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email @clinlead-1 and @pchmp-1 to review the documentation for clinical accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Organize all documentation into a comprehensive report. Save in the shared drive."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review the final dataset and documentation for any last-minute adjustments."
+    }
+]

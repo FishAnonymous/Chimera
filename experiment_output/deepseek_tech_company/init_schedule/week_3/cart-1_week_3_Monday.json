@@ -1,0 +1,22 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review feedback from the Lead Game Designer (@ldes-1) on environmental asset concepts."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Sketch initial drafts for environmental assets based on feedback. Focus on key areas like terrain, buildings, and foliage."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Refine sketches and prepare them for review. Send drafts to @3dmod-1 and @3dmod-2 for preliminary feedback."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Begin creating detailed textures for the environmental assets. Use references from real-world locations for authenticity."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review progress with @tart-1 to ensure textures align with technical constraints."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the physics engine integration and AI implementation from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Implement a basic chasing AI behavior. Ensure the enemy can detect the player and chase them within a certain range."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Integrate the chasing AI behavior with the combat system. Ensure the enemy can attack the player when they are within attacking range."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the chasing and attacking AI behaviors. Debug any issues related to player detection, chasing range, attacking frequency, or combat effectiveness."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all documentation for the week's tasks: core game mechanics, system design, movement system, combat system, physics engine integration, and AI implementation. Ensure completeness, clarity, and accuracy."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Send an email to @cdev-1, @cdev-2, @cdev-3 to share the documentation and code implemented this week. @PEOPLE Request a code review and any feedback on the design and implementation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Address any feedback received from the code review. Make necessary changes to the code or documentation."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare a summary of the week's accomplishments and challenges. Prepare to discuss at the weekly meeting."
+    }
+]

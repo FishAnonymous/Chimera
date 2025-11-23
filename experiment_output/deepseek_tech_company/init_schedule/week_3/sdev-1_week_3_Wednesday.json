@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Prepare server environment for stress-testing."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @qtest-1 and @beng-1 via email to set up stress-testing scenarios."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Run initial stress tests and monitor server performance metrics."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Analyze stress-test results and identify bottlenecks."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Address identified bottlenecks by adjusting server configurations."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Re-run stress tests to verify improvements."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document all findings and adjustments made during stress-testing."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review overall server performance and security status."
+    }
+]

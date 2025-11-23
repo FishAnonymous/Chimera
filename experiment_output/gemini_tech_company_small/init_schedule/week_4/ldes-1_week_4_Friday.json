@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, and check the email"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Compile the marketing materials. Work with the team on the launch plan. Topic: Visual asset finalisation."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Final bug fixing and refinement of character models and animations. Make sure no visual bugs are present in the game. "
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Final bug fixing and visual polish of the game world. Ensure that the game world is appealing to the gamers."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Time"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Final review of the assets. Ensure that all assets are according to the standards."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Prepare documentation on all the final assets. Topic: Documentation on Visual Assets"
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Meeting with @PEOPLE to present and discuss the documentation. Topic: Document Discussion"
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Write a summary to the tasks in week 4. Topic: Week 4 Visual Task Summary"
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of the work. Go home."
+    }
+]

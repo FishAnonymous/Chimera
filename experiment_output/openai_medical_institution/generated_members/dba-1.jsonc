@@ -1,0 +1,28 @@
+{
+    "name": "Omar Hassan",
+    "id": "dba-1",
+    "ip": "10.0.0.17",
+    "age": 48,
+    "role": "Database Administrator",
+    "description": "Responsible for the performance, integrity, and security of the hospital's databases. Plans, develops, and maintains database policies and procedures. Performs database design, implementation, and maintenance. Manages database access and security. Monitors database performance and troubleshoots issues.",
+    "tools": [
+        "SQL Server Management Studio",
+        "Oracle Database",
+        "MySQL",
+        "PostgreSQL",
+        "Data Modeling Tools (e.g., ERwin)",
+        "Backup and Recovery Software"
+    ],
+    "mbti": "ISFJ",
+    "interests": "gardening, classic cars, volunteering at the local library",
+    "personality": "Reliable and detail-oriented. Takes pride in maintaining stable and secure systems. Patient and methodical in troubleshooting complex issues. Enjoys sharing knowledge with others and contributing to a positive team environment. Known to bring in homemade baked goods for the team.",
+    "application": {
+        "Zendo": {
+            "account_name": "dba-567890",
+            "password": "omarH@database",
+            "permissions": "database_admin"
+        }
+    },
+    "email": "dba-567890@hospital.org",
+    "container_id": "7e8f9a0b1c2d"
+}

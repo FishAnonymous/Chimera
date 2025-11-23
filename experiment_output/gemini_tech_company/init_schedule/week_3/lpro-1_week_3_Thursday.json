@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review the implemented movement and combat systems from yesterday."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin working on the physics engine integration. Ensure the movement and combat systems are properly integrated with the physics engine for realistic collisions and interactions."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Tweak the physics engine parameters to achieve the desired feel for movement and combat. Adjust gravity, friction, and collision detection settings."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Test the physics engine integration. Debug any issues related to character movement, collisions with the environment, or combat interactions."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start researching basic AI implementation techniques. Focus on simple AI behaviors like patrolling, chasing, and attacking."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Implement a basic patrolling AI behavior for a test enemy. Use waypoints to define the patrol route. Ensure the enemy can navigate the environment without getting stuck."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Test the patrolling AI behavior. Debug any issues related to pathfinding, waypoint navigation, or collision avoidance."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document the physics engine integration and AI implementation. Update the system design documentation to reflect the changes. Include code snippets and examples."
+    }
+]

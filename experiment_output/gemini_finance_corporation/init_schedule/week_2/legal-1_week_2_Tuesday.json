@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive, coffee, check emails. Scan the Wall Street Journal. Wonder what ridiculous thing Elon Musk did now."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Draft the 'Fund Overview' section of the PPM. Keep it concise and engaging, while adhering to regulatory requirements for disclosure. Focus on clarity and avoiding overly technical jargon."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Meet with @COMP-1 and @CIO-1 to discuss preliminary compliance findings and risk assessment related to the statistical arbitrage strategy (Topic: Preliminary Compliance & Risk Assessment Discussion). Ask Compliance about their accredited investor verification process. Gauge CIO's comfort level with potential regulatory scrutiny."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch. Grab a sandwich and read articles about generative AI."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Draft the 'Investment Strategy' section of the PPM. Describe the statistical arbitrage strategy in plain English, highlighting the key elements and potential risks. Be mindful of SEC guidance on performance disclosures."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review and revise the 'Risk Factors' section based on the morning meeting with Compliance and CIO. Add specific disclosures related to model risk, market volatility, and potential regulatory changes."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final review of the day's draft sections. Prepare a list of outstanding questions for the quantitative research team (@QRES-1, @QRES-2, @QRES-3) regarding specific aspects of the statistical arbitrage strategy."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Head out. Maybe catch a movie tonight."
+    }
+]

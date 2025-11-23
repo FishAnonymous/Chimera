@@ -1,0 +1,42 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Wake up, grab a quick coffee, and check personal emails and social media to catch up on the latest news and trends. Need to be awake!"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Arrive at the office, fire up the computer, and check company emails. Since there's nothing from the meeting minutes, I'll email @PROD-1, @LDES-1 and @LPRO-1 to inquire about the week's goals and priorities. Topic: Week 4 Goals Clarification"
+    },
+    {
+        "Time": "09:30",
+        "Activity": "While waiting for a response, browse ArtStation and other 3D modeling/animation websites for inspiration and new techniques. Got to keep the creative juices flowing!"
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Response received! Still no clear goals for Week 4. Schedule a quick meeting with @LDES-1 and @PROD-1 to discuss the immediate priorities for 3D modeling and animation. Topic: Urgent - Week 4 3D Modeling/Animation Priorities"
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meeting with @LDES-1 and @PROD-1. Based on the discussion, the immediate need is to focus on refining the player character model and creating basic animations (idle, walk, run) for prototyping. They also mentioned needing environment assets soon, so I'll mentally prep for that."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Grab a quick bite with @3DMOD-1 and discuss the character model refinement tasks. Brainstorm ideas and potential roadblocks."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Start refining the player character model based on the feedback from @LDES-1. Focus on improving the topology and silhouette. Set a personal goal to complete the head and torso refinements today."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Take a short break to stretch and grab another coffee. Browse YouTube for tutorials on character modeling techniques in Blender/Maya."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Continue refining the player character model. Work on the legs and arms, paying attention to anatomical accuracy and movement limitations."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up the day. Save the current progress and create a backup. Prepare a short summary of the day's accomplishments for tomorrow's stand-up meeting."
+    }
+]

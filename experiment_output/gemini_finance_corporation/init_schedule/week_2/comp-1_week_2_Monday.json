@@ -1,0 +1,50 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Arrive at the office, settle in, and review my schedule for the week. As an ISFJ, I like to start the week with a clear plan. Grab a cup of tea \u2013 Earl Grey with a splash of milk, my usual."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Check emails and prioritize urgent requests or updates. Respond to any outstanding inquiries from last week.  Make sure to meticulously archive all email communications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Begin researching SEC regulations related to fund formation, focusing on aspects relevant to our market-neutral statistical arbitrage fund. Specifically looking at the Investment Company Act of 1940 and the Investment Advisers Act of 1940. Start with the basics and branch out to more complex interpretations."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Deep dive into SEC Rule 206(4)-1 (Advertising Rule) and related guidance. Focus on implications for marketing materials targeting UHNWIs. I need to understand what's permissible and what isn't. I'll probably print out some key sections for easier reference."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Review recent SEC enforcement actions related to advertising and marketing practices by investment advisers. Pay close attention to cases involving UHNWI targets. I want to see what mistakes others have made so we can avoid them."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. I will go to the cafe to enjoy the meal."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Summarize findings from the morning's research into a detailed memo. Highlight key takeaways and potential compliance risks related to fund formation and marketing. Keep the tone professional and neutral \u2013 just the facts."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Schedule a brief meeting with @LEGAL-1, the legal counsel, to discuss my initial findings and get their perspective on the implications of these regulations. Prepare a detailed agenda beforehand."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare the material and have the meeting with @LEGAL-1. Take detailed notes during the meeting and clarify any ambiguous points. I will send a follow-up email summarizing the key discussion points after the meeting."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Continue working on identifying specific compliance requirements for marketing materials targeting UHNWIs. Create a checklist of items that must be included or avoided in our marketing documents."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review my tasks for tomorrow and prepare anything I need for the upcoming day."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "End of day.  Organize my desk before leaving \u2013 a tidy workspace helps me think clearly."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and review any pending communications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Initiate data gathering on competitors in the market-neutral fund space targeting UHNWIs."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Compile and organize the gathered data into a spreadsheet for easier analysis."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Analyze the strategies of top competitors, focusing on their investment approaches and risk management."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Contact @qres-1 and @qres-2 to discuss the key performance metrics relevant to market-neutral funds."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Summarize findings from the day's analysis and prepare questions for further clarification in the next days."
+    }
+]

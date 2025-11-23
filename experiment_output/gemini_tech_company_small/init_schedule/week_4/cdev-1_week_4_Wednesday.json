@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Respond to any questions or requests related to the weapon system documentation."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Implement the health regeneration delay. Test the feel of it with the player controller."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Gather feedback on the health regeneration implementation. Solicit feedback from @lpro-1."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Read articles about game design principles, specifically related to player feedback and balancing difficulty. Maybe check reddit."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Loaf around, browsing interesting websites."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the documentation for the health regeneration system."
+    }
+]

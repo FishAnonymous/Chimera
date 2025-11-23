@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and respond to any urgent requests related to data quality issues. Review new entries in the tracking system."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue gathering information for root cause analysis of the prioritized data quality issues. Focus on identifying the underlying causes and contributing factors."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Email @mrs-1, @mrs-2 to schedule a meeting to discuss and review the data quality issue reports and the affect data entry process. Topic: Review and improve data entry process"
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue the root cause analysis for the identified issues. Discuss the potential root causes with the Medical Record Specialists and see whether can improve data entry."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Document the root cause analysis findings in the centralized tracking system. Include specific details about the identified causes and any recommendations for corrective actions."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Identify the top three most frequent and critical data quality issues that is in the record. Prepare the report for the meeting next day."
+    }
+]

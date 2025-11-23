@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails. Review any last-minute feedback on the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Present the risk assessment and internal control framework to the leadership team (@cio-1, @coo-1, @pm-1)."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Address any questions or concerns from the leadership team. Take notes on required adjustments."
+    },
+    {
+        "Time": "11:30",
+        "Activity": "Update the risk assessment and internal control framework based on leadership feedback."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Finalize all documents and submit them to @pm-1 for official filing. Ensure all versions are properly archived."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Email the team (@comp-1, @legal-1, @qres-1, @qres-2, @larch-1) to thank them for their collaboration and input."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Review the week's accomplishments and prepare a summary report for personal records."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Organize the workspace and plan for next week's tasks. Log out of the OA system."
+    }
+]

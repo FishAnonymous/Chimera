@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and ensure everything is ready for the presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Set up the audio equipment and check sound levels in the presentation room."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Present the audio experience to stakeholders, showcasing the refined effects and music."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Gather feedback from stakeholders about the presentation."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Reflect on the feedback and discuss next steps with @ldes-1 and @sdes-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Wrap up the week by organizing files and preparing for the next week's tasks."
+    }
+]

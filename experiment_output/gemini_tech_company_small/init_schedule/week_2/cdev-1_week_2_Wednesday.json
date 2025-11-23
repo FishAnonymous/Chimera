@@ -1,0 +1,34 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Carefully review the feedback from @lpro-1 regarding the AI implementation. Analyze suggestions for optimization and code clarity."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Refactor the AI code based on the feedback received. Improve the code structure and add comments for better understanding."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Implement the 'Attack' state for the AI. When the enemy is within a certain range of the player, trigger a melee attack animation."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Implement a cooldown mechanism for the enemy's attack to prevent them from attacking continuously. Configure attack range for the AI."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Test the 'chase and attack' AI thoroughly. Observe its behavior in different scenarios and identify any issues or edge cases. Add more enemies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Implement the death of the Player when its health drops to zero."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Document progress and commit code. Write some documents on the edge cases encountered. "
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Review feedback from @cio-1 and incorporate necessary changes into the model."
+    },
+    {
+        "Time": "09:30",
+        "Activity": "Finalize the statistical model, ensuring all risk-return metrics are accurately represented."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Prepare a draft report summarizing the model's findings and backtest results."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the draft report with @pm-1 for alignment on presentation and content."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Revise the report based on feedback from @pm-1."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize the report and prepare for presentation to the investment team."
+    }
+]

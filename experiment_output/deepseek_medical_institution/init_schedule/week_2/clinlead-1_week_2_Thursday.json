@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the EHR system, check emails. Follow up with @ehrdev-1, @ehrdev-2 on the status of nursing assessment workflow modifications."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Coordinate with @trainer-1 to schedule training sessions for nursing staff on the updated workflow."
+    },
+    {
+        "Time": "10:30",
+        "Activity": "Follow up with @ehrdev-1, @ehrdev-2 on the status of physician examination workflow updates."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Coordinate with @trainer-1 to schedule training sessions for physicians on the updated workflow."
+    },
+    {
+        "Time": "15:30",
+        "Activity": "Follow up with @ehrdev-1, @ehrdev-2 on the status of EHR and laboratory information system integration."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Check in with @itpm-1 to provide an update on progress and discuss any blockers."
+    }
+]

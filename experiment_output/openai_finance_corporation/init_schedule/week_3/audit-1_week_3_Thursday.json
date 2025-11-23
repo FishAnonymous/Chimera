@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in to the OA system, check emails, and finalize details for the team meeting scheduled regarding risk and audit presentation."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Conduct the presentation meeting with all team members, outlining risk assessments and audit procedures."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather immediate feedback from team members during the presentation for next steps."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all feedback received from the presentation and outline a plan for revisions."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Draft follow-up emails to @Legal Counsel and @Compliance Officer to request additional input based on team feedback."
+    },
+    {
+        "Time": "18:00",
+        "Activity": "Wrap up for the day."
+    }
+]

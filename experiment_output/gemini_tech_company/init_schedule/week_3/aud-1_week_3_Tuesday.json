@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in, check emails. Scan for responses from @LDES-1 and @SDES-1. Enjoy a cup of coffee."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Continue sourcing sound assets based on the existing list. Focus on environmental sounds \u2013 wind, rain, distant ambience \u2013 for the first level being developed. Document each sounds' source and license for later reference."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Download trial versions of more advanced audio editing software like Reaper or Pro Tools to evaluate their suitability for creating unique sound effects."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Begin sketching out soundscapes for the initial level, considering the visual design and intended mood. Note down the layering of different environmental sounds and their relative volumes."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break"
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Meet with @LVDN-1 (Level Designer) and @3DMOD-1 (3D Modeler/Animator) @PEOPLE to discuss the environmental details of the first level and gather further insights into audio needs. Ask about any specific points where audio can enhance the player experience."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Based on the meeting, refine the soundscape sketches and begin assembling a basic environmental audio loop using the sourced assets. Prioritize sounds that will play constantly in the background."
+    },
+    {
+        "Time": "16:30",
+        "Activity": "Import the basic environmental audio loop into the game engine (likely Unity or Unreal). Begin experimenting with basic audio placement within the level. Identify any sounds that do not fit with the scene."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Review tasks for today and prepare for the departure."
+    }
+]

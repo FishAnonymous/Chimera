@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and prioritize tasks for the day. Finalize review of project goals and objectives."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Meet with @clinlead-1 and @rn-3 to discuss any remaining clinical insights."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Attend project meeting with @itpm-1, @ehrdev-1, and @ehrdev-2 to finalize clinical input."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Gather final feedback from @helpdesk-1 on EHR system issues reported by staff."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Document all feedback and ensure it is shared with relevant teams for action."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Review influenza trend analysis progress with @da-1 and @da-2."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Coordinate with @ehrv-1 on any vendor-specific updates or requirements."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Prepare summary report for the day and plan for tomorrow."
+    }
+]

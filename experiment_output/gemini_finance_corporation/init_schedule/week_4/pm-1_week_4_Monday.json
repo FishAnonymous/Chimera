@@ -1,0 +1,54 @@
+[
+    {
+        "Time": "07:30",
+        "Activity": "Arrive at the office, grab a coffee, and review my to-do list for the week. Quickly browse headlines on Bloomberg and the Financial Times to stay updated on market news."
+    },
+    {
+        "Time": "08:00",
+        "Activity": "Log in to project management software (e.g., Asana/Jira) and review project progress. Check for any urgent notifications or tasks requiring immediate attention."
+    },
+    {
+        "Time": "08:30",
+        "Activity": "Send an email to @larch-1, @dsde-1, @qres-1, @sdev-1, @comp-1 to request updated progress reports from each team. Subject: Weekly Project Update Request"
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Review incoming progress reports and identify potential roadblocks or delays. Start drafting a preliminary progress report for internal stakeholders."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Hold a brief stand-up meeting with the development team (@larch-1, @sdev-1, @sdev-2, @devops-1) to discuss progress on the trading platform and address any technical challenges. Prioritize critical tasks."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @comp-1 to discuss any compliance-related issues that may be impacting project timelines or require immediate action. Confirm next steps for regulatory approval."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch Break. Step out for a quick lunch at a nearby cafe to clear my head."
+    },
+    {
+        "Time": "13:00",
+        "Activity": "Meet with @qres-1, @qres-2, @qres-3, @dsde-1, @dsde-2 to discuss model performance and backtesting results. Identify areas for improvement and allocate resources accordingly. Ask them to provide the detailed model performance and backtesting results."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Review the fund's legal structure with @legal-1 and finalize the legal documents for SEC registration. Clarify any ambiguities and ensure compliance with regulatory requirements."
+    },
+    {
+        "Time": "15:00",
+        "Activity": "Update project timelines and resource allocation based on the morning's meetings and progress reports. Identify any potential risks and develop mitigation strategies."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Prepare a draft project report summarizing accomplishments, challenges, and next steps for senior management (@cio-1, @coo-1). Include key metrics and highlight areas where the project is exceeding expectations."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Respond to emails, address outstanding tasks, and prepare for tomorrow's meetings. Review the overall project plan and make adjustments as needed."
+    },
+    {
+        "Time": "17:30",
+        "Activity": "Final check of emails and task list before leaving for the day. Briefly review the plan for tomorrow."
+    }
+]

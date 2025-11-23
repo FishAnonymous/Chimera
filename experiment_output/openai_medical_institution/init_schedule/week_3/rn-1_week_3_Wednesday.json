@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Log in and check emails."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Participate in team meeting to discuss progress on data collection with @Data Analyst and @EHR Vendor Liaison."
+    },
+    {
+        "Time": "10:00",
+        "Activity": "Engage in data entry for seasonal influenza cases in the EHR."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Continue reviewing and entering data, ensuring accuracy."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @Clinlead-1 about data entry progress and any issues encountered."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Finalize end-of-day documentation and review tasks for Thursday."
+    }
+]

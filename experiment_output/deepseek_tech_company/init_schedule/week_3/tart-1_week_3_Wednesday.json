@@ -1,0 +1,30 @@
+[
+    {
+        "Time": "08:00",
+        "Activity": "Check emails and review any new feedback from @lpro-1 or @sdes-1."
+    },
+    {
+        "Time": "09:00",
+        "Activity": "Finalize shader optimizations based on the latest feedback and test results."
+    },
+    {
+        "Time": "11:00",
+        "Activity": "Meet with @uiux-1 to ensure visual effects align with the overall UI/UX design."
+    },
+    {
+        "Time": "12:00",
+        "Activity": "Lunch break."
+    },
+    {
+        "Time": "14:00",
+        "Activity": "Prepare presentation materials for the final review with the art and development teams."
+    },
+    {
+        "Time": "16:00",
+        "Activity": "Email @prod-1 to schedule the final review meeting for Friday."
+    },
+    {
+        "Time": "17:00",
+        "Activity": "Review and organize all documentation for the final review."
+    }
+]
